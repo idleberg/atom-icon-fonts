@@ -1,7 +1,7 @@
 # Icon Fonts for Atom
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
-[![GitHub release](https://img.shields.io/github/release/idleberg/atom-icon-fonts.svg?style=flat-square)](https://github.com/idleberg/atom-icon-fonts/releases)
+[![apm](https://img.shields.io/apm/v/atom-icon-fonts.svg?style=flat-square)](https://atom.io/package/atom-icon-fonts)
 [![Travis](https://img.shields.io/travis/idleberg/atom-icon-fonts.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-icon-fonts)
 [![David](https://img.shields.io/david/dev/idleberg/atom-icon-fonts.svg?style=flat-square)](https://david-dm.org/idleberg/atom-icon-fonts#info=devDependencies)
 
