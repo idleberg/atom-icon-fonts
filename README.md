@@ -55,7 +55,7 @@ Examples:
 
 ## License
 
-The MIT License ([see details](LICENSE.md))
+This work is licensed under the [The MIT License](LICENSE.md).
 
 ## Donate
 
