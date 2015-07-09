@@ -1,0 +1,31 @@
+{
+  "name": "icon-fonts",
+  "version": "0.0.0",
+  "description": "Atom snippets for a variety of icon fonts",
+  "author": {
+    "name": "Jan T. Sott",
+    "url": "http://github.com/idleberg"
+  },
+  "keywords": [
+    "nsis",
+    "nullsoft",
+    "installer",
+    "setup"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idleberg/atom-icon-fonts"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-coffeelint": "^0.5.0",
+    "gulp-json-lint": "^0.1.0"
+  },
+  "scripts": {
+    "test": "gulp lint"
+  }
+  

@@ -1,0 +1,1282 @@
+'.text.html':
+  'ui-icon-add-circle':
+    'prefix': 'ui-icon-add-circle'
+    'body': '<${1:i} class="add circle icon$2">$3</${1:i}>'
+  'ui-icon-add-square':
+    'prefix': 'ui-icon-add-square'
+    'body': '<${1:i} class="add square icon$2">$3</${1:i}>'
+  'ui-icon-adjust':
+    'prefix': 'ui-icon-adjust'
+    'body': '<${1:i} class="adjust icon$2">$3</${1:i}>'
+  'ui-icon-adn':
+    'prefix': 'ui-icon-adn'
+    'body': '<${1:i} class="adn icon$2">$3</${1:i}>'
+  'ui-icon-align-center':
+    'prefix': 'ui-icon-align-center'
+    'body': '<${1:i} class="align center icon$2">$3</${1:i}>'
+  'ui-icon-align-justify':
+    'prefix': 'ui-icon-align-justify'
+    'body': '<${1:i} class="align justify icon$2">$3</${1:i}>'
+  'ui-icon-align-left':
+    'prefix': 'ui-icon-align-left'
+    'body': '<${1:i} class="align left icon$2">$3</${1:i}>'
+  'ui-icon-align-right':
+    'prefix': 'ui-icon-align-right'
+    'body': '<${1:i} class="align right icon$2">$3</${1:i}>'
+  'ui-icon-anchor':
+    'prefix': 'ui-icon-anchor'
+    'body': '<${1:i} class="anchor icon$2">$3</${1:i}>'
+  'ui-icon-android':
+    'prefix': 'ui-icon-android'
+    'body': '<${1:i} class="android icon$2">$3</${1:i}>'
+  'ui-icon-angle-double-down':
+    'prefix': 'ui-icon-angle-double-down'
+    'body': '<${1:i} class="angle double down icon$2">$3</${1:i}>'
+  'ui-icon-angle-double-left':
+    'prefix': 'ui-icon-angle-double-left'
+    'body': '<${1:i} class="angle double left icon$2">$3</${1:i}>'
+  'ui-icon-angle-double-right':
+    'prefix': 'ui-icon-angle-double-right'
+    'body': '<${1:i} class="angle double right icon$2">$3</${1:i}>'
+  'ui-icon-angle-double-up':
+    'prefix': 'ui-icon-angle-double-up'
+    'body': '<${1:i} class="angle double up icon$2">$3</${1:i}>'
+  'ui-icon-angle-down':
+    'prefix': 'ui-icon-angle-down'
+    'body': '<${1:i} class="angle down icon$2">$3</${1:i}>'
+  'ui-icon-angle-left':
+    'prefix': 'ui-icon-angle-left'
+    'body': '<${1:i} class="angle left icon$2">$3</${1:i}>'
+  'ui-icon-angle-right':
+    'prefix': 'ui-icon-angle-right'
+    'body': '<${1:i} class="angle right icon$2">$3</${1:i}>'
+  'ui-icon-angle-up':
+    'prefix': 'ui-icon-angle-up'
+    'body': '<${1:i} class="angle up icon$2">$3</${1:i}>'
+  'ui-icon-announcement':
+    'prefix': 'ui-icon-announcement'
+    'body': '<${1:i} class="announcement icon$2">$3</${1:i}>'
+  'ui-icon-apple':
+    'prefix': 'ui-icon-apple'
+    'body': '<${1:i} class="apple icon$2">$3</${1:i}>'
+  'ui-icon-archive':
+    'prefix': 'ui-icon-archive'
+    'body': '<${1:i} class="archive icon$2">$3</${1:i}>'
+  'ui-icon-arrow-circle-down':
+    'prefix': 'ui-icon-arrow-circle-down'
+    'body': '<${1:i} class="arrow circle down icon$2">$3</${1:i}>'
+  'ui-icon-arrow-circle-left':
+    'prefix': 'ui-icon-arrow-circle-left'
+    'body': '<${1:i} class="arrow circle left icon$2">$3</${1:i}>'
+  'ui-icon-arrow-circle-outline-down':
+    'prefix': 'ui-icon-arrow-circle-outline-down'
+    'body': '<${1:i} class="arrow circle outline down icon$2">$3</${1:i}>'
+  'ui-icon-arrow-circle-outline-left':
+    'prefix': 'ui-icon-arrow-circle-outline-left'
+    'body': '<${1:i} class="arrow circle outline left icon$2">$3</${1:i}>'
+  'ui-icon-arrow-circle-outline-right':
+    'prefix': 'ui-icon-arrow-circle-outline-right'
+    'body': '<${1:i} class="arrow circle outline right icon$2">$3</${1:i}>'
+  'ui-icon-arrow-circle-outline-up':
+    'prefix': 'ui-icon-arrow-circle-outline-up'
+    'body': '<${1:i} class="arrow circle outline up icon$2">$3</${1:i}>'
+  'ui-icon-arrow-circle-right':
+    'prefix': 'ui-icon-arrow-circle-right'
+    'body': '<${1:i} class="arrow circle right icon$2">$3</${1:i}>'
+  'ui-icon-arrow-circle-up':
+    'prefix': 'ui-icon-arrow-circle-up'
+    'body': '<${1:i} class="arrow circle up icon$2">$3</${1:i}>'
+  'ui-icon-arrow-down':
+    'prefix': 'ui-icon-arrow-down'
+    'body': '<${1:i} class="arrow down icon$2">$3</${1:i}>'
+  'ui-icon-arrow-left':
+    'prefix': 'ui-icon-arrow-left'
+    'body': '<${1:i} class="arrow left icon$2">$3</${1:i}>'
+  'ui-icon-arrow-right':
+    'prefix': 'ui-icon-arrow-right'
+    'body': '<${1:i} class="arrow right icon$2">$3</${1:i}>'
+  'ui-icon-arrow-up':
+    'prefix': 'ui-icon-arrow-up'
+    'body': '<${1:i} class="arrow up icon$2">$3</${1:i}>'
+  'ui-icon-asterisk':
+    'prefix': 'ui-icon-asterisk'
+    'body': '<${1:i} class="asterisk icon$2">$3</${1:i}>'
+  'ui-icon-attach':
+    'prefix': 'ui-icon-attach'
+    'body': '<${1:i} class="attach icon$2">$3</${1:i}>'
+  'ui-icon-backward':
+    'prefix': 'ui-icon-backward'
+    'body': '<${1:i} class="backward icon$2">$3</${1:i}>'
+  'ui-icon-ban':
+    'prefix': 'ui-icon-ban'
+    'body': '<${1:i} class="ban icon$2">$3</${1:i}>'
+  'ui-icon-bar-chart':
+    'prefix': 'ui-icon-bar-chart'
+    'body': '<${1:i} class="bar chart icon$2">$3</${1:i}>'
+  'ui-icon-bar':
+    'prefix': 'ui-icon-bar'
+    'body': '<${1:i} class="bar icon$2">$3</${1:i}>'
+  'ui-icon-barcode':
+    'prefix': 'ui-icon-barcode'
+    'body': '<${1:i} class="barcode icon$2">$3</${1:i}>'
+  'ui-icon-behance-square':
+    'prefix': 'ui-icon-behance-square'
+    'body': '<${1:i} class="behance square icon$2">$3</${1:i}>'
+  'ui-icon-behance':
+    'prefix': 'ui-icon-behance'
+    'body': '<${1:i} class="behance icon$2">$3</${1:i}>'
+  'ui-icon-bitbucket-square':
+    'prefix': 'ui-icon-bitbucket-square'
+    'body': '<${1:i} class="bitbucket square icon$2">$3</${1:i}>'
+  'ui-icon-bitbucket':
+    'prefix': 'ui-icon-bitbucket'
+    'body': '<${1:i} class="bitbucket icon$2">$3</${1:i}>'
+  'ui-icon-bitcoin':
+    'prefix': 'ui-icon-bitcoin'
+    'body': '<${1:i} class="bitcoin icon$2">$3</${1:i}>'
+  'ui-icon-block-layout':
+    'prefix': 'ui-icon-block-layout'
+    'body': '<${1:i} class="block layout icon$2">$3</${1:i}>'
+  'ui-icon-bold':
+    'prefix': 'ui-icon-bold'
+    'body': '<${1:i} class="bold icon$2">$3</${1:i}>'
+  'ui-icon-bomb':
+    'prefix': 'ui-icon-bomb'
+    'body': 'tr<${1:i} class="bomb icon$2">$3</${1:i}>'
+  'ui-icon-book':
+    'prefix': 'ui-icon-book'
+    'body': '<${1:i} class="book icon$2">$3</${1:i}>'
+  'ui-icon-bookmark':
+    'prefix': 'ui-icon-bookmark'
+    'body': '<${1:i} class="bookmark icon$2">$3</${1:i}>'
+  'ui-icon-building-outline':
+    'prefix': 'ui-icon-building-outline'
+    'body': '<${1:i} class="building outline icon$2">$3</${1:i}>'
+  'ui-icon-building':
+    'prefix': 'ui-icon-building'
+    'body': '<${1:i} class="building icon$2">$3</${1:i}>'
+  'ui-icon-bullseye':
+    'prefix': 'ui-icon-bullseye'
+    'body': '<${1:i} class="bullseye icon$2">$3</${1:i}>'
+  'ui-icon-call-square':
+    'prefix': 'ui-icon-call-square'
+    'body': '<${1:i} class="call square icon$2">$3</${1:i}>'
+  'ui-icon-call':
+    'prefix': 'ui-icon-call'
+    'body': '<${1:i} class="call icon$2">$3</${1:i}>'
+  'ui-icon-camera-retro':
+    'prefix': 'ui-icon-camera-retro'
+    'body': '<${1:i} class="camera retro icon$2">$3</${1:i}>'
+  'ui-icon-car':
+    'prefix': 'ui-icon-car'
+    'body': '<${1:i} class="car icon$2">$3</${1:i}>'
+  'ui-icon-caret-down':
+    'prefix': 'ui-icon-caret-down'
+    'body': '<${1:i} class="caret down icon$2">$3</${1:i}>'
+  'ui-icon-caret-left':
+    'prefix': 'ui-icon-caret-left'
+    'body': '<${1:i} class="caret left icon$2">$3</${1:i}>'
+  'ui-icon-caret-right':
+    'prefix': 'ui-icon-caret-right'
+    'body': '<${1:i} class="caret right icon$2">$3</${1:i}>'
+  'ui-icon-caret-up':
+    'prefix': 'ui-icon-caret-up'
+    'body': '<${1:i} class="caret up icon$2">$3</${1:i}>'
+  'ui-icon-certificate':
+    'prefix': 'ui-icon-certificate'
+    'body': '<${1:i} class="certificate icon$2">$3</${1:i}>'
+  'ui-icon-check-circle-outline':
+    'prefix': 'ui-icon-check-circle-outline'
+    'body': '<${1:i} class="check circle outline icon$2">$3</${1:i}>'
+  'ui-icon-check-circle':
+    'prefix': 'ui-icon-check-circle'
+    'body': '<${1:i} class="check circle icon$2">$3</${1:i}>'
+  'ui-icon-check-square':
+    'prefix': 'ui-icon-check-square'
+    'body': '<${1:i} class="check square icon$2">$3</${1:i}>'
+  'ui-icon-checkered-flag':
+    'prefix': 'ui-icon-checkered-flag'
+    'body': '<${1:i} class="checkered flag icon$2">$3</${1:i}>'
+  'ui-icon-checkmark-box':
+    'prefix': 'ui-icon-checkmark-box'
+    'body': '<${1:i} class="checkmark box icon$2">$3</${1:i}>'
+  'ui-icon-checkmark':
+    'prefix': 'ui-icon-checkmark'
+    'body': '<${1:i} class="checkmark icon$2">$3</${1:i}>'
+  'ui-icon-chevron-circle-down':
+    'prefix': 'ui-icon-chevron-circle-down'
+    'body': '<${1:i} class="chevron circle down icon$2">$3</${1:i}>'
+  'ui-icon-chevron-circle-left':
+    'prefix': 'ui-icon-chevron-circle-left'
+    'body': '<${1:i} class="chevron circle left icon$2">$3</${1:i}>'
+  'ui-icon-chevron-circle-right':
+    'prefix': 'ui-icon-chevron-circle-right'
+    'body': '<${1:i} class="chevron circle right icon$2">$3</${1:i}>'
+  'ui-icon-chevron-circle-up':
+    'prefix': 'ui-icon-chevron-circle-up'
+    'body': '<${1:i} class="chevron circle up icon$2">$3</${1:i}>'
+  'ui-icon-chevron-down':
+    'prefix': 'ui-icon-chevron-down'
+    'body': '<${1:i} class="chevron down icon$2">$3</${1:i}>'
+  'ui-icon-chevron-left':
+    'prefix': 'ui-icon-chevron-left'
+    'body': '<${1:i} class="chevron left icon$2">$3</${1:i}>'
+  'ui-icon-chevron-right':
+    'prefix': 'ui-icon-chevron-right'
+    'body': '<${1:i} class="chevron right icon$2">$3</${1:i}>'
+  'ui-icon-chevron-up':
+    'prefix': 'ui-icon-chevron-up'
+    'body': '<${1:i} class="chevron up icon$2">$3</${1:i}>'
+  'ui-icon-child':
+    'prefix': 'ui-icon-child'
+    'body': '<${1:i} class="child icon$2">$3</${1:i}>'
+  'ui-icon-circle-notched':
+    'prefix': 'ui-icon-circle-notched'
+    'body': '<${1:i} class="circle notched icon$2">$3</${1:i}>'
+  'ui-icon-circle-thin':
+    'prefix': 'ui-icon-circle-thin'
+    'body': '<${1:i} class="circle thin icon$2">$3</${1:i}>'
+  'ui-icon-circle':
+    'prefix': 'ui-icon-circle'
+    'body': '<${1:i} class="circle icon$2">$3</${1:i}>'
+  'ui-icon-cloud-download':
+    'prefix': 'ui-icon-cloud-download'
+    'body': '<${1:i} class="cloud download icon$2">$3</${1:i}>'
+  'ui-icon-cloud-upload':
+    'prefix': 'ui-icon-cloud-upload'
+    'body': '<${1:i} class="cloud upload icon$2">$3</${1:i}>'
+  'ui-icon-cocktail':
+    'prefix': 'ui-icon-cocktail'
+    'body': '<${1:i} class="cocktail icon$2">$3</${1:i}>'
+  'ui-icon-codepen':
+    'prefix': 'ui-icon-codepen'
+    'body': '<${1:i} class="codepen icon$2">$3</${1:i}>'
+  'ui-icon-coffee':
+    'prefix': 'ui-icon-coffee'
+    'body': '<${1:i} class="coffee icon$2">$3</${1:i}>'
+  'ui-icon-columns':
+    'prefix': 'ui-icon-columns'
+    'body': '<${1:i} class="columns icon$2">$3</${1:i}>'
+  'ui-icon-comment-outline':
+    'prefix': 'ui-icon-comment-outline'
+    'body': '<${1:i} class="comment outline icon$2">$3</${1:i}>'
+  'ui-icon-comments-outline':
+    'prefix': 'ui-icon-comments-outline'
+    'body': '<${1:i} class="comments outline icon$2">$3</${1:i}>'
+  'ui-icon-comments':
+    'prefix': 'ui-icon-comments'
+    'body': '<${1:i} class="comments icon$2">$3</${1:i}>'
+  'ui-icon-compress':
+    'prefix': 'ui-icon-compress'
+    'body': '<${1:i} class="compress icon$2">$3</${1:i}>'
+  'ui-icon-configure':
+    'prefix': 'ui-icon-configure'
+    'body': '<${1:i} class="configure icon$2">$3</${1:i}>'
+  'ui-icon-content':
+    'prefix': 'ui-icon-content'
+    'body': '<${1:i} class="content icon$2">$3</${1:i}>'
+  'ui-icon-copy':
+    'prefix': 'ui-icon-copy'
+    'body': '<${1:i} class="copy icon$2">$3</${1:i}>'
+  'ui-icon-crop':
+    'prefix': 'ui-icon-crop'
+    'body': '<${1:i} class="crop icon$2">$3</${1:i}>'
+  'ui-icon-crosshairs':
+    'prefix': 'ui-icon-crosshairs'
+    'body': '<${1:i} class="crosshairs icon$2">$3</${1:i}>'
+  'ui-icon-css3':
+    'prefix': 'ui-icon-css3'
+    'body': '<${1:i} class="css3 icon$2">$3</${1:i}>'
+  'ui-icon-cube':
+    'prefix': 'ui-icon-cube'
+    'body': '<${1:i} class="cube icon$2">$3</${1:i}>'
+  'ui-icon-cubes':
+    'prefix': 'ui-icon-cubes'
+    'body': '<${1:i} class="cubes icon$2">$3</${1:i}>'
+  'ui-icon-cut':
+    'prefix': 'ui-icon-cut'
+    'body': '<${1:i} class="cut icon$2">$3</${1:i}>'
+  'ui-icon-dashboard':
+    'prefix': 'ui-icon-dashboard'
+    'body': '<${1:i} class="dashboard icon$2">$3</${1:i}>'
+  'ui-icon-database':
+    'prefix': 'ui-icon-database'
+    'body': '<${1:i} class="database icon$2">$3</${1:i}>'
+  'ui-icon-delicious':
+    'prefix': 'ui-icon-delicious'
+    'body': '<${1:i} class="delicious icon$2">$3</${1:i}>'
+  'ui-icon-desktop':
+    'prefix': 'ui-icon-desktop'
+    'body': '<${1:i} class="desktop icon$2">$3</${1:i}>'
+  'ui-icon-deviantart':
+    'prefix': 'ui-icon-deviantart'
+    'body': '<${1:i} class="deviantart icon$2">$3</${1:i}>'
+  'ui-icon-digg':
+    'prefix': 'ui-icon-digg'
+    'body': '<${1:i} class="digg icon$2">$3</${1:i}>'
+  'ui-icon-disk-outline':
+    'prefix': 'ui-icon-disk-outline'
+    'body': '<${1:i} class="disk outline icon$2">$3</${1:i}>'
+  'ui-icon-doctor':
+    'prefix': 'ui-icon-doctor'
+    'body': '<${1:i} class="doctor icon$2">$3</${1:i}>'
+  'ui-icon-dollar':
+    'prefix': 'ui-icon-dollar'
+    'body': '<${1:i} class="dollar icon$2">$3</${1:i}>'
+  'ui-icon-download':
+    'prefix': 'ui-icon-download'
+    'body': '<${1:i} class="download icon$2">$3</${1:i}>'
+  'ui-icon-dribbble':
+    'prefix': 'ui-icon-dribbble'
+    'body': '<${1:i} class="dribbble icon$2">$3</${1:i}>'
+  'ui-icon-dropbox':
+    'prefix': 'ui-icon-dropbox'
+    'body': '<${1:i} class="dropbox icon$2">$3</${1:i}>'
+  'ui-icon-drupal':
+    'prefix': 'ui-icon-drupal'
+    'body': '<${1:i} class="drupal icon$2">$3</${1:i}>'
+  'ui-icon-edit':
+    'prefix': 'ui-icon-edit'
+    'body': '<${1:i} class="edit icon$2">$3</${1:i}>'
+  'ui-icon-eject':
+    'prefix': 'ui-icon-eject'
+    'body': '<${1:i} class="eject icon$2">$3</${1:i}>'
+  'ui-icon-ellipsis-horizontal':
+    'prefix': 'ui-icon-ellipsis-horizontal'
+    'body': '<${1:i} class="ellipsis horizontal icon$2">$3</${1:i}>'
+  'ui-icon-ellipsis-vertical':
+    'prefix': 'ui-icon-ellipsis-vertical'
+    'body': '<${1:i} class="ellipsis vertical icon$2">$3</${1:i}>'
+  'ui-icon-emergency':
+    'prefix': 'ui-icon-emergency'
+    'body': '<${1:i} class="emergency icon$2">$3</${1:i}>'
+  'ui-icon-empire':
+    'prefix': 'ui-icon-empire'
+    'body': '<${1:i} class="empire icon$2">$3</${1:i}>'
+  'ui-icon-empty-heart':
+    'prefix': 'ui-icon-empty-heart'
+    'body': '<${1:i} class="empty heart icon$2">$3</${1:i}>'
+  'ui-icon-empty-star':
+    'prefix': 'ui-icon-empty-star'
+    'body': '<${1:i} class="empty star icon$2">$3</${1:i}>'
+  'ui-icon-erase':
+    'prefix': 'ui-icon-erase'
+    'body': '<${1:i} class="erase icon$2">$3</${1:i}>'
+  'ui-icon-euro':
+    'prefix': 'ui-icon-euro'
+    'body': '<${1:i} class="euro icon$2">$3</${1:i}>'
+  'ui-icon-exchange':
+    'prefix': 'ui-icon-exchange'
+    'body': '<${1:i} class="exchange icon$2">$3</${1:i}>'
+  'ui-icon-expand':
+    'prefix': 'ui-icon-expand'
+    'body': '<${1:i} class="expand icon$2">$3</${1:i}>'
+  'ui-icon-external-link-square':
+    'prefix': 'ui-icon-external-link-square'
+    'body': '<${1:i} class="external link square icon$2">$3</${1:i}>'
+  'ui-icon-external-link':
+    'prefix': 'ui-icon-external-link'
+    'body': '<${1:i} class="external link icon$2">$3</${1:i}>'
+  'ui-icon-external-share':
+    'prefix': 'ui-icon-external-share'
+    'body': '<${1:i} class="external share icon$2">$3</${1:i}>'
+  'ui-icon-facebook-square':
+    'prefix': 'ui-icon-facebook-square'
+    'body': '<${1:i} class="facebook square icon$2">$3</${1:i}>'
+  'ui-icon-facebook':
+    'prefix': 'ui-icon-facebook'
+    'body': '<${1:i} class="facebook icon$2">$3</${1:i}>'
+  'ui-icon-fast-backward':
+    'prefix': 'ui-icon-fast-backward'
+    'body': '<${1:i} class="fast backward icon$2">$3</${1:i}>'
+  'ui-icon-fast-forward':
+    'prefix': 'ui-icon-fast-forward'
+    'body': '<${1:i} class="fast forward icon$2">$3</${1:i}>'
+  'ui-icon-fax':
+    'prefix': 'ui-icon-fax'
+    'body': '<${1:i} class="fax icon$2">$3</${1:i}>'
+  'ui-icon-feed':
+    'prefix': 'ui-icon-feed'
+    'body': '<${1:i} class="feed icon$2">$3</${1:i}>'
+  'ui-icon-female':
+    'prefix': 'ui-icon-female'
+    'body': '<${1:i} class="female icon$2">$3</${1:i}>'
+  'ui-icon-file-archive-outline':
+    'prefix': 'ui-icon-file-archive-outline'
+    'body': '<${1:i} class="file archive outline icon$2">$3</${1:i}>'
+  'ui-icon-file-audio-outline':
+    'prefix': 'ui-icon-file-audio-outline'
+    'body': '<${1:i} class="file audio outline icon$2">$3</${1:i}>'
+  'ui-icon-file-code-outline':
+    'prefix': 'ui-icon-file-code-outline'
+    'body': '<${1:i} class="file code outline icon$2">$3</${1:i}>'
+  'ui-icon-file-excel-outline':
+    'prefix': 'ui-icon-file-excel-outline'
+    'body': '<${1:i} class="file excel outline icon$2">$3</${1:i}>'
+  'ui-icon-file-image-outline':
+    'prefix': 'ui-icon-file-image-outline'
+    'body': '<${1:i} class="file image outline icon$2">$3</${1:i}>'
+  'ui-icon-file-outline':
+    'prefix': 'ui-icon-file-outline'
+    'body': '<${1:i} class="file outline icon$2">$3</${1:i}>'
+  'ui-icon-file-pdf-outline':
+    'prefix': 'ui-icon-file-pdf-outline'
+    'body': '<${1:i} class="file pdf outline icon$2">$3</${1:i}>'
+  'ui-icon-file-powerpoint-outline':
+    'prefix': 'ui-icon-file-powerpoint-outline'
+    'body': '<${1:i} class="file powerpoint outline icon$2">$3</${1:i}>'
+  'ui-icon-file-text-outline':
+    'prefix': 'ui-icon-file-text-outline'
+    'body': '<${1:i} class="file text outline icon$2">$3</${1:i}>'
+  'ui-icon-file-text':
+    'prefix': 'ui-icon-file-text'
+    'body': '<${1:i} class="file text icon$2">$3</${1:i}>'
+  'ui-icon-file-video-outline':
+    'prefix': 'ui-icon-file-video-outline'
+    'body': '<${1:i} class="file video outline icon$2">$3</${1:i}>'
+  'ui-icon-file-word-outline':
+    'prefix': 'ui-icon-file-word-outline'
+    'body': '<${1:i} class="file word outline icon$2">$3</${1:i}>'
+  'ui-icon-file':
+    'prefix': 'ui-icon-file'
+    'body': '<${1:i} class="file icon$2">$3</${1:i}>'
+  'ui-icon-film':
+    'prefix': 'ui-icon-film'
+    'body': '<${1:i} class="film icon$2">$3</${1:i}>'
+  'ui-icon-filter':
+    'prefix': 'ui-icon-filter'
+    'body': '<${1:i} class="filter icon$2">$3</${1:i}>'
+  'ui-icon-fire-extinguisher':
+    'prefix': 'ui-icon-fire-extinguisher'
+    'body': '<${1:i} class="fire extinguisher icon$2">$3</${1:i}>'
+  'ui-icon-fire':
+    'prefix': 'ui-icon-fire'
+    'body': '<${1:i} class="fire icon$2">$3</${1:i}>'
+  'ui-icon-first-aid':
+    'prefix': 'ui-icon-first-aid'
+    'body': '<${1:i} class="first aid icon$2">$3</${1:i}>'
+  'ui-icon-flag-outline':
+    'prefix': 'ui-icon-flag-outline'
+    'body': '<${1:i} class="flag outline icon$2">$3</${1:i}>'
+  'ui-icon-flag':
+    'prefix': 'ui-icon-flag'
+    'body': '<${1:i} class="flag icon$2">$3</${1:i}>'
+  'ui-icon-flickr':
+    'prefix': 'ui-icon-flickr'
+    'body': '<${1:i} class="flickr icon$2">$3</${1:i}>'
+  'ui-icon-folder-open-outline':
+    'prefix': 'ui-icon-folder-open-outline'
+    'body': '<${1:i} class="folder open outline icon$2">$3</${1:i}>'
+  'ui-icon-folder-open':
+    'prefix': 'ui-icon-folder-open'
+    'body': '<${1:i} class="folder open icon$2">$3</${1:i}>'
+  'ui-icon-folder-outline':
+    'prefix': 'ui-icon-folder-outline'
+    'body': '<${1:i} class="folder outline icon$2">$3</${1:i}>'
+  'ui-icon-folder':
+    'prefix': 'ui-icon-folder'
+    'body': '<${1:i} class="folder icon$2">$3</${1:i}>'
+  'ui-icon-font':
+    'prefix': 'ui-icon-font'
+    'body': '<${1:i} class="font icon$2">$3</${1:i}>'
+  'ui-icon-food':
+    'prefix': 'ui-icon-food'
+    'body': '<${1:i} class="food icon$2">$3</${1:i}>'
+  'ui-icon-fork':
+    'prefix': 'ui-icon-fork'
+    'body': '<${1:i} class="fork icon$2">$3</${1:i}>'
+  'ui-icon-forward':
+    'prefix': 'ui-icon-forward'
+    'body': '<${1:i} class="forward icon$2">$3</${1:i}>'
+  'ui-icon-foursquare':
+    'prefix': 'ui-icon-foursquare'
+    'body': '<${1:i} class="foursquare icon$2">$3</${1:i}>'
+  'ui-icon-frown':
+    'prefix': 'ui-icon-frown'
+    'body': '<${1:i} class="frown icon$2">$3</${1:i}>'
+  'ui-icon-game':
+    'prefix': 'ui-icon-game'
+    'body': '<${1:i} class="game icon$2">$3</${1:i}>'
+  'ui-icon-gift':
+    'prefix': 'ui-icon-gift'
+    'body': '<${1:i} class="gift icon$2">$3</${1:i}>'
+  'ui-icon-git-square':
+    'prefix': 'ui-icon-git-square'
+    'body': '<${1:i} class="git square icon$2">$3</${1:i}>'
+  'ui-icon-git':
+    'prefix': 'ui-icon-git'
+    'body': '<${1:i} class="git icon$2">$3</${1:i}>'
+  'ui-icon-github-alternate':
+    'prefix': 'ui-icon-github-alternate'
+    'body': '<${1:i} class="github alternate icon$2">$3</${1:i}>'
+  'ui-icon-github-square':
+    'prefix': 'ui-icon-github-square'
+    'body': '<${1:i} class="github square icon$2">$3</${1:i}>'
+  'ui-icon-github':
+    'prefix': 'ui-icon-github'
+    'body': '<${1:i} class="github icon$2">$3</${1:i}>'
+  'ui-icon-gittip':
+    'prefix': 'ui-icon-gittip'
+    'body': '<${1:i} class="gittip icon$2">$3</${1:i}>'
+  'ui-icon-google-plus-square':
+    'prefix': 'ui-icon-google-plus-square'
+    'body': '<${1:i} class="google plus square icon$2">$3</${1:i}>'
+  'ui-icon-google-plus':
+    'prefix': 'ui-icon-google-plus'
+    'body': '<${1:i} class="google plus icon$2">$3</${1:i}>'
+  'ui-icon-google':
+    'prefix': 'ui-icon-google'
+    'body': '<${1:i} class="google icon$2">$3</${1:i}>'
+  'ui-icon-grid-layout':
+    'prefix': 'ui-icon-grid-layout'
+    'body': '<${1:i} class="grid layout icon$2">$3</${1:i}>'
+  'ui-icon-h':
+    'prefix': 'ui-icon-h'
+    'body': '<${1:i} class="h icon$2">$3</${1:i}>'
+  'ui-icon-hacker-news':
+    'prefix': 'ui-icon-hacker-news'
+    'body': '<${1:i} class="hacker news icon$2">$3</${1:i}>'
+  'ui-icon-handicap':
+    'prefix': 'ui-icon-handicap'
+    'body': '<${1:i} class="handicap icon$2">$3</${1:i}>'
+  'ui-icon-header':
+    'prefix': 'ui-icon-header'
+    'body': '<${1:i} class="header icon$2">$3</${1:i}>'
+  'ui-icon-heart':
+    'prefix': 'ui-icon-heart'
+    'body': '<${1:i} class="heart icon$2">$3</${1:i}>'
+  'ui-icon-help-circle':
+    'prefix': 'ui-icon-help-circle'
+    'body': '<${1:i} class="help circle icon$2">$3</${1:i}>'
+  'ui-icon-help':
+    'prefix': 'ui-icon-help'
+    'body': '<${1:i} class="help icon$2">$3</${1:i}>'
+  'ui-icon-hide':
+    'prefix': 'ui-icon-hide'
+    'body': '<${1:i} class="hide icon$2">$3</${1:i}>'
+  'ui-icon-history':
+    'prefix': 'ui-icon-history'
+    'body': '<${1:i} class="history icon$2">$3</${1:i}>'
+  'ui-icon-home':
+    'prefix': 'ui-icon-home'
+    'body': '<${1:i} class="home icon$2">$3</${1:i}>'
+  'ui-icon-hospital':
+    'prefix': 'ui-icon-hospital'
+    'body': '<${1:i} class="hospital icon$2">$3</${1:i}>'
+  'ui-icon-html5':
+    'prefix': 'ui-icon-html5'
+    'body': '<${1:i} class="html5 icon$2">$3</${1:i}>'
+  'ui-icon-idea':
+    'prefix': 'ui-icon-idea'
+    'body': '<${1:i} class="idea icon$2">$3</${1:i}>'
+  'ui-icon-inbox':
+    'prefix': 'ui-icon-inbox'
+    'body': '<${1:i} class="inbox icon$2">$3</${1:i}>'
+  'ui-icon-indent':
+    'prefix': 'ui-icon-indent'
+    'body': '<${1:i} class="indent icon$2">$3</${1:i}>'
+  'ui-icon-info-circle':
+    'prefix': 'ui-icon-info-circle'
+    'body': '<${1:i} class="info circle icon$2">$3</${1:i}>'
+  'ui-icon-info':
+    'prefix': 'ui-icon-info'
+    'body': '<${1:i} class="info icon$2">$3</${1:i}>'
+  'ui-icon-instagram':
+    'prefix': 'ui-icon-instagram'
+    'body': '<${1:i} class="instagram icon$2">$3</${1:i}>'
+  'ui-icon-italic':
+    'prefix': 'ui-icon-italic'
+    'body': '<${1:i} class="italic icon$2">$3</${1:i}>'
+  'ui-icon-joomla':
+    'prefix': 'ui-icon-joomla'
+    'body': '<${1:i} class="joomla icon$2">$3</${1:i}>'
+  'ui-icon-jsfiddle':
+    'prefix': 'ui-icon-jsfiddle'
+    'body': '<${1:i} class="jsfiddle icon$2">$3</${1:i}>'
+  'ui-icon-keyboard':
+    'prefix': 'ui-icon-keyboard'
+    'body': '<${1:i} class="keyboard icon$2">$3</${1:i}>'
+  'ui-icon-lab':
+    'prefix': 'ui-icon-lab'
+    'body': '<${1:i} class="lab icon$2">$3</${1:i}>'
+  'ui-icon-laptop':
+    'prefix': 'ui-icon-laptop'
+    'body': '<${1:i} class="laptop icon$2">$3</${1:i}>'
+  'ui-icon-leaf':
+    'prefix': 'ui-icon-leaf'
+    'body': '<${1:i} class="leaf icon$2">$3</${1:i}>'
+  'ui-icon-legal':
+    'prefix': 'ui-icon-legal'
+    'body': '<${1:i} class="legal icon$2">$3</${1:i}>'
+  'ui-icon-lemon':
+    'prefix': 'ui-icon-lemon'
+    'body': '<${1:i} class="lemon icon$2">$3</${1:i}>'
+  'ui-icon-level-down':
+    'prefix': 'ui-icon-level-down'
+    'body': '<${1:i} class="level down icon$2">$3</${1:i}>'
+  'ui-icon-level-up':
+    'prefix': 'ui-icon-level-up'
+    'body': '<${1:i} class="level up icon$2">$3</${1:i}>'
+  'ui-icon-life-ring':
+    'prefix': 'ui-icon-life-ring'
+    'body': '<${1:i} class="life ring icon$2">$3</${1:i}>'
+  'ui-icon-lightning':
+    'prefix': 'ui-icon-lightning'
+    'body': '<${1:i} class="lightning icon$2">$3</${1:i}>'
+  'ui-icon-link':
+    'prefix': 'ui-icon-link'
+    'body': '<${1:i} class="link icon$2">$3</${1:i}>'
+  'ui-icon-linkedin-square':
+    'prefix': 'ui-icon-linkedin-square'
+    'body': '<${1:i} class="linkedin square icon$2">$3</${1:i}>'
+  'ui-icon-linkedin':
+    'prefix': 'ui-icon-linkedin'
+    'body': '<${1:i} class="linkedin icon$2">$3</${1:i}>'
+  'ui-icon-linux':
+    'prefix': 'ui-icon-linux'
+    'body': '<${1:i} class="linux icon$2">$3</${1:i}>'
+  'ui-icon-lira':
+    'prefix': 'ui-icon-lira'
+    'body': '<${1:i} class="lira icon$2">$3</${1:i}>'
+  'ui-icon-list-layout':
+    'prefix': 'ui-icon-list-layout'
+    'body': '<${1:i} class="list layout icon$2">$3</${1:i}>'
+  'ui-icon-list':
+    'prefix': 'ui-icon-list'
+    'body': '<${1:i} class="list icon$2">$3</${1:i}>'
+  'ui-icon-location-arrow':
+    'prefix': 'ui-icon-location-arrow'
+    'body': '<${1:i} class="location arrow icon$2">$3</${1:i}>'
+  'ui-icon-lock':
+    'prefix': 'ui-icon-lock'
+    'body': '<${1:i} class="lock icon$2">$3</${1:i}>'
+  'ui-icon-long-arrow-down':
+    'prefix': 'ui-icon-long-arrow-down'
+    'body': '<${1:i} class="long arrow down icon$2">$3</${1:i}>'
+  'ui-icon-long-arrow-left':
+    'prefix': 'ui-icon-long-arrow-left'
+    'body': '<${1:i} class="long arrow left icon$2">$3</${1:i}>'
+  'ui-icon-long-arrow-right':
+    'prefix': 'ui-icon-long-arrow-right'
+    'body': '<${1:i} class="long arrow right icon$2">$3</${1:i}>'
+  'ui-icon-long-arrow-up':
+    'prefix': 'ui-icon-long-arrow-up'
+    'body': '<${1:i} class="long arrow up icon$2">$3</${1:i}>'
+  'ui-icon-magnet':
+    'prefix': 'ui-icon-magnet'
+    'body': '<${1:i} class="magnet icon$2">$3</${1:i}>'
+  'ui-icon-mail-forward':
+    'prefix': 'ui-icon-mail-forward'
+    'body': '<${1:i} class="mail forward icon$2">$3</${1:i}>'
+  'ui-icon-mail-outline':
+    'prefix': 'ui-icon-mail-outline'
+    'body': '<${1:i} class="mail outline icon$2">$3</${1:i}>'
+  'ui-icon-mail-square':
+    'prefix': 'ui-icon-mail-square'
+    'body': '<${1:i} class="mail square icon$2">$3</${1:i}>'
+  'ui-icon-mail':
+    'prefix': 'ui-icon-mail'
+    'body': '<${1:i} class="mail icon$2">$3</${1:i}>'
+  'ui-icon-male':
+    'prefix': 'ui-icon-male'
+    'body': '<${1:i} class="male icon$2">$3</${1:i}>'
+  'ui-icon-map':
+    'prefix': 'ui-icon-map'
+    'body': '<${1:i} class="map icon$2">$3</${1:i}>'
+  'ui-icon-marker':
+    'prefix': 'ui-icon-marker'
+    'body': '<${1:i} class="marker icon$2">$3</${1:i}>'
+  'ui-icon-maxcdn':
+    'prefix': 'ui-icon-maxcdn'
+    'body': '<${1:i} class="maxcdn icon$2">$3</${1:i}>'
+  'ui-icon-maximize':
+    'prefix': 'ui-icon-maximize'
+    'body': '<${1:i} class="maximize icon$2">$3</${1:i}>'
+  'ui-icon-meh':
+    'prefix': 'ui-icon-meh'
+    'body': '<${1:i} class="meh icon$2">$3</${1:i}>'
+  'ui-icon-military':
+    'prefix': 'ui-icon-military'
+    'body': '<${1:i} class="military icon$2">$3</${1:i}>'
+  'ui-icon-minus-circle':
+    'prefix': 'ui-icon-minus-circle'
+    'body': '<${1:i} class="minus circle icon$2">$3</${1:i}>'
+  'ui-icon-minus-square-outline':
+    'prefix': 'ui-icon-minus-square-outline'
+    'body': '<${1:i} class="minus square outline icon$2">$3</${1:i}>'
+  'ui-icon-minus-square':
+    'prefix': 'ui-icon-minus-square'
+    'body': '<${1:i} class="minus square icon$2">$3</${1:i}>'
+  'ui-icon-minus':
+    'prefix': 'ui-icon-minus'
+    'body': '<${1:i} class="minus icon$2">$3</${1:i}>'
+  'ui-icon-mobile':
+    'prefix': 'ui-icon-mobile'
+    'body': '<${1:i} class="mobile icon$2">$3</${1:i}>'
+  'ui-icon-money':
+    'prefix': 'ui-icon-money'
+    'body': '<${1:i} class="money icon$2">$3</${1:i}>'
+  'ui-icon-moon':
+    'prefix': 'ui-icon-moon'
+    'body': '<${1:i} class="moon icon$2">$3</${1:i}>'
+  'ui-icon-move':
+    'prefix': 'ui-icon-move'
+    'body': '<${1:i} class="move icon$2">$3</${1:i}>'
+  'ui-icon-music':
+    'prefix': 'ui-icon-music'
+    'body': '<${1:i} class="music icon$2">$3</${1:i}>'
+  'ui-icon-mute':
+    'prefix': 'ui-icon-mute'
+    'body': '<${1:i} class="mute icon$2">$3</${1:i}>'
+  'ui-icon-openid':
+    'prefix': 'ui-icon-openid'
+    'body': '<${1:i} class="openid icon$2">$3</${1:i}>'
+  'ui-icon-ordered-list':
+    'prefix': 'ui-icon-ordered-list'
+    'body': '<${1:i} class="ordered list icon$2">$3</${1:i}>'
+  'ui-icon-outdent':
+    'prefix': 'ui-icon-outdent'
+    'body': '<${1:i} class="outdent icon$2">$3</${1:i}>'
+  'ui-icon-pagelines':
+    'prefix': 'ui-icon-pagelines'
+    'body': '<${1:i} class="pagelines icon$2">$3</${1:i}>'
+  'ui-icon-paragraph':
+    'prefix': 'ui-icon-paragraph'
+    'body': '<${1:i} class="paragraph icon$2">$3</${1:i}>'
+  'ui-icon-paste':
+    'prefix': 'ui-icon-paste'
+    'body': '<${1:i} class="paste icon$2">$3</${1:i}>'
+  'ui-icon-pause':
+    'prefix': 'ui-icon-pause'
+    'body': '<${1:i} class="pause icon$2">$3</${1:i}>'
+  'ui-icon-paw':
+    'prefix': 'ui-icon-paw'
+    'body': '<${1:i} class="paw icon$2">$3</${1:i}>'
+  'ui-icon-payment':
+    'prefix': 'ui-icon-payment'
+    'body': '<${1:i} class="payment icon$2">$3</${1:i}>'
+  'ui-icon-photo':
+    'prefix': 'ui-icon-photo'
+    'body': '<${1:i} class="photo icon$2">$3</${1:i}>'
+  'ui-icon-pied-piper-alternate':
+    'prefix': 'ui-icon-pied-piper-alternate'
+    'body': '<${1:i} class="pied piper alternate icon$2">$3</${1:i}>'
+  'ui-icon-pied-piper':
+    'prefix': 'ui-icon-pied-piper'
+    'body': '<${1:i} class="pied piper icon$2">$3</${1:i}>'
+  'ui-icon-pin':
+    'prefix': 'ui-icon-pin'
+    'body': '<${1:i} class="pin icon$2">$3</${1:i}>'
+  'ui-icon-pinterest-square':
+    'prefix': 'ui-icon-pinterest-square'
+    'body': '<${1:i} class="pinterest square icon$2">$3</${1:i}>'
+  'ui-icon-pinterest':
+    'prefix': 'ui-icon-pinterest'
+    'body': '<${1:i} class="pinterest icon$2">$3</${1:i}>'
+  'ui-icon-plane':
+    'prefix': 'ui-icon-plane'
+    'body': '<${1:i} class="plane icon$2">$3</${1:i}>'
+  'ui-icon-play':
+    'prefix': 'ui-icon-play'
+    'body': '<${1:i} class="play icon$2">$3</${1:i}>'
+  'ui-icon-plus-square-outline':
+    'prefix': 'ui-icon-plus-square-outline'
+    'body': '<${1:i} class="plus square outline icon$2">$3</${1:i}>'
+  'ui-icon-plus':
+    'prefix': 'ui-icon-plus'
+    'body': '<${1:i} class="plus icon$2">$3</${1:i}>'
+  'ui-icon-pointing-down':
+    'prefix': 'ui-icon-pointing-down'
+    'body': '<${1:i} class="pointing down icon$2">$3</${1:i}>'
+  'ui-icon-pointing-left':
+    'prefix': 'ui-icon-pointing-left'
+    'body': '<${1:i} class="pointing left icon$2">$3</${1:i}>'
+  'ui-icon-pointing-right':
+    'prefix': 'ui-icon-pointing-right'
+    'body': '<${1:i} class="pointing right icon$2">$3</${1:i}>'
+  'ui-icon-pointing-up':
+    'prefix': 'ui-icon-pointing-up'
+    'body': '<${1:i} class="pointing up icon$2">$3</${1:i}>'
+  'ui-icon-pound':
+    'prefix': 'ui-icon-pound'
+    'body': '<${1:i} class="pound icon$2">$3</${1:i}>'
+  'ui-icon-power':
+    'prefix': 'ui-icon-power'
+    'body': '<${1:i} class="power icon$2">$3</${1:i}>'
+  'ui-icon-print':
+    'prefix': 'ui-icon-print'
+    'body': '<${1:i} class="print icon$2">$3</${1:i}>'
+  'ui-icon-privacy':
+    'prefix': 'ui-icon-privacy'
+    'body': '<${1:i} class="privacy icon$2">$3</${1:i}>'
+  'ui-icon-protect':
+    'prefix': 'ui-icon-protect'
+    'body': '<${1:i} class="protect icon$2">$3</${1:i}>'
+  'ui-icon-puzzle':
+    'prefix': 'ui-icon-puzzle'
+    'body': '<${1:i} class="puzzle icon$2">$3</${1:i}>'
+  'ui-icon-qq':
+    'prefix': 'ui-icon-qq'
+    'body': '<${1:i} class="qq icon$2">$3</${1:i}>'
+  'ui-icon-qrcode':
+    'prefix': 'ui-icon-qrcode'
+    'body': '<${1:i} class="qrcode icon$2">$3</${1:i}>'
+  'ui-icon-quote-left':
+    'prefix': 'ui-icon-quote-left'
+    'body': '<${1:i} class="quote left icon$2">$3</${1:i}>'
+  'ui-icon-quote-right':
+    'prefix': 'ui-icon-quote-right'
+    'body': '<${1:i} class="quote right icon$2">$3</${1:i}>'
+  'ui-icon-radio':
+    'prefix': 'ui-icon-radio'
+    'body': '<${1:i} class="radio icon$2">$3</${1:i}>'
+  'ui-icon-rain':
+    'prefix': 'ui-icon-rain'
+    'body': '<${1:i} class="rain icon$2">$3</${1:i}>'
+  'ui-icon-random':
+    'prefix': 'ui-icon-random'
+    'body': '<${1:i} class="random icon$2">$3</${1:i}>'
+  'ui-icon-rebel':
+    'prefix': 'ui-icon-rebel'
+    'body': '<${1:i} class="rebel icon$2">$3</${1:i}>'
+  'ui-icon-record':
+    'prefix': 'ui-icon-record'
+    'body': '<${1:i} class="record icon$2">$3</${1:i}>'
+  'ui-icon-recycle':
+    'prefix': 'ui-icon-recycle'
+    'body': '<${1:i} class="recycle icon$2">$3</${1:i}>'
+  'ui-icon-reddit-square':
+    'prefix': 'ui-icon-reddit-square'
+    'body': '<${1:i} class="reddit square icon$2">$3</${1:i}>'
+  'ui-icon-reddit':
+    'prefix': 'ui-icon-reddit'
+    'body': '<${1:i} class="reddit icon$2">$3</${1:i}>'
+  'ui-icon-refresh':
+    'prefix': 'ui-icon-refresh'
+    'body': '<${1:i} class="refresh icon$2">$3</${1:i}>'
+  'ui-icon-remove-bookmark':
+    'prefix': 'ui-icon-remove-bookmark'
+    'body': '<${1:i} class="remove bookmark icon$2">$3</${1:i}>'
+  'ui-icon-remove-circle-outline':
+    'prefix': 'ui-icon-remove-circle-outline'
+    'body': '<${1:i} class="remove circle outline icon$2">$3</${1:i}>'
+  'ui-icon-remove-circle':
+    'prefix': 'ui-icon-remove-circle'
+    'body': '<${1:i} class="remove circle icon$2">$3</${1:i}>'
+  'ui-icon-remove':
+    'prefix': 'ui-icon-remove'
+    'body': '<${1:i} class="remove icon$2">$3</${1:i}>'
+  'ui-icon-renren':
+    'prefix': 'ui-icon-renren'
+    'body': '<${1:i} class="renren icon$2">$3</${1:i}>'
+  'ui-icon-repeat':
+    'prefix': 'ui-icon-repeat'
+    'body': '<${1:i} class="repeat icon$2">$3</${1:i}>'
+  'ui-icon-reply-all':
+    'prefix': 'ui-icon-reply-all'
+    'body': '<${1:i} class="reply all icon$2">$3</${1:i}>'
+  'ui-icon-reply':
+    'prefix': 'ui-icon-reply'
+    'body': '<${1:i} class="reply icon$2">$3</${1:i}>'
+  'ui-icon-resize-horizontal':
+    'prefix': 'ui-icon-resize-horizontal'
+    'body': '<${1:i} class="resize horizontal icon$2">$3</${1:i}>'
+  'ui-icon-resize-vertical':
+    'prefix': 'ui-icon-resize-vertical'
+    'body': '<${1:i} class="resize vertical icon$2">$3</${1:i}>'
+  'ui-icon-retweet':
+    'prefix': 'ui-icon-retweet'
+    'body': '<${1:i} class="retweet icon$2">$3</${1:i}>'
+  'ui-icon-road':
+    'prefix': 'ui-icon-road'
+    'body': '<${1:i} class="road icon$2">$3</${1:i}>'
+  'ui-icon-rocket':
+    'prefix': 'ui-icon-rocket'
+    'body': '<${1:i} class="rocket icon$2">$3</${1:i}>'
+  'ui-icon-rss-square':
+    'prefix': 'ui-icon-rss-square'
+    'body': '<${1:i} class="rss square icon$2">$3</${1:i}>'
+  'ui-icon-ruble':
+    'prefix': 'ui-icon-ruble'
+    'body': '<${1:i} class="ruble icon$2">$3</${1:i}>'
+  'ui-icon-rupee':
+    'prefix': 'ui-icon-rupee'
+    'body': '<${1:i} class="rupee icon$2">$3</${1:i}>'
+  'ui-icon-save':
+    'prefix': 'ui-icon-save'
+    'body': '<${1:i} class="save icon$2">$3</${1:i}>'
+  'ui-icon-search':
+    'prefix': 'ui-icon-search'
+    'body': '<${1:i} class="search icon$2">$3</${1:i}>'
+  'ui-icon-selected-radio':
+    'prefix': 'ui-icon-selected-radio'
+    'body': '<${1:i} class="selected radio icon$2">$3</${1:i}>'
+  'ui-icon-send-outline':
+    'prefix': 'ui-icon-send-outline'
+    'body': '<${1:i} class="send outline icon$2">$3</${1:i}>'
+  'ui-icon-send':
+    'prefix': 'ui-icon-send'
+    'body': '<${1:i} class="send icon$2">$3</${1:i}>'
+  'ui-icon-setting':
+    'prefix': 'ui-icon-setting'
+    'body': '<${1:i} class="setting icon$2">$3</${1:i}>'
+  'ui-icon-settings':
+    'prefix': 'ui-icon-settings'
+    'body': '<${1:i} class="settings icon$2">$3</${1:i}>'
+  'ui-icon-share-alternate-square':
+    'prefix': 'ui-icon-share-alternate-square'
+    'body': '<${1:i} class="share alternate square icon$2">$3</${1:i}>'
+  'ui-icon-share-alternate':
+    'prefix': 'ui-icon-share-alternate'
+    'body': '<${1:i} class="share alternate icon$2">$3</${1:i}>'
+  'ui-icon-share-square':
+    'prefix': 'ui-icon-share-square'
+    'body': '<${1:i} class="share square icon$2">$3</${1:i}>'
+  'ui-icon-share':
+    'prefix': 'ui-icon-share'
+    'body': '<${1:i} class="share icon$2">$3</${1:i}>'
+  'ui-icon-shipping':
+    'prefix': 'ui-icon-shipping'
+    'body': '<${1:i} class="shipping icon$2">$3</${1:i}>'
+  'ui-icon-shop':
+    'prefix': 'ui-icon-shop'
+    'body': '<${1:i} class="shop icon$2">$3</${1:i}>'
+  'ui-icon-sign-in':
+    'prefix': 'ui-icon-sign-in'
+    'body': '<${1:i} class="sign in icon$2">$3</${1:i}>'
+  'ui-icon-sign-out':
+    'prefix': 'ui-icon-sign-out'
+    'body': '<${1:i} class="sign out icon$2">$3</${1:i}>'
+  'ui-icon-sitemap':
+    'prefix': 'ui-icon-sitemap'
+    'body': '<${1:i} class="sitemap icon$2">$3</${1:i}>'
+  'ui-icon-skype':
+    'prefix': 'ui-icon-skype'
+    'body': '<${1:i} class="skype icon$2">$3</${1:i}>'
+  'ui-icon-slack':
+    'prefix': 'ui-icon-slack'
+    'body': '<${1:i} class="slack icon$2">$3</${1:i}>'
+  'ui-icon-smile':
+    'prefix': 'ui-icon-smile'
+    'body': '<${1:i} class="smile icon$2">$3</${1:i}>'
+  'ui-icon-sort-alphabet-ascending':
+    'prefix': 'ui-icon-sort-alphabet-ascending'
+    'body': '<${1:i} class="sort alphabet ascending icon$2">$3</${1:i}>'
+  'ui-icon-sort-alphabet-descending':
+    'prefix': 'ui-icon-sort-alphabet-descending'
+    'body': '<${1:i} class="sort alphabet descending icon$2">$3</${1:i}>'
+  'ui-icon-sort-ascending':
+    'prefix': 'ui-icon-sort-ascending'
+    'body': '<${1:i} class="sort ascending icon$2">$3</${1:i}>'
+  'ui-icon-sort-content-ascending':
+    'prefix': 'ui-icon-sort-content-ascending'
+    'body': '<${1:i} class="sort content ascending icon$2">$3</${1:i}>'
+  'ui-icon-sort-content-descending':
+    'prefix': 'ui-icon-sort-content-descending'
+    'body': '<${1:i} class="sort content descending icon$2">$3</${1:i}>'
+  'ui-icon-sort-descending':
+    'prefix': 'ui-icon-sort-descending'
+    'body': '<${1:i} class="sort descending icon$2">$3</${1:i}>'
+  'ui-icon-sort-numeric-ascending':
+    'prefix': 'ui-icon-sort-numeric-ascending'
+    'body': '<${1:i} class="sort numeric ascending icon$2">$3</${1:i}>'
+  'ui-icon-sort-numeric-descending':
+    'prefix': 'ui-icon-sort-numeric-descending'
+    'body': '<${1:i} class="sort numeric descending icon$2">$3</${1:i}>'
+  'ui-icon-sort':
+    'prefix': 'ui-icon-sort'
+    'body': '<${1:i} class="sort icon$2">$3</${1:i}>'
+  'ui-icon-sound':
+    'prefix': 'ui-icon-sound'
+    'body': '<${1:i} class="sound icon$2">$3</${1:i}>'
+  'ui-icon-soundcloud':
+    'prefix': 'ui-icon-soundcloud'
+    'body': '<${1:i} class="soundcloud icon$2">$3</${1:i}>'
+  'ui-icon-space-shuttle':
+    'prefix': 'ui-icon-space-shuttle'
+    'body': '<${1:i} class="space shuttle icon$2">$3</${1:i}>'
+  'ui-icon-spinner':
+    'prefix': 'ui-icon-spinner'
+    'body': '<${1:i} class="spinner icon$2">$3</${1:i}>'
+  'ui-icon-spoon':
+    'prefix': 'ui-icon-spoon'
+    'body': '<${1:i} class="spoon icon$2">$3</${1:i}>'
+  'ui-icon-spotify':
+    'prefix': 'ui-icon-spotify'
+    'body': '<${1:i} class="spotify icon$2">$3</${1:i}>'
+  'ui-icon-stack-exchange':
+    'prefix': 'ui-icon-stack-exchange'
+    'body': '<${1:i} class="stack exchange icon$2">$3</${1:i}>'
+  'ui-icon-stack-overflow':
+    'prefix': 'ui-icon-stack-overflow'
+    'body': '<${1:i} class="stack overflow icon$2">$3</${1:i}>'
+  'ui-icon-star-half-empty':
+    'prefix': 'ui-icon-star-half-empty'
+    'body': '<${1:i} class="star half empty icon$2">$3</${1:i}>'
+  'ui-icon-star-half':
+    'prefix': 'ui-icon-star-half'
+    'body': '<${1:i} class="star half icon$2">$3</${1:i}>'
+  'ui-icon-star':
+    'prefix': 'ui-icon-star'
+    'body': '<${1:i} class="star icon$2">$3</${1:i}>'
+  'ui-icon-steam-square':
+    'prefix': 'ui-icon-steam-square'
+    'body': '<${1:i} class="steam square icon$2">$3</${1:i}>'
+  'ui-icon-steam':
+    'prefix': 'ui-icon-steam'
+    'body': '<${1:i} class="steam icon$2">$3</${1:i}>'
+  'ui-icon-step-backward':
+    'prefix': 'ui-icon-step-backward'
+    'body': '<${1:i} class="step backward icon$2">$3</${1:i}>'
+  'ui-icon-step-forward':
+    'prefix': 'ui-icon-step-forward'
+    'body': '<${1:i} class="step forward icon$2">$3</${1:i}>'
+  'ui-icon-stop':
+    'prefix': 'ui-icon-stop'
+    'body': '<${1:i} class="stop icon$2">$3</${1:i}>'
+  'ui-icon-strikethrough':
+    'prefix': 'ui-icon-strikethrough'
+    'body': '<${1:i} class="strikethrough icon$2">$3</${1:i}>'
+  'ui-icon-student':
+    'prefix': 'ui-icon-student'
+    'body': '<${1:i} class="student icon$2">$3</${1:i}>'
+  'ui-icon-stumbleupon-circle':
+    'prefix': 'ui-icon-stumbleupon-circle'
+    'body': '<${1:i} class="stumbleupon circle icon$2">$3</${1:i}>'
+  'ui-icon-stumbleupon':
+    'prefix': 'ui-icon-stumbleupon'
+    'body': '<${1:i} class="stumbleupon icon$2">$3</${1:i}>'
+  'ui-icon-subscript':
+    'prefix': 'ui-icon-subscript'
+    'body': '<${1:i} class="subscript icon$2">$3</${1:i}>'
+  'ui-icon-suitcase':
+    'prefix': 'ui-icon-suitcase'
+    'body': '<${1:i} class="suitcase icon$2">$3</${1:i}>'
+  'ui-icon-sun':
+    'prefix': 'ui-icon-sun'
+    'body': '<${1:i} class="sun icon$2">$3</${1:i}>'
+  'ui-icon-superscript':
+    'prefix': 'ui-icon-superscript'
+    'body': '<${1:i} class="superscript icon$2">$3</${1:i}>'
+  'ui-icon-table':
+    'prefix': 'ui-icon-table'
+    'body': '<${1:i} class="table icon$2">$3</${1:i}>'
+  'ui-icon-tablet':
+    'prefix': 'ui-icon-tablet'
+    'body': '<${1:i} class="tablet icon$2">$3</${1:i}>'
+  'ui-icon-tag':
+    'prefix': 'ui-icon-tag'
+    'body': '<${1:i} class="tag icon$2">$3</${1:i}>'
+  'ui-icon-tags':
+    'prefix': 'ui-icon-tags'
+    'body': '<${1:i} class="tags icon$2">$3</${1:i}>'
+  'ui-icon-tasks':
+    'prefix': 'ui-icon-tasks'
+    'body': '<${1:i} class="tasks icon$2">$3</${1:i}>'
+  'ui-icon-taxi':
+    'prefix': 'ui-icon-taxi'
+    'body': '<${1:i} class="taxi icon$2">$3</${1:i}>'
+  'ui-icon-tencent-weibo':
+    'prefix': 'ui-icon-tencent-weibo'
+    'body': '<${1:i} class="tencent weibo icon$2">$3</${1:i}>'
+  'ui-icon-terminal':
+    'prefix': 'ui-icon-terminal'
+    'body': '<${1:i} class="terminal icon$2">$3</${1:i}>'
+  'ui-icon-text-height':
+    'prefix': 'ui-icon-text-height'
+    'body': '<${1:i} class="text height icon$2">$3</${1:i}>'
+  'ui-icon-text-width':
+    'prefix': 'ui-icon-text-width'
+    'body': '<${1:i} class="text width icon$2">$3</${1:i}>'
+  'ui-icon-thumbs-down':
+    'prefix': 'ui-icon-thumbs-down'
+    'body': '<${1:i} class="thumbs down icon$2">$3</${1:i}>'
+  'ui-icon-thumbs-outline-down':
+    'prefix': 'ui-icon-thumbs-outline-down'
+    'body': '<${1:i} class="thumbs outline down icon$2">$3</${1:i}>'
+  'ui-icon-thumbs-outline-up':
+    'prefix': 'ui-icon-thumbs-outline-up'
+    'body': '<${1:i} class="thumbs outline up icon$2">$3</${1:i}>'
+  'ui-icon-thumbs-up':
+    'prefix': 'ui-icon-thumbs-up'
+    'body': '<${1:i} class="thumbs up icon$2">$3</${1:i}>'
+  'ui-icon-ticket':
+    'prefix': 'ui-icon-ticket'
+    'body': '<${1:i} class="ticket icon$2">$3</${1:i}>'
+  'ui-icon-tint':
+    'prefix': 'ui-icon-tint'
+    'body': '<${1:i} class="tint icon$2">$3</${1:i}>'
+  'ui-icon-toggle-down':
+    'prefix': 'ui-icon-toggle-down'
+    'body': '<${1:i} class="toggle down icon$2">$3</${1:i}>'
+  'ui-icon-toggle-left':
+    'prefix': 'ui-icon-toggle-left'
+    'body': '<${1:i} class="toggle left icon$2">$3</${1:i}>'
+  'ui-icon-toggle-right':
+    'prefix': 'ui-icon-toggle-right'
+    'body': '<${1:i} class="toggle right icon$2">$3</${1:i}>'
+  'ui-icon-toggle-up':
+    'prefix': 'ui-icon-toggle-up'
+    'body': '<${1:i} class="toggle up icon$2">$3</${1:i}>'
+  'ui-icon-translate':
+    'prefix': 'ui-icon-translate'
+    'body': '<${1:i} class="translate icon$2">$3</${1:i}>'
+  'ui-icon-trash':
+    'prefix': 'ui-icon-trash'
+    'body': '<${1:i} class="trash icon$2">$3</${1:i}>'
+  'ui-icon-travel':
+    'prefix': 'ui-icon-travel'
+    'body': '<${1:i} class="travel icon$2">$3</${1:i}>'
+  'ui-icon-treatment':
+    'prefix': 'ui-icon-treatment'
+    'body': '<${1:i} class="treatment icon$2">$3</${1:i}>'
+  'ui-icon-tree':
+    'prefix': 'ui-icon-tree'
+    'body': '<${1:i} class="tree icon$2">$3</${1:i}>'
+  'ui-icon-trello':
+    'prefix': 'ui-icon-trello'
+    'body': '<${1:i} class="trello icon$2">$3</${1:i}>'
+  'ui-icon-trophy':
+    'prefix': 'ui-icon-trophy'
+    'body': '<${1:i} class="trophy icon$2">$3</${1:i}>'
+  'ui-icon-tumblr-square':
+    'prefix': 'ui-icon-tumblr-square'
+    'body': '<${1:i} class="tumblr square icon$2">$3</${1:i}>'
+  'ui-icon-tumblr':
+    'prefix': 'ui-icon-tumblr'
+    'body': '<${1:i} class="tumblr icon$2">$3</${1:i}>'
+  'ui-icon-twitter-square':
+    'prefix': 'ui-icon-twitter-square'
+    'body': '<${1:i} class="twitter square icon$2">$3</${1:i}>'
+  'ui-icon-twitter':
+    'prefix': 'ui-icon-twitter'
+    'body': '<${1:i} class="twitter icon$2">$3</${1:i}>'
+  'ui-icon-underline':
+    'prefix': 'ui-icon-underline'
+    'body': '<${1:i} class="underline icon$2">$3</${1:i}>'
+  'ui-icon-undo':
+    'prefix': 'ui-icon-undo'
+    'body': '<${1:i} class="undo icon$2">$3</${1:i}>'
+  'ui-icon-unhide':
+    'prefix': 'ui-icon-unhide'
+    'body': '<${1:i} class="unhide icon$2">$3</${1:i}>'
+  'ui-icon-university':
+    'prefix': 'ui-icon-university'
+    'body': '<${1:i} class="university icon$2">$3</${1:i}>'
+  'ui-icon-unlink':
+    'prefix': 'ui-icon-unlink'
+    'body': '<${1:i} class="unlink icon$2">$3</${1:i}>'
+  'ui-icon-unlock-alternate':
+    'prefix': 'ui-icon-unlock-alternate'
+    'body': '<${1:i} class="unlock alternate icon$2">$3</${1:i}>'
+  'ui-icon-unlock':
+    'prefix': 'ui-icon-unlock'
+    'body': '<${1:i} class="unlock icon$2">$3</${1:i}>'
+  'ui-icon-unmute':
+    'prefix': 'ui-icon-unmute'
+    'body': '<${1:i} class="unmute icon$2">$3</${1:i}>'
+  'ui-icon-unordered-list':
+    'prefix': 'ui-icon-unordered-list'
+    'body': '<${1:i} class="unordered list icon$2">$3</${1:i}>'
+  'ui-icon-upload':
+    'prefix': 'ui-icon-upload'
+    'body': '<${1:i} class="upload icon$2">$3</${1:i}>'
+  'ui-icon-user':
+    'prefix': 'ui-icon-user'
+    'body': '<${1:i} class="user icon$2">$3</${1:i}>'
+  'ui-icon-users':
+    'prefix': 'ui-icon-users'
+    'body': '<${1:i} class="users icon$2">$3</${1:i}>'
+  'ui-icon-video-play-outline':
+    'prefix': 'ui-icon-video-play-outline'
+    'body': '<${1:i} class="video play outline icon$2">$3</${1:i}>'
+  'ui-icon-video-play':
+    'prefix': 'ui-icon-video-play'
+    'body': '<${1:i} class="video play icon$2">$3</${1:i}>'
+  'ui-icon-vimeo':
+    'prefix': 'ui-icon-vimeo'
+    'body': '<${1:i} class="vimeo icon$2">$3</${1:i}>'
+  'ui-icon-vine':
+    'prefix': 'ui-icon-vine'
+    'body': '<${1:i} class="vine icon$2">$3</${1:i}>'
+  'ui-icon-vk':
+    'prefix': 'ui-icon-vk'
+    'body': '<${1:i} class="vk icon$2">$3</${1:i}>'
+  'ui-icon-volume-down':
+    'prefix': 'ui-icon-volume-down'
+    'body': '<${1:i} class="volume down icon$2">$3</${1:i}>'
+  'ui-icon-volume-off':
+    'prefix': 'ui-icon-volume-off'
+    'body': '<${1:i} class="volume off icon$2">$3</${1:i}>'
+  'ui-icon-volume-up':
+    'prefix': 'ui-icon-volume-up'
+    'body': '<${1:i} class="volume up icon$2">$3</${1:i}>'
+  'ui-icon-wait':
+    'prefix': 'ui-icon-wait'
+    'body': '<${1:i} class="wait icon$2">$3</${1:i}>'
+  'ui-icon-warning-circle':
+    'prefix': 'ui-icon-warning-circle'
+    'body': '<${1:i} class="warning circle icon$2">$3</${1:i}>'
+  'ui-icon-warning-sign':
+    'prefix': 'ui-icon-warning-sign'
+    'body': '<${1:i} class="warning sign icon$2">$3</${1:i}>'
+  'ui-icon-warning':
+    'prefix': 'ui-icon-warning'
+    'body': '<${1:i} class="warning icon$2">$3</${1:i}>'
+  'ui-icon-wechat':
+    'prefix': 'ui-icon-wechat'
+    'body': '<${1:i} class="wechat icon$2">$3</${1:i}>'
+  'ui-icon-weibo':
+    'prefix': 'ui-icon-weibo'
+    'body': '<${1:i} class="weibo icon$2">$3</${1:i}>'
+  'ui-icon-wifi':
+    'prefix': 'ui-icon-wifi'
+    'body': '<${1:i} class="wifi icon$2">$3</${1:i}>'
+  'ui-icon-windows':
+    'prefix': 'ui-icon-windows'
+    'body': '<${1:i} class="windows icon$2">$3</${1:i}>'
+  'ui-icon-wizard':
+    'prefix': 'ui-icon-wizard'
+    'body': '<${1:i} class="wizard icon$2">$3</${1:i}>'
+  'ui-icon-won':
+    'prefix': 'ui-icon-won'
+    'body': '<${1:i} class="won icon$2">$3</${1:i}>'
+  'ui-icon-wordpress':
+    'prefix': 'ui-icon-wordpress'
+    'body': '<${1:i} class="wordpress icon$2">$3</${1:i}>'
+  'ui-icon-world':
+    'prefix': 'ui-icon-world'
+    'body': '<${1:i} class="world icon$2">$3</${1:i}>'
+  'ui-icon-write-square':
+    'prefix': 'ui-icon-write-square'
+    'body': '<${1:i} class="write square icon$2">$3</${1:i}>'
+  'ui-icon-write':
+    'prefix': 'ui-icon-write'
+    'body': '<${1:i} class="write icon$2">$3</${1:i}>'
+  'ui-icon-xing-square':
+    'prefix': 'ui-icon-xing-square'
+    'body': '<${1:i} class="xing square icon$2">$3</${1:i}>'
+  'ui-icon-xing':
+    'prefix': 'ui-icon-xing'
+    'body': '<${1:i} class="xing icon$2">$3</${1:i}>'
+  'ui-icon-yahoo':
+    'prefix': 'ui-icon-yahoo'
+    'body': '<${1:i} class="yahoo icon$2">$3</${1:i}>'
+  'ui-icon-yen':
+    'prefix': 'ui-icon-yen'
+    'body': '<${1:i} class="yen icon$2">$3</${1:i}>'
+  'ui-icon-youtube-play':
+    'prefix': 'ui-icon-youtube-play'
+    'body': '<${1:i} class="youtube play icon$2">$3</${1:i}>'
+  'ui-icon-youtube-square':
+    'prefix': 'ui-icon-youtube-square'
+    'body': '<${1:i} class="youtube square icon$2">$3</${1:i}>'
+  'ui-icon-youtube':
+    'prefix': 'ui-icon-youtube'
+    'body': '<${1:i} class="youtube icon$2">$3</${1:i}>'
+  'ui-icon-zoom-out':
+    'prefix': 'ui-icon-zoom-out'
+    'body': '<${1:i} class="zoom out icon$2">$3</${1:i}>'
+  'ui-icon-zoom':
+    'prefix': 'ui-icon-zoom'
+    'body': '<${1:i} class="zoom icon$2">$3</${1:i}>'
