@@ -28,4 +28,4 @@
   "scripts": {
     "test": "gulp lint"
   }
-  
+}
