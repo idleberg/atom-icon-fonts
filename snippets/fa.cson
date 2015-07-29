@@ -1,4 +1,7 @@
 '.text.html':
+  'fa-500px':
+    'prefix': 'fa-500px'
+    'body': '<${1:i} class="fa fa-500px$2">$3</${1:i}>'
   'fa-adjust':
     'prefix': 'fa-adjust'
     'body': '<${1:i} class="fa fa-adjust$2">$3</${1:i}>'
@@ -17,6 +20,9 @@
   'fa-align-right':
     'prefix': 'fa-align-right'
     'body': '<${1:i} class="fa fa-align-right$2">$3</${1:i}>'
+  'fa-amazon':
+    'prefix': 'fa-amazon'
+    'body': '<${1:i} class="fa fa-amazon$2">$3</${1:i}>'
   'fa-ambulance':
     'prefix': 'fa-ambulance'
     'body': '<${1:i} class="fa fa-ambulance$2">$3</${1:i}>'
@@ -122,6 +128,9 @@
   'fa-backward':
     'prefix': 'fa-backward'
     'body': '<${1:i} class="fa fa-backward$2">$3</${1:i}>'
+  'fa-balance-scale':
+    'prefix': 'fa-balance-scale'
+    'body': '<${1:i} class="fa fa-balance-scale$2">$3</${1:i}>'
   'fa-ban':
     'prefix': 'fa-ban'
     'body': '<${1:i} class="fa fa-ban$2">$3</${1:i}>'
@@ -137,6 +146,36 @@
   'fa-bars':
     'prefix': 'fa-bars'
     'body': '<${1:i} class="fa fa-bars$2">$3</${1:i}>'
+  'fa-battery-0':
+    'prefix': 'fa-battery-0'
+    'body': '<${1:i} class="fa fa-battery-0$2">$3</${1:i}>'
+  'fa-battery-1':
+    'prefix': 'fa-battery-1'
+    'body': '<${1:i} class="fa fa-battery-1$2">$3</${1:i}>'
+  'fa-battery-2':
+    'prefix': 'fa-battery-2'
+    'body': '<${1:i} class="fa fa-battery-2$2">$3</${1:i}>'
+  'fa-battery-3':
+    'prefix': 'fa-battery-3'
+    'body': '<${1:i} class="fa fa-battery-3$2">$3</${1:i}>'
+  'fa-battery-4':
+    'prefix': 'fa-battery-4'
+    'body': '<${1:i} class="fa fa-battery-4$2">$3</${1:i}>'
+  'fa-battery-empty':
+    'prefix': 'fa-battery-empty'
+    'body': '<${1:i} class="fa fa-battery-empty$2">$3</${1:i}>'
+  'fa-battery-full':
+    'prefix': 'fa-battery-full'
+    'body': '<${1:i} class="fa fa-battery-full$2">$3</${1:i}>'
+  'fa-battery-half':
+    'prefix': 'fa-battery-half'
+    'body': '<${1:i} class="fa fa-battery-half$2">$3</${1:i}>'
+  'fa-battery-quarter':
+    'prefix': 'fa-battery-quarter'
+    'body': '<${1:i} class="fa fa-battery-quarter$2">$3</${1:i}>'
+  'fa-battery-three-quarters':
+    'prefix': 'fa-battery-three-quarters'
+    'body': '<${1:i} class="fa fa-battery-three-quarters$2">$3</${1:i}>'
   'fa-bed':
     'prefix': 'fa-bed'
     'body': '<${1:i} class="fa fa-bed$2">$3</${1:i}>'
@@ -179,6 +218,9 @@
   'fa-bitcoin':
     'prefix': 'fa-bitcoin'
     'body': '<${1:i} class="fa fa-bitcoin$2">$3</${1:i}>'
+  'fa-black-tie':
+    'prefix': 'fa-black-tie'
+    'body': '<${1:i} class="fa fa-black-tie$2">$3</${1:i}>'
   'fa-bold':
     'prefix': 'fa-bold'
     'body': '<${1:i} class="fa fa-bold$2">$3</${1:i}>'
@@ -230,9 +272,21 @@
   'fa-calculator':
     'prefix': 'fa-calculator'
     'body': '<${1:i} class="fa fa-calculator$2">$3</${1:i}>'
+  'fa-calendar-check-o':
+    'prefix': 'fa-calendar-check-o'
+    'body': '<${1:i} class="fa fa-calendar-check-o$2">$3</${1:i}>'
+  'fa-calendar-minus-o':
+    'prefix': 'fa-calendar-minus-o'
+    'body': '<${1:i} class="fa fa-calendar-minus-o$2">$3</${1:i}>'
   'fa-calendar-o':
     'prefix': 'fa-calendar-o'
     'body': '<${1:i} class="fa fa-calendar-o$2">$3</${1:i}>'
+  'fa-calendar-plus-o':
+    'prefix': 'fa-calendar-plus-o'
+    'body': '<${1:i} class="fa fa-calendar-plus-o$2">$3</${1:i}>'
+  'fa-calendar-times-o':
+    'prefix': 'fa-calendar-times-o'
+    'body': '<${1:i} class="fa fa-calendar-times-o$2">$3</${1:i}>'
   'fa-calendar':
     'prefix': 'fa-calendar'
     'body': '<${1:i} class="fa fa-calendar$2">$3</${1:i}>'
@@ -278,9 +332,15 @@
   'fa-cc-amex':
     'prefix': 'fa-cc-amex'
     'body': '<${1:i} class="fa fa-cc-amex$2">$3</${1:i}>'
+  'fa-cc-diners-club':
+    'prefix': 'fa-cc-diners-club'
+    'body': '<${1:i} class="fa fa-cc-diners-club$2">$3</${1:i}>'
   'fa-cc-discover':
     'prefix': 'fa-cc-discover'
     'body': '<${1:i} class="fa fa-cc-discover$2">$3</${1:i}>'
+  'fa-cc-jcb':
+    'prefix': 'fa-cc-jcb'
+    'body': '<${1:i} class="fa fa-cc-jcb$2">$3</${1:i}>'
   'fa-cc-mastercard':
     'prefix': 'fa-cc-mastercard'
     'body': '<${1:i} class="fa fa-cc-mastercard$2">$3</${1:i}>'
@@ -347,6 +407,9 @@
   'fa-child':
     'prefix': 'fa-child'
     'body': '<${1:i} class="fa fa-child$2">$3</${1:i}>'
+  'fa-chrome':
+    'prefix': 'fa-chrome'
+    'body': '<${1:i} class="fa fa-chrome$2">$3</${1:i}>'
   'fa-circle-o-notch':
     'prefix': 'fa-circle-o-notch'
     'body': '<${1:i} class="fa fa-circle-o-notch$2">$3</${1:i}>'
@@ -365,6 +428,9 @@
   'fa-clock-o':
     'prefix': 'fa-clock-o'
     'body': '<${1:i} class="fa fa-clock-o$2">$3</${1:i}>'
+  'fa-clone':
+    'prefix': 'fa-clone'
+    'body': '<${1:i} class="fa fa-clone$2">$3</${1:i}>'
   'fa-cloud-download':
     'prefix': 'fa-cloud-download'
     'body': '<${1:i} class="fa fa-cloud-download$2">$3</${1:i}>'
@@ -404,6 +470,12 @@
   'fa-comment':
     'prefix': 'fa-comment'
     'body': '<${1:i} class="fa fa-comment$2">$3</${1:i}>'
+  'fa-commenting-o':
+    'prefix': 'fa-commenting-o'
+    'body': '<${1:i} class="fa fa-commenting-o$2">$3</${1:i}>'
+  'fa-commenting':
+    'prefix': 'fa-commenting'
+    'body': '<${1:i} class="fa fa-commenting$2">$3</${1:i}>'
   'fa-comments-o':
     'prefix': 'fa-comments-o'
     'body': '<${1:i} class="fa fa-comments-o$2">$3</${1:i}>'
@@ -419,12 +491,18 @@
   'fa-connectdevelop':
     'prefix': 'fa-connectdevelop'
     'body': '<${1:i} class="fa fa-connectdevelop$2">$3</${1:i}>'
+  'fa-contao':
+    'prefix': 'fa-contao'
+    'body': '<${1:i} class="fa fa-contao$2">$3</${1:i}>'
   'fa-copy':
     'prefix': 'fa-copy'
     'body': '<${1:i} class="fa fa-copy$2">$3</${1:i}>'
   'fa-copyright':
     'prefix': 'fa-copyright'
     'body': '<${1:i} class="fa fa-copyright$2">$3</${1:i}>'
+  'fa-creative-commons':
+    'prefix': 'fa-creative-commons'
+    'body': '<${1:i} class="fa fa-creative-commons$2">$3</${1:i}>'
   'fa-credit-card':
     'prefix': 'fa-credit-card'
     'body': '<${1:i} class="fa fa-credit-card$2">$3</${1:i}>'
@@ -542,6 +620,9 @@
   'fa-expand':
     'prefix': 'fa-expand'
     'body': '<${1:i} class="fa fa-expand$2">$3</${1:i}>'
+  'fa-expeditedssl':
+    'prefix': 'fa-expeditedssl'
+    'body': '<${1:i} class="fa fa-expeditedssl$2">$3</${1:i}>'
   'fa-external-link-square':
     'prefix': 'fa-external-link-square'
     'body': '<${1:i} class="fa fa-external-link-square$2">$3</${1:i}>'
@@ -650,6 +731,9 @@
   'fa-fire':
     'prefix': 'fa-fire'
     'body': '<${1:i} class="fa fa-fire$2">$3</${1:i}>'
+  'fa-firefox':
+    'prefix': 'fa-firefox'
+    'body': '<${1:i} class="fa fa-firefox$2">$3</${1:i}>'
   'fa-flag-checkered':
     'prefix': 'fa-flag-checkered'
     'body': '<${1:i} class="fa fa-flag-checkered$2">$3</${1:i}>'
@@ -686,6 +770,9 @@
   'fa-font':
     'prefix': 'fa-font'
     'body': '<${1:i} class="fa fa-font$2">$3</${1:i}>'
+  'fa-fonticons':
+    'prefix': 'fa-fonticons'
+    'body': '<${1:i} class="fa fa-fonticons$2">$3</${1:i}>'
   'fa-forumbee':
     'prefix': 'fa-forumbee'
     'body': '<${1:i} class="fa fa-forumbee$2">$3</${1:i}>'
@@ -719,6 +806,18 @@
   'fa-gears':
     'prefix': 'fa-gears'
     'body': '<${1:i} class="fa fa-gears$2">$3</${1:i}>'
+  'fa-genderless':
+    'prefix': 'fa-genderless'
+    'body': '<${1:i} class="fa fa-genderless$2">$3</${1:i}>'
+  'fa-get-pocket':
+    'prefix': 'fa-get-pocket'
+    'body': '<${1:i} class="fa fa-get-pocket$2">$3</${1:i}>'
+  'fa-gg-circle':
+    'prefix': 'fa-gg-circle'
+    'body': '<${1:i} class="fa fa-gg-circle$2">$3</${1:i}>'
+  'fa-gg':
+    'prefix': 'fa-gg'
+    'body': '<${1:i} class="fa fa-gg$2">$3</${1:i}>'
   'fa-gift':
     'prefix': 'fa-gift'
     'body': '<${1:i} class="fa fa-gift$2">$3</${1:i}>'
@@ -770,6 +869,12 @@
   'fa-hacker-news':
     'prefix': 'fa-hacker-news'
     'body': '<${1:i} class="fa fa-hacker-news$2">$3</${1:i}>'
+  'fa-hand-grab-o':
+    'prefix': 'fa-hand-grab-o'
+    'body': '<${1:i} class="fa fa-hand-grab-o$2">$3</${1:i}>'
+  'fa-hand-lizard-o':
+    'prefix': 'fa-hand-lizard-o'
+    'body': '<${1:i} class="fa fa-hand-lizard-o$2">$3</${1:i}>'
   'fa-hand-o-down':
     'prefix': 'fa-hand-o-down'
     'body': '<${1:i} class="fa fa-hand-o-down$2">$3</${1:i}>'
@@ -782,6 +887,27 @@
   'fa-hand-o-up':
     'prefix': 'fa-hand-o-up'
     'body': '<${1:i} class="fa fa-hand-o-up$2">$3</${1:i}>'
+  'fa-hand-paper-o':
+    'prefix': 'fa-hand-paper-o'
+    'body': '<${1:i} class="fa fa-hand-paper-o$2">$3</${1:i}>'
+  'fa-hand-peace-o':
+    'prefix': 'fa-hand-peace-o'
+    'body': '<${1:i} class="fa fa-hand-peace-o$2">$3</${1:i}>'
+  'fa-hand-pointer-o':
+    'prefix': 'fa-hand-pointer-o'
+    'body': '<${1:i} class="fa fa-hand-pointer-o$2">$3</${1:i}>'
+  'fa-hand-rock-o':
+    'prefix': 'fa-hand-rock-o'
+    'body': '<${1:i} class="fa fa-hand-rock-o$2">$3</${1:i}>'
+  'fa-hand-scissors-o':
+    'prefix': 'fa-hand-scissors-o'
+    'body': '<${1:i} class="fa fa-hand-scissors-o$2">$3</${1:i}>'
+  'fa-hand-spock-o':
+    'prefix': 'fa-hand-spock-o'
+    'body': '<${1:i} class="fa fa-hand-spock-o$2">$3</${1:i}>'
+  'fa-hand-stop-o':
+    'prefix': 'fa-hand-stop-o'
+    'body': '<${1:i} class="fa fa-hand-stop-o$2">$3</${1:i}>'
   'fa-hdd-o':
     'prefix': 'fa-hdd-o'
     'body': '<${1:i} class="fa fa-hdd-o$2">$3</${1:i}>'
@@ -812,9 +938,39 @@
   'fa-hotel':
     'prefix': 'fa-hotel'
     'body': '<${1:i} class="fa fa-hotel$2">$3</${1:i}>'
+  'fa-hourglass-1':
+    'prefix': 'fa-hourglass-1'
+    'body': '<${1:i} class="fa fa-hourglass-1$2">$3</${1:i}>'
+  'fa-hourglass-2':
+    'prefix': 'fa-hourglass-2'
+    'body': '<${1:i} class="fa fa-hourglass-2$2">$3</${1:i}>'
+  'fa-hourglass-3':
+    'prefix': 'fa-hourglass-3'
+    'body': '<${1:i} class="fa fa-hourglass-3$2">$3</${1:i}>'
+  'fa-hourglass-end':
+    'prefix': 'fa-hourglass-end'
+    'body': '<${1:i} class="fa fa-hourglass-end$2">$3</${1:i}>'
+  'fa-hourglass-half':
+    'prefix': 'fa-hourglass-half'
+    'body': '<${1:i} class="fa fa-hourglass-half$2">$3</${1:i}>'
+  'fa-hourglass-o':
+    'prefix': 'fa-hourglass-o'
+    'body': '<${1:i} class="fa fa-hourglass-o$2">$3</${1:i}>'
+  'fa-hourglass-start':
+    'prefix': 'fa-hourglass-start'
+    'body': '<${1:i} class="fa fa-hourglass-start$2">$3</${1:i}>'
+  'fa-hourglass':
+    'prefix': 'fa-hourglass'
+    'body': '<${1:i} class="fa fa-hourglass$2">$3</${1:i}>'
+  'fa-houzz':
+    'prefix': 'fa-houzz'
+    'body': '<${1:i} class="fa fa-houzz$2">$3</${1:i}>'
   'fa-html5':
     'prefix': 'fa-html5'
     'body': '<${1:i} class="fa fa-html5$2">$3</${1:i}>'
+  'fa-i-cursor':
+    'prefix': 'fa-i-cursor'
+    'body': '<${1:i} class="fa fa-i-cursor$2">$3</${1:i}>'
   'fa-ils':
     'prefix': 'fa-ils'
     'body': '<${1:i} class="fa fa-ils$2">$3</${1:i}>'
@@ -827,6 +983,9 @@
   'fa-indent':
     'prefix': 'fa-indent'
     'body': '<${1:i} class="fa fa-indent$2">$3</${1:i}>'
+  'fa-industry':
+    'prefix': 'fa-industry'
+    'body': '<${1:i} class="fa fa-industry$2">$3</${1:i}>'
   'fa-info-circle':
     'prefix': 'fa-info-circle'
     'body': '<${1:i} class="fa fa-info-circle$2">$3</${1:i}>'
@@ -842,6 +1001,9 @@
   'fa-institution':
     'prefix': 'fa-institution'
     'body': '<${1:i} class="fa fa-institution$2">$3</${1:i}>'
+  'fa-internet-explorer':
+    'prefix': 'fa-internet-explorer'
+    'body': '<${1:i} class="fa fa-internet-explorer$2">$3</${1:i}>'
   'fa-ioxhost':
     'prefix': 'fa-ioxhost'
     'body': '<${1:i} class="fa fa-ioxhost$2">$3</${1:i}>'
@@ -974,6 +1136,18 @@
   'fa-map-marker':
     'prefix': 'fa-map-marker'
     'body': '<${1:i} class="fa fa-map-marker$2">$3</${1:i}>'
+  'fa-map-o':
+    'prefix': 'fa-map-o'
+    'body': '<${1:i} class="fa fa-map-o$2">$3</${1:i}>'
+  'fa-map-pin':
+    'prefix': 'fa-map-pin'
+    'body': '<${1:i} class="fa fa-map-pin$2">$3</${1:i}>'
+  'fa-map-signs':
+    'prefix': 'fa-map-signs'
+    'body': '<${1:i} class="fa fa-map-signs$2">$3</${1:i}>'
+  'fa-map':
+    'prefix': 'fa-map'
+    'body': '<${1:i} class="fa fa-map$2">$3</${1:i}>'
   'fa-mars-double':
     'prefix': 'fa-mars-double'
     'body': '<${1:i} class="fa fa-mars-double$2">$3</${1:i}>'
@@ -1043,6 +1217,9 @@
   'fa-motorcycle':
     'prefix': 'fa-motorcycle'
     'body': '<${1:i} class="fa fa-motorcycle$2">$3</${1:i}>'
+  'fa-mouse-pointer':
+    'prefix': 'fa-mouse-pointer'
+    'body': '<${1:i} class="fa fa-mouse-pointer$2">$3</${1:i}>'
   'fa-music':
     'prefix': 'fa-music'
     'body': '<${1:i} class="fa fa-music$2">$3</${1:i}>'
@@ -1055,9 +1232,30 @@
   'fa-newspaper-o':
     'prefix': 'fa-newspaper-o'
     'body': '<${1:i} class="fa fa-newspaper-o$2">$3</${1:i}>'
+  'fa-object-group':
+    'prefix': 'fa-object-group'
+    'body': '<${1:i} class="fa fa-object-group$2">$3</${1:i}>'
+  'fa-object-ungroup':
+    'prefix': 'fa-object-ungroup'
+    'body': '<${1:i} class="fa fa-object-ungroup$2">$3</${1:i}>'
+  'fa-odnoklassniki-square':
+    'prefix': 'fa-odnoklassniki-square'
+    'body': '<${1:i} class="fa fa-odnoklassniki-square$2">$3</${1:i}>'
+  'fa-odnoklassniki':
+    'prefix': 'fa-odnoklassniki'
+    'body': '<${1:i} class="fa fa-odnoklassniki$2">$3</${1:i}>'
+  'fa-opencart':
+    'prefix': 'fa-opencart'
+    'body': '<${1:i} class="fa fa-opencart$2">$3</${1:i}>'
   'fa-openid':
     'prefix': 'fa-openid'
     'body': '<${1:i} class="fa fa-openid$2">$3</${1:i}>'
+  'fa-opera':
+    'prefix': 'fa-opera'
+    'body': '<${1:i} class="fa fa-opera$2">$3</${1:i}>'
+  'fa-optin-monster':
+    'prefix': 'fa-optin-monster'
+    'body': '<${1:i} class="fa fa-optin-monster$2">$3</${1:i}>'
   'fa-outdent':
     'prefix': 'fa-outdent'
     'body': '<${1:i} class="fa fa-outdent$2">$3</${1:i}>'
@@ -1205,6 +1403,9 @@
   'fa-refresh':
     'prefix': 'fa-refresh'
     'body': '<${1:i} class="fa fa-refresh$2">$3</${1:i}>'
+  'fa-registered':
+    'prefix': 'fa-registered'
+    'body': '<${1:i} class="fa fa-registered$2">$3</${1:i}>'
   'fa-renren':
     'prefix': 'fa-renren'
     'body': '<${1:i} class="fa fa-renren$2">$3</${1:i}>'
@@ -1256,6 +1457,9 @@
   'fa-rupee':
     'prefix': 'fa-rupee'
     'body': '<${1:i} class="fa fa-rupee$2">$3</${1:i}>'
+  'fa-safari':
+    'prefix': 'fa-safari'
+    'body': '<${1:i} class="fa fa-safari$2">$3</${1:i}>'
   'fa-save':
     'prefix': 'fa-save'
     'body': '<${1:i} class="fa fa-save$2">$3</${1:i}>'
@@ -1414,9 +1618,7 @@
     'body': '<${1:i} class="fa fa-stack-overflow$2">$3</${1:i}>'
   'fa-stack':
     'prefix': 'fa-stack'
-    'body': '<span class="fa-ul">
-	$1
-</span>'
+    'body': '<span class="fa-ul">\n\t$1\n</span>'
   'fa-star-half-empty':
     'prefix': 'fa-star-half-empty'
     'body': '<${1:i} class="fa fa-star-half-empty$2">$3</${1:i}>'
@@ -1450,6 +1652,12 @@
   'fa-stethoscope':
     'prefix': 'fa-stethoscope'
     'body': '<${1:i} class="fa fa-stethoscope$2">$3</${1:i}>'
+  'fa-sticky-note-o':
+    'prefix': 'fa-sticky-note-o'
+    'body': '<${1:i} class="fa fa-sticky-note-o$2">$3</${1:i}>'
+  'fa-sticky-note':
+    'prefix': 'fa-sticky-note'
+    'body': '<${1:i} class="fa fa-sticky-note$2">$3</${1:i}>'
   'fa-stop':
     'prefix': 'fa-stop'
     'body': '<${1:i} class="fa fa-stop$2">$3</${1:i}>'
@@ -1504,6 +1712,9 @@
   'fa-taxi':
     'prefix': 'fa-taxi'
     'body': '<${1:i} class="fa fa-taxi$2">$3</${1:i}>'
+  'fa-television':
+    'prefix': 'fa-television'
+    'body': '<${1:i} class="fa fa-television$2">$3</${1:i}>'
   'fa-tencent-weibo':
     'prefix': 'fa-tencent-weibo'
     'body': '<${1:i} class="fa fa-tencent-weibo$2">$3</${1:i}>'
@@ -1573,6 +1784,9 @@
   'fa-toggle-up':
     'prefix': 'fa-toggle-up'
     'body': '<${1:i} class="fa fa-toggle-up$2">$3</${1:i}>'
+  'fa-trademark':
+    'prefix': 'fa-trademark'
+    'body': '<${1:i} class="fa fa-trademark$2">$3</${1:i}>'
   'fa-train':
     'prefix': 'fa-train'
     'body': '<${1:i} class="fa fa-train$2">$3</${1:i}>'
@@ -1594,6 +1808,9 @@
   'fa-trello':
     'prefix': 'fa-trello'
     'body': '<${1:i} class="fa fa-trello$2">$3</${1:i}>'
+  'fa-tripadvisor':
+    'prefix': 'fa-tripadvisor'
+    'body': '<${1:i} class="fa fa-tripadvisor$2">$3</${1:i}>'
   'fa-trophy':
     'prefix': 'fa-trophy'
     'body': '<${1:i} class="fa fa-trophy$2">$3</${1:i}>'
@@ -1615,6 +1832,9 @@
   'fa-turkish-lira':
     'prefix': 'fa-turkish-lira'
     'body': '<${1:i} class="fa fa-turkish-lira$2">$3</${1:i}>'
+  'fa-tv':
+    'prefix': 'fa-tv'
+    'body': '<${1:i} class="fa fa-tv$2">$3</${1:i}>'
   'fa-twitch':
     'prefix': 'fa-twitch'
     'body': '<${1:i} class="fa fa-twitch$2">$3</${1:i}>'
@@ -1626,9 +1846,7 @@
     'body': '<${1:i} class="fa fa-twitter$2">$3</${1:i}>'
   'fa-ul':
     'prefix': 'fa-ul'
-    'body': '<ul class="fa-ul">
-	$1
-</ul>'
+    'body': '<ul class="fa-ul">\n\t$1\n</ul>'
   'fa-umbrella':
     'prefix': 'fa-umbrella'
     'body': '<${1:i} class="fa fa-umbrella$2">$3</${1:i}>'
@@ -1695,6 +1913,9 @@
   'fa-vimeo-square':
     'prefix': 'fa-vimeo-square'
     'body': '<${1:i} class="fa fa-vimeo-square$2">$3</${1:i}>'
+  'fa-vimeo':
+    'prefix': 'fa-vimeo'
+    'body': '<${1:i} class="fa fa-vimeo$2">$3</${1:i}>'
   'fa-vine':
     'prefix': 'fa-vine'
     'body': '<${1:i} class="fa fa-vine$2">$3</${1:i}>'
@@ -1731,6 +1952,9 @@
   'fa-wifi':
     'prefix': 'fa-wifi'
     'body': '<${1:i} class="fa fa-wifi$2">$3</${1:i}>'
+  'fa-wikipedia-w':
+    'prefix': 'fa-wikipedia-w'
+    'body': '<${1:i} class="fa fa-wikipedia-w$2">$3</${1:i}>'
   'fa-windows':
     'prefix': 'fa-windows'
     'body': '<${1:i} class="fa fa-windows$2">$3</${1:i}>'
@@ -1749,9 +1973,15 @@
   'fa-xing':
     'prefix': 'fa-xing'
     'body': '<${1:i} class="fa fa-xing$2">$3</${1:i}>'
+  'fa-y-combinator':
+    'prefix': 'fa-y-combinator'
+    'body': '<${1:i} class="fa fa-y-combinator$2">$3</${1:i}>'
   'fa-yahoo':
     'prefix': 'fa-yahoo'
     'body': '<${1:i} class="fa fa-yahoo$2">$3</${1:i}>'
+  'fa-yc':
+    'prefix': 'fa-yc'
+    'body': '<${1:i} class="fa fa-yc$2">$3</${1:i}>'
   'fa-yelp':
     'prefix': 'fa-yelp'
     'body': '<${1:i} class="fa fa-yelp$2">$3</${1:i}>'
