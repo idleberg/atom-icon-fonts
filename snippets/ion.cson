@@ -1,0 +1,2200 @@
+'.text.html':
+  'ion-alert':
+    'prefix': 'ion-alert'
+    'body': '<${i} class="ion-alert$2">$3</${1:i}>'
+  'ion-alert-circled':
+    'prefix': 'ion-alert-circled'
+    'body': '<${i} class="ion-alert-circled$2">$3</${1:i}>'
+  'ion-android-add':
+    'prefix': 'ion-android-add'
+    'body': '<${i} class="ion-android-add$2">$3</${1:i}>'
+  'ion-android-add-circle':
+    'prefix': 'ion-android-add-circle'
+    'body': '<${i} class="ion-android-add-circle$2">$3</${1:i}>'
+  'ion-android-alarm-clock':
+    'prefix': 'ion-android-alarm-clock'
+    'body': '<${i} class="ion-android-alarm-clock$2">$3</${1:i}>'
+  'ion-android-alert':
+    'prefix': 'ion-android-alert'
+    'body': '<${i} class="ion-android-alert$2">$3</${1:i}>'
+  'ion-android-apps':
+    'prefix': 'ion-android-apps'
+    'body': '<${i} class="ion-android-apps$2">$3</${1:i}>'
+  'ion-android-archive':
+    'prefix': 'ion-android-archive'
+    'body': '<${i} class="ion-android-archive$2">$3</${1:i}>'
+  'ion-android-arrow-back':
+    'prefix': 'ion-android-arrow-back'
+    'body': '<${i} class="ion-android-arrow-back$2">$3</${1:i}>'
+  'ion-android-arrow-down':
+    'prefix': 'ion-android-arrow-down'
+    'body': '<${i} class="ion-android-arrow-down$2">$3</${1:i}>'
+  'ion-android-arrow-dropdown':
+    'prefix': 'ion-android-arrow-dropdown'
+    'body': '<${i} class="ion-android-arrow-dropdown$2">$3</${1:i}>'
+  'ion-android-arrow-dropdown-circle':
+    'prefix': 'ion-android-arrow-dropdown-circle'
+    'body': '<${i} class="ion-android-arrow-dropdown-circle$2">$3</${1:i}>'
+  'ion-android-arrow-dropleft':
+    'prefix': 'ion-android-arrow-dropleft'
+    'body': '<${i} class="ion-android-arrow-dropleft$2">$3</${1:i}>'
+  'ion-android-arrow-dropleft-circle':
+    'prefix': 'ion-android-arrow-dropleft-circle'
+    'body': '<${i} class="ion-android-arrow-dropleft-circle$2">$3</${1:i}>'
+  'ion-android-arrow-dropright':
+    'prefix': 'ion-android-arrow-dropright'
+    'body': '<${i} class="ion-android-arrow-dropright$2">$3</${1:i}>'
+  'ion-android-arrow-dropright-circle':
+    'prefix': 'ion-android-arrow-dropright-circle'
+    'body': '<${i} class="ion-android-arrow-dropright-circle$2">$3</${1:i}>'
+  'ion-android-arrow-dropup':
+    'prefix': 'ion-android-arrow-dropup'
+    'body': '<${i} class="ion-android-arrow-dropup$2">$3</${1:i}>'
+  'ion-android-arrow-dropup-circle':
+    'prefix': 'ion-android-arrow-dropup-circle'
+    'body': '<${i} class="ion-android-arrow-dropup-circle$2">$3</${1:i}>'
+  'ion-android-arrow-forward':
+    'prefix': 'ion-android-arrow-forward'
+    'body': '<${i} class="ion-android-arrow-forward$2">$3</${1:i}>'
+  'ion-android-arrow-up':
+    'prefix': 'ion-android-arrow-up'
+    'body': '<${i} class="ion-android-arrow-up$2">$3</${1:i}>'
+  'ion-android-attach':
+    'prefix': 'ion-android-attach'
+    'body': '<${i} class="ion-android-attach$2">$3</${1:i}>'
+  'ion-android-bar':
+    'prefix': 'ion-android-bar'
+    'body': '<${i} class="ion-android-bar$2">$3</${1:i}>'
+  'ion-android-bicycle':
+    'prefix': 'ion-android-bicycle'
+    'body': '<${i} class="ion-android-bicycle$2">$3</${1:i}>'
+  'ion-android-boat':
+    'prefix': 'ion-android-boat'
+    'body': '<${i} class="ion-android-boat$2">$3</${1:i}>'
+  'ion-android-bookmark':
+    'prefix': 'ion-android-bookmark'
+    'body': '<${i} class="ion-android-bookmark$2">$3</${1:i}>'
+  'ion-android-bulb':
+    'prefix': 'ion-android-bulb'
+    'body': '<${i} class="ion-android-bulb$2">$3</${1:i}>'
+  'ion-android-bus':
+    'prefix': 'ion-android-bus'
+    'body': '<${i} class="ion-android-bus$2">$3</${1:i}>'
+  'ion-android-calendar':
+    'prefix': 'ion-android-calendar'
+    'body': '<${i} class="ion-android-calendar$2">$3</${1:i}>'
+  'ion-android-call':
+    'prefix': 'ion-android-call'
+    'body': '<${i} class="ion-android-call$2">$3</${1:i}>'
+  'ion-android-camera':
+    'prefix': 'ion-android-camera'
+    'body': '<${i} class="ion-android-camera$2">$3</${1:i}>'
+  'ion-android-cancel':
+    'prefix': 'ion-android-cancel'
+    'body': '<${i} class="ion-android-cancel$2">$3</${1:i}>'
+  'ion-android-car':
+    'prefix': 'ion-android-car'
+    'body': '<${i} class="ion-android-car$2">$3</${1:i}>'
+  'ion-android-cart':
+    'prefix': 'ion-android-cart'
+    'body': '<${i} class="ion-android-cart$2">$3</${1:i}>'
+  'ion-android-chat':
+    'prefix': 'ion-android-chat'
+    'body': '<${i} class="ion-android-chat$2">$3</${1:i}>'
+  'ion-android-checkbox':
+    'prefix': 'ion-android-checkbox'
+    'body': '<${i} class="ion-android-checkbox$2">$3</${1:i}>'
+  'ion-android-checkbox-blank':
+    'prefix': 'ion-android-checkbox-blank'
+    'body': '<${i} class="ion-android-checkbox-blank$2">$3</${1:i}>'
+  'ion-android-checkbox-outline':
+    'prefix': 'ion-android-checkbox-outline'
+    'body': '<${i} class="ion-android-checkbox-outline$2">$3</${1:i}>'
+  'ion-android-checkbox-outline-blank':
+    'prefix': 'ion-android-checkbox-outline-blank'
+    'body': '<${i} class="ion-android-checkbox-outline-blank$2">$3</${1:i}>'
+  'ion-android-checkmark-circle':
+    'prefix': 'ion-android-checkmark-circle'
+    'body': '<${i} class="ion-android-checkmark-circle$2">$3</${1:i}>'
+  'ion-android-clipboard':
+    'prefix': 'ion-android-clipboard'
+    'body': '<${i} class="ion-android-clipboard$2">$3</${1:i}>'
+  'ion-android-close':
+    'prefix': 'ion-android-close'
+    'body': '<${i} class="ion-android-close$2">$3</${1:i}>'
+  'ion-android-cloud':
+    'prefix': 'ion-android-cloud'
+    'body': '<${i} class="ion-android-cloud$2">$3</${1:i}>'
+  'ion-android-cloud-circle':
+    'prefix': 'ion-android-cloud-circle'
+    'body': '<${i} class="ion-android-cloud-circle$2">$3</${1:i}>'
+  'ion-android-cloud-done':
+    'prefix': 'ion-android-cloud-done'
+    'body': '<${i} class="ion-android-cloud-done$2">$3</${1:i}>'
+  'ion-android-cloud-outline':
+    'prefix': 'ion-android-cloud-outline'
+    'body': '<${i} class="ion-android-cloud-outline$2">$3</${1:i}>'
+  'ion-android-color-palette':
+    'prefix': 'ion-android-color-palette'
+    'body': '<${i} class="ion-android-color-palette$2">$3</${1:i}>'
+  'ion-android-compass':
+    'prefix': 'ion-android-compass'
+    'body': '<${i} class="ion-android-compass$2">$3</${1:i}>'
+  'ion-android-contact':
+    'prefix': 'ion-android-contact'
+    'body': '<${i} class="ion-android-contact$2">$3</${1:i}>'
+  'ion-android-contacts':
+    'prefix': 'ion-android-contacts'
+    'body': '<${i} class="ion-android-contacts$2">$3</${1:i}>'
+  'ion-android-contract':
+    'prefix': 'ion-android-contract'
+    'body': '<${i} class="ion-android-contract$2">$3</${1:i}>'
+  'ion-android-create':
+    'prefix': 'ion-android-create'
+    'body': '<${i} class="ion-android-create$2">$3</${1:i}>'
+  'ion-android-delete':
+    'prefix': 'ion-android-delete'
+    'body': '<${i} class="ion-android-delete$2">$3</${1:i}>'
+  'ion-android-desktop':
+    'prefix': 'ion-android-desktop'
+    'body': '<${i} class="ion-android-desktop$2">$3</${1:i}>'
+  'ion-android-document':
+    'prefix': 'ion-android-document'
+    'body': '<${i} class="ion-android-document$2">$3</${1:i}>'
+  'ion-android-done':
+    'prefix': 'ion-android-done'
+    'body': '<${i} class="ion-android-done$2">$3</${1:i}>'
+  'ion-android-done-all':
+    'prefix': 'ion-android-done-all'
+    'body': '<${i} class="ion-android-done-all$2">$3</${1:i}>'
+  'ion-android-download':
+    'prefix': 'ion-android-download'
+    'body': '<${i} class="ion-android-download$2">$3</${1:i}>'
+  'ion-android-drafts':
+    'prefix': 'ion-android-drafts'
+    'body': '<${i} class="ion-android-drafts$2">$3</${1:i}>'
+  'ion-android-exit':
+    'prefix': 'ion-android-exit'
+    'body': '<${i} class="ion-android-exit$2">$3</${1:i}>'
+  'ion-android-expand':
+    'prefix': 'ion-android-expand'
+    'body': '<${i} class="ion-android-expand$2">$3</${1:i}>'
+  'ion-android-favorite':
+    'prefix': 'ion-android-favorite'
+    'body': '<${i} class="ion-android-favorite$2">$3</${1:i}>'
+  'ion-android-favorite-outline':
+    'prefix': 'ion-android-favorite-outline'
+    'body': '<${i} class="ion-android-favorite-outline$2">$3</${1:i}>'
+  'ion-android-film':
+    'prefix': 'ion-android-film'
+    'body': '<${i} class="ion-android-film$2">$3</${1:i}>'
+  'ion-android-folder':
+    'prefix': 'ion-android-folder'
+    'body': '<${i} class="ion-android-folder$2">$3</${1:i}>'
+  'ion-android-folder-open':
+    'prefix': 'ion-android-folder-open'
+    'body': '<${i} class="ion-android-folder-open$2">$3</${1:i}>'
+  'ion-android-funnel':
+    'prefix': 'ion-android-funnel'
+    'body': '<${i} class="ion-android-funnel$2">$3</${1:i}>'
+  'ion-android-globe':
+    'prefix': 'ion-android-globe'
+    'body': '<${i} class="ion-android-globe$2">$3</${1:i}>'
+  'ion-android-hand':
+    'prefix': 'ion-android-hand'
+    'body': '<${i} class="ion-android-hand$2">$3</${1:i}>'
+  'ion-android-hangout':
+    'prefix': 'ion-android-hangout'
+    'body': '<${i} class="ion-android-hangout$2">$3</${1:i}>'
+  'ion-android-happy':
+    'prefix': 'ion-android-happy'
+    'body': '<${i} class="ion-android-happy$2">$3</${1:i}>'
+  'ion-android-home':
+    'prefix': 'ion-android-home'
+    'body': '<${i} class="ion-android-home$2">$3</${1:i}>'
+  'ion-android-image':
+    'prefix': 'ion-android-image'
+    'body': '<${i} class="ion-android-image$2">$3</${1:i}>'
+  'ion-android-laptop':
+    'prefix': 'ion-android-laptop'
+    'body': '<${i} class="ion-android-laptop$2">$3</${1:i}>'
+  'ion-android-list':
+    'prefix': 'ion-android-list'
+    'body': '<${i} class="ion-android-list$2">$3</${1:i}>'
+  'ion-android-locate':
+    'prefix': 'ion-android-locate'
+    'body': '<${i} class="ion-android-locate$2">$3</${1:i}>'
+  'ion-android-lock':
+    'prefix': 'ion-android-lock'
+    'body': '<${i} class="ion-android-lock$2">$3</${1:i}>'
+  'ion-android-mail':
+    'prefix': 'ion-android-mail'
+    'body': '<${i} class="ion-android-mail$2">$3</${1:i}>'
+  'ion-android-map':
+    'prefix': 'ion-android-map'
+    'body': '<${i} class="ion-android-map$2">$3</${1:i}>'
+  'ion-android-menu':
+    'prefix': 'ion-android-menu'
+    'body': '<${i} class="ion-android-menu$2">$3</${1:i}>'
+  'ion-android-microphone':
+    'prefix': 'ion-android-microphone'
+    'body': '<${i} class="ion-android-microphone$2">$3</${1:i}>'
+  'ion-android-microphone-off':
+    'prefix': 'ion-android-microphone-off'
+    'body': '<${i} class="ion-android-microphone-off$2">$3</${1:i}>'
+  'ion-android-more-horizontal':
+    'prefix': 'ion-android-more-horizontal'
+    'body': '<${i} class="ion-android-more-horizontal$2">$3</${1:i}>'
+  'ion-android-more-vertical':
+    'prefix': 'ion-android-more-vertical'
+    'body': '<${i} class="ion-android-more-vertical$2">$3</${1:i}>'
+  'ion-android-navigate':
+    'prefix': 'ion-android-navigate'
+    'body': '<${i} class="ion-android-navigate$2">$3</${1:i}>'
+  'ion-android-notifications':
+    'prefix': 'ion-android-notifications'
+    'body': '<${i} class="ion-android-notifications$2">$3</${1:i}>'
+  'ion-android-notifications-none':
+    'prefix': 'ion-android-notifications-none'
+    'body': '<${i} class="ion-android-notifications-none$2">$3</${1:i}>'
+  'ion-android-notifications-off':
+    'prefix': 'ion-android-notifications-off'
+    'body': '<${i} class="ion-android-notifications-off$2">$3</${1:i}>'
+  'ion-android-open':
+    'prefix': 'ion-android-open'
+    'body': '<${i} class="ion-android-open$2">$3</${1:i}>'
+  'ion-android-options':
+    'prefix': 'ion-android-options'
+    'body': '<${i} class="ion-android-options$2">$3</${1:i}>'
+  'ion-android-people':
+    'prefix': 'ion-android-people'
+    'body': '<${i} class="ion-android-people$2">$3</${1:i}>'
+  'ion-android-person':
+    'prefix': 'ion-android-person'
+    'body': '<${i} class="ion-android-person$2">$3</${1:i}>'
+  'ion-android-person-add':
+    'prefix': 'ion-android-person-add'
+    'body': '<${i} class="ion-android-person-add$2">$3</${1:i}>'
+  'ion-android-phone-landscape':
+    'prefix': 'ion-android-phone-landscape'
+    'body': '<${i} class="ion-android-phone-landscape$2">$3</${1:i}>'
+  'ion-android-phone-portrait':
+    'prefix': 'ion-android-phone-portrait'
+    'body': '<${i} class="ion-android-phone-portrait$2">$3</${1:i}>'
+  'ion-android-pin':
+    'prefix': 'ion-android-pin'
+    'body': '<${i} class="ion-android-pin$2">$3</${1:i}>'
+  'ion-android-plane':
+    'prefix': 'ion-android-plane'
+    'body': '<${i} class="ion-android-plane$2">$3</${1:i}>'
+  'ion-android-playstore':
+    'prefix': 'ion-android-playstore'
+    'body': '<${i} class="ion-android-playstore$2">$3</${1:i}>'
+  'ion-android-print':
+    'prefix': 'ion-android-print'
+    'body': '<${i} class="ion-android-print$2">$3</${1:i}>'
+  'ion-android-radio-button-off':
+    'prefix': 'ion-android-radio-button-off'
+    'body': '<${i} class="ion-android-radio-button-off$2">$3</${1:i}>'
+  'ion-android-radio-button-on':
+    'prefix': 'ion-android-radio-button-on'
+    'body': '<${i} class="ion-android-radio-button-on$2">$3</${1:i}>'
+  'ion-android-refresh':
+    'prefix': 'ion-android-refresh'
+    'body': '<${i} class="ion-android-refresh$2">$3</${1:i}>'
+  'ion-android-remove':
+    'prefix': 'ion-android-remove'
+    'body': '<${i} class="ion-android-remove$2">$3</${1:i}>'
+  'ion-android-remove-circle':
+    'prefix': 'ion-android-remove-circle'
+    'body': '<${i} class="ion-android-remove-circle$2">$3</${1:i}>'
+  'ion-android-restaurant':
+    'prefix': 'ion-android-restaurant'
+    'body': '<${i} class="ion-android-restaurant$2">$3</${1:i}>'
+  'ion-android-sad':
+    'prefix': 'ion-android-sad'
+    'body': '<${i} class="ion-android-sad$2">$3</${1:i}>'
+  'ion-android-search':
+    'prefix': 'ion-android-search'
+    'body': '<${i} class="ion-android-search$2">$3</${1:i}>'
+  'ion-android-send':
+    'prefix': 'ion-android-send'
+    'body': '<${i} class="ion-android-send$2">$3</${1:i}>'
+  'ion-android-settings':
+    'prefix': 'ion-android-settings'
+    'body': '<${i} class="ion-android-settings$2">$3</${1:i}>'
+  'ion-android-share':
+    'prefix': 'ion-android-share'
+    'body': '<${i} class="ion-android-share$2">$3</${1:i}>'
+  'ion-android-share-alt':
+    'prefix': 'ion-android-share-alt'
+    'body': '<${i} class="ion-android-share-alt$2">$3</${1:i}>'
+  'ion-android-star':
+    'prefix': 'ion-android-star'
+    'body': '<${i} class="ion-android-star$2">$3</${1:i}>'
+  'ion-android-star-half':
+    'prefix': 'ion-android-star-half'
+    'body': '<${i} class="ion-android-star-half$2">$3</${1:i}>'
+  'ion-android-star-outline':
+    'prefix': 'ion-android-star-outline'
+    'body': '<${i} class="ion-android-star-outline$2">$3</${1:i}>'
+  'ion-android-stopwatch':
+    'prefix': 'ion-android-stopwatch'
+    'body': '<${i} class="ion-android-stopwatch$2">$3</${1:i}>'
+  'ion-android-subway':
+    'prefix': 'ion-android-subway'
+    'body': '<${i} class="ion-android-subway$2">$3</${1:i}>'
+  'ion-android-sunny':
+    'prefix': 'ion-android-sunny'
+    'body': '<${i} class="ion-android-sunny$2">$3</${1:i}>'
+  'ion-android-sync':
+    'prefix': 'ion-android-sync'
+    'body': '<${i} class="ion-android-sync$2">$3</${1:i}>'
+  'ion-android-textsms':
+    'prefix': 'ion-android-textsms'
+    'body': '<${i} class="ion-android-textsms$2">$3</${1:i}>'
+  'ion-android-time':
+    'prefix': 'ion-android-time'
+    'body': '<${i} class="ion-android-time$2">$3</${1:i}>'
+  'ion-android-train':
+    'prefix': 'ion-android-train'
+    'body': '<${i} class="ion-android-train$2">$3</${1:i}>'
+  'ion-android-unlock':
+    'prefix': 'ion-android-unlock'
+    'body': '<${i} class="ion-android-unlock$2">$3</${1:i}>'
+  'ion-android-upload':
+    'prefix': 'ion-android-upload'
+    'body': '<${i} class="ion-android-upload$2">$3</${1:i}>'
+  'ion-android-volume-down':
+    'prefix': 'ion-android-volume-down'
+    'body': '<${i} class="ion-android-volume-down$2">$3</${1:i}>'
+  'ion-android-volume-mute':
+    'prefix': 'ion-android-volume-mute'
+    'body': '<${i} class="ion-android-volume-mute$2">$3</${1:i}>'
+  'ion-android-volume-off':
+    'prefix': 'ion-android-volume-off'
+    'body': '<${i} class="ion-android-volume-off$2">$3</${1:i}>'
+  'ion-android-volume-up':
+    'prefix': 'ion-android-volume-up'
+    'body': '<${i} class="ion-android-volume-up$2">$3</${1:i}>'
+  'ion-android-walk':
+    'prefix': 'ion-android-walk'
+    'body': '<${i} class="ion-android-walk$2">$3</${1:i}>'
+  'ion-android-warning':
+    'prefix': 'ion-android-warning'
+    'body': '<${i} class="ion-android-warning$2">$3</${1:i}>'
+  'ion-android-watch':
+    'prefix': 'ion-android-watch'
+    'body': '<${i} class="ion-android-watch$2">$3</${1:i}>'
+  'ion-android-wifi':
+    'prefix': 'ion-android-wifi'
+    'body': '<${i} class="ion-android-wifi$2">$3</${1:i}>'
+  'ion-aperture':
+    'prefix': 'ion-aperture'
+    'body': '<${i} class="ion-aperture$2">$3</${1:i}>'
+  'ion-archive':
+    'prefix': 'ion-archive'
+    'body': '<${i} class="ion-archive$2">$3</${1:i}>'
+  'ion-arrow-down-a':
+    'prefix': 'ion-arrow-down-a'
+    'body': '<${i} class="ion-arrow-down-a$2">$3</${1:i}>'
+  'ion-arrow-down-b':
+    'prefix': 'ion-arrow-down-b'
+    'body': '<${i} class="ion-arrow-down-b$2">$3</${1:i}>'
+  'ion-arrow-down-c':
+    'prefix': 'ion-arrow-down-c'
+    'body': '<${i} class="ion-arrow-down-c$2">$3</${1:i}>'
+  'ion-arrow-expand':
+    'prefix': 'ion-arrow-expand'
+    'body': '<${i} class="ion-arrow-expand$2">$3</${1:i}>'
+  'ion-arrow-graph-down-left':
+    'prefix': 'ion-arrow-graph-down-left'
+    'body': '<${i} class="ion-arrow-graph-down-left$2">$3</${1:i}>'
+  'ion-arrow-graph-down-right':
+    'prefix': 'ion-arrow-graph-down-right'
+    'body': '<${i} class="ion-arrow-graph-down-right$2">$3</${1:i}>'
+  'ion-arrow-graph-up-left':
+    'prefix': 'ion-arrow-graph-up-left'
+    'body': '<${i} class="ion-arrow-graph-up-left$2">$3</${1:i}>'
+  'ion-arrow-graph-up-right':
+    'prefix': 'ion-arrow-graph-up-right'
+    'body': '<${i} class="ion-arrow-graph-up-right$2">$3</${1:i}>'
+  'ion-arrow-left-a':
+    'prefix': 'ion-arrow-left-a'
+    'body': '<${i} class="ion-arrow-left-a$2">$3</${1:i}>'
+  'ion-arrow-left-b':
+    'prefix': 'ion-arrow-left-b'
+    'body': '<${i} class="ion-arrow-left-b$2">$3</${1:i}>'
+  'ion-arrow-left-c':
+    'prefix': 'ion-arrow-left-c'
+    'body': '<${i} class="ion-arrow-left-c$2">$3</${1:i}>'
+  'ion-arrow-move':
+    'prefix': 'ion-arrow-move'
+    'body': '<${i} class="ion-arrow-move$2">$3</${1:i}>'
+  'ion-arrow-resize':
+    'prefix': 'ion-arrow-resize'
+    'body': '<${i} class="ion-arrow-resize$2">$3</${1:i}>'
+  'ion-arrow-return-left':
+    'prefix': 'ion-arrow-return-left'
+    'body': '<${i} class="ion-arrow-return-left$2">$3</${1:i}>'
+  'ion-arrow-return-right':
+    'prefix': 'ion-arrow-return-right'
+    'body': '<${i} class="ion-arrow-return-right$2">$3</${1:i}>'
+  'ion-arrow-right-a':
+    'prefix': 'ion-arrow-right-a'
+    'body': '<${i} class="ion-arrow-right-a$2">$3</${1:i}>'
+  'ion-arrow-right-b':
+    'prefix': 'ion-arrow-right-b'
+    'body': '<${i} class="ion-arrow-right-b$2">$3</${1:i}>'
+  'ion-arrow-right-c':
+    'prefix': 'ion-arrow-right-c'
+    'body': '<${i} class="ion-arrow-right-c$2">$3</${1:i}>'
+  'ion-arrow-shrink':
+    'prefix': 'ion-arrow-shrink'
+    'body': '<${i} class="ion-arrow-shrink$2">$3</${1:i}>'
+  'ion-arrow-swap':
+    'prefix': 'ion-arrow-swap'
+    'body': '<${i} class="ion-arrow-swap$2">$3</${1:i}>'
+  'ion-arrow-up-a':
+    'prefix': 'ion-arrow-up-a'
+    'body': '<${i} class="ion-arrow-up-a$2">$3</${1:i}>'
+  'ion-arrow-up-b':
+    'prefix': 'ion-arrow-up-b'
+    'body': '<${i} class="ion-arrow-up-b$2">$3</${1:i}>'
+  'ion-arrow-up-c':
+    'prefix': 'ion-arrow-up-c'
+    'body': '<${i} class="ion-arrow-up-c$2">$3</${1:i}>'
+  'ion-asterisk':
+    'prefix': 'ion-asterisk'
+    'body': '<${i} class="ion-asterisk$2">$3</${1:i}>'
+  'ion-at':
+    'prefix': 'ion-at'
+    'body': '<${i} class="ion-at$2">$3</${1:i}>'
+  'ion-backspace':
+    'prefix': 'ion-backspace'
+    'body': '<${i} class="ion-backspace$2">$3</${1:i}>'
+  'ion-backspace-outline':
+    'prefix': 'ion-backspace-outline'
+    'body': '<${i} class="ion-backspace-outline$2">$3</${1:i}>'
+  'ion-bag':
+    'prefix': 'ion-bag'
+    'body': '<${i} class="ion-bag$2">$3</${1:i}>'
+  'ion-battery-charging':
+    'prefix': 'ion-battery-charging'
+    'body': '<${i} class="ion-battery-charging$2">$3</${1:i}>'
+  'ion-battery-empty':
+    'prefix': 'ion-battery-empty'
+    'body': '<${i} class="ion-battery-empty$2">$3</${1:i}>'
+  'ion-battery-full':
+    'prefix': 'ion-battery-full'
+    'body': '<${i} class="ion-battery-full$2">$3</${1:i}>'
+  'ion-battery-half':
+    'prefix': 'ion-battery-half'
+    'body': '<${i} class="ion-battery-half$2">$3</${1:i}>'
+  'ion-battery-low':
+    'prefix': 'ion-battery-low'
+    'body': '<${i} class="ion-battery-low$2">$3</${1:i}>'
+  'ion-beaker':
+    'prefix': 'ion-beaker'
+    'body': '<${i} class="ion-beaker$2">$3</${1:i}>'
+  'ion-beer':
+    'prefix': 'ion-beer'
+    'body': '<${i} class="ion-beer$2">$3</${1:i}>'
+  'ion-bluetooth':
+    'prefix': 'ion-bluetooth'
+    'body': '<${i} class="ion-bluetooth$2">$3</${1:i}>'
+  'ion-bonfire':
+    'prefix': 'ion-bonfire'
+    'body': '<${i} class="ion-bonfire$2">$3</${1:i}>'
+  'ion-bookmark':
+    'prefix': 'ion-bookmark'
+    'body': '<${i} class="ion-bookmark$2">$3</${1:i}>'
+  'ion-bowtie':
+    'prefix': 'ion-bowtie'
+    'body': '<${i} class="ion-bowtie$2">$3</${1:i}>'
+  'ion-briefcase':
+    'prefix': 'ion-briefcase'
+    'body': '<${i} class="ion-briefcase$2">$3</${1:i}>'
+  'ion-bug':
+    'prefix': 'ion-bug'
+    'body': '<${i} class="ion-bug$2">$3</${1:i}>'
+  'ion-calculator':
+    'prefix': 'ion-calculator'
+    'body': '<${i} class="ion-calculator$2">$3</${1:i}>'
+  'ion-calendar':
+    'prefix': 'ion-calendar'
+    'body': '<${i} class="ion-calendar$2">$3</${1:i}>'
+  'ion-camera':
+    'prefix': 'ion-camera'
+    'body': '<${i} class="ion-camera$2">$3</${1:i}>'
+  'ion-card':
+    'prefix': 'ion-card'
+    'body': '<${i} class="ion-card$2">$3</${1:i}>'
+  'ion-cash':
+    'prefix': 'ion-cash'
+    'body': '<${i} class="ion-cash$2">$3</${1:i}>'
+  'ion-chatbox':
+    'prefix': 'ion-chatbox'
+    'body': '<${i} class="ion-chatbox$2">$3</${1:i}>'
+  'ion-chatbox-working':
+    'prefix': 'ion-chatbox-working'
+    'body': '<${i} class="ion-chatbox-working$2">$3</${1:i}>'
+  'ion-chatboxes':
+    'prefix': 'ion-chatboxes'
+    'body': '<${i} class="ion-chatboxes$2">$3</${1:i}>'
+  'ion-chatbubble':
+    'prefix': 'ion-chatbubble'
+    'body': '<${i} class="ion-chatbubble$2">$3</${1:i}>'
+  'ion-chatbubble-working':
+    'prefix': 'ion-chatbubble-working'
+    'body': '<${i} class="ion-chatbubble-working$2">$3</${1:i}>'
+  'ion-chatbubbles':
+    'prefix': 'ion-chatbubbles'
+    'body': '<${i} class="ion-chatbubbles$2">$3</${1:i}>'
+  'ion-checkmark':
+    'prefix': 'ion-checkmark'
+    'body': '<${i} class="ion-checkmark$2">$3</${1:i}>'
+  'ion-checkmark-circled':
+    'prefix': 'ion-checkmark-circled'
+    'body': '<${i} class="ion-checkmark-circled$2">$3</${1:i}>'
+  'ion-checkmark-round':
+    'prefix': 'ion-checkmark-round'
+    'body': '<${i} class="ion-checkmark-round$2">$3</${1:i}>'
+  'ion-chevron-down':
+    'prefix': 'ion-chevron-down'
+    'body': '<${i} class="ion-chevron-down$2">$3</${1:i}>'
+  'ion-chevron-left':
+    'prefix': 'ion-chevron-left'
+    'body': '<${i} class="ion-chevron-left$2">$3</${1:i}>'
+  'ion-chevron-right':
+    'prefix': 'ion-chevron-right'
+    'body': '<${i} class="ion-chevron-right$2">$3</${1:i}>'
+  'ion-chevron-up':
+    'prefix': 'ion-chevron-up'
+    'body': '<${i} class="ion-chevron-up$2">$3</${1:i}>'
+  'ion-clipboard':
+    'prefix': 'ion-clipboard'
+    'body': '<${i} class="ion-clipboard$2">$3</${1:i}>'
+  'ion-clock':
+    'prefix': 'ion-clock'
+    'body': '<${i} class="ion-clock$2">$3</${1:i}>'
+  'ion-close':
+    'prefix': 'ion-close'
+    'body': '<${i} class="ion-close$2">$3</${1:i}>'
+  'ion-close-circled':
+    'prefix': 'ion-close-circled'
+    'body': '<${i} class="ion-close-circled$2">$3</${1:i}>'
+  'ion-close-round':
+    'prefix': 'ion-close-round'
+    'body': '<${i} class="ion-close-round$2">$3</${1:i}>'
+  'ion-closed-captioning':
+    'prefix': 'ion-closed-captioning'
+    'body': '<${i} class="ion-closed-captioning$2">$3</${1:i}>'
+  'ion-cloud':
+    'prefix': 'ion-cloud'
+    'body': '<${i} class="ion-cloud$2">$3</${1:i}>'
+  'ion-code':
+    'prefix': 'ion-code'
+    'body': '<${i} class="ion-code$2">$3</${1:i}>'
+  'ion-code-download':
+    'prefix': 'ion-code-download'
+    'body': '<${i} class="ion-code-download$2">$3</${1:i}>'
+  'ion-code-working':
+    'prefix': 'ion-code-working'
+    'body': '<${i} class="ion-code-working$2">$3</${1:i}>'
+  'ion-coffee':
+    'prefix': 'ion-coffee'
+    'body': '<${i} class="ion-coffee$2">$3</${1:i}>'
+  'ion-compass':
+    'prefix': 'ion-compass'
+    'body': '<${i} class="ion-compass$2">$3</${1:i}>'
+  'ion-compose':
+    'prefix': 'ion-compose'
+    'body': '<${i} class="ion-compose$2">$3</${1:i}>'
+  'ion-connection-bars':
+    'prefix': 'ion-connection-bars'
+    'body': '<${i} class="ion-connection-bars$2">$3</${1:i}>'
+  'ion-contrast':
+    'prefix': 'ion-contrast'
+    'body': '<${i} class="ion-contrast$2">$3</${1:i}>'
+  'ion-crop':
+    'prefix': 'ion-crop'
+    'body': '<${i} class="ion-crop$2">$3</${1:i}>'
+  'ion-cube':
+    'prefix': 'ion-cube'
+    'body': '<${i} class="ion-cube$2">$3</${1:i}>'
+  'ion-disc':
+    'prefix': 'ion-disc'
+    'body': '<${i} class="ion-disc$2">$3</${1:i}>'
+  'ion-document':
+    'prefix': 'ion-document'
+    'body': '<${i} class="ion-document$2">$3</${1:i}>'
+  'ion-document-text':
+    'prefix': 'ion-document-text'
+    'body': '<${i} class="ion-document-text$2">$3</${1:i}>'
+  'ion-drag':
+    'prefix': 'ion-drag'
+    'body': '<${i} class="ion-drag$2">$3</${1:i}>'
+  'ion-earth':
+    'prefix': 'ion-earth'
+    'body': '<${i} class="ion-earth$2">$3</${1:i}>'
+  'ion-easel':
+    'prefix': 'ion-easel'
+    'body': '<${i} class="ion-easel$2">$3</${1:i}>'
+  'ion-edit':
+    'prefix': 'ion-edit'
+    'body': '<${i} class="ion-edit$2">$3</${1:i}>'
+  'ion-egg':
+    'prefix': 'ion-egg'
+    'body': '<${i} class="ion-egg$2">$3</${1:i}>'
+  'ion-eject':
+    'prefix': 'ion-eject'
+    'body': '<${i} class="ion-eject$2">$3</${1:i}>'
+  'ion-email':
+    'prefix': 'ion-email'
+    'body': '<${i} class="ion-email$2">$3</${1:i}>'
+  'ion-email-unread':
+    'prefix': 'ion-email-unread'
+    'body': '<${i} class="ion-email-unread$2">$3</${1:i}>'
+  'ion-erlenmeyer-flask':
+    'prefix': 'ion-erlenmeyer-flask'
+    'body': '<${i} class="ion-erlenmeyer-flask$2">$3</${1:i}>'
+  'ion-erlenmeyer-flask-bubbles':
+    'prefix': 'ion-erlenmeyer-flask-bubbles'
+    'body': '<${i} class="ion-erlenmeyer-flask-bubbles$2">$3</${1:i}>'
+  'ion-eye':
+    'prefix': 'ion-eye'
+    'body': '<${i} class="ion-eye$2">$3</${1:i}>'
+  'ion-eye-disabled':
+    'prefix': 'ion-eye-disabled'
+    'body': '<${i} class="ion-eye-disabled$2">$3</${1:i}>'
+  'ion-female':
+    'prefix': 'ion-female'
+    'body': '<${i} class="ion-female$2">$3</${1:i}>'
+  'ion-filing':
+    'prefix': 'ion-filing'
+    'body': '<${i} class="ion-filing$2">$3</${1:i}>'
+  'ion-film-marker':
+    'prefix': 'ion-film-marker'
+    'body': '<${i} class="ion-film-marker$2">$3</${1:i}>'
+  'ion-fireball':
+    'prefix': 'ion-fireball'
+    'body': '<${i} class="ion-fireball$2">$3</${1:i}>'
+  'ion-flag':
+    'prefix': 'ion-flag'
+    'body': '<${i} class="ion-flag$2">$3</${1:i}>'
+  'ion-flame':
+    'prefix': 'ion-flame'
+    'body': '<${i} class="ion-flame$2">$3</${1:i}>'
+  'ion-flash':
+    'prefix': 'ion-flash'
+    'body': '<${i} class="ion-flash$2">$3</${1:i}>'
+  'ion-flash-off':
+    'prefix': 'ion-flash-off'
+    'body': '<${i} class="ion-flash-off$2">$3</${1:i}>'
+  'ion-folder':
+    'prefix': 'ion-folder'
+    'body': '<${i} class="ion-folder$2">$3</${1:i}>'
+  'ion-fork':
+    'prefix': 'ion-fork'
+    'body': '<${i} class="ion-fork$2">$3</${1:i}>'
+  'ion-fork-repo':
+    'prefix': 'ion-fork-repo'
+    'body': '<${i} class="ion-fork-repo$2">$3</${1:i}>'
+  'ion-forward':
+    'prefix': 'ion-forward'
+    'body': '<${i} class="ion-forward$2">$3</${1:i}>'
+  'ion-funnel':
+    'prefix': 'ion-funnel'
+    'body': '<${i} class="ion-funnel$2">$3</${1:i}>'
+  'ion-gear-a':
+    'prefix': 'ion-gear-a'
+    'body': '<${i} class="ion-gear-a$2">$3</${1:i}>'
+  'ion-gear-b':
+    'prefix': 'ion-gear-b'
+    'body': '<${i} class="ion-gear-b$2">$3</${1:i}>'
+  'ion-grid':
+    'prefix': 'ion-grid'
+    'body': '<${i} class="ion-grid$2">$3</${1:i}>'
+  'ion-hammer':
+    'prefix': 'ion-hammer'
+    'body': '<${i} class="ion-hammer$2">$3</${1:i}>'
+  'ion-happy':
+    'prefix': 'ion-happy'
+    'body': '<${i} class="ion-happy$2">$3</${1:i}>'
+  'ion-happy-outline':
+    'prefix': 'ion-happy-outline'
+    'body': '<${i} class="ion-happy-outline$2">$3</${1:i}>'
+  'ion-headphone':
+    'prefix': 'ion-headphone'
+    'body': '<${i} class="ion-headphone$2">$3</${1:i}>'
+  'ion-heart':
+    'prefix': 'ion-heart'
+    'body': '<${i} class="ion-heart$2">$3</${1:i}>'
+  'ion-heart-broken':
+    'prefix': 'ion-heart-broken'
+    'body': '<${i} class="ion-heart-broken$2">$3</${1:i}>'
+  'ion-help':
+    'prefix': 'ion-help'
+    'body': '<${i} class="ion-help$2">$3</${1:i}>'
+  'ion-help-buoy':
+    'prefix': 'ion-help-buoy'
+    'body': '<${i} class="ion-help-buoy$2">$3</${1:i}>'
+  'ion-help-circled':
+    'prefix': 'ion-help-circled'
+    'body': '<${i} class="ion-help-circled$2">$3</${1:i}>'
+  'ion-home':
+    'prefix': 'ion-home'
+    'body': '<${i} class="ion-home$2">$3</${1:i}>'
+  'ion-icecream':
+    'prefix': 'ion-icecream'
+    'body': '<${i} class="ion-icecream$2">$3</${1:i}>'
+  'ion-image':
+    'prefix': 'ion-image'
+    'body': '<${i} class="ion-image$2">$3</${1:i}>'
+  'ion-images':
+    'prefix': 'ion-images'
+    'body': '<${i} class="ion-images$2">$3</${1:i}>'
+  'ion-information':
+    'prefix': 'ion-information'
+    'body': '<${i} class="ion-information$2">$3</${1:i}>'
+  'ion-information-circled':
+    'prefix': 'ion-information-circled'
+    'body': '<${i} class="ion-information-circled$2">$3</${1:i}>'
+  'ion-ionic':
+    'prefix': 'ion-ionic'
+    'body': '<${i} class="ion-ionic$2">$3</${1:i}>'
+  'ion-ios-alarm':
+    'prefix': 'ion-ios-alarm'
+    'body': '<${i} class="ion-ios-alarm$2">$3</${1:i}>'
+  'ion-ios-alarm-outline':
+    'prefix': 'ion-ios-alarm-outline'
+    'body': '<${i} class="ion-ios-alarm-outline$2">$3</${1:i}>'
+  'ion-ios-albums':
+    'prefix': 'ion-ios-albums'
+    'body': '<${i} class="ion-ios-albums$2">$3</${1:i}>'
+  'ion-ios-albums-outline':
+    'prefix': 'ion-ios-albums-outline'
+    'body': '<${i} class="ion-ios-albums-outline$2">$3</${1:i}>'
+  'ion-ios-americanfootball':
+    'prefix': 'ion-ios-americanfootball'
+    'body': '<${i} class="ion-ios-americanfootball$2">$3</${1:i}>'
+  'ion-ios-americanfootball-outline':
+    'prefix': 'ion-ios-americanfootball-outline'
+    'body': '<${i} class="ion-ios-americanfootball-outline$2">$3</${1:i}>'
+  'ion-ios-analytics':
+    'prefix': 'ion-ios-analytics'
+    'body': '<${i} class="ion-ios-analytics$2">$3</${1:i}>'
+  'ion-ios-analytics-outline':
+    'prefix': 'ion-ios-analytics-outline'
+    'body': '<${i} class="ion-ios-analytics-outline$2">$3</${1:i}>'
+  'ion-ios-arrow-back':
+    'prefix': 'ion-ios-arrow-back'
+    'body': '<${i} class="ion-ios-arrow-back$2">$3</${1:i}>'
+  'ion-ios-arrow-down':
+    'prefix': 'ion-ios-arrow-down'
+    'body': '<${i} class="ion-ios-arrow-down$2">$3</${1:i}>'
+  'ion-ios-arrow-forward':
+    'prefix': 'ion-ios-arrow-forward'
+    'body': '<${i} class="ion-ios-arrow-forward$2">$3</${1:i}>'
+  'ion-ios-arrow-left':
+    'prefix': 'ion-ios-arrow-left'
+    'body': '<${i} class="ion-ios-arrow-left$2">$3</${1:i}>'
+  'ion-ios-arrow-right':
+    'prefix': 'ion-ios-arrow-right'
+    'body': '<${i} class="ion-ios-arrow-right$2">$3</${1:i}>'
+  'ion-ios-arrow-thin-down':
+    'prefix': 'ion-ios-arrow-thin-down'
+    'body': '<${i} class="ion-ios-arrow-thin-down$2">$3</${1:i}>'
+  'ion-ios-arrow-thin-left':
+    'prefix': 'ion-ios-arrow-thin-left'
+    'body': '<${i} class="ion-ios-arrow-thin-left$2">$3</${1:i}>'
+  'ion-ios-arrow-thin-right':
+    'prefix': 'ion-ios-arrow-thin-right'
+    'body': '<${i} class="ion-ios-arrow-thin-right$2">$3</${1:i}>'
+  'ion-ios-arrow-thin-up':
+    'prefix': 'ion-ios-arrow-thin-up'
+    'body': '<${i} class="ion-ios-arrow-thin-up$2">$3</${1:i}>'
+  'ion-ios-arrow-up':
+    'prefix': 'ion-ios-arrow-up'
+    'body': '<${i} class="ion-ios-arrow-up$2">$3</${1:i}>'
+  'ion-ios-at':
+    'prefix': 'ion-ios-at'
+    'body': '<${i} class="ion-ios-at$2">$3</${1:i}>'
+  'ion-ios-at-outline':
+    'prefix': 'ion-ios-at-outline'
+    'body': '<${i} class="ion-ios-at-outline$2">$3</${1:i}>'
+  'ion-ios-barcode':
+    'prefix': 'ion-ios-barcode'
+    'body': '<${i} class="ion-ios-barcode$2">$3</${1:i}>'
+  'ion-ios-barcode-outline':
+    'prefix': 'ion-ios-barcode-outline'
+    'body': '<${i} class="ion-ios-barcode-outline$2">$3</${1:i}>'
+  'ion-ios-baseball':
+    'prefix': 'ion-ios-baseball'
+    'body': '<${i} class="ion-ios-baseball$2">$3</${1:i}>'
+  'ion-ios-baseball-outline':
+    'prefix': 'ion-ios-baseball-outline'
+    'body': '<${i} class="ion-ios-baseball-outline$2">$3</${1:i}>'
+  'ion-ios-basketball':
+    'prefix': 'ion-ios-basketball'
+    'body': '<${i} class="ion-ios-basketball$2">$3</${1:i}>'
+  'ion-ios-basketball-outline':
+    'prefix': 'ion-ios-basketball-outline'
+    'body': '<${i} class="ion-ios-basketball-outline$2">$3</${1:i}>'
+  'ion-ios-bell':
+    'prefix': 'ion-ios-bell'
+    'body': '<${i} class="ion-ios-bell$2">$3</${1:i}>'
+  'ion-ios-bell-outline':
+    'prefix': 'ion-ios-bell-outline'
+    'body': '<${i} class="ion-ios-bell-outline$2">$3</${1:i}>'
+  'ion-ios-body':
+    'prefix': 'ion-ios-body'
+    'body': '<${i} class="ion-ios-body$2">$3</${1:i}>'
+  'ion-ios-body-outline':
+    'prefix': 'ion-ios-body-outline'
+    'body': '<${i} class="ion-ios-body-outline$2">$3</${1:i}>'
+  'ion-ios-bolt':
+    'prefix': 'ion-ios-bolt'
+    'body': '<${i} class="ion-ios-bolt$2">$3</${1:i}>'
+  'ion-ios-bolt-outline':
+    'prefix': 'ion-ios-bolt-outline'
+    'body': '<${i} class="ion-ios-bolt-outline$2">$3</${1:i}>'
+  'ion-ios-book':
+    'prefix': 'ion-ios-book'
+    'body': '<${i} class="ion-ios-book$2">$3</${1:i}>'
+  'ion-ios-book-outline':
+    'prefix': 'ion-ios-book-outline'
+    'body': '<${i} class="ion-ios-book-outline$2">$3</${1:i}>'
+  'ion-ios-bookmarks':
+    'prefix': 'ion-ios-bookmarks'
+    'body': '<${i} class="ion-ios-bookmarks$2">$3</${1:i}>'
+  'ion-ios-bookmarks-outline':
+    'prefix': 'ion-ios-bookmarks-outline'
+    'body': '<${i} class="ion-ios-bookmarks-outline$2">$3</${1:i}>'
+  'ion-ios-box':
+    'prefix': 'ion-ios-box'
+    'body': '<${i} class="ion-ios-box$2">$3</${1:i}>'
+  'ion-ios-box-outline':
+    'prefix': 'ion-ios-box-outline'
+    'body': '<${i} class="ion-ios-box-outline$2">$3</${1:i}>'
+  'ion-ios-briefcase':
+    'prefix': 'ion-ios-briefcase'
+    'body': '<${i} class="ion-ios-briefcase$2">$3</${1:i}>'
+  'ion-ios-briefcase-outline':
+    'prefix': 'ion-ios-briefcase-outline'
+    'body': '<${i} class="ion-ios-briefcase-outline$2">$3</${1:i}>'
+  'ion-ios-browsers':
+    'prefix': 'ion-ios-browsers'
+    'body': '<${i} class="ion-ios-browsers$2">$3</${1:i}>'
+  'ion-ios-browsers-outline':
+    'prefix': 'ion-ios-browsers-outline'
+    'body': '<${i} class="ion-ios-browsers-outline$2">$3</${1:i}>'
+  'ion-ios-calculator':
+    'prefix': 'ion-ios-calculator'
+    'body': '<${i} class="ion-ios-calculator$2">$3</${1:i}>'
+  'ion-ios-calculator-outline':
+    'prefix': 'ion-ios-calculator-outline'
+    'body': '<${i} class="ion-ios-calculator-outline$2">$3</${1:i}>'
+  'ion-ios-calendar':
+    'prefix': 'ion-ios-calendar'
+    'body': '<${i} class="ion-ios-calendar$2">$3</${1:i}>'
+  'ion-ios-calendar-outline':
+    'prefix': 'ion-ios-calendar-outline'
+    'body': '<${i} class="ion-ios-calendar-outline$2">$3</${1:i}>'
+  'ion-ios-camera':
+    'prefix': 'ion-ios-camera'
+    'body': '<${i} class="ion-ios-camera$2">$3</${1:i}>'
+  'ion-ios-camera-outline':
+    'prefix': 'ion-ios-camera-outline'
+    'body': '<${i} class="ion-ios-camera-outline$2">$3</${1:i}>'
+  'ion-ios-cart':
+    'prefix': 'ion-ios-cart'
+    'body': '<${i} class="ion-ios-cart$2">$3</${1:i}>'
+  'ion-ios-cart-outline':
+    'prefix': 'ion-ios-cart-outline'
+    'body': '<${i} class="ion-ios-cart-outline$2">$3</${1:i}>'
+  'ion-ios-chatboxes':
+    'prefix': 'ion-ios-chatboxes'
+    'body': '<${i} class="ion-ios-chatboxes$2">$3</${1:i}>'
+  'ion-ios-chatboxes-outline':
+    'prefix': 'ion-ios-chatboxes-outline'
+    'body': '<${i} class="ion-ios-chatboxes-outline$2">$3</${1:i}>'
+  'ion-ios-chatbubble':
+    'prefix': 'ion-ios-chatbubble'
+    'body': '<${i} class="ion-ios-chatbubble$2">$3</${1:i}>'
+  'ion-ios-chatbubble-outline':
+    'prefix': 'ion-ios-chatbubble-outline'
+    'body': '<${i} class="ion-ios-chatbubble-outline$2">$3</${1:i}>'
+  'ion-ios-checkmark':
+    'prefix': 'ion-ios-checkmark'
+    'body': '<${i} class="ion-ios-checkmark$2">$3</${1:i}>'
+  'ion-ios-checkmark-empty':
+    'prefix': 'ion-ios-checkmark-empty'
+    'body': '<${i} class="ion-ios-checkmark-empty$2">$3</${1:i}>'
+  'ion-ios-checkmark-outline':
+    'prefix': 'ion-ios-checkmark-outline'
+    'body': '<${i} class="ion-ios-checkmark-outline$2">$3</${1:i}>'
+  'ion-ios-circle-filled':
+    'prefix': 'ion-ios-circle-filled'
+    'body': '<${i} class="ion-ios-circle-filled$2">$3</${1:i}>'
+  'ion-ios-circle-outline':
+    'prefix': 'ion-ios-circle-outline'
+    'body': '<${i} class="ion-ios-circle-outline$2">$3</${1:i}>'
+  'ion-ios-clock':
+    'prefix': 'ion-ios-clock'
+    'body': '<${i} class="ion-ios-clock$2">$3</${1:i}>'
+  'ion-ios-clock-outline':
+    'prefix': 'ion-ios-clock-outline'
+    'body': '<${i} class="ion-ios-clock-outline$2">$3</${1:i}>'
+  'ion-ios-close':
+    'prefix': 'ion-ios-close'
+    'body': '<${i} class="ion-ios-close$2">$3</${1:i}>'
+  'ion-ios-close-empty':
+    'prefix': 'ion-ios-close-empty'
+    'body': '<${i} class="ion-ios-close-empty$2">$3</${1:i}>'
+  'ion-ios-close-outline':
+    'prefix': 'ion-ios-close-outline'
+    'body': '<${i} class="ion-ios-close-outline$2">$3</${1:i}>'
+  'ion-ios-cloud':
+    'prefix': 'ion-ios-cloud'
+    'body': '<${i} class="ion-ios-cloud$2">$3</${1:i}>'
+  'ion-ios-cloud-download':
+    'prefix': 'ion-ios-cloud-download'
+    'body': '<${i} class="ion-ios-cloud-download$2">$3</${1:i}>'
+  'ion-ios-cloud-download-outline':
+    'prefix': 'ion-ios-cloud-download-outline'
+    'body': '<${i} class="ion-ios-cloud-download-outline$2">$3</${1:i}>'
+  'ion-ios-cloud-outline':
+    'prefix': 'ion-ios-cloud-outline'
+    'body': '<${i} class="ion-ios-cloud-outline$2">$3</${1:i}>'
+  'ion-ios-cloud-upload':
+    'prefix': 'ion-ios-cloud-upload'
+    'body': '<${i} class="ion-ios-cloud-upload$2">$3</${1:i}>'
+  'ion-ios-cloud-upload-outline':
+    'prefix': 'ion-ios-cloud-upload-outline'
+    'body': '<${i} class="ion-ios-cloud-upload-outline$2">$3</${1:i}>'
+  'ion-ios-cloudy':
+    'prefix': 'ion-ios-cloudy'
+    'body': '<${i} class="ion-ios-cloudy$2">$3</${1:i}>'
+  'ion-ios-cloudy-night':
+    'prefix': 'ion-ios-cloudy-night'
+    'body': '<${i} class="ion-ios-cloudy-night$2">$3</${1:i}>'
+  'ion-ios-cloudy-night-outline':
+    'prefix': 'ion-ios-cloudy-night-outline'
+    'body': '<${i} class="ion-ios-cloudy-night-outline$2">$3</${1:i}>'
+  'ion-ios-cloudy-outline':
+    'prefix': 'ion-ios-cloudy-outline'
+    'body': '<${i} class="ion-ios-cloudy-outline$2">$3</${1:i}>'
+  'ion-ios-cog':
+    'prefix': 'ion-ios-cog'
+    'body': '<${i} class="ion-ios-cog$2">$3</${1:i}>'
+  'ion-ios-cog-outline':
+    'prefix': 'ion-ios-cog-outline'
+    'body': '<${i} class="ion-ios-cog-outline$2">$3</${1:i}>'
+  'ion-ios-color-filter':
+    'prefix': 'ion-ios-color-filter'
+    'body': '<${i} class="ion-ios-color-filter$2">$3</${1:i}>'
+  'ion-ios-color-filter-outline':
+    'prefix': 'ion-ios-color-filter-outline'
+    'body': '<${i} class="ion-ios-color-filter-outline$2">$3</${1:i}>'
+  'ion-ios-color-wand':
+    'prefix': 'ion-ios-color-wand'
+    'body': '<${i} class="ion-ios-color-wand$2">$3</${1:i}>'
+  'ion-ios-color-wand-outline':
+    'prefix': 'ion-ios-color-wand-outline'
+    'body': '<${i} class="ion-ios-color-wand-outline$2">$3</${1:i}>'
+  'ion-ios-compose':
+    'prefix': 'ion-ios-compose'
+    'body': '<${i} class="ion-ios-compose$2">$3</${1:i}>'
+  'ion-ios-compose-outline':
+    'prefix': 'ion-ios-compose-outline'
+    'body': '<${i} class="ion-ios-compose-outline$2">$3</${1:i}>'
+  'ion-ios-contact':
+    'prefix': 'ion-ios-contact'
+    'body': '<${i} class="ion-ios-contact$2">$3</${1:i}>'
+  'ion-ios-contact-outline':
+    'prefix': 'ion-ios-contact-outline'
+    'body': '<${i} class="ion-ios-contact-outline$2">$3</${1:i}>'
+  'ion-ios-copy':
+    'prefix': 'ion-ios-copy'
+    'body': '<${i} class="ion-ios-copy$2">$3</${1:i}>'
+  'ion-ios-copy-outline':
+    'prefix': 'ion-ios-copy-outline'
+    'body': '<${i} class="ion-ios-copy-outline$2">$3</${1:i}>'
+  'ion-ios-crop':
+    'prefix': 'ion-ios-crop'
+    'body': '<${i} class="ion-ios-crop$2">$3</${1:i}>'
+  'ion-ios-crop-strong':
+    'prefix': 'ion-ios-crop-strong'
+    'body': '<${i} class="ion-ios-crop-strong$2">$3</${1:i}>'
+  'ion-ios-download':
+    'prefix': 'ion-ios-download'
+    'body': '<${i} class="ion-ios-download$2">$3</${1:i}>'
+  'ion-ios-download-outline':
+    'prefix': 'ion-ios-download-outline'
+    'body': '<${i} class="ion-ios-download-outline$2">$3</${1:i}>'
+  'ion-ios-drag':
+    'prefix': 'ion-ios-drag'
+    'body': '<${i} class="ion-ios-drag$2">$3</${1:i}>'
+  'ion-ios-email':
+    'prefix': 'ion-ios-email'
+    'body': '<${i} class="ion-ios-email$2">$3</${1:i}>'
+  'ion-ios-email-outline':
+    'prefix': 'ion-ios-email-outline'
+    'body': '<${i} class="ion-ios-email-outline$2">$3</${1:i}>'
+  'ion-ios-eye':
+    'prefix': 'ion-ios-eye'
+    'body': '<${i} class="ion-ios-eye$2">$3</${1:i}>'
+  'ion-ios-eye-outline':
+    'prefix': 'ion-ios-eye-outline'
+    'body': '<${i} class="ion-ios-eye-outline$2">$3</${1:i}>'
+  'ion-ios-fastforward':
+    'prefix': 'ion-ios-fastforward'
+    'body': '<${i} class="ion-ios-fastforward$2">$3</${1:i}>'
+  'ion-ios-fastforward-outline':
+    'prefix': 'ion-ios-fastforward-outline'
+    'body': '<${i} class="ion-ios-fastforward-outline$2">$3</${1:i}>'
+  'ion-ios-filing':
+    'prefix': 'ion-ios-filing'
+    'body': '<${i} class="ion-ios-filing$2">$3</${1:i}>'
+  'ion-ios-filing-outline':
+    'prefix': 'ion-ios-filing-outline'
+    'body': '<${i} class="ion-ios-filing-outline$2">$3</${1:i}>'
+  'ion-ios-film':
+    'prefix': 'ion-ios-film'
+    'body': '<${i} class="ion-ios-film$2">$3</${1:i}>'
+  'ion-ios-film-outline':
+    'prefix': 'ion-ios-film-outline'
+    'body': '<${i} class="ion-ios-film-outline$2">$3</${1:i}>'
+  'ion-ios-flag':
+    'prefix': 'ion-ios-flag'
+    'body': '<${i} class="ion-ios-flag$2">$3</${1:i}>'
+  'ion-ios-flag-outline':
+    'prefix': 'ion-ios-flag-outline'
+    'body': '<${i} class="ion-ios-flag-outline$2">$3</${1:i}>'
+  'ion-ios-flame':
+    'prefix': 'ion-ios-flame'
+    'body': '<${i} class="ion-ios-flame$2">$3</${1:i}>'
+  'ion-ios-flame-outline':
+    'prefix': 'ion-ios-flame-outline'
+    'body': '<${i} class="ion-ios-flame-outline$2">$3</${1:i}>'
+  'ion-ios-flask':
+    'prefix': 'ion-ios-flask'
+    'body': '<${i} class="ion-ios-flask$2">$3</${1:i}>'
+  'ion-ios-flask-outline':
+    'prefix': 'ion-ios-flask-outline'
+    'body': '<${i} class="ion-ios-flask-outline$2">$3</${1:i}>'
+  'ion-ios-flower':
+    'prefix': 'ion-ios-flower'
+    'body': '<${i} class="ion-ios-flower$2">$3</${1:i}>'
+  'ion-ios-flower-outline':
+    'prefix': 'ion-ios-flower-outline'
+    'body': '<${i} class="ion-ios-flower-outline$2">$3</${1:i}>'
+  'ion-ios-folder':
+    'prefix': 'ion-ios-folder'
+    'body': '<${i} class="ion-ios-folder$2">$3</${1:i}>'
+  'ion-ios-folder-outline':
+    'prefix': 'ion-ios-folder-outline'
+    'body': '<${i} class="ion-ios-folder-outline$2">$3</${1:i}>'
+  'ion-ios-football':
+    'prefix': 'ion-ios-football'
+    'body': '<${i} class="ion-ios-football$2">$3</${1:i}>'
+  'ion-ios-football-outline':
+    'prefix': 'ion-ios-football-outline'
+    'body': '<${i} class="ion-ios-football-outline$2">$3</${1:i}>'
+  'ion-ios-game-controller-a':
+    'prefix': 'ion-ios-game-controller-a'
+    'body': '<${i} class="ion-ios-game-controller-a$2">$3</${1:i}>'
+  'ion-ios-game-controller-a-outline':
+    'prefix': 'ion-ios-game-controller-a-outline'
+    'body': '<${i} class="ion-ios-game-controller-a-outline$2">$3</${1:i}>'
+  'ion-ios-game-controller-b':
+    'prefix': 'ion-ios-game-controller-b'
+    'body': '<${i} class="ion-ios-game-controller-b$2">$3</${1:i}>'
+  'ion-ios-game-controller-b-outline':
+    'prefix': 'ion-ios-game-controller-b-outline'
+    'body': '<${i} class="ion-ios-game-controller-b-outline$2">$3</${1:i}>'
+  'ion-ios-gear':
+    'prefix': 'ion-ios-gear'
+    'body': '<${i} class="ion-ios-gear$2">$3</${1:i}>'
+  'ion-ios-gear-outline':
+    'prefix': 'ion-ios-gear-outline'
+    'body': '<${i} class="ion-ios-gear-outline$2">$3</${1:i}>'
+  'ion-ios-glasses':
+    'prefix': 'ion-ios-glasses'
+    'body': '<${i} class="ion-ios-glasses$2">$3</${1:i}>'
+  'ion-ios-glasses-outline':
+    'prefix': 'ion-ios-glasses-outline'
+    'body': '<${i} class="ion-ios-glasses-outline$2">$3</${1:i}>'
+  'ion-ios-grid-view':
+    'prefix': 'ion-ios-grid-view'
+    'body': '<${i} class="ion-ios-grid-view$2">$3</${1:i}>'
+  'ion-ios-grid-view-outline':
+    'prefix': 'ion-ios-grid-view-outline'
+    'body': '<${i} class="ion-ios-grid-view-outline$2">$3</${1:i}>'
+  'ion-ios-heart':
+    'prefix': 'ion-ios-heart'
+    'body': '<${i} class="ion-ios-heart$2">$3</${1:i}>'
+  'ion-ios-heart-outline':
+    'prefix': 'ion-ios-heart-outline'
+    'body': '<${i} class="ion-ios-heart-outline$2">$3</${1:i}>'
+  'ion-ios-help':
+    'prefix': 'ion-ios-help'
+    'body': '<${i} class="ion-ios-help$2">$3</${1:i}>'
+  'ion-ios-help-empty':
+    'prefix': 'ion-ios-help-empty'
+    'body': '<${i} class="ion-ios-help-empty$2">$3</${1:i}>'
+  'ion-ios-help-outline':
+    'prefix': 'ion-ios-help-outline'
+    'body': '<${i} class="ion-ios-help-outline$2">$3</${1:i}>'
+  'ion-ios-home':
+    'prefix': 'ion-ios-home'
+    'body': '<${i} class="ion-ios-home$2">$3</${1:i}>'
+  'ion-ios-home-outline':
+    'prefix': 'ion-ios-home-outline'
+    'body': '<${i} class="ion-ios-home-outline$2">$3</${1:i}>'
+  'ion-ios-infinite':
+    'prefix': 'ion-ios-infinite'
+    'body': '<${i} class="ion-ios-infinite$2">$3</${1:i}>'
+  'ion-ios-infinite-outline':
+    'prefix': 'ion-ios-infinite-outline'
+    'body': '<${i} class="ion-ios-infinite-outline$2">$3</${1:i}>'
+  'ion-ios-information':
+    'prefix': 'ion-ios-information'
+    'body': '<${i} class="ion-ios-information$2">$3</${1:i}>'
+  'ion-ios-information-empty':
+    'prefix': 'ion-ios-information-empty'
+    'body': '<${i} class="ion-ios-information-empty$2">$3</${1:i}>'
+  'ion-ios-information-outline':
+    'prefix': 'ion-ios-information-outline'
+    'body': '<${i} class="ion-ios-information-outline$2">$3</${1:i}>'
+  'ion-ios-ionic-outline':
+    'prefix': 'ion-ios-ionic-outline'
+    'body': '<${i} class="ion-ios-ionic-outline$2">$3</${1:i}>'
+  'ion-ios-keypad':
+    'prefix': 'ion-ios-keypad'
+    'body': '<${i} class="ion-ios-keypad$2">$3</${1:i}>'
+  'ion-ios-keypad-outline':
+    'prefix': 'ion-ios-keypad-outline'
+    'body': '<${i} class="ion-ios-keypad-outline$2">$3</${1:i}>'
+  'ion-ios-lightbulb':
+    'prefix': 'ion-ios-lightbulb'
+    'body': '<${i} class="ion-ios-lightbulb$2">$3</${1:i}>'
+  'ion-ios-lightbulb-outline':
+    'prefix': 'ion-ios-lightbulb-outline'
+    'body': '<${i} class="ion-ios-lightbulb-outline$2">$3</${1:i}>'
+  'ion-ios-list':
+    'prefix': 'ion-ios-list'
+    'body': '<${i} class="ion-ios-list$2">$3</${1:i}>'
+  'ion-ios-list-outline':
+    'prefix': 'ion-ios-list-outline'
+    'body': '<${i} class="ion-ios-list-outline$2">$3</${1:i}>'
+  'ion-ios-location':
+    'prefix': 'ion-ios-location'
+    'body': '<${i} class="ion-ios-location$2">$3</${1:i}>'
+  'ion-ios-location-outline':
+    'prefix': 'ion-ios-location-outline'
+    'body': '<${i} class="ion-ios-location-outline$2">$3</${1:i}>'
+  'ion-ios-locked':
+    'prefix': 'ion-ios-locked'
+    'body': '<${i} class="ion-ios-locked$2">$3</${1:i}>'
+  'ion-ios-locked-outline':
+    'prefix': 'ion-ios-locked-outline'
+    'body': '<${i} class="ion-ios-locked-outline$2">$3</${1:i}>'
+  'ion-ios-loop':
+    'prefix': 'ion-ios-loop'
+    'body': '<${i} class="ion-ios-loop$2">$3</${1:i}>'
+  'ion-ios-loop-strong':
+    'prefix': 'ion-ios-loop-strong'
+    'body': '<${i} class="ion-ios-loop-strong$2">$3</${1:i}>'
+  'ion-ios-medical':
+    'prefix': 'ion-ios-medical'
+    'body': '<${i} class="ion-ios-medical$2">$3</${1:i}>'
+  'ion-ios-medical-outline':
+    'prefix': 'ion-ios-medical-outline'
+    'body': '<${i} class="ion-ios-medical-outline$2">$3</${1:i}>'
+  'ion-ios-medkit':
+    'prefix': 'ion-ios-medkit'
+    'body': '<${i} class="ion-ios-medkit$2">$3</${1:i}>'
+  'ion-ios-medkit-outline':
+    'prefix': 'ion-ios-medkit-outline'
+    'body': '<${i} class="ion-ios-medkit-outline$2">$3</${1:i}>'
+  'ion-ios-mic':
+    'prefix': 'ion-ios-mic'
+    'body': '<${i} class="ion-ios-mic$2">$3</${1:i}>'
+  'ion-ios-mic-off':
+    'prefix': 'ion-ios-mic-off'
+    'body': '<${i} class="ion-ios-mic-off$2">$3</${1:i}>'
+  'ion-ios-mic-outline':
+    'prefix': 'ion-ios-mic-outline'
+    'body': '<${i} class="ion-ios-mic-outline$2">$3</${1:i}>'
+  'ion-ios-minus':
+    'prefix': 'ion-ios-minus'
+    'body': '<${i} class="ion-ios-minus$2">$3</${1:i}>'
+  'ion-ios-minus-empty':
+    'prefix': 'ion-ios-minus-empty'
+    'body': '<${i} class="ion-ios-minus-empty$2">$3</${1:i}>'
+  'ion-ios-minus-outline':
+    'prefix': 'ion-ios-minus-outline'
+    'body': '<${i} class="ion-ios-minus-outline$2">$3</${1:i}>'
+  'ion-ios-monitor':
+    'prefix': 'ion-ios-monitor'
+    'body': '<${i} class="ion-ios-monitor$2">$3</${1:i}>'
+  'ion-ios-monitor-outline':
+    'prefix': 'ion-ios-monitor-outline'
+    'body': '<${i} class="ion-ios-monitor-outline$2">$3</${1:i}>'
+  'ion-ios-moon':
+    'prefix': 'ion-ios-moon'
+    'body': '<${i} class="ion-ios-moon$2">$3</${1:i}>'
+  'ion-ios-moon-outline':
+    'prefix': 'ion-ios-moon-outline'
+    'body': '<${i} class="ion-ios-moon-outline$2">$3</${1:i}>'
+  'ion-ios-more':
+    'prefix': 'ion-ios-more'
+    'body': '<${i} class="ion-ios-more$2">$3</${1:i}>'
+  'ion-ios-more-outline':
+    'prefix': 'ion-ios-more-outline'
+    'body': '<${i} class="ion-ios-more-outline$2">$3</${1:i}>'
+  'ion-ios-musical-note':
+    'prefix': 'ion-ios-musical-note'
+    'body': '<${i} class="ion-ios-musical-note$2">$3</${1:i}>'
+  'ion-ios-musical-notes':
+    'prefix': 'ion-ios-musical-notes'
+    'body': '<${i} class="ion-ios-musical-notes$2">$3</${1:i}>'
+  'ion-ios-navigate':
+    'prefix': 'ion-ios-navigate'
+    'body': '<${i} class="ion-ios-navigate$2">$3</${1:i}>'
+  'ion-ios-navigate-outline':
+    'prefix': 'ion-ios-navigate-outline'
+    'body': '<${i} class="ion-ios-navigate-outline$2">$3</${1:i}>'
+  'ion-ios-nutrition':
+    'prefix': 'ion-ios-nutrition'
+    'body': '<${i} class="ion-ios-nutrition$2">$3</${1:i}>'
+  'ion-ios-nutrition-outline':
+    'prefix': 'ion-ios-nutrition-outline'
+    'body': '<${i} class="ion-ios-nutrition-outline$2">$3</${1:i}>'
+  'ion-ios-paper':
+    'prefix': 'ion-ios-paper'
+    'body': '<${i} class="ion-ios-paper$2">$3</${1:i}>'
+  'ion-ios-paper-outline':
+    'prefix': 'ion-ios-paper-outline'
+    'body': '<${i} class="ion-ios-paper-outline$2">$3</${1:i}>'
+  'ion-ios-paperplane':
+    'prefix': 'ion-ios-paperplane'
+    'body': '<${i} class="ion-ios-paperplane$2">$3</${1:i}>'
+  'ion-ios-paperplane-outline':
+    'prefix': 'ion-ios-paperplane-outline'
+    'body': '<${i} class="ion-ios-paperplane-outline$2">$3</${1:i}>'
+  'ion-ios-partlysunny':
+    'prefix': 'ion-ios-partlysunny'
+    'body': '<${i} class="ion-ios-partlysunny$2">$3</${1:i}>'
+  'ion-ios-partlysunny-outline':
+    'prefix': 'ion-ios-partlysunny-outline'
+    'body': '<${i} class="ion-ios-partlysunny-outline$2">$3</${1:i}>'
+  'ion-ios-pause':
+    'prefix': 'ion-ios-pause'
+    'body': '<${i} class="ion-ios-pause$2">$3</${1:i}>'
+  'ion-ios-pause-outline':
+    'prefix': 'ion-ios-pause-outline'
+    'body': '<${i} class="ion-ios-pause-outline$2">$3</${1:i}>'
+  'ion-ios-paw':
+    'prefix': 'ion-ios-paw'
+    'body': '<${i} class="ion-ios-paw$2">$3</${1:i}>'
+  'ion-ios-paw-outline':
+    'prefix': 'ion-ios-paw-outline'
+    'body': '<${i} class="ion-ios-paw-outline$2">$3</${1:i}>'
+  'ion-ios-people':
+    'prefix': 'ion-ios-people'
+    'body': '<${i} class="ion-ios-people$2">$3</${1:i}>'
+  'ion-ios-people-outline':
+    'prefix': 'ion-ios-people-outline'
+    'body': '<${i} class="ion-ios-people-outline$2">$3</${1:i}>'
+  'ion-ios-person':
+    'prefix': 'ion-ios-person'
+    'body': '<${i} class="ion-ios-person$2">$3</${1:i}>'
+  'ion-ios-person-outline':
+    'prefix': 'ion-ios-person-outline'
+    'body': '<${i} class="ion-ios-person-outline$2">$3</${1:i}>'
+  'ion-ios-personadd':
+    'prefix': 'ion-ios-personadd'
+    'body': '<${i} class="ion-ios-personadd$2">$3</${1:i}>'
+  'ion-ios-personadd-outline':
+    'prefix': 'ion-ios-personadd-outline'
+    'body': '<${i} class="ion-ios-personadd-outline$2">$3</${1:i}>'
+  'ion-ios-photos':
+    'prefix': 'ion-ios-photos'
+    'body': '<${i} class="ion-ios-photos$2">$3</${1:i}>'
+  'ion-ios-photos-outline':
+    'prefix': 'ion-ios-photos-outline'
+    'body': '<${i} class="ion-ios-photos-outline$2">$3</${1:i}>'
+  'ion-ios-pie':
+    'prefix': 'ion-ios-pie'
+    'body': '<${i} class="ion-ios-pie$2">$3</${1:i}>'
+  'ion-ios-pie-outline':
+    'prefix': 'ion-ios-pie-outline'
+    'body': '<${i} class="ion-ios-pie-outline$2">$3</${1:i}>'
+  'ion-ios-pint':
+    'prefix': 'ion-ios-pint'
+    'body': '<${i} class="ion-ios-pint$2">$3</${1:i}>'
+  'ion-ios-pint-outline':
+    'prefix': 'ion-ios-pint-outline'
+    'body': '<${i} class="ion-ios-pint-outline$2">$3</${1:i}>'
+  'ion-ios-play':
+    'prefix': 'ion-ios-play'
+    'body': '<${i} class="ion-ios-play$2">$3</${1:i}>'
+  'ion-ios-play-outline':
+    'prefix': 'ion-ios-play-outline'
+    'body': '<${i} class="ion-ios-play-outline$2">$3</${1:i}>'
+  'ion-ios-plus':
+    'prefix': 'ion-ios-plus'
+    'body': '<${i} class="ion-ios-plus$2">$3</${1:i}>'
+  'ion-ios-plus-empty':
+    'prefix': 'ion-ios-plus-empty'
+    'body': '<${i} class="ion-ios-plus-empty$2">$3</${1:i}>'
+  'ion-ios-plus-outline':
+    'prefix': 'ion-ios-plus-outline'
+    'body': '<${i} class="ion-ios-plus-outline$2">$3</${1:i}>'
+  'ion-ios-pricetag':
+    'prefix': 'ion-ios-pricetag'
+    'body': '<${i} class="ion-ios-pricetag$2">$3</${1:i}>'
+  'ion-ios-pricetag-outline':
+    'prefix': 'ion-ios-pricetag-outline'
+    'body': '<${i} class="ion-ios-pricetag-outline$2">$3</${1:i}>'
+  'ion-ios-pricetags':
+    'prefix': 'ion-ios-pricetags'
+    'body': '<${i} class="ion-ios-pricetags$2">$3</${1:i}>'
+  'ion-ios-pricetags-outline':
+    'prefix': 'ion-ios-pricetags-outline'
+    'body': '<${i} class="ion-ios-pricetags-outline$2">$3</${1:i}>'
+  'ion-ios-printer':
+    'prefix': 'ion-ios-printer'
+    'body': '<${i} class="ion-ios-printer$2">$3</${1:i}>'
+  'ion-ios-printer-outline':
+    'prefix': 'ion-ios-printer-outline'
+    'body': '<${i} class="ion-ios-printer-outline$2">$3</${1:i}>'
+  'ion-ios-pulse':
+    'prefix': 'ion-ios-pulse'
+    'body': '<${i} class="ion-ios-pulse$2">$3</${1:i}>'
+  'ion-ios-pulse-strong':
+    'prefix': 'ion-ios-pulse-strong'
+    'body': '<${i} class="ion-ios-pulse-strong$2">$3</${1:i}>'
+  'ion-ios-rainy':
+    'prefix': 'ion-ios-rainy'
+    'body': '<${i} class="ion-ios-rainy$2">$3</${1:i}>'
+  'ion-ios-rainy-outline':
+    'prefix': 'ion-ios-rainy-outline'
+    'body': '<${i} class="ion-ios-rainy-outline$2">$3</${1:i}>'
+  'ion-ios-recording':
+    'prefix': 'ion-ios-recording'
+    'body': '<${i} class="ion-ios-recording$2">$3</${1:i}>'
+  'ion-ios-recording-outline':
+    'prefix': 'ion-ios-recording-outline'
+    'body': '<${i} class="ion-ios-recording-outline$2">$3</${1:i}>'
+  'ion-ios-redo':
+    'prefix': 'ion-ios-redo'
+    'body': '<${i} class="ion-ios-redo$2">$3</${1:i}>'
+  'ion-ios-redo-outline':
+    'prefix': 'ion-ios-redo-outline'
+    'body': '<${i} class="ion-ios-redo-outline$2">$3</${1:i}>'
+  'ion-ios-refresh':
+    'prefix': 'ion-ios-refresh'
+    'body': '<${i} class="ion-ios-refresh$2">$3</${1:i}>'
+  'ion-ios-refresh-empty':
+    'prefix': 'ion-ios-refresh-empty'
+    'body': '<${i} class="ion-ios-refresh-empty$2">$3</${1:i}>'
+  'ion-ios-refresh-outline':
+    'prefix': 'ion-ios-refresh-outline'
+    'body': '<${i} class="ion-ios-refresh-outline$2">$3</${1:i}>'
+  'ion-ios-reload':
+    'prefix': 'ion-ios-reload'
+    'body': '<${i} class="ion-ios-reload$2">$3</${1:i}>'
+  'ion-ios-reverse-camera':
+    'prefix': 'ion-ios-reverse-camera'
+    'body': '<${i} class="ion-ios-reverse-camera$2">$3</${1:i}>'
+  'ion-ios-reverse-camera-outline':
+    'prefix': 'ion-ios-reverse-camera-outline'
+    'body': '<${i} class="ion-ios-reverse-camera-outline$2">$3</${1:i}>'
+  'ion-ios-rewind':
+    'prefix': 'ion-ios-rewind'
+    'body': '<${i} class="ion-ios-rewind$2">$3</${1:i}>'
+  'ion-ios-rewind-outline':
+    'prefix': 'ion-ios-rewind-outline'
+    'body': '<${i} class="ion-ios-rewind-outline$2">$3</${1:i}>'
+  'ion-ios-rose':
+    'prefix': 'ion-ios-rose'
+    'body': '<${i} class="ion-ios-rose$2">$3</${1:i}>'
+  'ion-ios-rose-outline':
+    'prefix': 'ion-ios-rose-outline'
+    'body': '<${i} class="ion-ios-rose-outline$2">$3</${1:i}>'
+  'ion-ios-search':
+    'prefix': 'ion-ios-search'
+    'body': '<${i} class="ion-ios-search$2">$3</${1:i}>'
+  'ion-ios-search-strong':
+    'prefix': 'ion-ios-search-strong'
+    'body': '<${i} class="ion-ios-search-strong$2">$3</${1:i}>'
+  'ion-ios-settings':
+    'prefix': 'ion-ios-settings'
+    'body': '<${i} class="ion-ios-settings$2">$3</${1:i}>'
+  'ion-ios-settings-strong':
+    'prefix': 'ion-ios-settings-strong'
+    'body': '<${i} class="ion-ios-settings-strong$2">$3</${1:i}>'
+  'ion-ios-shuffle':
+    'prefix': 'ion-ios-shuffle'
+    'body': '<${i} class="ion-ios-shuffle$2">$3</${1:i}>'
+  'ion-ios-shuffle-strong':
+    'prefix': 'ion-ios-shuffle-strong'
+    'body': '<${i} class="ion-ios-shuffle-strong$2">$3</${1:i}>'
+  'ion-ios-skipbackward':
+    'prefix': 'ion-ios-skipbackward'
+    'body': '<${i} class="ion-ios-skipbackward$2">$3</${1:i}>'
+  'ion-ios-skipbackward-outline':
+    'prefix': 'ion-ios-skipbackward-outline'
+    'body': '<${i} class="ion-ios-skipbackward-outline$2">$3</${1:i}>'
+  'ion-ios-skipforward':
+    'prefix': 'ion-ios-skipforward'
+    'body': '<${i} class="ion-ios-skipforward$2">$3</${1:i}>'
+  'ion-ios-skipforward-outline':
+    'prefix': 'ion-ios-skipforward-outline'
+    'body': '<${i} class="ion-ios-skipforward-outline$2">$3</${1:i}>'
+  'ion-ios-snowy':
+    'prefix': 'ion-ios-snowy'
+    'body': '<${i} class="ion-ios-snowy$2">$3</${1:i}>'
+  'ion-ios-speedometer':
+    'prefix': 'ion-ios-speedometer'
+    'body': '<${i} class="ion-ios-speedometer$2">$3</${1:i}>'
+  'ion-ios-speedometer-outline':
+    'prefix': 'ion-ios-speedometer-outline'
+    'body': '<${i} class="ion-ios-speedometer-outline$2">$3</${1:i}>'
+  'ion-ios-star':
+    'prefix': 'ion-ios-star'
+    'body': '<${i} class="ion-ios-star$2">$3</${1:i}>'
+  'ion-ios-star-half':
+    'prefix': 'ion-ios-star-half'
+    'body': '<${i} class="ion-ios-star-half$2">$3</${1:i}>'
+  'ion-ios-star-outline':
+    'prefix': 'ion-ios-star-outline'
+    'body': '<${i} class="ion-ios-star-outline$2">$3</${1:i}>'
+  'ion-ios-stopwatch':
+    'prefix': 'ion-ios-stopwatch'
+    'body': '<${i} class="ion-ios-stopwatch$2">$3</${1:i}>'
+  'ion-ios-stopwatch-outline':
+    'prefix': 'ion-ios-stopwatch-outline'
+    'body': '<${i} class="ion-ios-stopwatch-outline$2">$3</${1:i}>'
+  'ion-ios-sunny':
+    'prefix': 'ion-ios-sunny'
+    'body': '<${i} class="ion-ios-sunny$2">$3</${1:i}>'
+  'ion-ios-sunny-outline':
+    'prefix': 'ion-ios-sunny-outline'
+    'body': '<${i} class="ion-ios-sunny-outline$2">$3</${1:i}>'
+  'ion-ios-telephone':
+    'prefix': 'ion-ios-telephone'
+    'body': '<${i} class="ion-ios-telephone$2">$3</${1:i}>'
+  'ion-ios-telephone-outline':
+    'prefix': 'ion-ios-telephone-outline'
+    'body': '<${i} class="ion-ios-telephone-outline$2">$3</${1:i}>'
+  'ion-ios-tennisball':
+    'prefix': 'ion-ios-tennisball'
+    'body': '<${i} class="ion-ios-tennisball$2">$3</${1:i}>'
+  'ion-ios-tennisball-outline':
+    'prefix': 'ion-ios-tennisball-outline'
+    'body': '<${i} class="ion-ios-tennisball-outline$2">$3</${1:i}>'
+  'ion-ios-thunderstorm':
+    'prefix': 'ion-ios-thunderstorm'
+    'body': '<${i} class="ion-ios-thunderstorm$2">$3</${1:i}>'
+  'ion-ios-thunderstorm-outline':
+    'prefix': 'ion-ios-thunderstorm-outline'
+    'body': '<${i} class="ion-ios-thunderstorm-outline$2">$3</${1:i}>'
+  'ion-ios-time':
+    'prefix': 'ion-ios-time'
+    'body': '<${i} class="ion-ios-time$2">$3</${1:i}>'
+  'ion-ios-time-outline':
+    'prefix': 'ion-ios-time-outline'
+    'body': '<${i} class="ion-ios-time-outline$2">$3</${1:i}>'
+  'ion-ios-timer':
+    'prefix': 'ion-ios-timer'
+    'body': '<${i} class="ion-ios-timer$2">$3</${1:i}>'
+  'ion-ios-timer-outline':
+    'prefix': 'ion-ios-timer-outline'
+    'body': '<${i} class="ion-ios-timer-outline$2">$3</${1:i}>'
+  'ion-ios-toggle':
+    'prefix': 'ion-ios-toggle'
+    'body': '<${i} class="ion-ios-toggle$2">$3</${1:i}>'
+  'ion-ios-toggle-outline':
+    'prefix': 'ion-ios-toggle-outline'
+    'body': '<${i} class="ion-ios-toggle-outline$2">$3</${1:i}>'
+  'ion-ios-trash':
+    'prefix': 'ion-ios-trash'
+    'body': '<${i} class="ion-ios-trash$2">$3</${1:i}>'
+  'ion-ios-trash-outline':
+    'prefix': 'ion-ios-trash-outline'
+    'body': '<${i} class="ion-ios-trash-outline$2">$3</${1:i}>'
+  'ion-ios-undo':
+    'prefix': 'ion-ios-undo'
+    'body': '<${i} class="ion-ios-undo$2">$3</${1:i}>'
+  'ion-ios-undo-outline':
+    'prefix': 'ion-ios-undo-outline'
+    'body': '<${i} class="ion-ios-undo-outline$2">$3</${1:i}>'
+  'ion-ios-unlocked':
+    'prefix': 'ion-ios-unlocked'
+    'body': '<${i} class="ion-ios-unlocked$2">$3</${1:i}>'
+  'ion-ios-unlocked-outline':
+    'prefix': 'ion-ios-unlocked-outline'
+    'body': '<${i} class="ion-ios-unlocked-outline$2">$3</${1:i}>'
+  'ion-ios-upload':
+    'prefix': 'ion-ios-upload'
+    'body': '<${i} class="ion-ios-upload$2">$3</${1:i}>'
+  'ion-ios-upload-outline':
+    'prefix': 'ion-ios-upload-outline'
+    'body': '<${i} class="ion-ios-upload-outline$2">$3</${1:i}>'
+  'ion-ios-videocam':
+    'prefix': 'ion-ios-videocam'
+    'body': '<${i} class="ion-ios-videocam$2">$3</${1:i}>'
+  'ion-ios-videocam-outline':
+    'prefix': 'ion-ios-videocam-outline'
+    'body': '<${i} class="ion-ios-videocam-outline$2">$3</${1:i}>'
+  'ion-ios-volume-high':
+    'prefix': 'ion-ios-volume-high'
+    'body': '<${i} class="ion-ios-volume-high$2">$3</${1:i}>'
+  'ion-ios-volume-low':
+    'prefix': 'ion-ios-volume-low'
+    'body': '<${i} class="ion-ios-volume-low$2">$3</${1:i}>'
+  'ion-ios-wineglass':
+    'prefix': 'ion-ios-wineglass'
+    'body': '<${i} class="ion-ios-wineglass$2">$3</${1:i}>'
+  'ion-ios-wineglass-outline':
+    'prefix': 'ion-ios-wineglass-outline'
+    'body': '<${i} class="ion-ios-wineglass-outline$2">$3</${1:i}>'
+  'ion-ios-world':
+    'prefix': 'ion-ios-world'
+    'body': '<${i} class="ion-ios-world$2">$3</${1:i}>'
+  'ion-ios-world-outline':
+    'prefix': 'ion-ios-world-outline'
+    'body': '<${i} class="ion-ios-world-outline$2">$3</${1:i}>'
+  'ion-ipad':
+    'prefix': 'ion-ipad'
+    'body': '<${i} class="ion-ipad$2">$3</${1:i}>'
+  'ion-iphone':
+    'prefix': 'ion-iphone'
+    'body': '<${i} class="ion-iphone$2">$3</${1:i}>'
+  'ion-ipod':
+    'prefix': 'ion-ipod'
+    'body': '<${i} class="ion-ipod$2">$3</${1:i}>'
+  'ion-jet':
+    'prefix': 'ion-jet'
+    'body': '<${i} class="ion-jet$2">$3</${1:i}>'
+  'ion-key':
+    'prefix': 'ion-key'
+    'body': '<${i} class="ion-key$2">$3</${1:i}>'
+  'ion-knife':
+    'prefix': 'ion-knife'
+    'body': '<${i} class="ion-knife$2">$3</${1:i}>'
+  'ion-laptop':
+    'prefix': 'ion-laptop'
+    'body': '<${i} class="ion-laptop$2">$3</${1:i}>'
+  'ion-leaf':
+    'prefix': 'ion-leaf'
+    'body': '<${i} class="ion-leaf$2">$3</${1:i}>'
+  'ion-levels':
+    'prefix': 'ion-levels'
+    'body': '<${i} class="ion-levels$2">$3</${1:i}>'
+  'ion-lightbulb':
+    'prefix': 'ion-lightbulb'
+    'body': '<${i} class="ion-lightbulb$2">$3</${1:i}>'
+  'ion-link':
+    'prefix': 'ion-link'
+    'body': '<${i} class="ion-link$2">$3</${1:i}>'
+  'ion-load-a':
+    'prefix': 'ion-load-a'
+    'body': '<${i} class="ion-load-a$2">$3</${1:i}>'
+  'ion-load-b':
+    'prefix': 'ion-load-b'
+    'body': '<${i} class="ion-load-b$2">$3</${1:i}>'
+  'ion-load-c':
+    'prefix': 'ion-load-c'
+    'body': '<${i} class="ion-load-c$2">$3</${1:i}>'
+  'ion-load-d':
+    'prefix': 'ion-load-d'
+    'body': '<${i} class="ion-load-d$2">$3</${1:i}>'
+  'ion-location':
+    'prefix': 'ion-location'
+    'body': '<${i} class="ion-location$2">$3</${1:i}>'
+  'ion-lock-combination':
+    'prefix': 'ion-lock-combination'
+    'body': '<${i} class="ion-lock-combination$2">$3</${1:i}>'
+  'ion-locked':
+    'prefix': 'ion-locked'
+    'body': '<${i} class="ion-locked$2">$3</${1:i}>'
+  'ion-log-in':
+    'prefix': 'ion-log-in'
+    'body': '<${i} class="ion-log-in$2">$3</${1:i}>'
+  'ion-log-out':
+    'prefix': 'ion-log-out'
+    'body': '<${i} class="ion-log-out$2">$3</${1:i}>'
+  'ion-loop':
+    'prefix': 'ion-loop'
+    'body': '<${i} class="ion-loop$2">$3</${1:i}>'
+  'ion-magnet':
+    'prefix': 'ion-magnet'
+    'body': '<${i} class="ion-magnet$2">$3</${1:i}>'
+  'ion-male':
+    'prefix': 'ion-male'
+    'body': '<${i} class="ion-male$2">$3</${1:i}>'
+  'ion-man':
+    'prefix': 'ion-man'
+    'body': '<${i} class="ion-man$2">$3</${1:i}>'
+  'ion-map':
+    'prefix': 'ion-map'
+    'body': '<${i} class="ion-map$2">$3</${1:i}>'
+  'ion-medkit':
+    'prefix': 'ion-medkit'
+    'body': '<${i} class="ion-medkit$2">$3</${1:i}>'
+  'ion-merge':
+    'prefix': 'ion-merge'
+    'body': '<${i} class="ion-merge$2">$3</${1:i}>'
+  'ion-mic-a':
+    'prefix': 'ion-mic-a'
+    'body': '<${i} class="ion-mic-a$2">$3</${1:i}>'
+  'ion-mic-b':
+    'prefix': 'ion-mic-b'
+    'body': '<${i} class="ion-mic-b$2">$3</${1:i}>'
+  'ion-mic-c':
+    'prefix': 'ion-mic-c'
+    'body': '<${i} class="ion-mic-c$2">$3</${1:i}>'
+  'ion-minus':
+    'prefix': 'ion-minus'
+    'body': '<${i} class="ion-minus$2">$3</${1:i}>'
+  'ion-minus-circled':
+    'prefix': 'ion-minus-circled'
+    'body': '<${i} class="ion-minus-circled$2">$3</${1:i}>'
+  'ion-minus-round':
+    'prefix': 'ion-minus-round'
+    'body': '<${i} class="ion-minus-round$2">$3</${1:i}>'
+  'ion-model-s':
+    'prefix': 'ion-model-s'
+    'body': '<${i} class="ion-model-s$2">$3</${1:i}>'
+  'ion-monitor':
+    'prefix': 'ion-monitor'
+    'body': '<${i} class="ion-monitor$2">$3</${1:i}>'
+  'ion-more':
+    'prefix': 'ion-more'
+    'body': '<${i} class="ion-more$2">$3</${1:i}>'
+  'ion-mouse':
+    'prefix': 'ion-mouse'
+    'body': '<${i} class="ion-mouse$2">$3</${1:i}>'
+  'ion-music-note':
+    'prefix': 'ion-music-note'
+    'body': '<${i} class="ion-music-note$2">$3</${1:i}>'
+  'ion-navicon':
+    'prefix': 'ion-navicon'
+    'body': '<${i} class="ion-navicon$2">$3</${1:i}>'
+  'ion-navicon-round':
+    'prefix': 'ion-navicon-round'
+    'body': '<${i} class="ion-navicon-round$2">$3</${1:i}>'
+  'ion-navigate':
+    'prefix': 'ion-navigate'
+    'body': '<${i} class="ion-navigate$2">$3</${1:i}>'
+  'ion-network':
+    'prefix': 'ion-network'
+    'body': '<${i} class="ion-network$2">$3</${1:i}>'
+  'ion-no-smoking':
+    'prefix': 'ion-no-smoking'
+    'body': '<${i} class="ion-no-smoking$2">$3</${1:i}>'
+  'ion-nuclear':
+    'prefix': 'ion-nuclear'
+    'body': '<${i} class="ion-nuclear$2">$3</${1:i}>'
+  'ion-outlet':
+    'prefix': 'ion-outlet'
+    'body': '<${i} class="ion-outlet$2">$3</${1:i}>'
+  'ion-paintbrush':
+    'prefix': 'ion-paintbrush'
+    'body': '<${i} class="ion-paintbrush$2">$3</${1:i}>'
+  'ion-paintbucket':
+    'prefix': 'ion-paintbucket'
+    'body': '<${i} class="ion-paintbucket$2">$3</${1:i}>'
+  'ion-paper-airplane':
+    'prefix': 'ion-paper-airplane'
+    'body': '<${i} class="ion-paper-airplane$2">$3</${1:i}>'
+  'ion-paperclip':
+    'prefix': 'ion-paperclip'
+    'body': '<${i} class="ion-paperclip$2">$3</${1:i}>'
+  'ion-pause':
+    'prefix': 'ion-pause'
+    'body': '<${i} class="ion-pause$2">$3</${1:i}>'
+  'ion-person':
+    'prefix': 'ion-person'
+    'body': '<${i} class="ion-person$2">$3</${1:i}>'
+  'ion-person-add':
+    'prefix': 'ion-person-add'
+    'body': '<${i} class="ion-person-add$2">$3</${1:i}>'
+  'ion-person-stalker':
+    'prefix': 'ion-person-stalker'
+    'body': '<${i} class="ion-person-stalker$2">$3</${1:i}>'
+  'ion-pie-graph':
+    'prefix': 'ion-pie-graph'
+    'body': '<${i} class="ion-pie-graph$2">$3</${1:i}>'
+  'ion-pin':
+    'prefix': 'ion-pin'
+    'body': '<${i} class="ion-pin$2">$3</${1:i}>'
+  'ion-pinpoint':
+    'prefix': 'ion-pinpoint'
+    'body': '<${i} class="ion-pinpoint$2">$3</${1:i}>'
+  'ion-pizza':
+    'prefix': 'ion-pizza'
+    'body': '<${i} class="ion-pizza$2">$3</${1:i}>'
+  'ion-plane':
+    'prefix': 'ion-plane'
+    'body': '<${i} class="ion-plane$2">$3</${1:i}>'
+  'ion-planet':
+    'prefix': 'ion-planet'
+    'body': '<${i} class="ion-planet$2">$3</${1:i}>'
+  'ion-play':
+    'prefix': 'ion-play'
+    'body': '<${i} class="ion-play$2">$3</${1:i}>'
+  'ion-playstation':
+    'prefix': 'ion-playstation'
+    'body': '<${i} class="ion-playstation$2">$3</${1:i}>'
+  'ion-plus':
+    'prefix': 'ion-plus'
+    'body': '<${i} class="ion-plus$2">$3</${1:i}>'
+  'ion-plus-circled':
+    'prefix': 'ion-plus-circled'
+    'body': '<${i} class="ion-plus-circled$2">$3</${1:i}>'
+  'ion-plus-round':
+    'prefix': 'ion-plus-round'
+    'body': '<${i} class="ion-plus-round$2">$3</${1:i}>'
+  'ion-podium':
+    'prefix': 'ion-podium'
+    'body': '<${i} class="ion-podium$2">$3</${1:i}>'
+  'ion-pound':
+    'prefix': 'ion-pound'
+    'body': '<${i} class="ion-pound$2">$3</${1:i}>'
+  'ion-power':
+    'prefix': 'ion-power'
+    'body': '<${i} class="ion-power$2">$3</${1:i}>'
+  'ion-pricetag':
+    'prefix': 'ion-pricetag'
+    'body': '<${i} class="ion-pricetag$2">$3</${1:i}>'
+  'ion-pricetags':
+    'prefix': 'ion-pricetags'
+    'body': '<${i} class="ion-pricetags$2">$3</${1:i}>'
+  'ion-printer':
+    'prefix': 'ion-printer'
+    'body': '<${i} class="ion-printer$2">$3</${1:i}>'
+  'ion-pull-request':
+    'prefix': 'ion-pull-request'
+    'body': '<${i} class="ion-pull-request$2">$3</${1:i}>'
+  'ion-qr-scanner':
+    'prefix': 'ion-qr-scanner'
+    'body': '<${i} class="ion-qr-scanner$2">$3</${1:i}>'
+  'ion-quote':
+    'prefix': 'ion-quote'
+    'body': '<${i} class="ion-quote$2">$3</${1:i}>'
+  'ion-radio-waves':
+    'prefix': 'ion-radio-waves'
+    'body': '<${i} class="ion-radio-waves$2">$3</${1:i}>'
+  'ion-record':
+    'prefix': 'ion-record'
+    'body': '<${i} class="ion-record$2">$3</${1:i}>'
+  'ion-refresh':
+    'prefix': 'ion-refresh'
+    'body': '<${i} class="ion-refresh$2">$3</${1:i}>'
+  'ion-reply':
+    'prefix': 'ion-reply'
+    'body': '<${i} class="ion-reply$2">$3</${1:i}>'
+  'ion-reply-all':
+    'prefix': 'ion-reply-all'
+    'body': '<${i} class="ion-reply-all$2">$3</${1:i}>'
+  'ion-ribbon-a':
+    'prefix': 'ion-ribbon-a'
+    'body': '<${i} class="ion-ribbon-a$2">$3</${1:i}>'
+  'ion-ribbon-b':
+    'prefix': 'ion-ribbon-b'
+    'body': '<${i} class="ion-ribbon-b$2">$3</${1:i}>'
+  'ion-sad':
+    'prefix': 'ion-sad'
+    'body': '<${i} class="ion-sad$2">$3</${1:i}>'
+  'ion-sad-outline':
+    'prefix': 'ion-sad-outline'
+    'body': '<${i} class="ion-sad-outline$2">$3</${1:i}>'
+  'ion-scissors':
+    'prefix': 'ion-scissors'
+    'body': '<${i} class="ion-scissors$2">$3</${1:i}>'
+  'ion-search':
+    'prefix': 'ion-search'
+    'body': '<${i} class="ion-search$2">$3</${1:i}>'
+  'ion-settings':
+    'prefix': 'ion-settings'
+    'body': '<${i} class="ion-settings$2">$3</${1:i}>'
+  'ion-share':
+    'prefix': 'ion-share'
+    'body': '<${i} class="ion-share$2">$3</${1:i}>'
+  'ion-shuffle':
+    'prefix': 'ion-shuffle'
+    'body': '<${i} class="ion-shuffle$2">$3</${1:i}>'
+  'ion-skip-backward':
+    'prefix': 'ion-skip-backward'
+    'body': '<${i} class="ion-skip-backward$2">$3</${1:i}>'
+  'ion-skip-forward':
+    'prefix': 'ion-skip-forward'
+    'body': '<${i} class="ion-skip-forward$2">$3</${1:i}>'
+  'ion-social-android':
+    'prefix': 'ion-social-android'
+    'body': '<${i} class="ion-social-android$2">$3</${1:i}>'
+  'ion-social-android-outline':
+    'prefix': 'ion-social-android-outline'
+    'body': '<${i} class="ion-social-android-outline$2">$3</${1:i}>'
+  'ion-social-angular':
+    'prefix': 'ion-social-angular'
+    'body': '<${i} class="ion-social-angular$2">$3</${1:i}>'
+  'ion-social-angular-outline':
+    'prefix': 'ion-social-angular-outline'
+    'body': '<${i} class="ion-social-angular-outline$2">$3</${1:i}>'
+  'ion-social-apple':
+    'prefix': 'ion-social-apple'
+    'body': '<${i} class="ion-social-apple$2">$3</${1:i}>'
+  'ion-social-apple-outline':
+    'prefix': 'ion-social-apple-outline'
+    'body': '<${i} class="ion-social-apple-outline$2">$3</${1:i}>'
+  'ion-social-bitcoin':
+    'prefix': 'ion-social-bitcoin'
+    'body': '<${i} class="ion-social-bitcoin$2">$3</${1:i}>'
+  'ion-social-bitcoin-outline':
+    'prefix': 'ion-social-bitcoin-outline'
+    'body': '<${i} class="ion-social-bitcoin-outline$2">$3</${1:i}>'
+  'ion-social-buffer':
+    'prefix': 'ion-social-buffer'
+    'body': '<${i} class="ion-social-buffer$2">$3</${1:i}>'
+  'ion-social-buffer-outline':
+    'prefix': 'ion-social-buffer-outline'
+    'body': '<${i} class="ion-social-buffer-outline$2">$3</${1:i}>'
+  'ion-social-chrome':
+    'prefix': 'ion-social-chrome'
+    'body': '<${i} class="ion-social-chrome$2">$3</${1:i}>'
+  'ion-social-chrome-outline':
+    'prefix': 'ion-social-chrome-outline'
+    'body': '<${i} class="ion-social-chrome-outline$2">$3</${1:i}>'
+  'ion-social-codepen':
+    'prefix': 'ion-social-codepen'
+    'body': '<${i} class="ion-social-codepen$2">$3</${1:i}>'
+  'ion-social-codepen-outline':
+    'prefix': 'ion-social-codepen-outline'
+    'body': '<${i} class="ion-social-codepen-outline$2">$3</${1:i}>'
+  'ion-social-css3':
+    'prefix': 'ion-social-css3'
+    'body': '<${i} class="ion-social-css3$2">$3</${1:i}>'
+  'ion-social-css3-outline':
+    'prefix': 'ion-social-css3-outline'
+    'body': '<${i} class="ion-social-css3-outline$2">$3</${1:i}>'
+  'ion-social-designernews':
+    'prefix': 'ion-social-designernews'
+    'body': '<${i} class="ion-social-designernews$2">$3</${1:i}>'
+  'ion-social-designernews-outline':
+    'prefix': 'ion-social-designernews-outline'
+    'body': '<${i} class="ion-social-designernews-outline$2">$3</${1:i}>'
+  'ion-social-dribbble':
+    'prefix': 'ion-social-dribbble'
+    'body': '<${i} class="ion-social-dribbble$2">$3</${1:i}>'
+  'ion-social-dribbble-outline':
+    'prefix': 'ion-social-dribbble-outline'
+    'body': '<${i} class="ion-social-dribbble-outline$2">$3</${1:i}>'
+  'ion-social-dropbox':
+    'prefix': 'ion-social-dropbox'
+    'body': '<${i} class="ion-social-dropbox$2">$3</${1:i}>'
+  'ion-social-dropbox-outline':
+    'prefix': 'ion-social-dropbox-outline'
+    'body': '<${i} class="ion-social-dropbox-outline$2">$3</${1:i}>'
+  'ion-social-euro':
+    'prefix': 'ion-social-euro'
+    'body': '<${i} class="ion-social-euro$2">$3</${1:i}>'
+  'ion-social-euro-outline':
+    'prefix': 'ion-social-euro-outline'
+    'body': '<${i} class="ion-social-euro-outline$2">$3</${1:i}>'
+  'ion-social-facebook':
+    'prefix': 'ion-social-facebook'
+    'body': '<${i} class="ion-social-facebook$2">$3</${1:i}>'
+  'ion-social-facebook-outline':
+    'prefix': 'ion-social-facebook-outline'
+    'body': '<${i} class="ion-social-facebook-outline$2">$3</${1:i}>'
+  'ion-social-foursquare':
+    'prefix': 'ion-social-foursquare'
+    'body': '<${i} class="ion-social-foursquare$2">$3</${1:i}>'
+  'ion-social-foursquare-outline':
+    'prefix': 'ion-social-foursquare-outline'
+    'body': '<${i} class="ion-social-foursquare-outline$2">$3</${1:i}>'
+  'ion-social-freebsd-devil':
+    'prefix': 'ion-social-freebsd-devil'
+    'body': '<${i} class="ion-social-freebsd-devil$2">$3</${1:i}>'
+  'ion-social-github':
+    'prefix': 'ion-social-github'
+    'body': '<${i} class="ion-social-github$2">$3</${1:i}>'
+  'ion-social-github-outline':
+    'prefix': 'ion-social-github-outline'
+    'body': '<${i} class="ion-social-github-outline$2">$3</${1:i}>'
+  'ion-social-google':
+    'prefix': 'ion-social-google'
+    'body': '<${i} class="ion-social-google$2">$3</${1:i}>'
+  'ion-social-google-outline':
+    'prefix': 'ion-social-google-outline'
+    'body': '<${i} class="ion-social-google-outline$2">$3</${1:i}>'
+  'ion-social-googleplus':
+    'prefix': 'ion-social-googleplus'
+    'body': '<${i} class="ion-social-googleplus$2">$3</${1:i}>'
+  'ion-social-googleplus-outline':
+    'prefix': 'ion-social-googleplus-outline'
+    'body': '<${i} class="ion-social-googleplus-outline$2">$3</${1:i}>'
+  'ion-social-hackernews':
+    'prefix': 'ion-social-hackernews'
+    'body': '<${i} class="ion-social-hackernews$2">$3</${1:i}>'
+  'ion-social-hackernews-outline':
+    'prefix': 'ion-social-hackernews-outline'
+    'body': '<${i} class="ion-social-hackernews-outline$2">$3</${1:i}>'
+  'ion-social-html5':
+    'prefix': 'ion-social-html5'
+    'body': '<${i} class="ion-social-html5$2">$3</${1:i}>'
+  'ion-social-html5-outline':
+    'prefix': 'ion-social-html5-outline'
+    'body': '<${i} class="ion-social-html5-outline$2">$3</${1:i}>'
+  'ion-social-instagram':
+    'prefix': 'ion-social-instagram'
+    'body': '<${i} class="ion-social-instagram$2">$3</${1:i}>'
+  'ion-social-instagram-outline':
+    'prefix': 'ion-social-instagram-outline'
+    'body': '<${i} class="ion-social-instagram-outline$2">$3</${1:i}>'
+  'ion-social-javascript':
+    'prefix': 'ion-social-javascript'
+    'body': '<${i} class="ion-social-javascript$2">$3</${1:i}>'
+  'ion-social-javascript-outline':
+    'prefix': 'ion-social-javascript-outline'
+    'body': '<${i} class="ion-social-javascript-outline$2">$3</${1:i}>'
+  'ion-social-linkedin':
+    'prefix': 'ion-social-linkedin'
+    'body': '<${i} class="ion-social-linkedin$2">$3</${1:i}>'
+  'ion-social-linkedin-outline':
+    'prefix': 'ion-social-linkedin-outline'
+    'body': '<${i} class="ion-social-linkedin-outline$2">$3</${1:i}>'
+  'ion-social-markdown':
+    'prefix': 'ion-social-markdown'
+    'body': '<${i} class="ion-social-markdown$2">$3</${1:i}>'
+  'ion-social-nodejs':
+    'prefix': 'ion-social-nodejs'
+    'body': '<${i} class="ion-social-nodejs$2">$3</${1:i}>'
+  'ion-social-octocat':
+    'prefix': 'ion-social-octocat'
+    'body': '<${i} class="ion-social-octocat$2">$3</${1:i}>'
+  'ion-social-pinterest':
+    'prefix': 'ion-social-pinterest'
+    'body': '<${i} class="ion-social-pinterest$2">$3</${1:i}>'
+  'ion-social-pinterest-outline':
+    'prefix': 'ion-social-pinterest-outline'
+    'body': '<${i} class="ion-social-pinterest-outline$2">$3</${1:i}>'
+  'ion-social-python':
+    'prefix': 'ion-social-python'
+    'body': '<${i} class="ion-social-python$2">$3</${1:i}>'
+  'ion-social-reddit':
+    'prefix': 'ion-social-reddit'
+    'body': '<${i} class="ion-social-reddit$2">$3</${1:i}>'
+  'ion-social-reddit-outline':
+    'prefix': 'ion-social-reddit-outline'
+    'body': '<${i} class="ion-social-reddit-outline$2">$3</${1:i}>'
+  'ion-social-rss':
+    'prefix': 'ion-social-rss'
+    'body': '<${i} class="ion-social-rss$2">$3</${1:i}>'
+  'ion-social-rss-outline':
+    'prefix': 'ion-social-rss-outline'
+    'body': '<${i} class="ion-social-rss-outline$2">$3</${1:i}>'
+  'ion-social-sass':
+    'prefix': 'ion-social-sass'
+    'body': '<${i} class="ion-social-sass$2">$3</${1:i}>'
+  'ion-social-skype':
+    'prefix': 'ion-social-skype'
+    'body': '<${i} class="ion-social-skype$2">$3</${1:i}>'
+  'ion-social-skype-outline':
+    'prefix': 'ion-social-skype-outline'
+    'body': '<${i} class="ion-social-skype-outline$2">$3</${1:i}>'
+  'ion-social-snapchat':
+    'prefix': 'ion-social-snapchat'
+    'body': '<${i} class="ion-social-snapchat$2">$3</${1:i}>'
+  'ion-social-snapchat-outline':
+    'prefix': 'ion-social-snapchat-outline'
+    'body': '<${i} class="ion-social-snapchat-outline$2">$3</${1:i}>'
+  'ion-social-tumblr':
+    'prefix': 'ion-social-tumblr'
+    'body': '<${i} class="ion-social-tumblr$2">$3</${1:i}>'
+  'ion-social-tumblr-outline':
+    'prefix': 'ion-social-tumblr-outline'
+    'body': '<${i} class="ion-social-tumblr-outline$2">$3</${1:i}>'
+  'ion-social-tux':
+    'prefix': 'ion-social-tux'
+    'body': '<${i} class="ion-social-tux$2">$3</${1:i}>'
+  'ion-social-twitch':
+    'prefix': 'ion-social-twitch'
+    'body': '<${i} class="ion-social-twitch$2">$3</${1:i}>'
+  'ion-social-twitch-outline':
+    'prefix': 'ion-social-twitch-outline'
+    'body': '<${i} class="ion-social-twitch-outline$2">$3</${1:i}>'
+  'ion-social-twitter':
+    'prefix': 'ion-social-twitter'
+    'body': '<${i} class="ion-social-twitter$2">$3</${1:i}>'
+  'ion-social-twitter-outline':
+    'prefix': 'ion-social-twitter-outline'
+    'body': '<${i} class="ion-social-twitter-outline$2">$3</${1:i}>'
+  'ion-social-usd':
+    'prefix': 'ion-social-usd'
+    'body': '<${i} class="ion-social-usd$2">$3</${1:i}>'
+  'ion-social-usd-outline':
+    'prefix': 'ion-social-usd-outline'
+    'body': '<${i} class="ion-social-usd-outline$2">$3</${1:i}>'
+  'ion-social-vimeo':
+    'prefix': 'ion-social-vimeo'
+    'body': '<${i} class="ion-social-vimeo$2">$3</${1:i}>'
+  'ion-social-vimeo-outline':
+    'prefix': 'ion-social-vimeo-outline'
+    'body': '<${i} class="ion-social-vimeo-outline$2">$3</${1:i}>'
+  'ion-social-whatsapp':
+    'prefix': 'ion-social-whatsapp'
+    'body': '<${i} class="ion-social-whatsapp$2">$3</${1:i}>'
+  'ion-social-whatsapp-outline':
+    'prefix': 'ion-social-whatsapp-outline'
+    'body': '<${i} class="ion-social-whatsapp-outline$2">$3</${1:i}>'
+  'ion-social-windows':
+    'prefix': 'ion-social-windows'
+    'body': '<${i} class="ion-social-windows$2">$3</${1:i}>'
+  'ion-social-windows-outline':
+    'prefix': 'ion-social-windows-outline'
+    'body': '<${i} class="ion-social-windows-outline$2">$3</${1:i}>'
+  'ion-social-wordpress':
+    'prefix': 'ion-social-wordpress'
+    'body': '<${i} class="ion-social-wordpress$2">$3</${1:i}>'
+  'ion-social-wordpress-outline':
+    'prefix': 'ion-social-wordpress-outline'
+    'body': '<${i} class="ion-social-wordpress-outline$2">$3</${1:i}>'
+  'ion-social-yahoo':
+    'prefix': 'ion-social-yahoo'
+    'body': '<${i} class="ion-social-yahoo$2">$3</${1:i}>'
+  'ion-social-yahoo-outline':
+    'prefix': 'ion-social-yahoo-outline'
+    'body': '<${i} class="ion-social-yahoo-outline$2">$3</${1:i}>'
+  'ion-social-yen':
+    'prefix': 'ion-social-yen'
+    'body': '<${i} class="ion-social-yen$2">$3</${1:i}>'
+  'ion-social-yen-outline':
+    'prefix': 'ion-social-yen-outline'
+    'body': '<${i} class="ion-social-yen-outline$2">$3</${1:i}>'
+  'ion-social-youtube':
+    'prefix': 'ion-social-youtube'
+    'body': '<${i} class="ion-social-youtube$2">$3</${1:i}>'
+  'ion-social-youtube-outline':
+    'prefix': 'ion-social-youtube-outline'
+    'body': '<${i} class="ion-social-youtube-outline$2">$3</${1:i}>'
+  'ion-soup-can':
+    'prefix': 'ion-soup-can'
+    'body': '<${i} class="ion-soup-can$2">$3</${1:i}>'
+  'ion-soup-can-outline':
+    'prefix': 'ion-soup-can-outline'
+    'body': '<${i} class="ion-soup-can-outline$2">$3</${1:i}>'
+  'ion-speakerphone':
+    'prefix': 'ion-speakerphone'
+    'body': '<${i} class="ion-speakerphone$2">$3</${1:i}>'
+  'ion-speedometer':
+    'prefix': 'ion-speedometer'
+    'body': '<${i} class="ion-speedometer$2">$3</${1:i}>'
+  'ion-spoon':
+    'prefix': 'ion-spoon'
+    'body': '<${i} class="ion-spoon$2">$3</${1:i}>'
+  'ion-star':
+    'prefix': 'ion-star'
+    'body': '<${i} class="ion-star$2">$3</${1:i}>'
+  'ion-stats-bars':
+    'prefix': 'ion-stats-bars'
+    'body': '<${i} class="ion-stats-bars$2">$3</${1:i}>'
+  'ion-steam':
+    'prefix': 'ion-steam'
+    'body': '<${i} class="ion-steam$2">$3</${1:i}>'
+  'ion-stop':
+    'prefix': 'ion-stop'
+    'body': '<${i} class="ion-stop$2">$3</${1:i}>'
+  'ion-thermometer':
+    'prefix': 'ion-thermometer'
+    'body': '<${i} class="ion-thermometer$2">$3</${1:i}>'
+  'ion-thumbsdown':
+    'prefix': 'ion-thumbsdown'
+    'body': '<${i} class="ion-thumbsdown$2">$3</${1:i}>'
+  'ion-thumbsup':
+    'prefix': 'ion-thumbsup'
+    'body': '<${i} class="ion-thumbsup$2">$3</${1:i}>'
+  'ion-toggle':
+    'prefix': 'ion-toggle'
+    'body': '<${i} class="ion-toggle$2">$3</${1:i}>'
+  'ion-toggle-filled':
+    'prefix': 'ion-toggle-filled'
+    'body': '<${i} class="ion-toggle-filled$2">$3</${1:i}>'
+  'ion-transgender':
+    'prefix': 'ion-transgender'
+    'body': '<${i} class="ion-transgender$2">$3</${1:i}>'
+  'ion-trash-a':
+    'prefix': 'ion-trash-a'
+    'body': '<${i} class="ion-trash-a$2">$3</${1:i}>'
+  'ion-trash-b':
+    'prefix': 'ion-trash-b'
+    'body': '<${i} class="ion-trash-b$2">$3</${1:i}>'
+  'ion-trophy':
+    'prefix': 'ion-trophy'
+    'body': '<${i} class="ion-trophy$2">$3</${1:i}>'
+  'ion-tshirt':
+    'prefix': 'ion-tshirt'
+    'body': '<${i} class="ion-tshirt$2">$3</${1:i}>'
+  'ion-tshirt-outline':
+    'prefix': 'ion-tshirt-outline'
+    'body': '<${i} class="ion-tshirt-outline$2">$3</${1:i}>'
+  'ion-umbrella':
+    'prefix': 'ion-umbrella'
+    'body': '<${i} class="ion-umbrella$2">$3</${1:i}>'
+  'ion-university':
+    'prefix': 'ion-university'
+    'body': '<${i} class="ion-university$2">$3</${1:i}>'
+  'ion-unlocked':
+    'prefix': 'ion-unlocked'
+    'body': '<${i} class="ion-unlocked$2">$3</${1:i}>'
+  'ion-upload':
+    'prefix': 'ion-upload'
+    'body': '<${i} class="ion-upload$2">$3</${1:i}>'
+  'ion-usb':
+    'prefix': 'ion-usb'
+    'body': '<${i} class="ion-usb$2">$3</${1:i}>'
+  'ion-videocamera':
+    'prefix': 'ion-videocamera'
+    'body': '<${i} class="ion-videocamera$2">$3</${1:i}>'
+  'ion-volume-high':
+    'prefix': 'ion-volume-high'
+    'body': '<${i} class="ion-volume-high$2">$3</${1:i}>'
+  'ion-volume-low':
+    'prefix': 'ion-volume-low'
+    'body': '<${i} class="ion-volume-low$2">$3</${1:i}>'
+  'ion-volume-medium':
+    'prefix': 'ion-volume-medium'
+    'body': '<${i} class="ion-volume-medium$2">$3</${1:i}>'
+  'ion-volume-mute':
+    'prefix': 'ion-volume-mute'
+    'body': '<${i} class="ion-volume-mute$2">$3</${1:i}>'
+  'ion-wand':
+    'prefix': 'ion-wand'
+    'body': '<${i} class="ion-wand$2">$3</${1:i}>'
+  'ion-waterdrop':
+    'prefix': 'ion-waterdrop'
+    'body': '<${i} class="ion-waterdrop$2">$3</${1:i}>'
+  'ion-wifi':
+    'prefix': 'ion-wifi'
+    'body': '<${i} class="ion-wifi$2">$3</${1:i}>'
+  'ion-wineglass':
+    'prefix': 'ion-wineglass'
+    'body': '<${i} class="ion-wineglass$2">$3</${1:i}>'
+  'ion-woman':
+    'prefix': 'ion-woman'
+    'body': '<${i} class="ion-woman$2">$3</${1:i}>'
+  'ion-wrench':
+    'prefix': 'ion-wrench'
+    'body': '<${i} class="ion-wrench$2">$3</${1:i}>'
+  'ion-xbox':
+    'prefix': 'ion-xbox'
+    'body': '<${i} class="ion-xbox$2">$3</${1:i}>'

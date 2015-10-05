@@ -1,0 +1,31 @@
+'.text.html':
+  'cdnjs-cc':
+    'prefix': 'cdnjs-cc'
+    'body': '<link href="https://cdnjs.cloudflare.com/ajax/libs/cc-icons/${1:1.2.1}/css/cc-icons${2:.min}.css" rel="stylesheet">'
+  'cdnjs-devicons':
+    'prefix': 'cdnjs-devicons'
+    'body': '<link href="https://cdnjs.cloudflare.com/ajax/libs/devicons/${1:1.8.0}/css/devicons${2:.min}.css" rel="stylesheet">'
+  'cdnjs-fa':
+    'prefix': 'cdnjs-fa'
+    'body': '<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/${1:4.4.0}/css/font-awesome${2:.min}.css" rel="stylesheet">'
+  'cdnjs-fi':
+    'prefix': 'cdnjs-fi'
+    'body': '<link href="https://cdnjs.cloudflare.com/ajax/libs/foundicons/${1:3.0.0}/foundation-icons${2:.min}.css" rel="stylesheet">'
+  'cdnjs-glyphicon':
+    'prefix': 'cdnjs-glyphicon'
+    'body': '<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/${1:3.3.5}/css/bootstrap${2:.min}.css" rel="stylesheet">'
+  'cdnjs-ion':
+    'prefix': 'cdnjs-ion'
+    'body': '<link href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/${1:2.0.1}/css/ionicons${2:.min}.css" rel="stylesheet">'
+  'cdnjs-octicon':
+    'prefix': 'cdnjs-octicon'
+    'body': '<link href="https://cdnjs.cloudflare.com/ajax/libs/octicons/${1:3.1.0}/octicons${2:.min}.css" rel="stylesheet">'
+  'cdnjs-payment':
+    'prefix': 'cdnjs-payment'
+    'body': '<link href="https://cdnjs.cloudflare.com/ajax/libs/paymentfont/${1:1.1.2}/css/paymentfont${2:.min}.css" rel="stylesheet">'
+  'cdnjs-ratchicon':
+    'prefix': 'cdnjs-ratchicon'
+    'body': '<link href="https://cdnjs.cloudflare.com/ajax/libs/ratchet/${1:2.0.2}/css/ratchet${2:.min}.css" rel="stylesheet">'
+  'cdnjs-ui':
+    'prefix': 'cdnjs-ui'
+    'body': '<link href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/${1:2.1.4}/semantic${2:.min}.css" rel="stylesheet">'

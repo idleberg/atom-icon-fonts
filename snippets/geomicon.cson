@@ -1,0 +1,169 @@
+'.text.html':
+  'geomicon-bookmark':
+    'prefix': 'geomicon-bookmark'
+    'body': '<${1:span} class="js-geomicon" data-icon="bookmark">$2</${1:span}>'
+  'geomicon-calendar':
+    'prefix': 'geomicon-calendar'
+    'body': '<${1:span} class="js-geomicon" data-icon="calendar">$2</${1:span}>'
+  'geomicon-camera':
+    'prefix': 'geomicon-camera'
+    'body': '<${1:span} class="js-geomicon" data-icon="camera">$2</${1:span}>'
+  'geomicon-chat':
+    'prefix': 'geomicon-chat'
+    'body': '<${1:span} class="js-geomicon" data-icon="chat">$2</${1:span}>'
+  'geomicon-check':
+    'prefix': 'geomicon-check'
+    'body': '<${1:span} class="js-geomicon" data-icon="check">$2</${1:span}>'
+  'geomicon-chevron-down':
+    'prefix': 'geomicon-chevron-down'
+    'body': '<${1:span} class="js-geomicon" data-icon="chevron-down">$2</${1:span}>'
+  'geomicon-chevron-left':
+    'prefix': 'geomicon-chevron-left'
+    'body': '<${1:span} class="js-geomicon" data-icon="chevron-left">$2</${1:span}>'
+  'geomicon-chevron-right':
+    'prefix': 'geomicon-chevron-right'
+    'body': '<${1:span} class="js-geomicon" data-icon="chevron-right">$2</${1:span}>'
+  'geomicon-chevron-up':
+    'prefix': 'geomicon-chevron-up'
+    'body': '<${1:span} class="js-geomicon" data-icon="chevron-up">$2</${1:span}>'
+  'geomicon-clock':
+    'prefix': 'geomicon-clock'
+    'body': '<${1:span} class="js-geomicon" data-icon="clock">$2</${1:span}>'
+  'geomicon-close':
+    'prefix': 'geomicon-close'
+    'body': '<${1:span} class="js-geomicon" data-icon="close">$2</${1:span}>'
+  'geomicon-cloud':
+    'prefix': 'geomicon-cloud'
+    'body': '<${1:span} class="js-geomicon" data-icon="cloud">$2</${1:span}>'
+  'geomicon-cog':
+    'prefix': 'geomicon-cog'
+    'body': '<${1:span} class="js-geomicon" data-icon="cog">$2</${1:span}>'
+  'geomicon-compose':
+    'prefix': 'geomicon-compose'
+    'body': '<${1:span} class="js-geomicon" data-icon="compose">$2</${1:span}>'
+  'geomicon-dribbble':
+    'prefix': 'geomicon-dribbble'
+    'body': '<${1:span} class="js-geomicon" data-icon="dribbble">$2</${1:span}>'
+  'geomicon-expand':
+    'prefix': 'geomicon-expand'
+    'body': '<${1:span} class="js-geomicon" data-icon="expand">$2</${1:span}>'
+  'geomicon-external':
+    'prefix': 'geomicon-external'
+    'body': '<${1:span} class="js-geomicon" data-icon="external">$2</${1:span}>'
+  'geomicon-facebook':
+    'prefix': 'geomicon-facebook'
+    'body': '<${1:span} class="js-geomicon" data-icon="facebook">$2</${1:span}>'
+  'geomicon-file':
+    'prefix': 'geomicon-file'
+    'body': '<${1:span} class="js-geomicon" data-icon="file">$2</${1:span}>'
+  'geomicon-folder':
+    'prefix': 'geomicon-folder'
+    'body': '<${1:span} class="js-geomicon" data-icon="folder">$2</${1:span}>'
+  'geomicon-geolocation':
+    'prefix': 'geomicon-geolocation'
+    'body': '<${1:span} class="js-geomicon" data-icon="geolocation">$2</${1:span}>'
+  'geomicon-github':
+    'prefix': 'geomicon-github'
+    'body': '<${1:span} class="js-geomicon" data-icon="github">$2</${1:span}>'
+  'geomicon-grid':
+    'prefix': 'geomicon-grid'
+    'body': '<${1:span} class="js-geomicon" data-icon="grid">$2</${1:span}>'
+  'geomicon-heart':
+    'prefix': 'geomicon-heart'
+    'body': '<${1:span} class="js-geomicon" data-icon="heart">$2</${1:span}>'
+  'geomicon-home':
+    'prefix': 'geomicon-home'
+    'body': '<${1:span} class="js-geomicon" data-icon="home">$2</${1:span}>'
+  'geomicon-info':
+    'prefix': 'geomicon-info'
+    'body': '<${1:span} class="js-geomicon" data-icon="info">$2</${1:span}>'
+  'geomicon-link':
+    'prefix': 'geomicon-link'
+    'body': '<${1:span} class="js-geomicon" data-icon="link">$2</${1:span}>'
+  'geomicon-list':
+    'prefix': 'geomicon-list'
+    'body': '<${1:span} class="js-geomicon" data-icon="list">$2</${1:span}>'
+  'geomicon-lock':
+    'prefix': 'geomicon-lock'
+    'body': '<${1:span} class="js-geomicon" data-icon="lock">$2</${1:span}>'
+  'geomicon-mail':
+    'prefix': 'geomicon-mail'
+    'body': '<${1:span} class="js-geomicon" data-icon="mail">$2</${1:span}>'
+  'geomicon-music':
+    'prefix': 'geomicon-music'
+    'body': '<${1:span} class="js-geomicon" data-icon="music-note">$2</${1:span}>'
+  'geomicon-next':
+    'prefix': 'geomicon-next'
+    'body': '<${1:span} class="js-geomicon" data-icon="next">$2</${1:span}>'
+  'geomicon-no':
+    'prefix': 'geomicon-no'
+    'body': '<${1:span} class="js-geomicon" data-icon="no">$2</${1:span}>'
+  'geomicon-pause':
+    'prefix': 'geomicon-pause'
+    'body': '<${1:span} class="js-geomicon" data-icon="pause">$2</${1:span}>'
+  'geomicon-picture':
+    'prefix': 'geomicon-picture'
+    'body': '<${1:span} class="js-geomicon" data-icon="picture">$2</${1:span}>'
+  'geomicon-pin':
+    'prefix': 'geomicon-pin'
+    'body': '<${1:span} class="js-geomicon" data-icon="pin">$2</${1:span}>'
+  'geomicon-play':
+    'prefix': 'geomicon-play'
+    'body': '<${1:span} class="js-geomicon" data-icon="play">$2</${1:span}>'
+  'geomicon-previous':
+    'prefix': 'geomicon-previous'
+    'body': '<${1:span} class="js-geomicon" data-icon="previous">$2</${1:span}>'
+  'geomicon-refresh':
+    'prefix': 'geomicon-refresh'
+    'body': '<${1:span} class="js-geomicon" data-icon="refresh">$2</${1:span}>'
+  'geomicon-repost':
+    'prefix': 'geomicon-repost'
+    'body': '<${1:span} class="js-geomicon" data-icon="repost">$2</${1:span}>'
+  'geomicon-search':
+    'prefix': 'geomicon-search'
+    'body': '<${1:span} class="js-geomicon" data-icon="search">$2</${1:span}>'
+  'geomicon-shopping':
+    'prefix': 'geomicon-shopping'
+    'body': '<${1:span} class="js-geomicon" data-icon="shopping-cart">$2</${1:span}>'
+  'geomicon-skull':
+    'prefix': 'geomicon-skull'
+    'body': '<${1:span} class="js-geomicon" data-icon="skull">$2</${1:span}>'
+  'geomicon-speaker-volume':
+    'prefix': 'geomicon-speaker-volume'
+    'body': '<${1:span} class="js-geomicon" data-icon="speaker-volume">$2</${1:span}>'
+  'geomicon-speaker':
+    'prefix': 'geomicon-speaker'
+    'body': '<${1:span} class="js-geomicon" data-icon="speaker">$2</${1:span}>'
+  'geomicon-star':
+    'prefix': 'geomicon-star'
+    'body': '<${1:span} class="js-geomicon" data-icon="star">$2</${1:span}>'
+  'geomicon-tag':
+    'prefix': 'geomicon-tag'
+    'body': '<${1:span} class="js-geomicon" data-icon="tag">$2</${1:span}>'
+  'geomicon-trash':
+    'prefix': 'geomicon-trash'
+    'body': '<${1:span} class="js-geomicon" data-icon="trash">$2</${1:span}>'
+  'geomicon-triangle-down':
+    'prefix': 'geomicon-triangle-down'
+    'body': '<${1:span} class="js-geomicon" data-icon="triangle-down">$2</${1:span}>'
+  'geomicon-triangle-left':
+    'prefix': 'geomicon-triangle-left'
+    'body': '<${1:span} class="js-geomicon" data-icon="triangle-left">$2</${1:span}>'
+  'geomicon-triangle-right':
+    'prefix': 'geomicon-triangle-right'
+    'body': '<${1:span} class="js-geomicon" data-icon="triangle-right">$2</${1:span}>'
+  'geomicon-triangle-up':
+    'prefix': 'geomicon-triangle-up'
+    'body': '<${1:span} class="js-geomicon" data-icon="triangle-up">$2</${1:span}>'
+  'geomicon-twitter':
+    'prefix': 'geomicon-twitter'
+    'body': '<${1:span} class="js-geomicon" data-icon="twitter">$2</${1:span}>'
+  'geomicon-user':
+    'prefix': 'geomicon-user'
+    'body': '<${1:span} class="js-geomicon" data-icon="user">$2</${1:span}>'
+  'geomicon-video':
+    'prefix': 'geomicon-video'
+    'body': '<${1:span} class="js-geomicon" data-icon="video">$2</${1:span}>'
+  'geomicon-warning':
+    'prefix': 'geomicon-warning'
+    'body': '<${1:span} class="js-geomicon" data-icon="warning">$2</${1:span}>'
