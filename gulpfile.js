@@ -3,6 +3,7 @@ var debug = require('gulp-debug');
 var coffeelint = require('gulp-coffeelint');
 var jshint = require('gulp-jshint');
 var jsonlint = require('gulp-jsonlint');
+var recess = require('gulp-recess');
 
 // Tasks
 gulp.task('lint', ['coffeelint', 'jshint', 'jsonlint', 'recess']);
