@@ -18,7 +18,7 @@ Converted from the [package](https://github.com/idleberg/Icon-Fonts-Sublime-Text
 
 ### GitHub
 
-1. Change directory to `~/.atom/packages/`
+1. Change directory `cd ~/.atom/packages/`
 2. Clone repository `git clone https://github.com/idleberg/atom-icon-fonts icon-fonts`
 
 ## Usage
