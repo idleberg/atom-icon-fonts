@@ -1,5 +1,5 @@
 # Generated with Atomizr v0.14.0 - https://github.com/idleberg/atomizr
-'.text.html -.source.gfm':
+'.text.html':
   'octicon-alert':
     'prefix': 'octicon-alert'
     'body': '<${1:span} class=\"octicon octicon-alert$2\">$3</${1:span}>'
