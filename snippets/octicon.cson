@@ -360,6 +360,9 @@
   'octicon-log-out':
     'prefix': 'octicon-log-out'
     'body': '<${1:span} class=\"octicon octicon-log-out$2\">$3</${1:span}>'
+  'octicon-logo-gist':
+    'prefix': 'octicon-logo-gist'
+    'body': '<${1:span} class=\"octicon octicon-logo-gist$2\">$3</${1:span}>'
   'octicon-logo-github':
     'prefix': 'octicon-logo-github'
     'body': '<${1:span} class=\"octicon octicon-logo-github$2\">$3</${1:span}>'
