@@ -1,4 +1,5 @@
-'.text.html':
+# Generated with Atomizr v0.14.0 - https://github.com/idleberg/atomizr
+'.text.html -.source.gfm':
   'fa-500px':
     'prefix': 'fa-500px'
     'body': '<${1:i} class="fa fa-500px$2">$3</${1:i}>'
@@ -221,6 +222,12 @@
   'fa-black-tie':
     'prefix': 'fa-black-tie'
     'body': '<${1:i} class="fa fa-black-tie$2">$3</${1:i}>'
+  'fa-bluetooth-b':
+    'prefix': 'fa-bluetooth-b'
+    'body': '<${1:i} class="fa fa-bluetooth-b$2">$3</${1:i}>'
+  'fa-bluetooth':
+    'prefix': 'fa-bluetooth'
+    'body': '<${1:i} class="fa fa-bluetooth$2">$3</${1:i}>'
   'fa-bold':
     'prefix': 'fa-bold'
     'body': '<${1:i} class="fa fa-bold$2">$3</${1:i}>'
@@ -452,6 +459,9 @@
   'fa-codepen':
     'prefix': 'fa-codepen'
     'body': '<${1:i} class="fa fa-codepen$2">$3</${1:i}>'
+  'fa-codiepie':
+    'prefix': 'fa-codiepie'
+    'body': '<${1:i} class="fa fa-codiepie$2">$3</${1:i}>'
   'fa-coffee':
     'prefix': 'fa-coffee'
     'body': '<${1:i} class="fa fa-coffee$2">$3</${1:i}>'
@@ -503,6 +513,9 @@
   'fa-creative-commons':
     'prefix': 'fa-creative-commons'
     'body': '<${1:i} class="fa fa-creative-commons$2">$3</${1:i}>'
+  'fa-credit-card-alt':
+    'prefix': 'fa-credit-card-alt'
+    'body': '<${1:i} class="fa fa-credit-card-alt$2">$3</${1:i}>'
   'fa-credit-card':
     'prefix': 'fa-credit-card'
     'body': '<${1:i} class="fa fa-credit-card$2">$3</${1:i}>'
@@ -572,6 +585,9 @@
   'fa-drupal':
     'prefix': 'fa-drupal'
     'body': '<${1:i} class="fa fa-drupal$2">$3</${1:i}>'
+  'fa-edge':
+    'prefix': 'fa-edge'
+    'body': '<${1:i} class="fa fa-edge$2">$3</${1:i}>'
   'fa-edit':
     'prefix': 'fa-edit'
     'body': '<${1:i} class="fa fa-edit$2">$3</${1:i}>'
@@ -773,6 +789,9 @@
   'fa-fonticons':
     'prefix': 'fa-fonticons'
     'body': '<${1:i} class="fa fa-fonticons$2">$3</${1:i}>'
+  'fa-fort-awesome':
+    'prefix': 'fa-fort-awesome'
+    'body': '<${1:i} class="fa fa-fort-awesome$2">$3</${1:i}>'
   'fa-forumbee':
     'prefix': 'fa-forumbee'
     'body': '<${1:i} class="fa fa-forumbee$2">$3</${1:i}>'
@@ -908,6 +927,9 @@
   'fa-hand-stop-o':
     'prefix': 'fa-hand-stop-o'
     'body': '<${1:i} class="fa fa-hand-stop-o$2">$3</${1:i}>'
+  'fa-hashtag':
+    'prefix': 'fa-hashtag'
+    'body': '<${1:i} class="fa fa-hashtag$2">$3</${1:i}>'
   'fa-hdd-o':
     'prefix': 'fa-hdd-o'
     'body': '<${1:i} class="fa fa-hdd-o$2">$3</${1:i}>'
@@ -1199,12 +1221,18 @@
   'fa-minus':
     'prefix': 'fa-minus'
     'body': '<${1:i} class="fa fa-minus$2">$3</${1:i}>'
+  'fa-mixcloud':
+    'prefix': 'fa-mixcloud'
+    'body': '<${1:i} class="fa fa-mixcloud$2">$3</${1:i}>'
   'fa-mobile-phone':
     'prefix': 'fa-mobile-phone'
     'body': '<${1:i} class="fa fa-mobile-phone$2">$3</${1:i}>'
   'fa-mobile':
     'prefix': 'fa-mobile'
     'body': '<${1:i} class="fa fa-mobile$2">$3</${1:i}>'
+  'fa-modx':
+    'prefix': 'fa-modx'
+    'body': '<${1:i} class="fa fa-modx$2">$3</${1:i}>'
   'fa-money':
     'prefix': 'fa-money'
     'body': '<${1:i} class="fa fa-money$2">$3</${1:i}>'
@@ -1280,6 +1308,12 @@
   'fa-paste':
     'prefix': 'fa-paste'
     'body': '<${1:i} class="fa fa-paste$2">$3</${1:i}>'
+  'fa-pause-circle-o':
+    'prefix': 'fa-pause-circle-o'
+    'body': '<${1:i} class="fa fa-pause-circle-o$2">$3</${1:i}>'
+  'fa-pause-circle':
+    'prefix': 'fa-pause-circle'
+    'body': '<${1:i} class="fa fa-pause-circle$2">$3</${1:i}>'
   'fa-pause':
     'prefix': 'fa-pause'
     'body': '<${1:i} class="fa fa-pause$2">$3</${1:i}>'
@@ -1298,6 +1332,9 @@
   'fa-pencil':
     'prefix': 'fa-pencil'
     'body': '<${1:i} class="fa fa-pencil$2">$3</${1:i}>'
+  'fa-percent':
+    'prefix': 'fa-percent'
+    'body': '<${1:i} class="fa fa-percent$2">$3</${1:i}>'
   'fa-phone-square':
     'prefix': 'fa-phone-square'
     'body': '<${1:i} class="fa fa-phone-square$2">$3</${1:i}>'
@@ -1361,6 +1398,9 @@
   'fa-print':
     'prefix': 'fa-print'
     'body': '<${1:i} class="fa fa-print$2">$3</${1:i}>'
+  'fa-product-hunt':
+    'prefix': 'fa-product-hunt'
+    'body': '<${1:i} class="fa fa-product-hunt$2">$3</${1:i}>'
   'fa-puzzle-piece':
     'prefix': 'fa-puzzle-piece'
     'body': '<${1:i} class="fa fa-puzzle-piece$2">$3</${1:i}>'
@@ -1394,6 +1434,9 @@
   'fa-recycle':
     'prefix': 'fa-recycle'
     'body': '<${1:i} class="fa fa-recycle$2">$3</${1:i}>'
+  'fa-reddit-alien':
+    'prefix': 'fa-reddit-alien'
+    'body': '<${1:i} class="fa fa-reddit-alien$2">$3</${1:i}>'
   'fa-reddit-square':
     'prefix': 'fa-reddit-square'
     'body': '<${1:i} class="fa fa-reddit-square$2">$3</${1:i}>'
@@ -1466,6 +1509,9 @@
   'fa-scissors':
     'prefix': 'fa-scissors'
     'body': '<${1:i} class="fa fa-scissors$2">$3</${1:i}>'
+  'fa-scribd':
+    'prefix': 'fa-scribd'
+    'body': '<${1:i} class="fa fa-scribd$2">$3</${1:i}>'
   'fa-search-minus':
     'prefix': 'fa-search-minus'
     'body': '<${1:i} class="fa fa-search-minus$2">$3</${1:i}>'
@@ -1517,6 +1563,12 @@
   'fa-shirtsinbulk':
     'prefix': 'fa-shirtsinbulk'
     'body': '<${1:i} class="fa fa-shirtsinbulk$2">$3</${1:i}>'
+  'fa-shopping-bag':
+    'prefix': 'fa-shopping-bag'
+    'body': '<${1:i} class="fa fa-shopping-bag$2">$3</${1:i}>'
+  'fa-shopping-basket':
+    'prefix': 'fa-shopping-basket'
+    'body': '<${1:i} class="fa fa-shopping-basket$2">$3</${1:i}>'
   'fa-shopping-cart':
     'prefix': 'fa-shopping-cart'
     'body': '<${1:i} class="fa fa-shopping-cart$2">$3</${1:i}>'
@@ -1618,7 +1670,11 @@
     'body': '<${1:i} class="fa fa-stack-overflow$2">$3</${1:i}>'
   'fa-stack':
     'prefix': 'fa-stack'
-    'body': '<span class="fa-ul">\n\t$1\n</span>'
+    'body': """
+      <span class="fa-ul">
+      	$1
+      </span>
+    """
   'fa-star-half-empty':
     'prefix': 'fa-star-half-empty'
     'body': '<${1:i} class="fa fa-star-half-empty$2">$3</${1:i}>'
@@ -1658,6 +1714,12 @@
   'fa-sticky-note':
     'prefix': 'fa-sticky-note'
     'body': '<${1:i} class="fa fa-sticky-note$2">$3</${1:i}>'
+  'fa-stop-circle-o':
+    'prefix': 'fa-stop-circle-o'
+    'body': '<${1:i} class="fa fa-stop-circle-o$2">$3</${1:i}>'
+  'fa-stop-circle':
+    'prefix': 'fa-stop-circle'
+    'body': '<${1:i} class="fa fa-stop-circle$2">$3</${1:i}>'
   'fa-stop':
     'prefix': 'fa-stop'
     'body': '<${1:i} class="fa fa-stop$2">$3</${1:i}>'
@@ -1846,7 +1908,11 @@
     'body': '<${1:i} class="fa fa-twitter$2">$3</${1:i}>'
   'fa-ul':
     'prefix': 'fa-ul'
-    'body': '<ul class="fa-ul">\n\t$1\n</ul>'
+    'body': """
+      <ul class="fa-ul">
+      	$1
+      </ul>
+    """
   'fa-umbrella':
     'prefix': 'fa-umbrella'
     'body': '<${1:i} class="fa fa-umbrella$2">$3</${1:i}>'
@@ -1874,6 +1940,9 @@
   'fa-upload':
     'prefix': 'fa-upload'
     'body': '<${1:i} class="fa fa-upload$2">$3</${1:i}>'
+  'fa-usb':
+    'prefix': 'fa-usb'
+    'body': '<${1:i} class="fa fa-usb$2">$3</${1:i}>'
   'fa-usd':
     'prefix': 'fa-usd'
     'body': '<${1:i} class="fa fa-usd$2">$3</${1:i}>'
