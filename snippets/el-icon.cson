@@ -1,898 +1,898 @@
 '.text.html':
   'el-icon-address-book-alt':
     'prefix': 'el-icon-address-book-alt'
-    'body': '<${1:span} class="glyphicon el-icon-address-book-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-address-book-alt$2"></${1:span}>'
   'el-icon-address-book':
     'prefix': 'el-icon-address-book'
-    'body': '<${1:span} class="glyphicon el-icon-address-book$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-address-book$2"></${1:span}>'
   'el-icon-adjust-alt':
     'prefix': 'el-icon-adjust-alt'
-    'body': '<${1:span} class="glyphicon el-icon-adjust-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-adjust-alt$2"></${1:span}>'
   'el-icon-adjust':
     'prefix': 'el-icon-adjust'
-    'body': '<${1:span} class="glyphicon el-icon-adjust$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-adjust$2"></${1:span}>'
   'el-icon-adult':
     'prefix': 'el-icon-adult'
-    'body': '<${1:span} class="glyphicon el-icon-adult$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-adult$2"></${1:span}>'
   'el-icon-align-center':
     'prefix': 'el-icon-align-center'
-    'body': '<${1:span} class="glyphicon el-icon-align-center$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-align-center$2"></${1:span}>'
   'el-icon-align-justify':
     'prefix': 'el-icon-align-justify'
-    'body': '<${1:span} class="glyphicon el-icon-align-justify$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-align-justify$2"></${1:span}>'
   'el-icon-align-left':
     'prefix': 'el-icon-align-left'
-    'body': '<${1:span} class="glyphicon el-icon-align-left$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-align-left$2"></${1:span}>'
   'el-icon-align-right':
     'prefix': 'el-icon-align-right'
-    'body': '<${1:span} class="glyphicon el-icon-align-right$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-align-right$2"></${1:span}>'
   'el-icon-arrow-down':
     'prefix': 'el-icon-arrow-down'
-    'body': '<${1:span} class="glyphicon el-icon-arrow-down$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-arrow-down$2"></${1:span}>'
   'el-icon-arrow-left':
     'prefix': 'el-icon-arrow-left'
-    'body': '<${1:span} class="glyphicon el-icon-arrow-left$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-arrow-left$2"></${1:span}>'
   'el-icon-arrow-right':
     'prefix': 'el-icon-arrow-right'
-    'body': '<${1:span} class="glyphicon el-icon-arrow-right$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-arrow-right$2"></${1:span}>'
   'el-icon-arrow-up':
     'prefix': 'el-icon-arrow-up'
-    'body': '<${1:span} class="glyphicon el-icon-arrow-up$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-arrow-up$2"></${1:span}>'
   'el-icon-asl':
     'prefix': 'el-icon-asl'
-    'body': '<${1:span} class="glyphicon el-icon-asl$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-asl$2"></${1:span}>'
   'el-icon-asterisk':
     'prefix': 'el-icon-asterisk'
-    'body': '<${1:span} class="glyphicon el-icon-asterisk$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-asterisk$2"></${1:span}>'
   'el-icon-backward':
     'prefix': 'el-icon-backward'
-    'body': '<${1:span} class="glyphicon el-icon-backward$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-backward$2"></${1:span}>'
   'el-icon-ban-circle':
     'prefix': 'el-icon-ban-circle'
-    'body': '<${1:span} class="glyphicon el-icon-ban-circle$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-ban-circle$2"></${1:span}>'
   'el-icon-barcode':
     'prefix': 'el-icon-barcode'
-    'body': '<${1:span} class="glyphicon el-icon-barcode$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-barcode$2"></${1:span}>'
   'el-icon-behance':
     'prefix': 'el-icon-behance'
-    'body': '<${1:span} class="glyphicon el-icon-behance$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-behance$2"></${1:span}>'
   'el-icon-bell':
     'prefix': 'el-icon-bell'
-    'body': '<${1:span} class="glyphicon el-icon-bell$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-bell$2"></${1:span}>'
   'el-icon-blind':
     'prefix': 'el-icon-blind'
-    'body': '<${1:span} class="glyphicon el-icon-blind$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-blind$2"></${1:span}>'
   'el-icon-blogger':
     'prefix': 'el-icon-blogger'
-    'body': '<${1:span} class="glyphicon el-icon-blogger$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-blogger$2"></${1:span}>'
   'el-icon-bold':
     'prefix': 'el-icon-bold'
-    'body': '<${1:span} class="glyphicon el-icon-bold$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-bold$2"></${1:span}>'
   'el-icon-book':
     'prefix': 'el-icon-book'
-    'body': '<${1:span} class="glyphicon el-icon-book$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-book$2"></${1:span}>'
   'el-icon-bookmark-empty':
     'prefix': 'el-icon-bookmark-empty'
-    'body': '<${1:span} class="glyphicon el-icon-bookmark-empty$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-bookmark-empty$2"></${1:span}>'
   'el-icon-bookmark':
     'prefix': 'el-icon-bookmark'
-    'body': '<${1:span} class="glyphicon el-icon-bookmark$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-bookmark$2"></${1:span}>'
   'el-icon-braille':
     'prefix': 'el-icon-braille'
-    'body': '<${1:span} class="glyphicon el-icon-braille$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-braille$2"></${1:span}>'
   'el-icon-briefcase':
     'prefix': 'el-icon-briefcase'
-    'body': '<${1:span} class="glyphicon el-icon-briefcase$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-briefcase$2"></${1:span}>'
   'el-icon-broom':
     'prefix': 'el-icon-broom'
-    'body': '<${1:span} class="glyphicon el-icon-broom$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-broom$2"></${1:span}>'
   'el-icon-brush':
     'prefix': 'el-icon-brush'
-    'body': '<${1:span} class="glyphicon el-icon-brush$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-brush$2"></${1:span}>'
   'el-icon-bulb':
     'prefix': 'el-icon-bulb'
-    'body': '<${1:span} class="glyphicon el-icon-bulb$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-bulb$2"></${1:span}>'
   'el-icon-bullhorn':
     'prefix': 'el-icon-bullhorn'
-    'body': '<${1:span} class="glyphicon el-icon-bullhorn$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-bullhorn$2"></${1:span}>'
   'el-icon-calendar-sign':
     'prefix': 'el-icon-calendar-sign'
-    'body': '<${1:span} class="glyphicon el-icon-calendar-sign$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-calendar-sign$2"></${1:span}>'
   'el-icon-calendar':
     'prefix': 'el-icon-calendar'
-    'body': '<${1:span} class="glyphicon el-icon-calendar$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-calendar$2"></${1:span}>'
   'el-icon-camera':
     'prefix': 'el-icon-camera'
-    'body': '<${1:span} class="glyphicon el-icon-camera$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-camera$2"></${1:span}>'
   'el-icon-car':
     'prefix': 'el-icon-car'
-    'body': '<${1:span} class="glyphicon el-icon-car$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-car$2"></${1:span}>'
   'el-icon-caret-down':
     'prefix': 'el-icon-caret-down'
-    'body': '<${1:span} class="glyphicon el-icon-caret-down$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-caret-down$2"></${1:span}>'
   'el-icon-caret-left':
     'prefix': 'el-icon-caret-left'
-    'body': '<${1:span} class="glyphicon el-icon-caret-left$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-caret-left$2"></${1:span}>'
   'el-icon-caret-right':
     'prefix': 'el-icon-caret-right'
-    'body': '<${1:span} class="glyphicon el-icon-caret-right$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-caret-right$2"></${1:span}>'
   'el-icon-caret-up':
     'prefix': 'el-icon-caret-up'
-    'body': '<${1:span} class="glyphicon el-icon-caret-up$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-caret-up$2"></${1:span}>'
   'el-icon-cc':
     'prefix': 'el-icon-cc'
-    'body': '<${1:span} class="glyphicon el-icon-cc$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-cc$2"></${1:span}>'
   'el-icon-certificate':
     'prefix': 'el-icon-certificate'
-    'body': '<${1:span} class="glyphicon el-icon-certificate$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-certificate$2"></${1:span}>'
   'el-icon-check-empty':
     'prefix': 'el-icon-check-empty'
-    'body': '<${1:span} class="glyphicon el-icon-check-empty$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-check-empty$2"></${1:span}>'
   'el-icon-check':
     'prefix': 'el-icon-check'
-    'body': '<${1:span} class="glyphicon el-icon-check$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-check$2"></${1:span}>'
   'el-icon-chevron-down':
     'prefix': 'el-icon-chevron-down'
-    'body': '<${1:span} class="glyphicon el-icon-chevron-down$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-chevron-down$2"></${1:span}>'
   'el-icon-chevron-left':
     'prefix': 'el-icon-chevron-left'
-    'body': '<${1:span} class="glyphicon el-icon-chevron-left$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-chevron-left$2"></${1:span}>'
   'el-icon-chevron-right':
     'prefix': 'el-icon-chevron-right'
-    'body': '<${1:span} class="glyphicon el-icon-chevron-right$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-chevron-right$2"></${1:span}>'
   'el-icon-chevron-up':
     'prefix': 'el-icon-chevron-up'
-    'body': '<${1:span} class="glyphicon el-icon-chevron-up$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-chevron-up$2"></${1:span}>'
   'el-icon-child':
     'prefix': 'el-icon-child'
-    'body': '<${1:span} class="glyphicon el-icon-child$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-child$2"></${1:span}>'
   'el-icon-circle-arrow-down':
     'prefix': 'el-icon-circle-arrow-down'
-    'body': '<${1:span} class="glyphicon el-icon-circle-arrow-down$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-circle-arrow-down$2"></${1:span}>'
   'el-icon-circle-arrow-left':
     'prefix': 'el-icon-circle-arrow-left'
-    'body': '<${1:span} class="glyphicon el-icon-circle-arrow-left$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-circle-arrow-left$2"></${1:span}>'
   'el-icon-circle-arrow-right':
     'prefix': 'el-icon-circle-arrow-right'
-    'body': '<${1:span} class="glyphicon el-icon-circle-arrow-right$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-circle-arrow-right$2"></${1:span}>'
   'el-icon-circle-arrow-up':
     'prefix': 'el-icon-circle-arrow-up'
-    'body': '<${1:span} class="glyphicon el-icon-circle-arrow-up$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-circle-arrow-up$2"></${1:span}>'
   'el-icon-cloud-alt':
     'prefix': 'el-icon-cloud-alt'
-    'body': '<${1:span} class="glyphicon el-icon-cloud-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-cloud-alt$2"></${1:span}>'
   'el-icon-cloud':
     'prefix': 'el-icon-cloud'
-    'body': '<${1:span} class="glyphicon el-icon-cloud$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-cloud$2"></${1:span}>'
   'el-icon-cog-alt':
     'prefix': 'el-icon-cog-alt'
-    'body': '<${1:span} class="glyphicon el-icon-cog-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-cog-alt$2"></${1:span}>'
   'el-icon-cog':
     'prefix': 'el-icon-cog'
-    'body': '<${1:span} class="glyphicon el-icon-cog$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-cog$2"></${1:span}>'
   'el-icon-cogs':
     'prefix': 'el-icon-cogs'
-    'body': '<${1:span} class="glyphicon el-icon-cogs$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-cogs$2"></${1:span}>'
   'el-icon-comment-alt':
     'prefix': 'el-icon-comment-alt'
-    'body': '<${1:span} class="glyphicon el-icon-comment-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-comment-alt$2"></${1:span}>'
   'el-icon-comment':
     'prefix': 'el-icon-comment'
-    'body': '<${1:span} class="glyphicon el-icon-comment$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-comment$2"></${1:span}>'
   'el-icon-compass-alt':
     'prefix': 'el-icon-compass-alt'
-    'body': '<${1:span} class="glyphicon el-icon-compass-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-compass-alt$2"></${1:span}>'
   'el-icon-compass':
     'prefix': 'el-icon-compass'
-    'body': '<${1:span} class="glyphicon el-icon-compass$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-compass$2"></${1:span}>'
   'el-icon-credit-card':
     'prefix': 'el-icon-credit-card'
-    'body': '<${1:span} class="glyphicon el-icon-credit-card$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-credit-card$2"></${1:span}>'
   'el-icon-css':
     'prefix': 'el-icon-css'
-    'body': '<${1:span} class="glyphicon el-icon-css$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-css$2"></${1:span}>'
   'el-icon-dashboard':
     'prefix': 'el-icon-dashboard'
-    'body': '<${1:span} class="glyphicon el-icon-dashboard$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-dashboard$2"></${1:span}>'
   'el-icon-delicious':
     'prefix': 'el-icon-delicious'
-    'body': '<${1:span} class="glyphicon el-icon-delicious$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-delicious$2"></${1:span}>'
   'el-icon-deviantart':
     'prefix': 'el-icon-deviantart'
-    'body': '<${1:span} class="glyphicon el-icon-deviantart$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-deviantart$2"></${1:span}>'
   'el-icon-digg':
     'prefix': 'el-icon-digg'
-    'body': '<${1:span} class="glyphicon el-icon-digg$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-digg$2"></${1:span}>'
   'el-icon-download-alt':
     'prefix': 'el-icon-download-alt'
-    'body': '<${1:span} class="glyphicon el-icon-download-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-download-alt$2"></${1:span}>'
   'el-icon-download':
     'prefix': 'el-icon-download'
-    'body': '<${1:span} class="glyphicon el-icon-download$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-download$2"></${1:span}>'
   'el-icon-dribbble':
     'prefix': 'el-icon-dribbble'
-    'body': '<${1:span} class="glyphicon el-icon-dribbble$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-dribbble$2"></${1:span}>'
   'el-icon-edit':
     'prefix': 'el-icon-edit'
-    'body': '<${1:span} class="glyphicon el-icon-edit$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-edit$2"></${1:span}>'
   'el-icon-eject':
     'prefix': 'el-icon-eject'
-    'body': '<${1:span} class="glyphicon el-icon-eject$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-eject$2"></${1:span}>'
   'el-icon-envelope-alt':
     'prefix': 'el-icon-envelope-alt'
-    'body': '<${1:span} class="glyphicon el-icon-envelope-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-envelope-alt$2"></${1:span}>'
   'el-icon-envelope':
     'prefix': 'el-icon-envelope'
-    'body': '<${1:span} class="glyphicon el-icon-envelope$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-envelope$2"></${1:span}>'
   'el-icon-error-alt':
     'prefix': 'el-icon-error-alt'
-    'body': '<${1:span} class="glyphicon el-icon-error-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-error-alt$2"></${1:span}>'
   'el-icon-error':
     'prefix': 'el-icon-error'
-    'body': '<${1:span} class="glyphicon el-icon-error$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-error$2"></${1:span}>'
   'el-icon-eur':
     'prefix': 'el-icon-eur'
-    'body': '<${1:span} class="glyphicon el-icon-eur$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-eur$2"></${1:span}>'
   'el-icon-exclamation-sign':
     'prefix': 'el-icon-exclamation-sign'
-    'body': '<${1:span} class="glyphicon el-icon-exclamation-sign$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-exclamation-sign$2"></${1:span}>'
   'el-icon-eye-close':
     'prefix': 'el-icon-eye-close'
-    'body': '<${1:span} class="glyphicon el-icon-eye-close$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-eye-close$2"></${1:span}>'
   'el-icon-eye-open':
     'prefix': 'el-icon-eye-open'
-    'body': '<${1:span} class="glyphicon el-icon-eye-open$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-eye-open$2"></${1:span}>'
   'el-icon-facebook':
     'prefix': 'el-icon-facebook'
-    'body': '<${1:span} class="glyphicon el-icon-facebook$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-facebook$2"></${1:span}>'
   'el-icon-facetime-video':
     'prefix': 'el-icon-facetime-video'
-    'body': '<${1:span} class="glyphicon el-icon-facetime-video$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-facetime-video$2"></${1:span}>'
   'el-icon-fast-backward':
     'prefix': 'el-icon-fast-backward'
-    'body': '<${1:span} class="glyphicon el-icon-fast-backward$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-fast-backward$2"></${1:span}>'
   'el-icon-fast-forward':
     'prefix': 'el-icon-fast-forward'
-    'body': '<${1:span} class="glyphicon el-icon-fast-forward$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-fast-forward$2"></${1:span}>'
   'el-icon-female':
     'prefix': 'el-icon-female'
-    'body': '<${1:span} class="glyphicon el-icon-female$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-female$2"></${1:span}>'
   'el-icon-file-alt':
     'prefix': 'el-icon-file-alt'
-    'body': '<${1:span} class="glyphicon el-icon-file-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-file-alt$2"></${1:span}>'
   'el-icon-file-edit-alt':
     'prefix': 'el-icon-file-edit-alt'
-    'body': '<${1:span} class="glyphicon el-icon-file-edit-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-file-edit-alt$2"></${1:span}>'
   'el-icon-file-edit':
     'prefix': 'el-icon-file-edit'
-    'body': '<${1:span} class="glyphicon el-icon-file-edit$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-file-edit$2"></${1:span}>'
   'el-icon-file-new-alt':
     'prefix': 'el-icon-file-new-alt'
-    'body': '<${1:span} class="glyphicon el-icon-file-new-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-file-new-alt$2"></${1:span}>'
   'el-icon-file-new':
     'prefix': 'el-icon-file-new'
-    'body': '<${1:span} class="glyphicon el-icon-file-new$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-file-new$2"></${1:span}>'
   'el-icon-file':
     'prefix': 'el-icon-file'
-    'body': '<${1:span} class="glyphicon el-icon-file$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-file$2"></${1:span}>'
   'el-icon-film':
     'prefix': 'el-icon-film'
-    'body': '<${1:span} class="glyphicon el-icon-film$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-film$2"></${1:span}>'
   'el-icon-filter':
     'prefix': 'el-icon-filter'
-    'body': '<${1:span} class="glyphicon el-icon-filter$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-filter$2"></${1:span}>'
   'el-icon-fire':
     'prefix': 'el-icon-fire'
-    'body': '<${1:span} class="glyphicon el-icon-fire$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-fire$2"></${1:span}>'
   'el-icon-flag-alt':
     'prefix': 'el-icon-flag-alt'
-    'body': '<${1:span} class="glyphicon el-icon-flag-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-flag-alt$2"></${1:span}>'
   'el-icon-flag':
     'prefix': 'el-icon-flag'
-    'body': '<${1:span} class="glyphicon el-icon-flag$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-flag$2"></${1:span}>'
   'el-icon-flickr':
     'prefix': 'el-icon-flickr'
-    'body': '<${1:span} class="glyphicon el-icon-flickr$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-flickr$2"></${1:span}>'
   'el-icon-folder-close':
     'prefix': 'el-icon-folder-close'
-    'body': '<${1:span} class="glyphicon el-icon-folder-close$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-folder-close$2"></${1:span}>'
   'el-icon-folder-open':
     'prefix': 'el-icon-folder-open'
-    'body': '<${1:span} class="glyphicon el-icon-folder-open$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-folder-open$2"></${1:span}>'
   'el-icon-folder-sign':
     'prefix': 'el-icon-folder-sign'
-    'body': '<${1:span} class="glyphicon el-icon-folder-sign$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-folder-sign$2"></${1:span}>'
   'el-icon-folder':
     'prefix': 'el-icon-folder'
-    'body': '<${1:span} class="glyphicon el-icon-folder$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-folder$2"></${1:span}>'
   'el-icon-font':
     'prefix': 'el-icon-font'
-    'body': '<${1:span} class="glyphicon el-icon-font$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-font$2"></${1:span}>'
   'el-icon-fontsize':
     'prefix': 'el-icon-fontsize'
-    'body': '<${1:span} class="glyphicon el-icon-fontsize$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-fontsize$2"></${1:span}>'
   'el-icon-fork':
     'prefix': 'el-icon-fork'
-    'body': '<${1:span} class="glyphicon el-icon-fork$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-fork$2"></${1:span}>'
   'el-icon-forward-alt':
     'prefix': 'el-icon-forward-alt'
-    'body': '<${1:span} class="glyphicon el-icon-forward-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-forward-alt$2"></${1:span}>'
   'el-icon-forward':
     'prefix': 'el-icon-forward'
-    'body': '<${1:span} class="glyphicon el-icon-forward$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-forward$2"></${1:span}>'
   'el-icon-foursquare':
     'prefix': 'el-icon-foursquare'
-    'body': '<${1:span} class="glyphicon el-icon-foursquare$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-foursquare$2"></${1:span}>'
   'el-icon-friendfeed-rect':
     'prefix': 'el-icon-friendfeed-rect'
-    'body': '<${1:span} class="glyphicon el-icon-friendfeed-rect$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-friendfeed-rect$2"></${1:span}>'
   'el-icon-friendfeed':
     'prefix': 'el-icon-friendfeed'
-    'body': '<${1:span} class="glyphicon el-icon-friendfeed$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-friendfeed$2"></${1:span}>'
   'el-icon-fullscreen':
     'prefix': 'el-icon-fullscreen'
-    'body': '<${1:span} class="glyphicon el-icon-fullscreen$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-fullscreen$2"></${1:span}>'
   'el-icon-gbp':
     'prefix': 'el-icon-gbp'
-    'body': '<${1:span} class="glyphicon el-icon-gbp$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-gbp$2"></${1:span}>'
   'el-icon-gift':
     'prefix': 'el-icon-gift'
-    'body': '<${1:span} class="glyphicon el-icon-gift$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-gift$2"></${1:span}>'
   'el-icon-github-text':
     'prefix': 'el-icon-github-text'
-    'body': '<${1:span} class="glyphicon el-icon-github-text$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-github-text$2"></${1:span}>'
   'el-icon-github':
     'prefix': 'el-icon-github'
-    'body': '<${1:span} class="glyphicon el-icon-github$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-github$2"></${1:span}>'
   'el-icon-glass':
     'prefix': 'el-icon-glass'
-    'body': '<${1:span} class="glyphicon el-icon-glass$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-glass$2"></${1:span}>'
   'el-icon-glasses':
     'prefix': 'el-icon-glasses'
-    'body': '<${1:span} class="glyphicon el-icon-glasses$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-glasses$2"></${1:span}>'
   'el-icon-globe-alt':
     'prefix': 'el-icon-globe-alt'
-    'body': '<${1:span} class="glyphicon el-icon-globe-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-globe-alt$2"></${1:span}>'
   'el-icon-globe':
     'prefix': 'el-icon-globe'
-    'body': '<${1:span} class="glyphicon el-icon-globe$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-globe$2"></${1:span}>'
   'el-icon-googleplus':
     'prefix': 'el-icon-googleplus'
-    'body': '<${1:span} class="glyphicon el-icon-googleplus$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-googleplus$2"></${1:span}>'
   'el-icon-graph-alt':
     'prefix': 'el-icon-graph-alt'
-    'body': '<${1:span} class="glyphicon el-icon-graph-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-graph-alt$2"></${1:span}>'
   'el-icon-graph':
     'prefix': 'el-icon-graph'
-    'body': '<${1:span} class="glyphicon el-icon-graph$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-graph$2"></${1:span}>'
   'el-icon-group-alt':
     'prefix': 'el-icon-group-alt'
-    'body': '<${1:span} class="glyphicon el-icon-group-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-group-alt$2"></${1:span}>'
   'el-icon-group':
     'prefix': 'el-icon-group'
-    'body': '<${1:span} class="glyphicon el-icon-group$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-group$2"></${1:span}>'
   'el-icon-guidedog':
     'prefix': 'el-icon-guidedog'
-    'body': '<${1:span} class="glyphicon el-icon-guidedog$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-guidedog$2"></${1:span}>'
   'el-icon-hand-down':
     'prefix': 'el-icon-hand-down'
-    'body': '<${1:span} class="glyphicon el-icon-hand-down$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-hand-down$2"></${1:span}>'
   'el-icon-hand-left':
     'prefix': 'el-icon-hand-left'
-    'body': '<${1:span} class="glyphicon el-icon-hand-left$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-hand-left$2"></${1:span}>'
   'el-icon-hand-right':
     'prefix': 'el-icon-hand-right'
-    'body': '<${1:span} class="glyphicon el-icon-hand-right$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-hand-right$2"></${1:span}>'
   'el-icon-hand-up':
     'prefix': 'el-icon-hand-up'
-    'body': '<${1:span} class="glyphicon el-icon-hand-up$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-hand-up$2"></${1:span}>'
   'el-icon-hdd':
     'prefix': 'el-icon-hdd'
-    'body': '<${1:span} class="glyphicon el-icon-hdd$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-hdd$2"></${1:span}>'
   'el-icon-headphones':
     'prefix': 'el-icon-headphones'
-    'body': '<${1:span} class="glyphicon el-icon-headphones$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-headphones$2"></${1:span}>'
   'el-icon-hearing-impaired':
     'prefix': 'el-icon-hearing-impaired'
-    'body': '<${1:span} class="glyphicon el-icon-hearing-impaired$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-hearing-impaired$2"></${1:span}>'
   'el-icon-heart-alt':
     'prefix': 'el-icon-heart-alt'
-    'body': '<${1:span} class="glyphicon el-icon-heart-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-heart-alt$2"></${1:span}>'
   'el-icon-heart-empty':
     'prefix': 'el-icon-heart-empty'
-    'body': '<${1:span} class="glyphicon el-icon-heart-empty$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-heart-empty$2"></${1:span}>'
   'el-icon-heart':
     'prefix': 'el-icon-heart'
-    'body': '<${1:span} class="glyphicon el-icon-heart$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-heart$2"></${1:span}>'
   'el-icon-home-alt':
     'prefix': 'el-icon-home-alt'
-    'body': '<${1:span} class="glyphicon el-icon-home-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-home-alt$2"></${1:span}>'
   'el-icon-home':
     'prefix': 'el-icon-home'
-    'body': '<${1:span} class="glyphicon el-icon-home$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-home$2"></${1:span}>'
   'el-icon-hourglass':
     'prefix': 'el-icon-hourglass'
-    'body': '<${1:span} class="glyphicon el-icon-hourglass$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-hourglass$2"></${1:span}>'
   'el-icon-idea-alt':
     'prefix': 'el-icon-idea-alt'
-    'body': '<${1:span} class="glyphicon el-icon-idea-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-idea-alt$2"></${1:span}>'
   'el-icon-idea':
     'prefix': 'el-icon-idea'
-    'body': '<${1:span} class="glyphicon el-icon-idea$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-idea$2"></${1:span}>'
   'el-icon-inbox-alt':
     'prefix': 'el-icon-inbox-alt'
-    'body': '<${1:span} class="glyphicon el-icon-inbox-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-inbox-alt$2"></${1:span}>'
   'el-icon-inbox-box':
     'prefix': 'el-icon-inbox-box'
-    'body': '<${1:span} class="glyphicon el-icon-inbox-box$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-inbox-box$2"></${1:span}>'
   'el-icon-inbox':
     'prefix': 'el-icon-inbox'
-    'body': '<${1:span} class="glyphicon el-icon-inbox$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-inbox$2"></${1:span}>'
   'el-icon-indent-left':
     'prefix': 'el-icon-indent-left'
-    'body': '<${1:span} class="glyphicon el-icon-indent-left$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-indent-left$2"></${1:span}>'
   'el-icon-indent-right':
     'prefix': 'el-icon-indent-right'
-    'body': '<${1:span} class="glyphicon el-icon-indent-right$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-indent-right$2"></${1:span}>'
   'el-icon-info-sign':
     'prefix': 'el-icon-info-sign'
-    'body': '<${1:span} class="glyphicon el-icon-info-sign$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-info-sign$2"></${1:span}>'
   'el-icon-instagram':
     'prefix': 'el-icon-instagram'
-    'body': '<${1:span} class="glyphicon el-icon-instagram$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-instagram$2"></${1:span}>'
   'el-icon-iphone-home':
     'prefix': 'el-icon-iphone-home'
-    'body': '<${1:span} class="glyphicon el-icon-iphone-home$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-iphone-home$2"></${1:span}>'
   'el-icon-italic':
     'prefix': 'el-icon-italic'
-    'body': '<${1:span} class="glyphicon el-icon-italic$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-italic$2"></${1:span}>'
   'el-icon-key':
     'prefix': 'el-icon-key'
-    'body': '<${1:span} class="glyphicon el-icon-key$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-key$2"></${1:span}>'
   'el-icon-laptop-alt':
     'prefix': 'el-icon-laptop-alt'
-    'body': '<${1:span} class="glyphicon el-icon-laptop-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-laptop-alt$2"></${1:span}>'
   'el-icon-laptop':
     'prefix': 'el-icon-laptop'
-    'body': '<${1:span} class="glyphicon el-icon-laptop$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-laptop$2"></${1:span}>'
   'el-icon-lastfm':
     'prefix': 'el-icon-lastfm'
-    'body': '<${1:span} class="glyphicon el-icon-lastfm$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-lastfm$2"></${1:span}>'
   'el-icon-leaf':
     'prefix': 'el-icon-leaf'
-    'body': '<${1:span} class="glyphicon el-icon-leaf$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-leaf$2"></${1:span}>'
   'el-icon-lines':
     'prefix': 'el-icon-lines'
-    'body': '<${1:span} class="glyphicon el-icon-lines$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-lines$2"></${1:span}>'
   'el-icon-link':
     'prefix': 'el-icon-link'
-    'body': '<${1:span} class="glyphicon el-icon-link$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-link$2"></${1:span}>'
   'el-icon-linkedin':
     'prefix': 'el-icon-linkedin'
-    'body': '<${1:span} class="glyphicon el-icon-linkedin$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-linkedin$2"></${1:span}>'
   'el-icon-list-alt':
     'prefix': 'el-icon-list-alt'
-    'body': '<${1:span} class="glyphicon el-icon-list-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-list-alt$2"></${1:span}>'
   'el-icon-list':
     'prefix': 'el-icon-list'
-    'body': '<${1:span} class="glyphicon el-icon-list$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-list$2"></${1:span}>'
   'el-icon-livejournal':
     'prefix': 'el-icon-livejournal'
-    'body': '<${1:span} class="glyphicon el-icon-livejournal$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-livejournal$2"></${1:span}>'
   'el-icon-lock-alt':
     'prefix': 'el-icon-lock-alt'
-    'body': '<${1:span} class="glyphicon el-icon-lock-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-lock-alt$2"></${1:span}>'
   'el-icon-lock':
     'prefix': 'el-icon-lock'
-    'body': '<${1:span} class="glyphicon el-icon-lock$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-lock$2"></${1:span}>'
   'el-icon-magic':
     'prefix': 'el-icon-magic'
-    'body': '<${1:span} class="glyphicon el-icon-magic$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-magic$2"></${1:span}>'
   'el-icon-magnet':
     'prefix': 'el-icon-magnet'
-    'body': '<${1:span} class="glyphicon el-icon-magnet$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-magnet$2"></${1:span}>'
   'el-icon-male':
     'prefix': 'el-icon-male'
-    'body': '<${1:span} class="glyphicon el-icon-male$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-male$2"></${1:span}>'
   'el-icon-map-marker-alt':
     'prefix': 'el-icon-map-marker-alt'
-    'body': '<${1:span} class="glyphicon el-icon-map-marker-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-map-marker-alt$2"></${1:span}>'
   'el-icon-map-marker':
     'prefix': 'el-icon-map-marker'
-    'body': '<${1:span} class="glyphicon el-icon-map-marker$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-map-marker$2"></${1:span}>'
   'el-icon-mic-alt':
     'prefix': 'el-icon-mic-alt'
-    'body': '<${1:span} class="glyphicon el-icon-mic-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-mic-alt$2"></${1:span}>'
   'el-icon-mic':
     'prefix': 'el-icon-mic'
-    'body': '<${1:span} class="glyphicon el-icon-mic$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-mic$2"></${1:span}>'
   'el-icon-minus-sign':
     'prefix': 'el-icon-minus-sign'
-    'body': '<${1:span} class="glyphicon el-icon-minus-sign$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-minus-sign$2"></${1:span}>'
   'el-icon-minus':
     'prefix': 'el-icon-minus'
-    'body': '<${1:span} class="glyphicon el-icon-minus$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-minus$2"></${1:span}>'
   'el-icon-move':
     'prefix': 'el-icon-move'
-    'body': '<${1:span} class="glyphicon el-icon-move$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-move$2"></${1:span}>'
   'el-icon-music':
     'prefix': 'el-icon-music'
-    'body': '<${1:span} class="glyphicon el-icon-music$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-music$2"></${1:span}>'
   'el-icon-myspace':
     'prefix': 'el-icon-myspace'
-    'body': '<${1:span} class="glyphicon el-icon-myspace$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-myspace$2"></${1:span}>'
   'el-icon-network':
     'prefix': 'el-icon-network'
-    'body': '<${1:span} class="glyphicon el-icon-network$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-network$2"></${1:span}>'
   'el-icon-off':
     'prefix': 'el-icon-off'
-    'body': '<${1:span} class="glyphicon el-icon-off$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-off$2"></${1:span}>'
   'el-icon-ok-circle':
     'prefix': 'el-icon-ok-circle'
-    'body': '<${1:span} class="glyphicon el-icon-ok-circle$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-ok-circle$2"></${1:span}>'
   'el-icon-ok-sign':
     'prefix': 'el-icon-ok-sign'
-    'body': '<${1:span} class="glyphicon el-icon-ok-sign$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-ok-sign$2"></${1:span}>'
   'el-icon-ok':
     'prefix': 'el-icon-ok'
-    'body': '<${1:span} class="glyphicon el-icon-ok$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-ok$2"></${1:span}>'
   'el-icon-opensource':
     'prefix': 'el-icon-opensource'
-    'body': '<${1:span} class="glyphicon el-icon-opensource$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-opensource$2"></${1:span}>'
   'el-icon-paper-clip-alt':
     'prefix': 'el-icon-paper-clip-alt'
-    'body': '<${1:span} class="glyphicon el-icon-paper-clip-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-paper-clip-alt$2"></${1:span}>'
   'el-icon-paper-clip':
     'prefix': 'el-icon-paper-clip'
-    'body': '<${1:span} class="glyphicon el-icon-paper-clip$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-paper-clip$2"></${1:span}>'
   'el-icon-path':
     'prefix': 'el-icon-path'
-    'body': '<${1:span} class="glyphicon el-icon-path$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-path$2"></${1:span}>'
   'el-icon-pause-alt':
     'prefix': 'el-icon-pause-alt'
-    'body': '<${1:span} class="glyphicon el-icon-pause-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-pause-alt$2"></${1:span}>'
   'el-icon-pause':
     'prefix': 'el-icon-pause'
-    'body': '<${1:span} class="glyphicon el-icon-pause$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-pause$2"></${1:span}>'
   'el-icon-pencil-alt':
     'prefix': 'el-icon-pencil-alt'
-    'body': '<${1:span} class="glyphicon el-icon-pencil-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-pencil-alt$2"></${1:span}>'
   'el-icon-pencil':
     'prefix': 'el-icon-pencil'
-    'body': '<${1:span} class="glyphicon el-icon-pencil$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-pencil$2"></${1:span}>'
   'el-icon-person':
     'prefix': 'el-icon-person'
-    'body': '<${1:span} class="glyphicon el-icon-person$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-person$2"></${1:span}>'
   'el-icon-phone-alt':
     'prefix': 'el-icon-phone-alt'
-    'body': '<${1:span} class="glyphicon el-icon-phone-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-phone-alt$2"></${1:span}>'
   'el-icon-phone':
     'prefix': 'el-icon-phone'
-    'body': '<${1:span} class="glyphicon el-icon-phone$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-phone$2"></${1:span}>'
   'el-icon-photo-alt':
     'prefix': 'el-icon-photo-alt'
-    'body': '<${1:span} class="glyphicon el-icon-photo-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-photo-alt$2"></${1:span}>'
   'el-icon-photo':
     'prefix': 'el-icon-photo'
-    'body': '<${1:span} class="glyphicon el-icon-photo$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-photo$2"></${1:span}>'
   'el-icon-picasa':
     'prefix': 'el-icon-picasa'
-    'body': '<${1:span} class="glyphicon el-icon-picasa$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-picasa$2"></${1:span}>'
   'el-icon-picture':
     'prefix': 'el-icon-picture'
-    'body': '<${1:span} class="glyphicon el-icon-picture$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-picture$2"></${1:span}>'
   'el-icon-pinterest':
     'prefix': 'el-icon-pinterest'
-    'body': '<${1:span} class="glyphicon el-icon-pinterest$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-pinterest$2"></${1:span}>'
   'el-icon-plane':
     'prefix': 'el-icon-plane'
-    'body': '<${1:span} class="glyphicon el-icon-plane$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-plane$2"></${1:span}>'
   'el-icon-play-alt':
     'prefix': 'el-icon-play-alt'
-    'body': '<${1:span} class="glyphicon el-icon-play-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-play-alt$2"></${1:span}>'
   'el-icon-play-circle':
     'prefix': 'el-icon-play-circle'
-    'body': '<${1:span} class="glyphicon el-icon-play-circle$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-play-circle$2"></${1:span}>'
   'el-icon-play':
     'prefix': 'el-icon-play'
-    'body': '<${1:span} class="glyphicon el-icon-play$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-play$2"></${1:span}>'
   'el-icon-plus-sign':
     'prefix': 'el-icon-plus-sign'
-    'body': '<${1:span} class="glyphicon el-icon-plus-sign$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-plus-sign$2"></${1:span}>'
   'el-icon-plus':
     'prefix': 'el-icon-plus'
-    'body': '<${1:span} class="glyphicon el-icon-plus$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-plus$2"></${1:span}>'
   'el-icon-podcast':
     'prefix': 'el-icon-podcast'
-    'body': '<${1:span} class="glyphicon el-icon-podcast$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-podcast$2"></${1:span}>'
   'el-icon-print':
     'prefix': 'el-icon-print'
-    'body': '<${1:span} class="glyphicon el-icon-print$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-print$2"></${1:span}>'
   'el-icon-puzzle':
     'prefix': 'el-icon-puzzle'
-    'body': '<${1:span} class="glyphicon el-icon-puzzle$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-puzzle$2"></${1:span}>'
   'el-icon-qrcode':
     'prefix': 'el-icon-qrcode'
-    'body': '<${1:span} class="glyphicon el-icon-qrcode$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-qrcode$2"></${1:span}>'
   'el-icon-question-sign':
     'prefix': 'el-icon-question-sign'
-    'body': '<${1:span} class="glyphicon el-icon-question-sign$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-question-sign$2"></${1:span}>'
   'el-icon-question':
     'prefix': 'el-icon-question'
-    'body': '<${1:span} class="glyphicon el-icon-question$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-question$2"></${1:span}>'
   'el-icon-quotes-alt':
     'prefix': 'el-icon-quotes-alt'
-    'body': '<${1:span} class="glyphicon el-icon-quotes-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-quotes-alt$2"></${1:span}>'
   'el-icon-quotes':
     'prefix': 'el-icon-quotes'
-    'body': '<${1:span} class="glyphicon el-icon-quotes$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-quotes$2"></${1:span}>'
   'el-icon-random':
     'prefix': 'el-icon-random'
-    'body': '<${1:span} class="glyphicon el-icon-random$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-random$2"></${1:span}>'
   'el-icon-record':
     'prefix': 'el-icon-record'
-    'body': '<${1:span} class="glyphicon el-icon-record$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-record$2"></${1:span}>'
   'el-icon-reddit':
     'prefix': 'el-icon-reddit'
-    'body': '<${1:span} class="glyphicon el-icon-reddit$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-reddit$2"></${1:span}>'
   'el-icon-refresh':
     'prefix': 'el-icon-refresh'
-    'body': '<${1:span} class="glyphicon el-icon-refresh$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-refresh$2"></${1:span}>'
   'el-icon-remove-circle':
     'prefix': 'el-icon-remove-circle'
-    'body': '<${1:span} class="glyphicon el-icon-remove-circle$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-remove-circle$2"></${1:span}>'
   'el-icon-remove-sign':
     'prefix': 'el-icon-remove-sign'
-    'body': '<${1:span} class="glyphicon el-icon-remove-sign$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-remove-sign$2"></${1:span}>'
   'el-icon-remove':
     'prefix': 'el-icon-remove'
-    'body': '<${1:span} class="glyphicon el-icon-remove$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-remove$2"></${1:span}>'
   'el-icon-repeat-alt':
     'prefix': 'el-icon-repeat-alt'
-    'body': '<${1:span} class="glyphicon el-icon-repeat-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-repeat-alt$2"></${1:span}>'
   'el-icon-repeat':
     'prefix': 'el-icon-repeat'
-    'body': '<${1:span} class="glyphicon el-icon-repeat$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-repeat$2"></${1:span}>'
   'el-icon-resize-full':
     'prefix': 'el-icon-resize-full'
-    'body': '<${1:span} class="glyphicon el-icon-resize-full$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-resize-full$2"></${1:span}>'
   'el-icon-resize-horizontal':
     'prefix': 'el-icon-resize-horizontal'
-    'body': '<${1:span} class="glyphicon el-icon-resize-horizontal$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-resize-horizontal$2"></${1:span}>'
   'el-icon-resize-small':
     'prefix': 'el-icon-resize-small'
-    'body': '<${1:span} class="glyphicon el-icon-resize-small$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-resize-small$2"></${1:span}>'
   'el-icon-resize-vertical':
     'prefix': 'el-icon-resize-vertical'
-    'body': '<${1:span} class="glyphicon el-icon-resize-vertical$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-resize-vertical$2"></${1:span}>'
   'el-icon-return-key':
     'prefix': 'el-icon-return-key'
-    'body': '<${1:span} class="glyphicon el-icon-return-key$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-return-key$2"></${1:span}>'
   'el-icon-retweet':
     'prefix': 'el-icon-retweet'
-    'body': '<${1:span} class="glyphicon el-icon-retweet$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-retweet$2"></${1:span}>'
   'el-icon-reverse-alt':
     'prefix': 'el-icon-reverse-alt'
-    'body': '<${1:span} class="glyphicon el-icon-reverse-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-reverse-alt$2"></${1:span}>'
   'el-icon-road':
     'prefix': 'el-icon-road'
-    'body': '<${1:span} class="glyphicon el-icon-road$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-road$2"></${1:span}>'
   'el-icon-rss':
     'prefix': 'el-icon-rss'
-    'body': '<${1:span} class="glyphicon el-icon-rss$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-rss$2"></${1:span}>'
   'el-icon-scissors':
     'prefix': 'el-icon-scissors'
-    'body': '<${1:span} class="glyphicon el-icon-scissors$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-scissors$2"></${1:span}>'
   'el-icon-screen-alt':
     'prefix': 'el-icon-screen-alt'
-    'body': '<${1:span} class="glyphicon el-icon-screen-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-screen-alt$2"></${1:span}>'
   'el-icon-screen':
     'prefix': 'el-icon-screen'
-    'body': '<${1:span} class="glyphicon el-icon-screen$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-screen$2"></${1:span}>'
   'el-icon-screenshot':
     'prefix': 'el-icon-screenshot'
-    'body': '<${1:span} class="glyphicon el-icon-screenshot$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-screenshot$2"></${1:span}>'
   'el-icon-search-alt':
     'prefix': 'el-icon-search-alt'
-    'body': '<${1:span} class="glyphicon el-icon-search-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-search-alt$2"></${1:span}>'
   'el-icon-search':
     'prefix': 'el-icon-search'
-    'body': '<${1:span} class="glyphicon el-icon-search$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-search$2"></${1:span}>'
   'el-icon-share-alt':
     'prefix': 'el-icon-share-alt'
-    'body': '<${1:span} class="glyphicon el-icon-share-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-share-alt$2"></${1:span}>'
   'el-icon-share':
     'prefix': 'el-icon-share'
-    'body': '<${1:span} class="glyphicon el-icon-share$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-share$2"></${1:span}>'
   'el-icon-shopping-cart-sign':
     'prefix': 'el-icon-shopping-cart-sign'
-    'body': '<${1:span} class="glyphicon el-icon-shopping-cart-sign$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-shopping-cart-sign$2"></${1:span}>'
   'el-icon-shopping-cart':
     'prefix': 'el-icon-shopping-cart'
-    'body': '<${1:span} class="glyphicon el-icon-shopping-cart$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-shopping-cart$2"></${1:span}>'
   'el-icon-signal':
     'prefix': 'el-icon-signal'
-    'body': '<${1:span} class="glyphicon el-icon-signal$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-signal$2"></${1:span}>'
   'el-icon-skype':
     'prefix': 'el-icon-skype'
-    'body': '<${1:span} class="glyphicon el-icon-skype$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-skype$2"></${1:span}>'
   'el-icon-slideshare':
     'prefix': 'el-icon-slideshare'
-    'body': '<${1:span} class="glyphicon el-icon-slideshare$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-slideshare$2"></${1:span}>'
   'el-icon-smiley-alt':
     'prefix': 'el-icon-smiley-alt'
-    'body': '<${1:span} class="glyphicon el-icon-smiley-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-smiley-alt$2"></${1:span}>'
   'el-icon-smiley':
     'prefix': 'el-icon-smiley'
-    'body': '<${1:span} class="glyphicon el-icon-smiley$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-smiley$2"></${1:span}>'
   'el-icon-soundcloud':
     'prefix': 'el-icon-soundcloud'
-    'body': '<${1:span} class="glyphicon el-icon-soundcloud$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-soundcloud$2"></${1:span}>'
   'el-icon-speaker':
     'prefix': 'el-icon-speaker'
-    'body': '<${1:span} class="glyphicon el-icon-speaker$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-speaker$2"></${1:span}>'
   'el-icon-spotify':
     'prefix': 'el-icon-spotify'
-    'body': '<${1:span} class="glyphicon el-icon-spotify$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-spotify$2"></${1:span}>'
   'el-icon-stackoverflow':
     'prefix': 'el-icon-stackoverflow'
-    'body': '<${1:span} class="glyphicon el-icon-stackoverflow$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-stackoverflow$2"></${1:span}>'
   'el-icon-star-alt':
     'prefix': 'el-icon-star-alt'
-    'body': '<${1:span} class="glyphicon el-icon-star-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-star-alt$2"></${1:span}>'
   'el-icon-star-empty':
     'prefix': 'el-icon-star-empty'
-    'body': '<${1:span} class="glyphicon el-icon-star-empty$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-star-empty$2"></${1:span}>'
   'el-icon-star':
     'prefix': 'el-icon-star'
-    'body': '<${1:span} class="glyphicon el-icon-star$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-star$2"></${1:span}>'
   'el-icon-step-backward':
     'prefix': 'el-icon-step-backward'
-    'body': '<${1:span} class="glyphicon el-icon-step-backward$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-step-backward$2"></${1:span}>'
   'el-icon-step-forward':
     'prefix': 'el-icon-step-forward'
-    'body': '<${1:span} class="glyphicon el-icon-step-forward$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-step-forward$2"></${1:span}>'
   'el-icon-stop-alt':
     'prefix': 'el-icon-stop-alt'
-    'body': '<${1:span} class="glyphicon el-icon-stop-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-stop-alt$2"></${1:span}>'
   'el-icon-stop':
     'prefix': 'el-icon-stop'
-    'body': '<${1:span} class="glyphicon el-icon-stop$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-stop$2"></${1:span}>'
   'el-icon-stumbleupon':
     'prefix': 'el-icon-stumbleupon'
-    'body': '<${1:span} class="glyphicon el-icon-stumbleupon$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-stumbleupon$2"></${1:span}>'
   'el-icon-tag':
     'prefix': 'el-icon-tag'
-    'body': '<${1:span} class="glyphicon el-icon-tag$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-tag$2"></${1:span}>'
   'el-icon-tags':
     'prefix': 'el-icon-tags'
-    'body': '<${1:span} class="glyphicon el-icon-tags$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-tags$2"></${1:span}>'
   'el-icon-tasks':
     'prefix': 'el-icon-tasks'
-    'body': '<${1:span} class="glyphicon el-icon-tasks$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-tasks$2"></${1:span}>'
   'el-icon-text-height':
     'prefix': 'el-icon-text-height'
-    'body': '<${1:span} class="glyphicon el-icon-text-height$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-text-height$2"></${1:span}>'
   'el-icon-text-width':
     'prefix': 'el-icon-text-width'
-    'body': '<${1:span} class="glyphicon el-icon-text-width$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-text-width$2"></${1:span}>'
   'el-icon-th-large':
     'prefix': 'el-icon-th-large'
-    'body': '<${1:span} class="glyphicon el-icon-th-large$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-th-large$2"></${1:span}>'
   'el-icon-th-list':
     'prefix': 'el-icon-th-list'
-    'body': '<${1:span} class="glyphicon el-icon-th-list$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-th-list$2"></${1:span}>'
   'el-icon-th':
     'prefix': 'el-icon-th'
-    'body': '<${1:span} class="glyphicon el-icon-th$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-th$2"></${1:span}>'
   'el-icon-thumbs-down':
     'prefix': 'el-icon-thumbs-down'
-    'body': '<${1:span} class="glyphicon el-icon-thumbs-down$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-thumbs-down$2"></${1:span}>'
   'el-icon-thumbs-up':
     'prefix': 'el-icon-thumbs-up'
-    'body': '<${1:span} class="glyphicon el-icon-thumbs-up$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-thumbs-up$2"></${1:span}>'
   'el-icon-time-alt':
     'prefix': 'el-icon-time-alt'
-    'body': '<${1:span} class="glyphicon el-icon-time-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-time-alt$2"></${1:span}>'
   'el-icon-time':
     'prefix': 'el-icon-time'
-    'body': '<${1:span} class="glyphicon el-icon-time$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-time$2"></${1:span}>'
   'el-icon-tint':
     'prefix': 'el-icon-tint'
-    'body': '<${1:span} class="glyphicon el-icon-tint$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-tint$2"></${1:span}>'
   'el-icon-torso':
     'prefix': 'el-icon-torso'
-    'body': '<${1:span} class="glyphicon el-icon-torso$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-torso$2"></${1:span}>'
   'el-icon-trash-alt':
     'prefix': 'el-icon-trash-alt'
-    'body': '<${1:span} class="glyphicon el-icon-trash-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-trash-alt$2"></${1:span}>'
   'el-icon-trash':
     'prefix': 'el-icon-trash'
-    'body': '<${1:span} class="glyphicon el-icon-trash$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-trash$2"></${1:span}>'
   'el-icon-tumblr':
     'prefix': 'el-icon-tumblr'
-    'body': '<${1:span} class="glyphicon el-icon-tumblr$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-tumblr$2"></${1:span}>'
   'el-icon-twitter':
     'prefix': 'el-icon-twitter'
-    'body': '<${1:span} class="glyphicon el-icon-twitter$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-twitter$2"></${1:span}>'
   'el-icon-universal-access':
     'prefix': 'el-icon-universal-access'
-    'body': '<${1:span} class="glyphicon el-icon-universal-access$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-universal-access$2"></${1:span}>'
   'el-icon-unlock-alt':
     'prefix': 'el-icon-unlock-alt'
-    'body': '<${1:span} class="glyphicon el-icon-unlock-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-unlock-alt$2"></${1:span}>'
   'el-icon-unlock':
     'prefix': 'el-icon-unlock'
-    'body': '<${1:span} class="glyphicon el-icon-unlock$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-unlock$2"></${1:span}>'
   'el-icon-upload':
     'prefix': 'el-icon-upload'
-    'body': '<${1:span} class="glyphicon el-icon-upload$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-upload$2"></${1:span}>'
   'el-icon-usd':
     'prefix': 'el-icon-usd'
-    'body': '<${1:span} class="glyphicon el-icon-usd$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-usd$2"></${1:span}>'
   'el-icon-user':
     'prefix': 'el-icon-user'
-    'body': '<${1:span} class="glyphicon el-icon-user$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-user$2"></${1:span}>'
   'el-icon-viadeo':
     'prefix': 'el-icon-viadeo'
-    'body': '<${1:span} class="glyphicon el-icon-viadeo$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-viadeo$2"></${1:span}>'
   'el-icon-video-alt':
     'prefix': 'el-icon-video-alt'
-    'body': '<${1:span} class="glyphicon el-icon-video-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-video-alt$2"></${1:span}>'
   'el-icon-video-chat':
     'prefix': 'el-icon-video-chat'
-    'body': '<${1:span} class="glyphicon el-icon-video-chat$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-video-chat$2"></${1:span}>'
   'el-icon-video':
     'prefix': 'el-icon-video'
-    'body': '<${1:span} class="glyphicon el-icon-video$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-video$2"></${1:span}>'
   'el-icon-view-mode':
     'prefix': 'el-icon-view-mode'
-    'body': '<${1:span} class="glyphicon el-icon-view-mode$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-view-mode$2"></${1:span}>'
   'el-icon-vimeo':
     'prefix': 'el-icon-vimeo'
-    'body': '<${1:span} class="glyphicon el-icon-vimeo$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-vimeo$2"></${1:span}>'
   'el-icon-vkontakte':
     'prefix': 'el-icon-vkontakte'
-    'body': '<${1:span} class="glyphicon el-icon-vkontakte$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-vkontakte$2"></${1:span}>'
   'el-icon-volume-down':
     'prefix': 'el-icon-volume-down'
-    'body': '<${1:span} class="glyphicon el-icon-volume-down$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-volume-down$2"></${1:span}>'
   'el-icon-volume-off':
     'prefix': 'el-icon-volume-off'
-    'body': '<${1:span} class="glyphicon el-icon-volume-off$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-volume-off$2"></${1:span}>'
   'el-icon-volume-up':
     'prefix': 'el-icon-volume-up'
-    'body': '<${1:span} class="glyphicon el-icon-volume-up$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-volume-up$2"></${1:span}>'
   'el-icon-w3c':
     'prefix': 'el-icon-w3c'
-    'body': '<${1:span} class="glyphicon el-icon-w3c$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-w3c$2"></${1:span}>'
   'el-icon-warning-sign':
     'prefix': 'el-icon-warning-sign'
-    'body': '<${1:span} class="glyphicon el-icon-warning-sign$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-warning-sign$2"></${1:span}>'
   'el-icon-website-alt':
     'prefix': 'el-icon-website-alt'
-    'body': '<${1:span} class="glyphicon el-icon-website-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-website-alt$2"></${1:span}>'
   'el-icon-website':
     'prefix': 'el-icon-website'
-    'body': '<${1:span} class="glyphicon el-icon-website$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-website$2"></${1:span}>'
   'el-icon-wheelchair':
     'prefix': 'el-icon-wheelchair'
-    'body': '<${1:span} class="glyphicon el-icon-wheelchair$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-wheelchair$2"></${1:span}>'
   'el-icon-wordpress':
     'prefix': 'el-icon-wordpress'
-    'body': '<${1:span} class="glyphicon el-icon-wordpress$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-wordpress$2"></${1:span}>'
   'el-icon-wrench-alt':
     'prefix': 'el-icon-wrench-alt'
-    'body': '<${1:span} class="glyphicon el-icon-wrench-alt$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-wrench-alt$2"></${1:span}>'
   'el-icon-wrench':
     'prefix': 'el-icon-wrench'
-    'body': '<${1:span} class="glyphicon el-icon-wrench$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-wrench$2"></${1:span}>'
   'el-icon-youtube':
     'prefix': 'el-icon-youtube'
-    'body': '<${1:span} class="glyphicon el-icon-youtube$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-youtube$2"></${1:span}>'
   'el-icon-zoom-in':
     'prefix': 'el-icon-zoom-in'
-    'body': '<${1:span} class="glyphicon el-icon-zoom-in$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-zoom-in$2"></${1:span}>'
   'el-icon-zoom-out':
     'prefix': 'el-icon-zoom-out'
-    'body': '<${1:span} class="glyphicon el-icon-zoom-out$2">$3</${1:span}>'
+    'body': '<${1:span} class="glyphicon el-icon-zoom-out$2"></${1:span}>'

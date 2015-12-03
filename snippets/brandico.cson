@@ -1,136 +1,136 @@
 '.text.html':
   'brandico-amex':
     'prefix': 'brandico-amex'
-    'body': '<${1:i} class="icon-amex$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-amex$2"></${1:i}>'
   'brandico-bandcamp':
     'prefix': 'brandico-bandcamp'
-    'body': '<${1:i} class="icon-bandcamp$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-bandcamp$2"></${1:i}>'
   'brandico-blogger-rect':
     'prefix': 'brandico-blogger-rect'
-    'body': '<${1:i} class="icon-blogger-rect$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-blogger-rect$2"></${1:i}>'
   'brandico-blogger':
     'prefix': 'brandico-blogger'
-    'body': '<${1:i} class="icon-blogger$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-blogger$2"></${1:i}>'
   'brandico-box-rect':
     'prefix': 'brandico-box-rect'
-    'body': '<${1:i} class="icon-box-rect$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-box-rect$2"></${1:i}>'
   'brandico-box':
     'prefix': 'brandico-box'
-    'body': '<${1:i} class="icon-box$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-box$2"></${1:i}>'
   'brandico-codepen':
     'prefix': 'brandico-codepen'
-    'body': '<${1:i} class="icon-codepen$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-codepen$2"></${1:i}>'
   'brandico-deviantart':
     'prefix': 'brandico-deviantart'
-    'body': '<${1:i} class="icon-deviantart$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-deviantart$2"></${1:i}>'
   'brandico-diigo':
     'prefix': 'brandico-diigo'
-    'body': '<${1:i} class="icon-diigo$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-diigo$2"></${1:i}>'
   'brandico-discover':
     'prefix': 'brandico-discover'
-    'body': '<${1:i} class="icon-discover$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-discover$2"></${1:i}>'
   'brandico-facebook-rect':
     'prefix': 'brandico-facebook-rect'
-    'body': '<${1:i} class="icon-facebook-rect$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-facebook-rect$2"></${1:i}>'
   'brandico-facebook':
     'prefix': 'brandico-facebook'
-    'body': '<${1:i} class="icon-facebook$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-facebook$2"></${1:i}>'
   'brandico-friendfeed-rect':
     'prefix': 'brandico-friendfeed-rect'
-    'body': '<${1:i} class="icon-friendfeed-rect$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-friendfeed-rect$2"></${1:i}>'
   'brandico-friendfeed':
     'prefix': 'brandico-friendfeed'
-    'body': '<${1:i} class="icon-friendfeed$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-friendfeed$2"></${1:i}>'
   'brandico-github-text':
     'prefix': 'brandico-github-text'
-    'body': '<${1:i} class="icon-github-text$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-github-text$2"></${1:i}>'
   'brandico-github':
     'prefix': 'brandico-github'
-    'body': '<${1:i} class="icon-github$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-github$2"></${1:i}>'
   'brandico-googleplus-rect':
     'prefix': 'brandico-googleplus-rect'
-    'body': '<${1:i} class="icon-googleplus-rect$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-googleplus-rect$2"></${1:i}>'
   'brandico-houzz':
     'prefix': 'brandico-houzz'
-    'body': '<${1:i} class="icon-houzz$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-houzz$2"></${1:i}>'
   'brandico-icq':
     'prefix': 'brandico-icq'
-    'body': '<${1:i} class="icon-icq$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-icq$2"></${1:i}>'
   'brandico-instagram-filled':
     'prefix': 'brandico-instagram-filled'
-    'body': '<${1:i} class="icon-instagram-filled$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-instagram-filled$2"></${1:i}>'
   'brandico-instagram':
     'prefix': 'brandico-instagram'
-    'body': '<${1:i} class="icon-instagram$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-instagram$2"></${1:i}>'
   'brandico-jabber':
     'prefix': 'brandico-jabber'
-    'body': '<${1:i} class="icon-jabber$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-jabber$2"></${1:i}>'
   'brandico-lastfm-rect':
     'prefix': 'brandico-lastfm-rect'
-    'body': '<${1:i} class="icon-lastfm-rect$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-lastfm-rect$2"></${1:i}>'
   'brandico-lastfm':
     'prefix': 'brandico-lastfm'
-    'body': '<${1:i} class="icon-lastfm$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-lastfm$2"></${1:i}>'
   'brandico-linkedin-rect':
     'prefix': 'brandico-linkedin-rect'
-    'body': '<${1:i} class="icon-linkedin-rect$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-linkedin-rect$2"></${1:i}>'
   'brandico-linkedin':
     'prefix': 'brandico-linkedin'
-    'body': '<${1:i} class="icon-linkedin$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-linkedin$2"></${1:i}>'
   'brandico-mastercard':
     'prefix': 'brandico-mastercard'
-    'body': '<${1:i} class="icon-mastercard$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-mastercard$2"></${1:i}>'
   'brandico-odnoklassniki-rect':
     'prefix': 'brandico-odnoklassniki-rect'
-    'body': '<${1:i} class="icon-odnoklassniki-rect$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-odnoklassniki-rect$2"></${1:i}>'
   'brandico-odnoklassniki':
     'prefix': 'brandico-odnoklassniki'
-    'body': '<${1:i} class="icon-odnoklassniki$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-odnoklassniki$2"></${1:i}>'
   'brandico-picasa':
     'prefix': 'brandico-picasa'
-    'body': '<${1:i} class="icon-picasa$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-picasa$2"></${1:i}>'
   'brandico-skype':
     'prefix': 'brandico-skype'
-    'body': '<${1:i} class="icon-skype$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-skype$2"></${1:i}>'
   'brandico-tudou':
     'prefix': 'brandico-tudou'
-    'body': '<${1:i} class="icon-tudou$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-tudou$2"></${1:i}>'
   'brandico-tumblr-rect':
     'prefix': 'brandico-tumblr-rect'
-    'body': '<${1:i} class="icon-tumblr-rect$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-tumblr-rect$2"></${1:i}>'
   'brandico-tumblr':
     'prefix': 'brandico-tumblr'
-    'body': '<${1:i} class="icon-tumblr$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-tumblr$2"></${1:i}>'
   'brandico-twitter-bird':
     'prefix': 'brandico-twitter-bird'
-    'body': '<${1:i} class="icon-twitter-bird$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-twitter-bird$2"></${1:i}>'
   'brandico-twitter':
     'prefix': 'brandico-twitter'
-    'body': '<${1:i} class="icon-twitter$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-twitter$2"></${1:i}>'
   'brandico-vimeo-rect':
     'prefix': 'brandico-vimeo-rect'
-    'body': '<${1:i} class="icon-vimeo-rect$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-vimeo-rect$2"></${1:i}>'
   'brandico-vimeo':
     'prefix': 'brandico-vimeo'
-    'body': '<${1:i} class="icon-vimeo$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-vimeo$2"></${1:i}>'
   'brandico-visa':
     'prefix': 'brandico-visa'
-    'body': '<${1:i} class="icon-visa$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-visa$2"></${1:i}>'
   'brandico-vkontakte-rect':
     'prefix': 'brandico-vkontakte-rect'
-    'body': '<${1:i} class="icon-vkontakte-rect$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-vkontakte-rect$2"></${1:i}>'
   'brandico-win8':
     'prefix': 'brandico-win8'
-    'body': '<${1:i} class="icon-win8$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-win8$2"></${1:i}>'
   'brandico-wordpress':
     'prefix': 'brandico-wordpress'
-    'body': '<${1:i} class="icon-wordpress$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-wordpress$2"></${1:i}>'
   'brandico-yandex-rect':
     'prefix': 'brandico-yandex-rect'
-    'body': '<${1:i} class="icon-yandex-rect$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-yandex-rect$2"></${1:i}>'
   'brandico-yandex':
     'prefix': 'brandico-yandex'
-    'body': '<${1:i} class="icon-yandex$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-yandex$2"></${1:i}>'
   'brandico-youku':
     'prefix': 'brandico-youku'
-    'body': '<${1:i} class="icon-youku$2">$3</${1:i}>'
+    'body': '<${1:i} class="icon-youku$2"></${1:i}>'

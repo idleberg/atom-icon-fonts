@@ -1,301 +1,301 @@
 '.text.html':
   'line-icon-adjustments-data-icon':
     'prefix': 'line-icon-adjustments-data-icon'
-    'body': '<${1:span} data-icon="&#xe01d$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe01d$2"></${1:span}>'
   'line-icon-alarmclock-data-icon':
     'prefix': 'line-icon-alarmclock-data-icon'
-    'body': '<${1:span} data-icon="&#xe059$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe059$2"></${1:span}>'
   'line-icon-anchor-data-icon':
     'prefix': 'line-icon-anchor-data-icon'
-    'body': '<${1:span} data-icon="&#xe03f$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe03f$2"></${1:span}>'
   'line-icon-aperture-data-icon':
     'prefix': 'line-icon-aperture-data-icon'
-    'body': '<${1:span} data-icon="&#xe056$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe056$2"></${1:span}>'
   'line-icon-attachment-data-icon':
     'prefix': 'line-icon-attachment-data-icon'
-    'body': '<${1:span} data-icon="&#xe02e$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe02e$2"></${1:span}>'
   'line-icon-bargraph-data-icon':
     'prefix': 'line-icon-bargraph-data-icon'
-    'body': '<${1:span} data-icon="&#xe018$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe018$2"></${1:span}>'
   'line-icon-basket-data-icon':
     'prefix': 'line-icon-basket-data-icon'
-    'body': '<${1:span} data-icon="&#xe027$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe027$2"></${1:span}>'
   'line-icon-beaker-data-icon':
     'prefix': 'line-icon-beaker-data-icon'
-    'body': '<${1:span} data-icon="&#xe03c$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe03c$2"></${1:span}>'
   'line-icon-bike-data-icon':
     'prefix': 'line-icon-bike-data-icon'
-    'body': '<${1:span} data-icon="&#xe042$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe042$2"></${1:span}>'
   'line-icon-book-open-data-icon':
     'prefix': 'line-icon-book-open-data-icon'
-    'body': '<${1:span} data-icon="&#xe00b$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe00b$2"></${1:span}>'
   'line-icon-briefcase-data-icon':
     'prefix': 'line-icon-briefcase-data-icon'
-    'body': '<${1:span} data-icon="&#xe015$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe015$2"></${1:span}>'
   'line-icon-browser-data-icon':
     'prefix': 'line-icon-browser-data-icon'
-    'body': '<${1:span} data-icon="&#xe00c$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe00c$2"></${1:span}>'
   'line-icon-calendar-data-icon':
     'prefix': 'line-icon-calendar-data-icon'
-    'body': '<${1:span} data-icon="&#xe00d$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe00d$2"></${1:span}>'
   'line-icon-camera-data-icon':
     'prefix': 'line-icon-camera-data-icon'
-    'body': '<${1:span} data-icon="&#xe012$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe012$2"></${1:span}>'
   'line-icon-caution-data-icon':
     'prefix': 'line-icon-caution-data-icon'
-    'body': '<${1:span} data-icon="&#xe03d$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe03d$2"></${1:span}>'
   'line-icon-chat-data-icon':
     'prefix': 'line-icon-chat-data-icon'
-    'body': '<${1:span} data-icon="&#xe049$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe049$2"></${1:span}>'
   'line-icon-circle-compass-data-icon':
     'prefix': 'line-icon-circle-compass-data-icon'
-    'body': '<${1:span} data-icon="&#xe038$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe038$2"></${1:span}>'
   'line-icon-clipboard-data-icon':
     'prefix': 'line-icon-clipboard-data-icon'
-    'body': '<${1:span} data-icon="&#xe008$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe008$2"></${1:span}>'
   'line-icon-clock-data-icon':
     'prefix': 'line-icon-clock-data-icon'
-    'body': '<${1:span} data-icon="&#xe055$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe055$2"></${1:span}>'
   'line-icon-cloud-data-icon':
     'prefix': 'line-icon-cloud-data-icon'
-    'body': '<${1:span} data-icon="&#xe04b$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe04b$2"></${1:span}>'
   'line-icon-compass-data-icon':
     'prefix': 'line-icon-compass-data-icon'
-    'body': '<${1:span} data-icon="&#xe053$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe053$2"></${1:span}>'
   'line-icon-desktop-data-icon':
     'prefix': 'line-icon-desktop-data-icon'
-    'body': '<${1:span} data-icon="&#xe002$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe002$2"></${1:span}>'
   'line-icon-dial-data-icon':
     'prefix': 'line-icon-dial-data-icon'
-    'body': '<${1:span} data-icon="&#xe048$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe048$2"></${1:span}>'
   'line-icon-document-data-icon':
     'prefix': 'line-icon-document-data-icon'
-    'body': '<${1:span} data-icon="&#xe005$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe005$2"></${1:span}>'
   'line-icon-documents-data-icon':
     'prefix': 'line-icon-documents-data-icon'
-    'body': '<${1:span} data-icon="&#xe006$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe006$2"></${1:span}>'
   'line-icon-download-data-icon':
     'prefix': 'line-icon-download-data-icon'
-    'body': '<${1:span} data-icon="&#xe04d$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe04d$2"></${1:span}>'
   'line-icon-dribbble-data-icon':
     'prefix': 'line-icon-dribbble-data-icon'
-    'body': '<${1:span} data-icon="&#xe063$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe063$2"></${1:span}>'
   'line-icon-edit-data-icon':
     'prefix': 'line-icon-edit-data-icon'
-    'body': '<${1:span} data-icon="&#xe01c$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe01c$2"></${1:span}>'
   'line-icon-envelope-data-icon':
     'prefix': 'line-icon-envelope-data-icon'
-    'body': '<${1:span} data-icon="&#xe028$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe028$2"></${1:span}>'
   'line-icon-expand-data-icon':
     'prefix': 'line-icon-expand-data-icon'
-    'body': '<${1:span} data-icon="&#xe01a$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe01a$2"></${1:span}>'
   'line-icon-facebook-data-icon':
     'prefix': 'line-icon-facebook-data-icon'
-    'body': '<${1:span} data-icon="&#xe05d$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe05d$2"></${1:span}>'
   'line-icon-flag-data-icon':
     'prefix': 'line-icon-flag-data-icon'
-    'body': '<${1:span} data-icon="&#xe024$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe024$2"></${1:span}>'
   'line-icon-focus-data-icon':
     'prefix': 'line-icon-focus-data-icon'
-    'body': '<${1:span} data-icon="&#xe01b$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe01b$2"></${1:span}>'
   'line-icon-gears-data-icon':
     'prefix': 'line-icon-gears-data-icon'
-    'body': '<${1:span} data-icon="&#xe02b$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe02b$2"></${1:span}>'
   'line-icon-genius-data-icon':
     'prefix': 'line-icon-genius-data-icon'
-    'body': '<${1:span} data-icon="&#xe046$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe046$2"></${1:span}>'
   'line-icon-gift-data-icon':
     'prefix': 'line-icon-gift-data-icon'
-    'body': '<${1:span} data-icon="&#xe017$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe017$2"></${1:span}>'
   'line-icon-global-data-icon':
     'prefix': 'line-icon-global-data-icon'
-    'body': '<${1:span} data-icon="&#xe052$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe052$2"></${1:span}>'
   'line-icon-globe-data-icon':
     'prefix': 'line-icon-globe-data-icon'
-    'body': '<${1:span} data-icon="&#xe045$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe045$2"></${1:span}>'
   'line-icon-googleplus-data-icon':
     'prefix': 'line-icon-googleplus-data-icon'
-    'body': '<${1:span} data-icon="&#xe05f$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe05f$2"></${1:span}>'
   'line-icon-grid-data-icon':
     'prefix': 'line-icon-grid-data-icon'
-    'body': '<${1:span} data-icon="&#xe019$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe019$2"></${1:span}>'
   'line-icon-happy-data-icon':
     'prefix': 'line-icon-happy-data-icon'
-    'body': '<${1:span} data-icon="&#xe05b$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe05b$2"></${1:span}>'
   'line-icon-hazardous-data-icon':
     'prefix': 'line-icon-hazardous-data-icon'
-    'body': '<${1:span} data-icon="&#xe04f$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe04f$2"></${1:span}>'
   'line-icon-heart-data-icon':
     'prefix': 'line-icon-heart-data-icon'
-    'body': '<${1:span} data-icon="&#xe04a$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe04a$2"></${1:span}>'
   'line-icon-hotairballoon-data-icon':
     'prefix': 'line-icon-hotairballoon-data-icon'
-    'body': '<${1:span} data-icon="&#xe044$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe044$2"></${1:span}>'
   'line-icon-hourglass-data-icon':
     'prefix': 'line-icon-hourglass-data-icon'
-    'body': '<${1:span} data-icon="&#xe01f$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe01f$2"></${1:span}>'
   'line-icon-key-data-icon':
     'prefix': 'line-icon-key-data-icon'
-    'body': '<${1:span} data-icon="&#xe02c$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe02c$2"></${1:span}>'
   'line-icon-laptop-data-icon':
     'prefix': 'line-icon-laptop-data-icon'
-    'body': '<${1:span} data-icon="&#xe001$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe001$2"></${1:span}>'
   'line-icon-layers-data-icon':
     'prefix': 'line-icon-layers-data-icon'
-    'body': '<${1:span} data-icon="&#xe031$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe031$2"></${1:span}>'
   'line-icon-lifesaver-data-icon':
     'prefix': 'line-icon-lifesaver-data-icon'
-    'body': '<${1:span} data-icon="&#xe054$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe054$2"></${1:span}>'
   'line-icon-lightbulb-data-icon':
     'prefix': 'line-icon-lightbulb-data-icon'
-    'body': '<${1:span} data-icon="&#xe030$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe030$2"></${1:span}>'
   'line-icon-linegraph-data-icon':
     'prefix': 'line-icon-linegraph-data-icon'
-    'body': '<${1:span} data-icon="&#xe039$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe039$2"></${1:span}>'
   'line-icon-linkedin-data-icon':
     'prefix': 'line-icon-linkedin-data-icon'
-    'body': '<${1:span} data-icon="&#xe062$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe062$2"></${1:span}>'
   'line-icon-lock-data-icon':
     'prefix': 'line-icon-lock-data-icon'
-    'body': '<${1:span} data-icon="&#xe020$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe020$2"></${1:span}>'
   'line-icon-magnifying-glass-data-icon':
     'prefix': 'line-icon-magnifying-glass-data-icon'
-    'body': '<${1:span} data-icon="&#xe037$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe037$2"></${1:span}>'
   'line-icon-map-data-icon':
     'prefix': 'line-icon-map-data-icon'
-    'body': '<${1:span} data-icon="&#xe025$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe025$2"></${1:span}>'
   'line-icon-map-pin-data-icon':
     'prefix': 'line-icon-map-pin-data-icon'
-    'body': '<${1:span} data-icon="&#xe047$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe047$2"></${1:span}>'
   'line-icon-megaphone-data-icon':
     'prefix': 'line-icon-megaphone-data-icon'
-    'body': '<${1:span} data-icon="&#xe021$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe021$2"></${1:span}>'
   'line-icon-mic-data-icon':
     'prefix': 'line-icon-mic-data-icon'
-    'body': '<${1:span} data-icon="&#xe03a$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe03a$2"></${1:span}>'
   'line-icon-mobile-data-icon':
     'prefix': 'line-icon-mobile-data-icon'
-    'body': '<${1:span} data-icon="&#xe000$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe000$2"></${1:span}>'
   'line-icon-newspaper-data-icon':
     'prefix': 'line-icon-newspaper-data-icon'
-    'body': '<${1:span} data-icon="&#xe009$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe009$2"></${1:span}>'
   'line-icon-notebook-data-icon':
     'prefix': 'line-icon-notebook-data-icon'
-    'body': '<${1:span} data-icon="&#xe00a$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe00a$2"></${1:span}>'
   'line-icon-paintbrush-data-icon':
     'prefix': 'line-icon-paintbrush-data-icon'
-    'body': '<${1:span} data-icon="&#xe036$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe036$2"></${1:span}>'
   'line-icon-paperclip-data-icon':
     'prefix': 'line-icon-paperclip-data-icon'
-    'body': '<${1:span} data-icon="&#xe02d$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe02d$2"></${1:span}>'
   'line-icon-pencil-data-icon':
     'prefix': 'line-icon-pencil-data-icon'
-    'body': '<${1:span} data-icon="&#xe032$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe032$2"></${1:span}>'
   'line-icon-phone-data-icon':
     'prefix': 'line-icon-phone-data-icon'
-    'body': '<${1:span} data-icon="&#xe004$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe004$2"></${1:span}>'
   'line-icon-picture-data-icon':
     'prefix': 'line-icon-picture-data-icon'
-    'body': '<${1:span} data-icon="&#xe00f$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe00f$2"></${1:span}>'
   'line-icon-pictures-data-icon':
     'prefix': 'line-icon-pictures-data-icon'
-    'body': '<${1:span} data-icon="&#xe010$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe010$2"></${1:span}>'
   'line-icon-piechart-data-icon':
     'prefix': 'line-icon-piechart-data-icon'
-    'body': '<${1:span} data-icon="&#xe050$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe050$2"></${1:span}>'
   'line-icon-presentation-data-icon':
     'prefix': 'line-icon-presentation-data-icon'
-    'body': '<${1:span} data-icon="&#xe00e$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe00e$2"></${1:span}>'
   'line-icon-pricetags-data-icon':
     'prefix': 'line-icon-pricetags-data-icon'
-    'body': '<${1:span} data-icon="&#xe02f$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe02f$2"></${1:span}>'
   'line-icon-printer-data-icon':
     'prefix': 'line-icon-printer-data-icon'
-    'body': '<${1:span} data-icon="&#xe013$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe013$2"></${1:span}>'
   'line-icon-profile-female-data-icon':
     'prefix': 'line-icon-profile-female-data-icon'
-    'body': '<${1:span} data-icon="&#xe041$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe041$2"></${1:span}>'
   'line-icon-profile-male-data-icon':
     'prefix': 'line-icon-profile-male-data-icon'
-    'body': '<${1:span} data-icon="&#xe040$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe040$2"></${1:span}>'
   'line-icon-puzzle-data-icon':
     'prefix': 'line-icon-puzzle-data-icon'
-    'body': '<${1:span} data-icon="&#xe026$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe026$2"></${1:span}>'
   'line-icon-quote-data-icon':
     'prefix': 'line-icon-quote-data-icon'
-    'body': '<${1:span} data-icon="&#xe057$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe057$2"></${1:span}>'
   'line-icon-recycle-data-icon':
     'prefix': 'line-icon-recycle-data-icon'
-    'body': '<${1:span} data-icon="&#xe03e$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe03e$2"></${1:span}>'
   'line-icon-refresh-data-icon':
     'prefix': 'line-icon-refresh-data-icon'
-    'body': '<${1:span} data-icon="&#xe05a$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe05a$2"></${1:span}>'
   'line-icon-ribbon-data-icon':
     'prefix': 'line-icon-ribbon-data-icon'
-    'body': '<${1:span} data-icon="&#xe01e$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe01e$2"></${1:span}>'
   'line-icon-rss-data-icon':
     'prefix': 'line-icon-rss-data-icon'
-    'body': '<${1:span} data-icon="&#xe060$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe060$2"></${1:span}>'
   'line-icon-sad-data-icon':
     'prefix': 'line-icon-sad-data-icon'
-    'body': '<${1:span} data-icon="&#xe05c$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe05c$2"></${1:span}>'
   'line-icon-scissors-data-icon':
     'prefix': 'line-icon-scissors-data-icon'
-    'body': '<${1:span} data-icon="&#xe035$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe035$2"></${1:span}>'
   'line-icon-scope-data-icon':
     'prefix': 'line-icon-scope-data-icon'
-    'body': '<${1:span} data-icon="&#xe058$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe058$2"></${1:span}>'
   'line-icon-search-data-icon':
     'prefix': 'line-icon-search-data-icon'
-    'body': '<${1:span} data-icon="&#xe007$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe007$2"></${1:span}>'
   'line-icon-shield-data-icon':
     'prefix': 'line-icon-shield-data-icon'
-    'body': '<${1:span} data-icon="&#xe022$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe022$2"></${1:span}>'
   'line-icon-speedometer-data-icon':
     'prefix': 'line-icon-speedometer-data-icon'
-    'body': '<${1:span} data-icon="&#xe051$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe051$2"></${1:span}>'
   'line-icon-strategy-data-icon':
     'prefix': 'line-icon-strategy-data-icon'
-    'body': '<${1:span} data-icon="&#xe03b$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe03b$2"></${1:span}>'
   'line-icon-streetsign-data-icon':
     'prefix': 'line-icon-streetsign-data-icon'
-    'body': '<${1:span} data-icon="&#xe029$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe029$2"></${1:span}>'
   'line-icon-tablet-data-icon':
     'prefix': 'line-icon-tablet-data-icon'
-    'body': '<${1:span} data-icon="&#xe003$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe003$2"></${1:span}>'
   'line-icon-target-data-icon':
     'prefix': 'line-icon-target-data-icon'
-    'body': '<${1:span} data-icon="&#xe04e$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe04e$2"></${1:span}>'
   'line-icon-telescope-data-icon':
     'prefix': 'line-icon-telescope-data-icon'
-    'body': '<${1:span} data-icon="&#xe02a$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe02a$2"></${1:span}>'
   'line-icon-toolbox-data-icon':
     'prefix': 'line-icon-toolbox-data-icon'
-    'body': '<${1:span} data-icon="&#xe014$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe014$2"></${1:span}>'
   'line-icon-tools-2-data-icon':
     'prefix': 'line-icon-tools-2-data-icon'
-    'body': '<${1:span} data-icon="&#xe034$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe034$2"></${1:span}>'
   'line-icon-tools-data-icon':
     'prefix': 'line-icon-tools-data-icon'
-    'body': '<${1:span} data-icon="&#xe033$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe033$2"></${1:span}>'
   'line-icon-trophy-data-icon':
     'prefix': 'line-icon-trophy-data-icon'
-    'body': '<${1:span} data-icon="&#xe023$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe023$2"></${1:span}>'
   'line-icon-tumblr-data-icon':
     'prefix': 'line-icon-tumblr-data-icon'
-    'body': '<${1:span} data-icon="&#xe061$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe061$2"></${1:span}>'
   'line-icon-twitter-data-icon':
     'prefix': 'line-icon-twitter-data-icon'
-    'body': '<${1:span} data-icon="&#xe05e$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe05e$2"></${1:span}>'
   'line-icon-upload-data-icon':
     'prefix': 'line-icon-upload-data-icon'
-    'body': '<${1:span} data-icon="&#xe04c$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe04c$2"></${1:span}>'
   'line-icon-video-data-icon':
     'prefix': 'line-icon-video-data-icon'
-    'body': '<${1:span} data-icon="&#xe011$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe011$2"></${1:span}>'
   'line-icon-wallet-data-icon':
     'prefix': 'line-icon-wallet-data-icon'
-    'body': '<${1:span} data-icon="&#xe016$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe016$2"></${1:span}>'
   'line-icon-wine-data-icon':
     'prefix': 'line-icon-wine-data-icon'
-    'body': '<${1:span} data-icon="&#xe043$2">$3</${1:span}>'
+    'body': '<${1:span} data-icon="&#xe043$2"></${1:span}>'

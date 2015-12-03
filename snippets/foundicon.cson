@@ -1,310 +1,310 @@
 '.text.html':
   'foundicon-add-doc':
     'prefix': 'foundicon-add-doc'
-    'body': '<${1:i} class="foundicon-add-doc$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-add-doc$2"></${1:i}>'
   'foundicon-address-book':
     'prefix': 'foundicon-address-book'
-    'body': '<${1:i} class="foundicon-address-book$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-address-book$2"></${1:i}>'
   'foundicon-adult':
     'prefix': 'foundicon-adult'
-    'body': '<${1:i} class="foundicon-adult$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-adult$2"></${1:i}>'
   'foundicon-asl':
     'prefix': 'foundicon-asl'
-    'body': '<${1:i} class="foundicon-asl$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-asl$2"></${1:i}>'
   'foundicon-behance':
     'prefix': 'foundicon-behance'
-    'body': '<${1:i} class="foundicon-behance$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-behance$2"></${1:i}>'
   'foundicon-blind':
     'prefix': 'foundicon-blind'
-    'body': '<${1:i} class="foundicon-blind$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-blind$2"></${1:i}>'
   'foundicon-braille':
     'prefix': 'foundicon-braille'
-    'body': '<${1:i} class="foundicon-braille$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-braille$2"></${1:i}>'
   'foundicon-calendar':
     'prefix': 'foundicon-calendar'
-    'body': '<${1:i} class="foundicon-calendar$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-calendar$2"></${1:i}>'
   'foundicon-cart':
     'prefix': 'foundicon-cart'
-    'body': '<${1:i} class="foundicon-cart$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-cart$2"></${1:i}>'
   'foundicon-cc':
     'prefix': 'foundicon-cc'
-    'body': '<${1:i} class="foundicon-cc$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-cc$2"></${1:i}>'
   'foundicon-chat':
     'prefix': 'foundicon-chat'
-    'body': '<${1:i} class="foundicon-chat$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-chat$2"></${1:i}>'
   'foundicon-checkmark':
     'prefix': 'foundicon-checkmark'
-    'body': '<${1:i} class="foundicon-checkmark$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-checkmark$2"></${1:i}>'
   'foundicon-child':
     'prefix': 'foundicon-child'
-    'body': '<${1:i} class="foundicon-child$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-child$2"></${1:i}>'
   'foundicon-clock':
     'prefix': 'foundicon-clock'
-    'body': '<${1:i} class="foundicon-clock$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-clock$2"></${1:i}>'
   'foundicon-cloud':
     'prefix': 'foundicon-cloud'
-    'body': '<${1:i} class="foundicon-cloud$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-cloud$2"></${1:i}>'
   'foundicon-compass':
     'prefix': 'foundicon-compass'
-    'body': '<${1:i} class="foundicon-compass$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-compass$2"></${1:i}>'
   'foundicon-css':
     'prefix': 'foundicon-css'
-    'body': '<${1:i} class="foundicon-css$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-css$2"></${1:i}>'
   'foundicon-delicious':
     'prefix': 'foundicon-delicious'
-    'body': '<${1:i} class="foundicon-delicious$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-delicious$2"></${1:i}>'
   'foundicon-digg':
     'prefix': 'foundicon-digg'
-    'body': '<${1:i} class="foundicon-digg$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-digg$2"></${1:i}>'
   'foundicon-down-arrow':
     'prefix': 'foundicon-down-arrow'
-    'body': '<${1:i} class="foundicon-down-arrow$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-down-arrow$2"></${1:i}>'
   'foundicon-dribbble':
     'prefix': 'foundicon-dribbble'
-    'body': '<${1:i} class="foundicon-dribbble$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-dribbble$2"></${1:i}>'
   'foundicon-edit':
     'prefix': 'foundicon-edit'
-    'body': '<${1:i} class="foundicon-edit$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-edit$2"></${1:i}>'
   'foundicon-eject':
     'prefix': 'foundicon-eject'
-    'body': '<${1:i} class="foundicon-eject$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-eject$2"></${1:i}>'
   'foundicon-elevator':
     'prefix': 'foundicon-elevator'
-    'body': '<${1:i} class="foundicon-elevator$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-elevator$2"></${1:i}>'
   'foundicon-error':
     'prefix': 'foundicon-error'
-    'body': '<${1:i} class="foundicon-error$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-error$2"></${1:i}>'
   'foundicon-eyeball':
     'prefix': 'foundicon-eyeball'
-    'body': '<${1:i} class="foundicon-eyeball$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-eyeball$2"></${1:i}>'
   'foundicon-facebook':
     'prefix': 'foundicon-facebook'
-    'body': '<${1:i} class="foundicon-facebook$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-facebook$2"></${1:i}>'
   'foundicon-female':
     'prefix': 'foundicon-female'
-    'body': '<${1:i} class="foundicon-female$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-female$2"></${1:i}>'
   'foundicon-flag':
     'prefix': 'foundicon-flag'
-    'body': '<${1:i} class="foundicon-flag$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-flag$2"></${1:i}>'
   'foundicon-flickr':
     'prefix': 'foundicon-flickr'
-    'body': '<${1:i} class="foundicon-flickr$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-flickr$2"></${1:i}>'
   'foundicon-folder':
     'prefix': 'foundicon-folder'
-    'body': '<${1:i} class="foundicon-folder$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-folder$2"></${1:i}>'
   'foundicon-fontsize':
     'prefix': 'foundicon-fontsize'
-    'body': '<${1:i} class="foundicon-fontsize$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-fontsize$2"></${1:i}>'
   'foundicon-foursquare':
     'prefix': 'foundicon-foursquare'
-    'body': '<${1:i} class="foundicon-foursquare$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-foursquare$2"></${1:i}>'
   'foundicon-github':
     'prefix': 'foundicon-github'
-    'body': '<${1:i} class="foundicon-github$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-github$2"></${1:i}>'
   'foundicon-glasses':
     'prefix': 'foundicon-glasses'
-    'body': '<${1:i} class="foundicon-glasses$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-glasses$2"></${1:i}>'
   'foundicon-globe':
     'prefix': 'foundicon-globe'
-    'body': '<${1:i} class="foundicon-globe$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-globe$2"></${1:i}>'
   'foundicon-google-plus':
     'prefix': 'foundicon-google-plus'
-    'body': '<${1:i} class="foundicon-google-plus$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-google-plus$2"></${1:i}>'
   'foundicon-graph':
     'prefix': 'foundicon-graph'
-    'body': '<${1:i} class="foundicon-graph$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-graph$2"></${1:i}>'
   'foundicon-guidedog':
     'prefix': 'foundicon-guidedog'
-    'body': '<${1:i} class="foundicon-guidedog$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-guidedog$2"></${1:i}>'
   'foundicon-hearing-impaired':
     'prefix': 'foundicon-hearing-impaired'
-    'body': '<${1:i} class="foundicon-hearing-impaired$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-hearing-impaired$2"></${1:i}>'
   'foundicon-heart':
     'prefix': 'foundicon-heart'
-    'body': '<${1:i} class="foundicon-heart$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-heart$2"></${1:i}>'
   'foundicon-home':
     'prefix': 'foundicon-home'
-    'body': '<${1:i} class="foundicon-home$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-home$2"></${1:i}>'
   'foundicon-idea':
     'prefix': 'foundicon-idea'
-    'body': '<${1:i} class="foundicon-idea$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-idea$2"></${1:i}>'
   'foundicon-inbox':
     'prefix': 'foundicon-inbox'
-    'body': '<${1:i} class="foundicon-inbox$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-inbox$2"></${1:i}>'
   'foundicon-instagram':
     'prefix': 'foundicon-instagram'
-    'body': '<${1:i} class="foundicon-instagram$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-instagram$2"></${1:i}>'
   'foundicon-iphone-home':
     'prefix': 'foundicon-iphone-home'
-    'body': '<${1:i} class="foundicon-iphone-home$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-iphone-home$2"></${1:i}>'
   'foundicon-key':
     'prefix': 'foundicon-key'
-    'body': '<${1:i} class="foundicon-key$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-key$2"></${1:i}>'
   'foundicon-laptop':
     'prefix': 'foundicon-laptop'
-    'body': '<${1:i} class="foundicon-laptop$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-laptop$2"></${1:i}>'
   'foundicon-left-arrow':
     'prefix': 'foundicon-left-arrow'
-    'body': '<${1:i} class="foundicon-left-arrow$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-left-arrow$2"></${1:i}>'
   'foundicon-linkedin':
     'prefix': 'foundicon-linkedin'
-    'body': '<${1:i} class="foundicon-linkedin$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-linkedin$2"></${1:i}>'
   'foundicon-location':
     'prefix': 'foundicon-location'
-    'body': '<${1:i} class="foundicon-location$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-location$2"></${1:i}>'
   'foundicon-lock':
     'prefix': 'foundicon-lock'
-    'body': '<${1:i} class="foundicon-lock$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-lock$2"></${1:i}>'
   'foundicon-mail':
     'prefix': 'foundicon-mail'
-    'body': '<${1:i} class="foundicon-mail$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-mail$2"></${1:i}>'
   'foundicon-male':
     'prefix': 'foundicon-male'
-    'body': '<${1:i} class="foundicon-male$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-male$2"></${1:i}>'
   'foundicon-mic':
     'prefix': 'foundicon-mic'
-    'body': '<${1:i} class="foundicon-mic$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-mic$2"></${1:i}>'
   'foundicon-minus':
     'prefix': 'foundicon-minus'
-    'body': '<${1:i} class="foundicon-minus$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-minus$2"></${1:i}>'
   'foundicon-monitor':
     'prefix': 'foundicon-monitor'
-    'body': '<${1:i} class="foundicon-monitor$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-monitor$2"></${1:i}>'
   'foundicon-network':
     'prefix': 'foundicon-network'
-    'body': '<${1:i} class="foundicon-network$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-network$2"></${1:i}>'
   'foundicon-page':
     'prefix': 'foundicon-page'
-    'body': '<${1:i} class="foundicon-page$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-page$2"></${1:i}>'
   'foundicon-paper-clip':
     'prefix': 'foundicon-paper-clip'
-    'body': '<${1:i} class="foundicon-paper-clip$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-paper-clip$2"></${1:i}>'
   'foundicon-path':
     'prefix': 'foundicon-path'
-    'body': '<${1:i} class="foundicon-path$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-path$2"></${1:i}>'
   'foundicon-people':
     'prefix': 'foundicon-people'
-    'body': '<${1:i} class="foundicon-people$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-people$2"></${1:i}>'
   'foundicon-person':
     'prefix': 'foundicon-person'
-    'body': '<${1:i} class="foundicon-person$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-person$2"></${1:i}>'
   'foundicon-phone':
     'prefix': 'foundicon-phone'
-    'body': '<${1:i} class="foundicon-phone$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-phone$2"></${1:i}>'
   'foundicon-photo':
     'prefix': 'foundicon-photo'
-    'body': '<${1:i} class="foundicon-photo$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-photo$2"></${1:i}>'
   'foundicon-picassa':
     'prefix': 'foundicon-picassa'
-    'body': '<${1:i} class="foundicon-picassa$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-picassa$2"></${1:i}>'
   'foundicon-pinterest':
     'prefix': 'foundicon-pinterest'
-    'body': '<${1:i} class="foundicon-pinterest$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-pinterest$2"></${1:i}>'
   'foundicon-plus':
     'prefix': 'foundicon-plus'
-    'body': '<${1:i} class="foundicon-plus$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-plus$2"></${1:i}>'
   'foundicon-question':
     'prefix': 'foundicon-question'
-    'body': '<${1:i} class="foundicon-question$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-question$2"></${1:i}>'
   'foundicon-quote':
     'prefix': 'foundicon-quote'
-    'body': '<${1:i} class="foundicon-quote$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-quote$2"></${1:i}>'
   'foundicon-reddit':
     'prefix': 'foundicon-reddit'
-    'body': '<${1:i} class="foundicon-reddit$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-reddit$2"></${1:i}>'
   'foundicon-refresh':
     'prefix': 'foundicon-refresh'
-    'body': '<${1:i} class="foundicon-refresh$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-refresh$2"></${1:i}>'
   'foundicon-remove':
     'prefix': 'foundicon-remove'
-    'body': '<${1:i} class="foundicon-remove$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-remove$2"></${1:i}>'
   'foundicon-right-arrow':
     'prefix': 'foundicon-right-arrow'
-    'body': '<${1:i} class="foundicon-right-arrow$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-right-arrow$2"></${1:i}>'
   'foundicon-rss':
     'prefix': 'foundicon-rss'
-    'body': '<${1:i} class="foundicon-rss$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-rss$2"></${1:i}>'
   'foundicon-search':
     'prefix': 'foundicon-search'
-    'body': '<${1:i} class="foundicon-search$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-search$2"></${1:i}>'
   'foundicon-settings':
     'prefix': 'foundicon-settings'
-    'body': '<${1:i} class="foundicon-settings$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-settings$2"></${1:i}>'
   'foundicon-skype':
     'prefix': 'foundicon-skype'
-    'body': '<${1:i} class="foundicon-skype$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-skype$2"></${1:i}>'
   'foundicon-slideshare':
     'prefix': 'foundicon-slideshare'
-    'body': '<${1:i} class="foundicon-slideshare$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-slideshare$2"></${1:i}>'
   'foundicon-smiley':
     'prefix': 'foundicon-smiley'
-    'body': '<${1:i} class="foundicon-smiley$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-smiley$2"></${1:i}>'
   'foundicon-speaker':
     'prefix': 'foundicon-speaker'
-    'body': '<${1:i} class="foundicon-speaker$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-speaker$2"></${1:i}>'
   'foundicon-star':
     'prefix': 'foundicon-star'
-    'body': '<${1:i} class="foundicon-star$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-star$2"></${1:i}>'
   'foundicon-steam':
     'prefix': 'foundicon-steam'
-    'body': '<${1:i} class="foundicon-steam$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-steam$2"></${1:i}>'
   'foundicon-stumble-upon':
     'prefix': 'foundicon-stumble-upon'
-    'body': '<${1:i} class="foundicon-stumble-upon$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-stumble-upon$2"></${1:i}>'
   'foundicon-thumb-down':
     'prefix': 'foundicon-thumb-down'
-    'body': '<${1:i} class="foundicon-thumb-down$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-thumb-down$2"></${1:i}>'
   'foundicon-thumb-up':
     'prefix': 'foundicon-thumb-up'
-    'body': '<${1:i} class="foundicon-thumb-up$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-thumb-up$2"></${1:i}>'
   'foundicon-tools':
     'prefix': 'foundicon-tools'
-    'body': '<${1:i} class="foundicon-tools$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-tools$2"></${1:i}>'
   'foundicon-torso':
     'prefix': 'foundicon-torso'
-    'body': '<${1:i} class="foundicon-torso$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-torso$2"></${1:i}>'
   'foundicon-trash':
     'prefix': 'foundicon-trash'
-    'body': '<${1:i} class="foundicon-trash$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-trash$2"></${1:i}>'
   'foundicon-tumblr':
     'prefix': 'foundicon-tumblr'
-    'body': '<${1:i} class="foundicon-tumblr$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-tumblr$2"></${1:i}>'
   'foundicon-twitter':
     'prefix': 'foundicon-twitter'
-    'body': '<${1:i} class="foundicon-twitter$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-twitter$2"></${1:i}>'
   'foundicon-universal-access':
     'prefix': 'foundicon-universal-access'
-    'body': '<${1:i} class="foundicon-universal-access$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-universal-access$2"></${1:i}>'
   'foundicon-unlock':
     'prefix': 'foundicon-unlock'
-    'body': '<${1:i} class="foundicon-unlock$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-unlock$2"></${1:i}>'
   'foundicon-up-arrow':
     'prefix': 'foundicon-up-arrow'
-    'body': '<${1:i} class="foundicon-up-arrow$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-up-arrow$2"></${1:i}>'
   'foundicon-video-chat':
     'prefix': 'foundicon-video-chat'
-    'body': '<${1:i} class="foundicon-video-chat$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-video-chat$2"></${1:i}>'
   'foundicon-video':
     'prefix': 'foundicon-video'
-    'body': '<${1:i} class="foundicon-video$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-video$2"></${1:i}>'
   'foundicon-view-mode':
     'prefix': 'foundicon-view-mode'
-    'body': '<${1:i} class="foundicon-view-mode$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-view-mode$2"></${1:i}>'
   'foundicon-vimeo':
     'prefix': 'foundicon-vimeo'
-    'body': '<${1:i} class="foundicon-vimeo$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-vimeo$2"></${1:i}>'
   'foundicon-w3c':
     'prefix': 'foundicon-w3c'
-    'body': '<${1:i} class="foundicon-w3c$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-w3c$2"></${1:i}>'
   'foundicon-website':
     'prefix': 'foundicon-website'
-    'body': '<${1:i} class="foundicon-website$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-website$2"></${1:i}>'
   'foundicon-wheelchair':
     'prefix': 'foundicon-wheelchair'
-    'body': '<${1:i} class="foundicon-wheelchair$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-wheelchair$2"></${1:i}>'
   'foundicon-wordpress':
     'prefix': 'foundicon-wordpress'
-    'body': '<${1:i} class="foundicon-wordpress$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-wordpress$2"></${1:i}>'
   'foundicon-youtube':
     'prefix': 'foundicon-youtube'
-    'body': '<${1:i} class="foundicon-youtube$2">$3</${1:i}>'
+    'body': '<${1:i} class="foundicon-youtube$2"></${1:i}>'

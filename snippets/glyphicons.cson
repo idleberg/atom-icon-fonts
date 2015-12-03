@@ -1,1831 +1,1831 @@
 '.text.html':
   'glyphicons-activity':
     'prefix': 'glyphicons-activity'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-activity$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-activity$3"></${1:span}>'
   'glyphicons-address-book':
     'prefix': 'glyphicons-address-book'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-address-book$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-address-book$3"></${1:span}>'
   'glyphicons-adjust':
     'prefix': 'glyphicons-adjust'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-adjust$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-adjust$3"></${1:span}>'
   'glyphicons-adjust-alt':
     'prefix': 'glyphicons-adjust-alt'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-adjust-alt$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-adjust-alt$3"></${1:span}>'
   'glyphicons-airplane':
     'prefix': 'glyphicons-airplane'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-airplane$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-airplane$3"></${1:span}>'
   'glyphicons-alarm':
     'prefix': 'glyphicons-alarm'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-alarm$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-alarm$3"></${1:span}>'
   'glyphicons-albums':
     'prefix': 'glyphicons-albums'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-albums$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-albums$3"></${1:span}>'
   'glyphicons-alert':
     'prefix': 'glyphicons-alert'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-alert$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-alert$3"></${1:span}>'
   'glyphicons-align-center':
     'prefix': 'glyphicons-align-center'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-align-center$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-align-center$3"></${1:span}>'
   'glyphicons-align-left':
     'prefix': 'glyphicons-align-left'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-align-left$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-align-left$3"></${1:span}>'
   'glyphicons-align-right':
     'prefix': 'glyphicons-align-right'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-align-right$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-align-right$3"></${1:span}>'
   'glyphicons-anchor':
     'prefix': 'glyphicons-anchor'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-anchor$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-anchor$3"></${1:span}>'
   'glyphicons-asterisk':
     'prefix': 'glyphicons-asterisk'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-asterisk$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-asterisk$3"></${1:span}>'
   'glyphicons-atv-vehicle':
     'prefix': 'glyphicons-atv-vehicle'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-atv-vehicle$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-atv-vehicle$3"></${1:span}>'
   'glyphicons-ax':
     'prefix': 'glyphicons-ax'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-ax$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-ax$3"></${1:span}>'
   'glyphicons-baby-formula':
     'prefix': 'glyphicons-baby-formula'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-baby-formula$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-baby-formula$3"></${1:span}>'
   'glyphicons-ban':
     'prefix': 'glyphicons-ban'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-ban$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-ban$3"></${1:span}>'
   'glyphicons-bank':
     'prefix': 'glyphicons-bank'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bank$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bank$3"></${1:span}>'
   'glyphicons-barcode':
     'prefix': 'glyphicons-barcode'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-barcode$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-barcode$3"></${1:span}>'
   'glyphicons-baseball':
     'prefix': 'glyphicons-baseball'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-baseball$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-baseball$3"></${1:span}>'
   'glyphicons-basketball':
     'prefix': 'glyphicons-basketball'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-basketball$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-basketball$3"></${1:span}>'
   'glyphicons-bath-bathtub':
     'prefix': 'glyphicons-bath-bathtub'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bath-bathtub$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bath-bathtub$3"></${1:span}>'
   'glyphicons-bath-shower':
     'prefix': 'glyphicons-bath-shower'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bath-shower$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bath-shower$3"></${1:span}>'
   'glyphicons-bathrobe':
     'prefix': 'glyphicons-bathrobe'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bathrobe$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bathrobe$3"></${1:span}>'
   'glyphicons-beach-umbrella':
     'prefix': 'glyphicons-beach-umbrella'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-beach-umbrella$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-beach-umbrella$3"></${1:span}>'
   'glyphicons-bed':
     'prefix': 'glyphicons-bed'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bed$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bed$3"></${1:span}>'
   'glyphicons-bed-alt':
     'prefix': 'glyphicons-bed-alt'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bed-alt$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bed-alt$3"></${1:span}>'
   'glyphicons-beer':
     'prefix': 'glyphicons-beer'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-beer$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-beer$3"></${1:span}>'
   'glyphicons-bell':
     'prefix': 'glyphicons-bell'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bell$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bell$3"></${1:span}>'
   'glyphicons-bicycle':
     'prefix': 'glyphicons-bicycle'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bicycle$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bicycle$3"></${1:span}>'
   'glyphicons-bin':
     'prefix': 'glyphicons-bin'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bin$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bin$3"></${1:span}>'
   'glyphicons-binoculars':
     'prefix': 'glyphicons-binoculars'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-binoculars$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-binoculars$3"></${1:span}>'
   'glyphicons-birthday-cake':
     'prefix': 'glyphicons-birthday-cake'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-birthday-cake$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-birthday-cake$3"></${1:span}>'
   'glyphicons-bishop':
     'prefix': 'glyphicons-bishop'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bishop$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bishop$3"></${1:span}>'
   'glyphicons-bitcoin':
     'prefix': 'glyphicons-bitcoin'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bitcoin$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bitcoin$3"></${1:span}>'
   'glyphicons-blackboard':
     'prefix': 'glyphicons-blackboard'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-blackboard$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-blackboard$3"></${1:span}>'
   'glyphicons-blacksmith':
     'prefix': 'glyphicons-blacksmith'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-blacksmith$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-blacksmith$3"></${1:span}>'
   'glyphicons-blog':
     'prefix': 'glyphicons-blog'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-blog$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-blog$3"></${1:span}>'
   'glyphicons-bluetooth':
     'prefix': 'glyphicons-bluetooth'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bluetooth$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bluetooth$3"></${1:span}>'
   'glyphicons-boat':
     'prefix': 'glyphicons-boat'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-boat$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-boat$3"></${1:span}>'
   'glyphicons-bold':
     'prefix': 'glyphicons-bold'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bold$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bold$3"></${1:span}>'
   'glyphicons-bomb':
     'prefix': 'glyphicons-bomb'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bomb$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bomb$3"></${1:span}>'
   'glyphicons-book':
     'prefix': 'glyphicons-book'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-book$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-book$3"></${1:span}>'
   'glyphicons-book-open':
     'prefix': 'glyphicons-book-open'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-book-open$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-book-open$3"></${1:span}>'
   'glyphicons-bookmark':
     'prefix': 'glyphicons-bookmark'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bookmark$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bookmark$3"></${1:span}>'
   'glyphicons-bowling':
     'prefix': 'glyphicons-bowling'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bowling$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bowling$3"></${1:span}>'
   'glyphicons-briefcase':
     'prefix': 'glyphicons-briefcase'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-briefcase$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-briefcase$3"></${1:span}>'
   'glyphicons-brightness-increase':
     'prefix': 'glyphicons-brightness-increase'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-brightness-increase$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-brightness-increase$3"></${1:span}>'
   'glyphicons-brightness-reduce':
     'prefix': 'glyphicons-brightness-reduce'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-brightness-reduce$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-brightness-reduce$3"></${1:span}>'
   'glyphicons-bring-forward':
     'prefix': 'glyphicons-bring-forward'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bring-forward$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bring-forward$3"></${1:span}>'
   'glyphicons-bring-to-front':
     'prefix': 'glyphicons-bring-to-front'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bring-to-front$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bring-to-front$3"></${1:span}>'
   'glyphicons-brush':
     'prefix': 'glyphicons-brush'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-brush$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-brush$3"></${1:span}>'
   'glyphicons-bucket':
     'prefix': 'glyphicons-bucket'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bucket$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bucket$3"></${1:span}>'
   'glyphicons-bug':
     'prefix': 'glyphicons-bug'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bug$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bug$3"></${1:span}>'
   'glyphicons-building':
     'prefix': 'glyphicons-building'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-building$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-building$3"></${1:span}>'
   'glyphicons-bullets':
     'prefix': 'glyphicons-bullets'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bullets$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bullets$3"></${1:span}>'
   'glyphicons-bullhorn':
     'prefix': 'glyphicons-bullhorn'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bullhorn$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bullhorn$3"></${1:span}>'
   'glyphicons-buoy':
     'prefix': 'glyphicons-buoy'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-buoy$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-buoy$3"></${1:span}>'
   'glyphicons-bus':
     'prefix': 'glyphicons-bus'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bus$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-bus$3"></${1:span}>'
   'glyphicons-cake':
     'prefix': 'glyphicons-cake'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cake$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cake$3"></${1:span}>'
   'glyphicons-calculator':
     'prefix': 'glyphicons-calculator'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-calculator$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-calculator$3"></${1:span}>'
   'glyphicons-calendar':
     'prefix': 'glyphicons-calendar'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-calendar$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-calendar$3"></${1:span}>'
   'glyphicons-camera':
     'prefix': 'glyphicons-camera'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-camera$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-camera$3"></${1:span}>'
   'glyphicons-camera-small':
     'prefix': 'glyphicons-camera-small'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-camera-small$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-camera-small$3"></${1:span}>'
   'glyphicons-candle':
     'prefix': 'glyphicons-candle'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-candle$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-candle$3"></${1:span}>'
   'glyphicons-car':
     'prefix': 'glyphicons-car'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-car$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-car$3"></${1:span}>'
   'glyphicons-car-hov':
     'prefix': 'glyphicons-car-hov'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-car-hov$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-car-hov$3"></${1:span}>'
   'glyphicons-car-rental':
     'prefix': 'glyphicons-car-rental'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-car-rental$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-car-rental$3"></${1:span}>'
   'glyphicons-car-wheel':
     'prefix': 'glyphicons-car-wheel'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-car-wheel$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-car-wheel$3"></${1:span}>'
   'glyphicons-cardio':
     'prefix': 'glyphicons-cardio'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cardio$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cardio$3"></${1:span}>'
   'glyphicons-cargo':
     'prefix': 'glyphicons-cargo'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cargo$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cargo$3"></${1:span}>'
   'glyphicons-cars':
     'prefix': 'glyphicons-cars'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cars$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cars$3"></${1:span}>'
   'glyphicons-cart-in':
     'prefix': 'glyphicons-cart-in'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cart-in$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cart-in$3"></${1:span}>'
   'glyphicons-cart-out':
     'prefix': 'glyphicons-cart-out'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cart-out$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cart-out$3"></${1:span}>'
   'glyphicons-cart-tick':
     'prefix': 'glyphicons-cart-tick'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cart-tick$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cart-tick$3"></${1:span}>'
   'glyphicons-cat':
     'prefix': 'glyphicons-cat'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cat$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cat$3"></${1:span}>'
   'glyphicons-cd':
     'prefix': 'glyphicons-cd'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cd$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cd$3"></${1:span}>'
   'glyphicons-celebration':
     'prefix': 'glyphicons-celebration'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-celebration$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-celebration$3"></${1:span}>'
   'glyphicons-certificate':
     'prefix': 'glyphicons-certificate'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-certificate$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-certificate$3"></${1:span}>'
   'glyphicons-charging-station':
     'prefix': 'glyphicons-charging-station'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-charging-station$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-charging-station$3"></${1:span}>'
   'glyphicons-charts':
     'prefix': 'glyphicons-charts'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-charts$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-charts$3"></${1:span}>'
   'glyphicons-chat':
     'prefix': 'glyphicons-chat'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-chat$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-chat$3"></${1:span}>'
   'glyphicons-check':
     'prefix': 'glyphicons-check'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-check$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-check$3"></${1:span}>'
   'glyphicons-chevron-down':
     'prefix': 'glyphicons-chevron-down'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-chevron-down$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-chevron-down$3"></${1:span}>'
   'glyphicons-chevron-left':
     'prefix': 'glyphicons-chevron-left'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-chevron-left$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-chevron-left$3"></${1:span}>'
   'glyphicons-chevron-right':
     'prefix': 'glyphicons-chevron-right'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-chevron-right$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-chevron-right$3"></${1:span}>'
   'glyphicons-chevron-up':
     'prefix': 'glyphicons-chevron-up'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-chevron-up$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-chevron-up$3"></${1:span}>'
   'glyphicons-child':
     'prefix': 'glyphicons-child'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-child$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-child$3"></${1:span}>'
   'glyphicons-circle-arrow-down':
     'prefix': 'glyphicons-circle-arrow-down'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-circle-arrow-down$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-circle-arrow-down$3"></${1:span}>'
   'glyphicons-circle-arrow-left':
     'prefix': 'glyphicons-circle-arrow-left'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-circle-arrow-left$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-circle-arrow-left$3"></${1:span}>'
   'glyphicons-circle-arrow-right':
     'prefix': 'glyphicons-circle-arrow-right'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-circle-arrow-right$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-circle-arrow-right$3"></${1:span}>'
   'glyphicons-circle-arrow-top':
     'prefix': 'glyphicons-circle-arrow-top'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-circle-arrow-top$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-circle-arrow-top$3"></${1:span}>'
   'glyphicons-circle-exclamation-mark':
     'prefix': 'glyphicons-circle-exclamation-mark'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-circle-exclamation-mark$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-circle-exclamation-mark$3"></${1:span}>'
   'glyphicons-circle-info':
     'prefix': 'glyphicons-circle-info'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-circle-info$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-circle-info$3"></${1:span}>'
   'glyphicons-circle-minus':
     'prefix': 'glyphicons-circle-minus'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-circle-minus$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-circle-minus$3"></${1:span}>'
   'glyphicons-circle-ok':
     'prefix': 'glyphicons-circle-ok'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-circle-ok$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-circle-ok$3"></${1:span}>'
   'glyphicons-circle-plus':
     'prefix': 'glyphicons-circle-plus'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-circle-plus$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-circle-plus$3"></${1:span}>'
   'glyphicons-circle-question-mark':
     'prefix': 'glyphicons-circle-question-mark'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-circle-question-mark$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-circle-question-mark$3"></${1:span}>'
   'glyphicons-circle-remove':
     'prefix': 'glyphicons-circle-remove'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-circle-remove$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-circle-remove$3"></${1:span}>'
   'glyphicons-classic-hammer':
     'prefix': 'glyphicons-classic-hammer'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-classic-hammer$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-classic-hammer$3"></${1:span}>'
   'glyphicons-claw-hammer':
     'prefix': 'glyphicons-claw-hammer'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-claw-hammer$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-claw-hammer$3"></${1:span}>'
   'glyphicons-cleaning':
     'prefix': 'glyphicons-cleaning'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cleaning$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cleaning$3"></${1:span}>'
   'glyphicons-clock':
     'prefix': 'glyphicons-clock'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-clock$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-clock$3"></${1:span}>'
   'glyphicons-cloud':
     'prefix': 'glyphicons-cloud'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cloud$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cloud$3"></${1:span}>'
   'glyphicons-cloud-download':
     'prefix': 'glyphicons-cloud-download'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cloud-download$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cloud-download$3"></${1:span}>'
   'glyphicons-cloud-minus':
     'prefix': 'glyphicons-cloud-minus'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cloud-minus$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cloud-minus$3"></${1:span}>'
   'glyphicons-cloud-plus':
     'prefix': 'glyphicons-cloud-plus'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cloud-plus$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cloud-plus$3"></${1:span}>'
   'glyphicons-cloud-upload':
     'prefix': 'glyphicons-cloud-upload'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cloud-upload$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cloud-upload$3"></${1:span}>'
   'glyphicons-cluster':
     'prefix': 'glyphicons-cluster'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cluster$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cluster$3"></${1:span}>'
   'glyphicons-coat-hanger':
     'prefix': 'glyphicons-coat-hanger'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-coat-hanger$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-coat-hanger$3"></${1:span}>'
   'glyphicons-coffee-cup':
     'prefix': 'glyphicons-coffee-cup'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-coffee-cup$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-coffee-cup$3"></${1:span}>'
   'glyphicons-cogwheel':
     'prefix': 'glyphicons-cogwheel'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cogwheel$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cogwheel$3"></${1:span}>'
   'glyphicons-cogwheels':
     'prefix': 'glyphicons-cogwheels'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cogwheels$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cogwheels$3"></${1:span}>'
   'glyphicons-coins':
     'prefix': 'glyphicons-coins'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-coins$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-coins$3"></${1:span}>'
   'glyphicons-collapse':
     'prefix': 'glyphicons-collapse'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-collapse$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-collapse$3"></${1:span}>'
   'glyphicons-collapse-top':
     'prefix': 'glyphicons-collapse-top'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-collapse-top$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-collapse-top$3"></${1:span}>'
   'glyphicons-comments':
     'prefix': 'glyphicons-comments'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-comments$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-comments$3"></${1:span}>'
   'glyphicons-commodities':
     'prefix': 'glyphicons-commodities'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-commodities$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-commodities$3"></${1:span}>'
   'glyphicons-compass':
     'prefix': 'glyphicons-compass'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-compass$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-compass$3"></${1:span}>'
   'glyphicons-compressed':
     'prefix': 'glyphicons-compressed'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-compressed$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-compressed$3"></${1:span}>'
   'glyphicons-construction-cone':
     'prefix': 'glyphicons-construction-cone'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-construction-cone$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-construction-cone$3"></${1:span}>'
   'glyphicons-conversation':
     'prefix': 'glyphicons-conversation'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-conversation$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-conversation$3"></${1:span}>'
   'glyphicons-copy':
     'prefix': 'glyphicons-copy'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-copy$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-copy$3"></${1:span}>'
   'glyphicons-copyright-mark':
     'prefix': 'glyphicons-copyright-mark'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-copyright-mark$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-copyright-mark$3"></${1:span}>'
   'glyphicons-credit-card':
     'prefix': 'glyphicons-credit-card'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-credit-card$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-credit-card$3"></${1:span}>'
   'glyphicons-crop':
     'prefix': 'glyphicons-crop'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-crop$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-crop$3"></${1:span}>'
   'glyphicons-crown':
     'prefix': 'glyphicons-crown'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-crown$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-crown$3"></${1:span}>'
   'glyphicons-cup':
     'prefix': 'glyphicons-cup'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cup$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cup$3"></${1:span}>'
   'glyphicons-currency-conversion':
     'prefix': 'glyphicons-currency-conversion'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-currency-conversion$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-currency-conversion$3"></${1:span}>'
   'glyphicons-cutlery':
     'prefix': 'glyphicons-cutlery'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cutlery$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-cutlery$3"></${1:span}>'
   'glyphicons-dashboard':
     'prefix': 'glyphicons-dashboard'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-dashboard$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-dashboard$3"></${1:span}>'
   'glyphicons-database':
     'prefix': 'glyphicons-database'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-database$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-database$3"></${1:span}>'
   'glyphicons-database-ban':
     'prefix': 'glyphicons-database-ban'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-database-ban$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-database-ban$3"></${1:span}>'
   'glyphicons-database-lock':
     'prefix': 'glyphicons-database-lock'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-database-lock$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-database-lock$3"></${1:span}>'
   'glyphicons-database-minus':
     'prefix': 'glyphicons-database-minus'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-database-minus$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-database-minus$3"></${1:span}>'
   'glyphicons-database-plus':
     'prefix': 'glyphicons-database-plus'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-database-plus$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-database-plus$3"></${1:span}>'
   'glyphicons-database-search':
     'prefix': 'glyphicons-database-search'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-database-search$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-database-search$3"></${1:span}>'
   'glyphicons-delete':
     'prefix': 'glyphicons-delete'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-delete$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-delete$3"></${1:span}>'
   'glyphicons-dining-set':
     'prefix': 'glyphicons-dining-set'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-dining-set$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-dining-set$3"></${1:span}>'
   'glyphicons-direction':
     'prefix': 'glyphicons-direction'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-direction$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-direction$3"></${1:span}>'
   'glyphicons-disk-export':
     'prefix': 'glyphicons-disk-export'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-disk-export$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-disk-export$3"></${1:span}>'
   'glyphicons-disk-import':
     'prefix': 'glyphicons-disk-import'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-disk-import$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-disk-import$3"></${1:span}>'
   'glyphicons-disk-open':
     'prefix': 'glyphicons-disk-open'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-disk-open$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-disk-open$3"></${1:span}>'
   'glyphicons-disk-remove':
     'prefix': 'glyphicons-disk-remove'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-disk-remove$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-disk-remove$3"></${1:span}>'
   'glyphicons-disk-save':
     'prefix': 'glyphicons-disk-save'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-disk-save$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-disk-save$3"></${1:span}>'
   'glyphicons-disk-saved':
     'prefix': 'glyphicons-disk-saved'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-disk-saved$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-disk-saved$3"></${1:span}>'
   'glyphicons-display':
     'prefix': 'glyphicons-display'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-display$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-display$3"></${1:span}>'
   'glyphicons-divide':
     'prefix': 'glyphicons-divide'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-divide$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-divide$3"></${1:span}>'
   'glyphicons-dog':
     'prefix': 'glyphicons-dog'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-dog$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-dog$3"></${1:span}>'
   'glyphicons-down-arrow':
     'prefix': 'glyphicons-down-arrow'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-down-arrow$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-down-arrow$3"></${1:span}>'
   'glyphicons-download':
     'prefix': 'glyphicons-download'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-download$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-download$3"></${1:span}>'
   'glyphicons-download-alt':
     'prefix': 'glyphicons-download-alt'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-download-alt$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-download-alt$3"></${1:span}>'
   'glyphicons-dress':
     'prefix': 'glyphicons-dress'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-dress$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-dress$3"></${1:span}>'
   'glyphicons-drink':
     'prefix': 'glyphicons-drink'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-drink$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-drink$3"></${1:span}>'
   'glyphicons-dumbbell':
     'prefix': 'glyphicons-dumbbell'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-dumbbell$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-dumbbell$3"></${1:span}>'
   'glyphicons-duplicate':
     'prefix': 'glyphicons-duplicate'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-duplicate$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-duplicate$3"></${1:span}>'
   'glyphicons-ear-plugs':
     'prefix': 'glyphicons-ear-plugs'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-ear-plugs$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-ear-plugs$3"></${1:span}>'
   'glyphicons-earphone':
     'prefix': 'glyphicons-earphone'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-earphone$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-earphone$3"></${1:span}>'
   'glyphicons-edit':
     'prefix': 'glyphicons-edit'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-edit$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-edit$3"></${1:span}>'
   'glyphicons-education':
     'prefix': 'glyphicons-education'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-education$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-education$3"></${1:span}>'
   'glyphicons-eject':
     'prefix': 'glyphicons-eject'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-eject$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-eject$3"></${1:span}>'
   'glyphicons-electrical-plug':
     'prefix': 'glyphicons-electrical-plug'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-electrical-plug$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-electrical-plug$3"></${1:span}>'
   'glyphicons-electrical-socket-eu':
     'prefix': 'glyphicons-electrical-socket-eu'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-electrical-socket-eu$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-electrical-socket-eu$3"></${1:span}>'
   'glyphicons-electrical-socket-us':
     'prefix': 'glyphicons-electrical-socket-us'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-electrical-socket-us$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-electrical-socket-us$3"></${1:span}>'
   'glyphicons-electricity':
     'prefix': 'glyphicons-electricity'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-electricity$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-electricity$3"></${1:span}>'
   'glyphicons-embed':
     'prefix': 'glyphicons-embed'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-embed$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-embed$3"></${1:span}>'
   'glyphicons-embed-close':
     'prefix': 'glyphicons-embed-close'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-embed-close$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-embed-close$3"></${1:span}>'
   'glyphicons-envelope':
     'prefix': 'glyphicons-envelope'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-envelope$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-envelope$3"></${1:span}>'
   'glyphicons-equalizer':
     'prefix': 'glyphicons-equalizer'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-equalizer$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-equalizer$3"></${1:span}>'
   'glyphicons-erase':
     'prefix': 'glyphicons-erase'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-erase$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-erase$3"></${1:span}>'
   'glyphicons-euro':
     'prefix': 'glyphicons-euro'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-euro$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-euro$3"></${1:span}>'
   'glyphicons-exit':
     'prefix': 'glyphicons-exit'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-exit$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-exit$3"></${1:span}>'
   'glyphicons-expand':
     'prefix': 'glyphicons-expand'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-expand$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-expand$3"></${1:span}>'
   'glyphicons-eye-close':
     'prefix': 'glyphicons-eye-close'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-eye-close$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-eye-close$3"></${1:span}>'
   'glyphicons-eye-minus':
     'prefix': 'glyphicons-eye-minus'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-eye-minus$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-eye-minus$3"></${1:span}>'
   'glyphicons-eye-open':
     'prefix': 'glyphicons-eye-open'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-eye-open$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-eye-open$3"></${1:span}>'
   'glyphicons-eye-plus':
     'prefix': 'glyphicons-eye-plus'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-eye-plus$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-eye-plus$3"></${1:span}>'
   'glyphicons-eyedropper':
     'prefix': 'glyphicons-eyedropper'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-eyedropper$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-eyedropper$3"></${1:span}>'
   'glyphicons-fabric':
     'prefix': 'glyphicons-fabric'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-fabric$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-fabric$3"></${1:span}>'
   'glyphicons-facetime-video':
     'prefix': 'glyphicons-facetime-video'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-facetime-video$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-facetime-video$3"></${1:span}>'
   'glyphicons-factory':
     'prefix': 'glyphicons-factory'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-factory$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-factory$3"></${1:span}>'
   'glyphicons-family':
     'prefix': 'glyphicons-family'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-family$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-family$3"></${1:span}>'
   'glyphicons-fast-backward':
     'prefix': 'glyphicons-fast-backward'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-fast-backward$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-fast-backward$3"></${1:span}>'
   'glyphicons-fast-food':
     'prefix': 'glyphicons-fast-food'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-fast-food$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-fast-food$3"></${1:span}>'
   'glyphicons-fast-forward':
     'prefix': 'glyphicons-fast-forward'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-fast-forward$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-fast-forward$3"></${1:span}>'
   'glyphicons-fax':
     'prefix': 'glyphicons-fax'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-fax$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-fax$3"></${1:span}>'
   'glyphicons-female':
     'prefix': 'glyphicons-female'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-female$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-female$3"></${1:span}>'
   'glyphicons-file':
     'prefix': 'glyphicons-file'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-file$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-file$3"></${1:span}>'
   'glyphicons-file-export':
     'prefix': 'glyphicons-file-export'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-file-export$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-file-export$3"></${1:span}>'
   'glyphicons-file-import':
     'prefix': 'glyphicons-file-import'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-file-import$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-file-import$3"></${1:span}>'
   'glyphicons-film':
     'prefix': 'glyphicons-film'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-film$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-film$3"></${1:span}>'
   'glyphicons-filter':
     'prefix': 'glyphicons-filter'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-filter$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-filter$3"></${1:span}>'
   'glyphicons-fins':
     'prefix': 'glyphicons-fins'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-fins$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-fins$3"></${1:span}>'
   'glyphicons-fire':
     'prefix': 'glyphicons-fire'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-fire$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-fire$3"></${1:span}>'
   'glyphicons-firework':
     'prefix': 'glyphicons-firework'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-firework$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-firework$3"></${1:span}>'
   'glyphicons-fishes':
     'prefix': 'glyphicons-fishes'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-fishes$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-fishes$3"></${1:span}>'
   'glyphicons-fit-frame-to-image':
     'prefix': 'glyphicons-fit-frame-to-image'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-fit-frame-to-image$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-fit-frame-to-image$3"></${1:span}>'
   'glyphicons-fit-image-to-frame':
     'prefix': 'glyphicons-fit-image-to-frame'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-fit-image-to-frame$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-fit-image-to-frame$3"></${1:span}>'
   'glyphicons-flag':
     'prefix': 'glyphicons-flag'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-flag$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-flag$3"></${1:span}>'
   'glyphicons-flash':
     'prefix': 'glyphicons-flash'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-flash$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-flash$3"></${1:span}>'
   'glyphicons-floppy-disk':
     'prefix': 'glyphicons-floppy-disk'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-floppy-disk$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-floppy-disk$3"></${1:span}>'
   'glyphicons-floppy-open':
     'prefix': 'glyphicons-floppy-open'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-floppy-open$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-floppy-open$3"></${1:span}>'
   'glyphicons-floppy-remove':
     'prefix': 'glyphicons-floppy-remove'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-floppy-remove$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-floppy-remove$3"></${1:span}>'
   'glyphicons-floppy-save':
     'prefix': 'glyphicons-floppy-save'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-floppy-save$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-floppy-save$3"></${1:span}>'
   'glyphicons-floppy-saved':
     'prefix': 'glyphicons-floppy-saved'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-floppy-saved$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-floppy-saved$3"></${1:span}>'
   'glyphicons-flowchart':
     'prefix': 'glyphicons-flowchart'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-flowchart$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-flowchart$3"></${1:span}>'
   'glyphicons-flower':
     'prefix': 'glyphicons-flower'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-flower$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-flower$3"></${1:span}>'
   'glyphicons-folder-closed':
     'prefix': 'glyphicons-folder-closed'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-folder-closed$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-folder-closed$3"></${1:span}>'
   'glyphicons-folder-flag':
     'prefix': 'glyphicons-folder-flag'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-folder-flag$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-folder-flag$3"></${1:span}>'
   'glyphicons-folder-heart':
     'prefix': 'glyphicons-folder-heart'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-folder-heart$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-folder-heart$3"></${1:span}>'
   'glyphicons-folder-lock':
     'prefix': 'glyphicons-folder-lock'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-folder-lock$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-folder-lock$3"></${1:span}>'
   'glyphicons-folder-minus':
     'prefix': 'glyphicons-folder-minus'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-folder-minus$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-folder-minus$3"></${1:span}>'
   'glyphicons-folder-new':
     'prefix': 'glyphicons-folder-new'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-folder-new$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-folder-new$3"></${1:span}>'
   'glyphicons-folder-open':
     'prefix': 'glyphicons-folder-open'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-folder-open$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-folder-open$3"></${1:span}>'
   'glyphicons-folder-plus':
     'prefix': 'glyphicons-folder-plus'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-folder-plus$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-folder-plus$3"></${1:span}>'
   'glyphicons-font':
     'prefix': 'glyphicons-font'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-font$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-font$3"></${1:span}>'
   'glyphicons-forward':
     'prefix': 'glyphicons-forward'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-forward$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-forward$3"></${1:span}>'
   'glyphicons-french-press':
     'prefix': 'glyphicons-french-press'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-french-press$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-french-press$3"></${1:span}>'
   'glyphicons-fullscreen':
     'prefix': 'glyphicons-fullscreen'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-fullscreen$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-fullscreen$3"></${1:span}>'
   'glyphicons-gamepad':
     'prefix': 'glyphicons-gamepad'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-gamepad$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-gamepad$3"></${1:span}>'
   'glyphicons-gas-station':
     'prefix': 'glyphicons-gas-station'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-gas-station$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-gas-station$3"></${1:span}>'
   'glyphicons-gbp':
     'prefix': 'glyphicons-gbp'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-gbp$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-gbp$3"></${1:span}>'
   'glyphicons-gift':
     'prefix': 'glyphicons-gift'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-gift$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-gift$3"></${1:span}>'
   'glyphicons-girl':
     'prefix': 'glyphicons-girl'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-girl$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-girl$3"></${1:span}>'
   'glyphicons-git-branch':
     'prefix': 'glyphicons-git-branch'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-git-branch$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-git-branch$3"></${1:span}>'
   'glyphicons-git-commit':
     'prefix': 'glyphicons-git-commit'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-git-commit$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-git-commit$3"></${1:span}>'
   'glyphicons-git-compare':
     'prefix': 'glyphicons-git-compare'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-git-compare$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-git-compare$3"></${1:span}>'
   'glyphicons-git-create':
     'prefix': 'glyphicons-git-create'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-git-create$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-git-create$3"></${1:span}>'
   'glyphicons-git-delete':
     'prefix': 'glyphicons-git-delete'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-git-delete$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-git-delete$3"></${1:span}>'
   'glyphicons-git-merge':
     'prefix': 'glyphicons-git-merge'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-git-merge$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-git-merge$3"></${1:span}>'
   'glyphicons-git-private':
     'prefix': 'glyphicons-git-private'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-git-private$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-git-private$3"></${1:span}>'
   'glyphicons-git-pull-request':
     'prefix': 'glyphicons-git-pull-request'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-git-pull-request$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-git-pull-request$3"></${1:span}>'
   'glyphicons-glass':
     'prefix': 'glyphicons-glass'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-glass$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-glass$3"></${1:span}>'
   'glyphicons-glasses':
     'prefix': 'glyphicons-glasses'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-glasses$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-glasses$3"></${1:span}>'
   'glyphicons-global':
     'prefix': 'glyphicons-global'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-global$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-global$3"></${1:span}>'
   'glyphicons-globe':
     'prefix': 'glyphicons-globe'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-globe$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-globe$3"></${1:span}>'
   'glyphicons-globe-af':
     'prefix': 'glyphicons-globe-af'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-globe-af$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-globe-af$3"></${1:span}>'
   'glyphicons-golf':
     'prefix': 'glyphicons-golf'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-golf$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-golf$3"></${1:span}>'
   'glyphicons-golf-course':
     'prefix': 'glyphicons-golf-course'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-golf-course$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-golf-course$3"></${1:span}>'
   'glyphicons-google-maps':
     'prefix': 'glyphicons-google-maps'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-google-maps$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-google-maps$3"></${1:span}>'
   'glyphicons-grater':
     'prefix': 'glyphicons-grater'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-grater$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-grater$3"></${1:span}>'
   'glyphicons-group':
     'prefix': 'glyphicons-group'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-group$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-group$3"></${1:span}>'
   'glyphicons-hand-down':
     'prefix': 'glyphicons-hand-down'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-hand-down$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-hand-down$3"></${1:span}>'
   'glyphicons-hand-left':
     'prefix': 'glyphicons-hand-left'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-hand-left$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-hand-left$3"></${1:span}>'
   'glyphicons-hand-right':
     'prefix': 'glyphicons-hand-right'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-hand-right$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-hand-right$3"></${1:span}>'
   'glyphicons-hand-saw':
     'prefix': 'glyphicons-hand-saw'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-hand-saw$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-hand-saw$3"></${1:span}>'
   'glyphicons-hand-up':
     'prefix': 'glyphicons-hand-up'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-hand-up$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-hand-up$3"></${1:span}>'
   'glyphicons-handshake':
     'prefix': 'glyphicons-handshake'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-handshake$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-handshake$3"></${1:span}>'
   'glyphicons-hazard':
     'prefix': 'glyphicons-hazard'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-hazard$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-hazard$3"></${1:span}>'
   'glyphicons-hazard-sign':
     'prefix': 'glyphicons-hazard-sign'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-hazard-sign$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-hazard-sign$3"></${1:span}>'
   'glyphicons-hdd':
     'prefix': 'glyphicons-hdd'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-hdd$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-hdd$3"></${1:span}>'
   'glyphicons-header':
     'prefix': 'glyphicons-header'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-header$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-header$3"></${1:span}>'
   'glyphicons-headphones':
     'prefix': 'glyphicons-headphones'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-headphones$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-headphones$3"></${1:span}>'
   'glyphicons-headset':
     'prefix': 'glyphicons-headset'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-headset$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-headset$3"></${1:span}>'
   'glyphicons-heart':
     'prefix': 'glyphicons-heart'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-heart$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-heart$3"></${1:span}>'
   'glyphicons-heart-empty':
     'prefix': 'glyphicons-heart-empty'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-heart-empty$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-heart-empty$3"></${1:span}>'
   'glyphicons-heat':
     'prefix': 'glyphicons-heat'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-heat$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-heat$3"></${1:span}>'
   'glyphicons-history':
     'prefix': 'glyphicons-history'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-history$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-history$3"></${1:span}>'
   'glyphicons-hockey':
     'prefix': 'glyphicons-hockey'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-hockey$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-hockey$3"></${1:span}>'
   'glyphicons-home':
     'prefix': 'glyphicons-home'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-home$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-home$3"></${1:span}>'
   'glyphicons-hospital':
     'prefix': 'glyphicons-hospital'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-hospital$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-hospital$3"></${1:span}>'
   'glyphicons-hospital-h':
     'prefix': 'glyphicons-hospital-h'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-hospital-h$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-hospital-h$3"></${1:span}>'
   'glyphicons-hotspot':
     'prefix': 'glyphicons-hotspot'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-hotspot$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-hotspot$3"></${1:span}>'
   'glyphicons-hourglass':
     'prefix': 'glyphicons-hourglass'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-hourglass$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-hourglass$3"></${1:span}>'
   'glyphicons-hygiene-kit':
     'prefix': 'glyphicons-hygiene-kit'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-hygiene-kit$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-hygiene-kit$3"></${1:span}>'
   'glyphicons-ice-cream':
     'prefix': 'glyphicons-ice-cream'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-ice-cream$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-ice-cream$3"></${1:span}>'
   'glyphicons-ice-cream-no':
     'prefix': 'glyphicons-ice-cream-no'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-ice-cream-no$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-ice-cream-no$3"></${1:span}>'
   'glyphicons-ice-lolly':
     'prefix': 'glyphicons-ice-lolly'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-ice-lolly$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-ice-lolly$3"></${1:span}>'
   'glyphicons-ice-lolly-tasted':
     'prefix': 'glyphicons-ice-lolly-tasted'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-ice-lolly-tasted$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-ice-lolly-tasted$3"></${1:span}>'
   'glyphicons-imac':
     'prefix': 'glyphicons-imac'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-imac$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-imac$3"></${1:span}>'
   'glyphicons-inbox':
     'prefix': 'glyphicons-inbox'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-inbox$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-inbox$3"></${1:span}>'
   'glyphicons-inbox-in':
     'prefix': 'glyphicons-inbox-in'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-inbox-in$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-inbox-in$3"></${1:span}>'
   'glyphicons-inbox-lock':
     'prefix': 'glyphicons-inbox-lock'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-inbox-lock$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-inbox-lock$3"></${1:span}>'
   'glyphicons-inbox-minus':
     'prefix': 'glyphicons-inbox-minus'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-inbox-minus$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-inbox-minus$3"></${1:span}>'
   'glyphicons-inbox-out':
     'prefix': 'glyphicons-inbox-out'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-inbox-out$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-inbox-out$3"></${1:span}>'
   'glyphicons-inbox-plus':
     'prefix': 'glyphicons-inbox-plus'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-inbox-plus$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-inbox-plus$3"></${1:span}>'
   'glyphicons-invoice':
     'prefix': 'glyphicons-invoice'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-invoice$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-invoice$3"></${1:span}>'
   'glyphicons-ipad':
     'prefix': 'glyphicons-ipad'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-ipad$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-ipad$3"></${1:span}>'
   'glyphicons-iphone':
     'prefix': 'glyphicons-iphone'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-iphone$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-iphone$3"></${1:span}>'
   'glyphicons-iphone-exchange':
     'prefix': 'glyphicons-iphone-exchange'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-iphone-exchange$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-iphone-exchange$3"></${1:span}>'
   'glyphicons-iphone-shake':
     'prefix': 'glyphicons-iphone-shake'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-iphone-shake$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-iphone-shake$3"></${1:span}>'
   'glyphicons-iphone-transfer':
     'prefix': 'glyphicons-iphone-transfer'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-iphone-transfer$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-iphone-transfer$3"></${1:span}>'
   'glyphicons-ipod':
     'prefix': 'glyphicons-ipod'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-ipod$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-ipod$3"></${1:span}>'
   'glyphicons-ipod-shuffle':
     'prefix': 'glyphicons-ipod-shuffle'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-ipod-shuffle$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-ipod-shuffle$3"></${1:span}>'
   'glyphicons-italic':
     'prefix': 'glyphicons-italic'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-italic$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-italic$3"></${1:span}>'
   'glyphicons-justify':
     'prefix': 'glyphicons-justify'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-justify$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-justify$3"></${1:span}>'
   'glyphicons-kettle':
     'prefix': 'glyphicons-kettle'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-kettle$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-kettle$3"></${1:span}>'
   'glyphicons-keyboard-wired':
     'prefix': 'glyphicons-keyboard-wired'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-keyboard-wired$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-keyboard-wired$3"></${1:span}>'
   'glyphicons-keyboard-wireless':
     'prefix': 'glyphicons-keyboard-wireless'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-keyboard-wireless$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-keyboard-wireless$3"></${1:span}>'
   'glyphicons-keynote':
     'prefix': 'glyphicons-keynote'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-keynote$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-keynote$3"></${1:span}>'
   'glyphicons-keys':
     'prefix': 'glyphicons-keys'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-keys$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-keys$3"></${1:span}>'
   'glyphicons-king':
     'prefix': 'glyphicons-king'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-king$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-king$3"></${1:span}>'
   'glyphicons-kiosk':
     'prefix': 'glyphicons-kiosk'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-kiosk$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-kiosk$3"></${1:span}>'
   'glyphicons-kiosk-food':
     'prefix': 'glyphicons-kiosk-food'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-kiosk-food$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-kiosk-food$3"></${1:span}>'
   'glyphicons-kiosk-light':
     'prefix': 'glyphicons-kiosk-light'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-kiosk-light$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-kiosk-light$3"></${1:span}>'
   'glyphicons-kiosk-wheels':
     'prefix': 'glyphicons-kiosk-wheels'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-kiosk-wheels$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-kiosk-wheels$3"></${1:span}>'
   'glyphicons-knight':
     'prefix': 'glyphicons-knight'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-knight$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-knight$3"></${1:span}>'
   'glyphicons-lab':
     'prefix': 'glyphicons-lab'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-lab$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-lab$3"></${1:span}>'
   'glyphicons-lab-alt':
     'prefix': 'glyphicons-lab-alt'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-lab-alt$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-lab-alt$3"></${1:span}>'
   'glyphicons-lamp':
     'prefix': 'glyphicons-lamp'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-lamp$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-lamp$3"></${1:span}>'
   'glyphicons-leaf':
     'prefix': 'glyphicons-leaf'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-leaf$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-leaf$3"></${1:span}>'
   'glyphicons-leather':
     'prefix': 'glyphicons-leather'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-leather$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-leather$3"></${1:span}>'
   'glyphicons-left-arrow':
     'prefix': 'glyphicons-left-arrow'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-left-arrow$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-left-arrow$3"></${1:span}>'
   'glyphicons-left-indent':
     'prefix': 'glyphicons-left-indent'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-left-indent$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-left-indent$3"></${1:span}>'
   'glyphicons-life-preserver':
     'prefix': 'glyphicons-life-preserver'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-life-preserver$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-life-preserver$3"></${1:span}>'
   'glyphicons-lightbulb':
     'prefix': 'glyphicons-lightbulb'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-lightbulb$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-lightbulb$3"></${1:span}>'
   'glyphicons-link':
     'prefix': 'glyphicons-link'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-link$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-link$3"></${1:span}>'
   'glyphicons-list':
     'prefix': 'glyphicons-list'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-list$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-list$3"></${1:span}>'
   'glyphicons-list-alt':
     'prefix': 'glyphicons-list-alt'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-list-alt$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-list-alt$3"></${1:span}>'
   'glyphicons-lock':
     'prefix': 'glyphicons-lock'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-lock$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-lock$3"></${1:span}>'
   'glyphicons-log-book':
     'prefix': 'glyphicons-log-book'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-log-book$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-log-book$3"></${1:span}>'
   'glyphicons-log-in':
     'prefix': 'glyphicons-log-in'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-log-in$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-log-in$3"></${1:span}>'
   'glyphicons-log-out':
     'prefix': 'glyphicons-log-out'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-log-out$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-log-out$3"></${1:span}>'
   'glyphicons-luggage':
     'prefix': 'glyphicons-luggage'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-luggage$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-luggage$3"></${1:span}>'
   'glyphicons-macbook':
     'prefix': 'glyphicons-macbook'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-macbook$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-macbook$3"></${1:span}>'
   'glyphicons-magic':
     'prefix': 'glyphicons-magic'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-magic$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-magic$3"></${1:span}>'
   'glyphicons-magnet':
     'prefix': 'glyphicons-magnet'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-magnet$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-magnet$3"></${1:span}>'
   'glyphicons-male':
     'prefix': 'glyphicons-male'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-male$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-male$3"></${1:span}>'
   'glyphicons-map':
     'prefix': 'glyphicons-map'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-map$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-map$3"></${1:span}>'
   'glyphicons-marriage':
     'prefix': 'glyphicons-marriage'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-marriage$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-marriage$3"></${1:span}>'
   'glyphicons-medicine':
     'prefix': 'glyphicons-medicine'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-medicine$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-medicine$3"></${1:span}>'
   'glyphicons-menu-hamburger':
     'prefix': 'glyphicons-menu-hamburger'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-menu-hamburger$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-menu-hamburger$3"></${1:span}>'
   'glyphicons-message-ban':
     'prefix': 'glyphicons-message-ban'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-message-ban$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-message-ban$3"></${1:span}>'
   'glyphicons-message-empty':
     'prefix': 'glyphicons-message-empty'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-message-empty$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-message-empty$3"></${1:span}>'
   'glyphicons-message-flag':
     'prefix': 'glyphicons-message-flag'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-message-flag$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-message-flag$3"></${1:span}>'
   'glyphicons-message-forward':
     'prefix': 'glyphicons-message-forward'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-message-forward$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-message-forward$3"></${1:span}>'
   'glyphicons-message-full':
     'prefix': 'glyphicons-message-full'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-message-full$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-message-full$3"></${1:span}>'
   'glyphicons-message-in':
     'prefix': 'glyphicons-message-in'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-message-in$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-message-in$3"></${1:span}>'
   'glyphicons-message-lock':
     'prefix': 'glyphicons-message-lock'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-message-lock$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-message-lock$3"></${1:span}>'
   'glyphicons-message-minus':
     'prefix': 'glyphicons-message-minus'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-message-minus$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-message-minus$3"></${1:span}>'
   'glyphicons-message-new':
     'prefix': 'glyphicons-message-new'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-message-new$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-message-new$3"></${1:span}>'
   'glyphicons-message-out':
     'prefix': 'glyphicons-message-out'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-message-out$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-message-out$3"></${1:span}>'
   'glyphicons-message-plus':
     'prefix': 'glyphicons-message-plus'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-message-plus$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-message-plus$3"></${1:span}>'
   'glyphicons-mic-mute':
     'prefix': 'glyphicons-mic-mute'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-mic-mute$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-mic-mute$3"></${1:span}>'
   'glyphicons-microphone':
     'prefix': 'glyphicons-microphone'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-microphone$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-microphone$3"></${1:span}>'
   'glyphicons-minus':
     'prefix': 'glyphicons-minus'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-minus$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-minus$3"></${1:span}>'
   'glyphicons-mms':
     'prefix': 'glyphicons-mms'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-mms$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-mms$3"></${1:span}>'
   'glyphicons-modal-window':
     'prefix': 'glyphicons-modal-window'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-modal-window$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-modal-window$3"></${1:span}>'
   'glyphicons-money':
     'prefix': 'glyphicons-money'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-money$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-money$3"></${1:span}>'
   'glyphicons-moon':
     'prefix': 'glyphicons-moon'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-moon$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-moon$3"></${1:span}>'
   'glyphicons-more':
     'prefix': 'glyphicons-more'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-more$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-more$3"></${1:span}>'
   'glyphicons-more-items':
     'prefix': 'glyphicons-more-items'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-more-items$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-more-items$3"></${1:span}>'
   'glyphicons-more-windows':
     'prefix': 'glyphicons-more-windows'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-more-windows$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-more-windows$3"></${1:span}>'
   'glyphicons-mosquito-net':
     'prefix': 'glyphicons-mosquito-net'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-mosquito-net$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-mosquito-net$3"></${1:span}>'
   'glyphicons-motorcycle':
     'prefix': 'glyphicons-motorcycle'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-motorcycle$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-motorcycle$3"></${1:span}>'
   'glyphicons-move':
     'prefix': 'glyphicons-move'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-move$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-move$3"></${1:span}>'
   'glyphicons-multiple-displays':
     'prefix': 'glyphicons-multiple-displays'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-multiple-displays$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-multiple-displays$3"></${1:span}>'
   'glyphicons-music':
     'prefix': 'glyphicons-music'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-music$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-music$3"></${1:span}>'
   'glyphicons-mute':
     'prefix': 'glyphicons-mute'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-mute$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-mute$3"></${1:span}>'
   'glyphicons-nails':
     'prefix': 'glyphicons-nails'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-nails$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-nails$3"></${1:span}>'
   'glyphicons-nameplate':
     'prefix': 'glyphicons-nameplate'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-nameplate$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-nameplate$3"></${1:span}>'
   'glyphicons-nameplate-alt':
     'prefix': 'glyphicons-nameplate-alt'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-nameplate-alt$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-nameplate-alt$3"></${1:span}>'
   'glyphicons-new-window':
     'prefix': 'glyphicons-new-window'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-new-window$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-new-window$3"></${1:span}>'
   'glyphicons-new-window-alt':
     'prefix': 'glyphicons-new-window-alt'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-new-window-alt$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-new-window-alt$3"></${1:span}>'
   'glyphicons-newspaper':
     'prefix': 'glyphicons-newspaper'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-newspaper$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-newspaper$3"></${1:span}>'
   'glyphicons-none-color-swatch':
     'prefix': 'glyphicons-none-color-swatch'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-none-color-swatch$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-none-color-swatch$3"></${1:span}>'
   'glyphicons-note':
     'prefix': 'glyphicons-note'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-note$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-note$3"></${1:span}>'
   'glyphicons-notes':
     'prefix': 'glyphicons-notes'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-notes$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-notes$3"></${1:span}>'
   'glyphicons-notes-2':
     'prefix': 'glyphicons-notes-2'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-notes-2$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-notes-2$3"></${1:span}>'
   'glyphicons-ok':
     'prefix': 'glyphicons-ok'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-ok$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-ok$3"></${1:span}>'
   'glyphicons-ok-2':
     'prefix': 'glyphicons-ok-2'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-ok-2$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-ok-2$3"></${1:span}>'
   'glyphicons-old-man':
     'prefix': 'glyphicons-old-man'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-old-man$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-old-man$3"></${1:span}>'
   'glyphicons-option-horizontal':
     'prefix': 'glyphicons-option-horizontal'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-option-horizontal$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-option-horizontal$3"></${1:span}>'
   'glyphicons-option-vertical':
     'prefix': 'glyphicons-option-vertical'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-option-vertical$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-option-vertical$3"></${1:span}>'
   'glyphicons-oxygen-bottle':
     'prefix': 'glyphicons-oxygen-bottle'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-oxygen-bottle$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-oxygen-bottle$3"></${1:span}>'
   'glyphicons-package':
     'prefix': 'glyphicons-package'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-package$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-package$3"></${1:span}>'
   'glyphicons-pants':
     'prefix': 'glyphicons-pants'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-pants$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-pants$3"></${1:span}>'
   'glyphicons-paperclip':
     'prefix': 'glyphicons-paperclip'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-paperclip$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-paperclip$3"></${1:span}>'
   'glyphicons-paragraph':
     'prefix': 'glyphicons-paragraph'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-paragraph$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-paragraph$3"></${1:span}>'
   'glyphicons-parents':
     'prefix': 'glyphicons-parents'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-parents$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-parents$3"></${1:span}>'
   'glyphicons-paste':
     'prefix': 'glyphicons-paste'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-paste$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-paste$3"></${1:span}>'
   'glyphicons-pause':
     'prefix': 'glyphicons-pause'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-pause$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-pause$3"></${1:span}>'
   'glyphicons-pawn':
     'prefix': 'glyphicons-pawn'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-pawn$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-pawn$3"></${1:span}>'
   'glyphicons-pen':
     'prefix': 'glyphicons-pen'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-pen$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-pen$3"></${1:span}>'
   'glyphicons-pencil':
     'prefix': 'glyphicons-pencil'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-pencil$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-pencil$3"></${1:span}>'
   'glyphicons-person':
     'prefix': 'glyphicons-person'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-person$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-person$3"></${1:span}>'
   'glyphicons-person-running':
     'prefix': 'glyphicons-person-running'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-person-running$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-person-running$3"></${1:span}>'
   'glyphicons-person-walking':
     'prefix': 'glyphicons-person-walking'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-person-walking$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-person-walking$3"></${1:span}>'
   'glyphicons-person-wheelchair':
     'prefix': 'glyphicons-person-wheelchair'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-person-wheelchair$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-person-wheelchair$3"></${1:span}>'
   'glyphicons-phone-alt':
     'prefix': 'glyphicons-phone-alt'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-phone-alt$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-phone-alt$3"></${1:span}>'
   'glyphicons-piano':
     'prefix': 'glyphicons-piano'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-piano$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-piano$3"></${1:span}>'
   'glyphicons-picture':
     'prefix': 'glyphicons-picture'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-picture$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-picture$3"></${1:span}>'
   'glyphicons-pie-chart':
     'prefix': 'glyphicons-pie-chart'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-pie-chart$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-pie-chart$3"></${1:span}>'
   'glyphicons-piggy-bank':
     'prefix': 'glyphicons-piggy-bank'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-piggy-bank$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-piggy-bank$3"></${1:span}>'
   'glyphicons-pin':
     'prefix': 'glyphicons-pin'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-pin$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-pin$3"></${1:span}>'
   'glyphicons-pin-flag':
     'prefix': 'glyphicons-pin-flag'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-pin-flag$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-pin-flag$3"></${1:span}>'
   'glyphicons-pipe':
     'prefix': 'glyphicons-pipe'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-pipe$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-pipe$3"></${1:span}>'
   'glyphicons-pizza':
     'prefix': 'glyphicons-pizza'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-pizza$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-pizza$3"></${1:span}>'
   'glyphicons-plate-of-food':
     'prefix': 'glyphicons-plate-of-food'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-plate-of-food$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-plate-of-food$3"></${1:span}>'
   'glyphicons-play':
     'prefix': 'glyphicons-play'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-play$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-play$3"></${1:span}>'
   'glyphicons-play-button':
     'prefix': 'glyphicons-play-button'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-play-button$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-play-button$3"></${1:span}>'
   'glyphicons-playing-dices':
     'prefix': 'glyphicons-playing-dices'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-playing-dices$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-playing-dices$3"></${1:span}>'
   'glyphicons-playlist':
     'prefix': 'glyphicons-playlist'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-playlist$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-playlist$3"></${1:span}>'
   'glyphicons-plus':
     'prefix': 'glyphicons-plus'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-plus$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-plus$3"></${1:span}>'
   'glyphicons-podcast':
     'prefix': 'glyphicons-podcast'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-podcast$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-podcast$3"></${1:span}>'
   'glyphicons-podium':
     'prefix': 'glyphicons-podium'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-podium$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-podium$3"></${1:span}>'
   'glyphicons-pool':
     'prefix': 'glyphicons-pool'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-pool$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-pool$3"></${1:span}>'
   'glyphicons-pot':
     'prefix': 'glyphicons-pot'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-pot$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-pot$3"></${1:span}>'
   'glyphicons-power':
     'prefix': 'glyphicons-power'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-power$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-power$3"></${1:span}>'
   'glyphicons-print':
     'prefix': 'glyphicons-print'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-print$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-print$3"></${1:span}>'
   'glyphicons-projector':
     'prefix': 'glyphicons-projector'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-projector$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-projector$3"></${1:span}>'
   'glyphicons-pushpin':
     'prefix': 'glyphicons-pushpin'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-pushpin$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-pushpin$3"></${1:span}>'
   'glyphicons-qrcode':
     'prefix': 'glyphicons-qrcode'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-qrcode$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-qrcode$3"></${1:span}>'
   'glyphicons-queen':
     'prefix': 'glyphicons-queen'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-queen$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-queen$3"></${1:span}>'
   'glyphicons-quote':
     'prefix': 'glyphicons-quote'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-quote$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-quote$3"></${1:span}>'
   'glyphicons-rabbit':
     'prefix': 'glyphicons-rabbit'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-rabbit$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-rabbit$3"></${1:span}>'
   'glyphicons-radar':
     'prefix': 'glyphicons-radar'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-radar$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-radar$3"></${1:span}>'
   'glyphicons-random':
     'prefix': 'glyphicons-random'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-random$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-random$3"></${1:span}>'
   'glyphicons-record':
     'prefix': 'glyphicons-record'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-record$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-record$3"></${1:span}>'
   'glyphicons-redo':
     'prefix': 'glyphicons-redo'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-redo$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-redo$3"></${1:span}>'
   'glyphicons-refresh':
     'prefix': 'glyphicons-refresh'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-refresh$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-refresh$3"></${1:span}>'
   'glyphicons-registration-mark':
     'prefix': 'glyphicons-registration-mark'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-registration-mark$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-registration-mark$3"></${1:span}>'
   'glyphicons-remote-control':
     'prefix': 'glyphicons-remote-control'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-remote-control$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-remote-control$3"></${1:span}>'
   'glyphicons-remote-control-tv':
     'prefix': 'glyphicons-remote-control-tv'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-remote-control-tv$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-remote-control-tv$3"></${1:span}>'
   'glyphicons-remove':
     'prefix': 'glyphicons-remove'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-remove$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-remove$3"></${1:span}>'
   'glyphicons-remove-2':
     'prefix': 'glyphicons-remove-2'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-remove-2$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-remove-2$3"></${1:span}>'
   'glyphicons-repeat':
     'prefix': 'glyphicons-repeat'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-repeat$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-repeat$3"></${1:span}>'
   'glyphicons-resize-full':
     'prefix': 'glyphicons-resize-full'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-resize-full$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-resize-full$3"></${1:span}>'
   'glyphicons-resize-small':
     'prefix': 'glyphicons-resize-small'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-resize-small$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-resize-small$3"></${1:span}>'
   'glyphicons-restart':
     'prefix': 'glyphicons-restart'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-restart$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-restart$3"></${1:span}>'
   'glyphicons-retweet':
     'prefix': 'glyphicons-retweet'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-retweet$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-retweet$3"></${1:span}>'
   'glyphicons-retweet-2':
     'prefix': 'glyphicons-retweet-2'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-retweet-2$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-retweet-2$3"></${1:span}>'
   'glyphicons-rewind':
     'prefix': 'glyphicons-rewind'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-rewind$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-rewind$3"></${1:span}>'
   'glyphicons-riflescope':
     'prefix': 'glyphicons-riflescope'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-riflescope$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-riflescope$3"></${1:span}>'
   'glyphicons-right-arrow':
     'prefix': 'glyphicons-right-arrow'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-right-arrow$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-right-arrow$3"></${1:span}>'
   'glyphicons-right-indent':
     'prefix': 'glyphicons-right-indent'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-right-indent$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-right-indent$3"></${1:span}>'
   'glyphicons-ring':
     'prefix': 'glyphicons-ring'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-ring$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-ring$3"></${1:span}>'
   'glyphicons-road':
     'prefix': 'glyphicons-road'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-road$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-road$3"></${1:span}>'
   'glyphicons-rotation-lock':
     'prefix': 'glyphicons-rotation-lock'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-rotation-lock$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-rotation-lock$3"></${1:span}>'
   'glyphicons-roundabout':
     'prefix': 'glyphicons-roundabout'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-roundabout$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-roundabout$3"></${1:span}>'
   'glyphicons-router':
     'prefix': 'glyphicons-router'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-router$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-router$3"></${1:span}>'
   'glyphicons-ruble':
     'prefix': 'glyphicons-ruble'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-ruble$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-ruble$3"></${1:span}>'
   'glyphicons-rugby':
     'prefix': 'glyphicons-rugby'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-rugby$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-rugby$3"></${1:span}>'
   'glyphicons-ruller':
     'prefix': 'glyphicons-ruller'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-ruller$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-ruller$3"></${1:span}>'
   'glyphicons-sampler':
     'prefix': 'glyphicons-sampler'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sampler$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sampler$3"></${1:span}>'
   'glyphicons-saw-blade':
     'prefix': 'glyphicons-saw-blade'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-saw-blade$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-saw-blade$3"></${1:span}>'
   'glyphicons-scale':
     'prefix': 'glyphicons-scale'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-scale$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-scale$3"></${1:span}>'
   'glyphicons-scale-classic':
     'prefix': 'glyphicons-scale-classic'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-scale-classic$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-scale-classic$3"></${1:span}>'
   'glyphicons-scissors':
     'prefix': 'glyphicons-scissors'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-scissors$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-scissors$3"></${1:span}>'
   'glyphicons-scissors-alt':
     'prefix': 'glyphicons-scissors-alt'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-scissors-alt$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-scissors-alt$3"></${1:span}>'
   'glyphicons-screenshot':
     'prefix': 'glyphicons-screenshot'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-screenshot$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-screenshot$3"></${1:span}>'
   'glyphicons-scuba-diving':
     'prefix': 'glyphicons-scuba-diving'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-scuba-diving$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-scuba-diving$3"></${1:span}>'
   'glyphicons-search':
     'prefix': 'glyphicons-search'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-search$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-search$3"></${1:span}>'
   'glyphicons-security-camera':
     'prefix': 'glyphicons-security-camera'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-security-camera$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-security-camera$3"></${1:span}>'
   'glyphicons-send':
     'prefix': 'glyphicons-send'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-send$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-send$3"></${1:span}>'
   'glyphicons-send-backward':
     'prefix': 'glyphicons-send-backward'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-send-backward$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-send-backward$3"></${1:span}>'
   'glyphicons-send-to-back':
     'prefix': 'glyphicons-send-to-back'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-send-to-back$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-send-to-back$3"></${1:span}>'
   'glyphicons-server':
     'prefix': 'glyphicons-server'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-server$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-server$3"></${1:span}>'
   'glyphicons-server-ban':
     'prefix': 'glyphicons-server-ban'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-server-ban$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-server-ban$3"></${1:span}>'
   'glyphicons-server-flag':
     'prefix': 'glyphicons-server-flag'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-server-flag$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-server-flag$3"></${1:span}>'
   'glyphicons-server-lock':
     'prefix': 'glyphicons-server-lock'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-server-lock$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-server-lock$3"></${1:span}>'
   'glyphicons-server-minus':
     'prefix': 'glyphicons-server-minus'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-server-minus$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-server-minus$3"></${1:span}>'
   'glyphicons-server-new':
     'prefix': 'glyphicons-server-new'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-server-new$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-server-new$3"></${1:span}>'
   'glyphicons-server-plus':
     'prefix': 'glyphicons-server-plus'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-server-plus$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-server-plus$3"></${1:span}>'
   'glyphicons-settings':
     'prefix': 'glyphicons-settings'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-settings$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-settings$3"></${1:span}>'
   'glyphicons-share':
     'prefix': 'glyphicons-share'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-share$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-share$3"></${1:span}>'
   'glyphicons-share-alt':
     'prefix': 'glyphicons-share-alt'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-share-alt$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-share-alt$3"></${1:span}>'
   'glyphicons-sheriffs-star':
     'prefix': 'glyphicons-sheriffs-star'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sheriffs-star$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sheriffs-star$3"></${1:span}>'
   'glyphicons-shield':
     'prefix': 'glyphicons-shield'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-shield$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-shield$3"></${1:span}>'
   'glyphicons-shirt':
     'prefix': 'glyphicons-shirt'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-shirt$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-shirt$3"></${1:span}>'
   'glyphicons-shoe-steps':
     'prefix': 'glyphicons-shoe-steps'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-shoe-steps$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-shoe-steps$3"></${1:span}>'
   'glyphicons-shoes':
     'prefix': 'glyphicons-shoes'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-shoes$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-shoes$3"></${1:span}>'
   'glyphicons-shop':
     'prefix': 'glyphicons-shop'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-shop$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-shop$3"></${1:span}>'
   'glyphicons-shop-window':
     'prefix': 'glyphicons-shop-window'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-shop-window$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-shop-window$3"></${1:span}>'
   'glyphicons-shopping-bag':
     'prefix': 'glyphicons-shopping-bag'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-shopping-bag$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-shopping-bag$3"></${1:span}>'
   'glyphicons-shopping-cart':
     'prefix': 'glyphicons-shopping-cart'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-shopping-cart$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-shopping-cart$3"></${1:span}>'
   'glyphicons-show-big-thumbnails':
     'prefix': 'glyphicons-show-big-thumbnails'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-show-big-thumbnails$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-show-big-thumbnails$3"></${1:span}>'
   'glyphicons-show-lines':
     'prefix': 'glyphicons-show-lines'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-show-lines$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-show-lines$3"></${1:span}>'
   'glyphicons-show-thumbnails':
     'prefix': 'glyphicons-show-thumbnails'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-show-thumbnails$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-show-thumbnails$3"></${1:span}>'
   'glyphicons-show-thumbnails-with-lines':
     'prefix': 'glyphicons-show-thumbnails-with-lines'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-show-thumbnails-with-lines$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-show-thumbnails-with-lines$3"></${1:span}>'
   'glyphicons-shower':
     'prefix': 'glyphicons-shower'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-shower$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-shower$3"></${1:span}>'
   'glyphicons-shredder':
     'prefix': 'glyphicons-shredder'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-shredder$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-shredder$3"></${1:span}>'
   'glyphicons-signal':
     'prefix': 'glyphicons-signal'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-signal$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-signal$3"></${1:span}>'
   'glyphicons-skateboard':
     'prefix': 'glyphicons-skateboard'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-skateboard$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-skateboard$3"></${1:span}>'
   'glyphicons-skull':
     'prefix': 'glyphicons-skull'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-skull$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-skull$3"></${1:span}>'
   'glyphicons-smoking':
     'prefix': 'glyphicons-smoking'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-smoking$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-smoking$3"></${1:span}>'
   'glyphicons-sms':
     'prefix': 'glyphicons-sms'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sms$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sms$3"></${1:span}>'
   'glyphicons-snorkel-diving':
     'prefix': 'glyphicons-snorkel-diving'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-snorkel-diving$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-snorkel-diving$3"></${1:span}>'
   'glyphicons-snowflake':
     'prefix': 'glyphicons-snowflake'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-snowflake$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-snowflake$3"></${1:span}>'
   'glyphicons-soccer-ball':
     'prefix': 'glyphicons-soccer-ball'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-soccer-ball$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-soccer-ball$3"></${1:span}>'
   'glyphicons-sort':
     'prefix': 'glyphicons-sort'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sort$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sort$3"></${1:span}>'
   'glyphicons-sort-by-alphabet':
     'prefix': 'glyphicons-sort-by-alphabet'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sort-by-alphabet$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sort-by-alphabet$3"></${1:span}>'
   'glyphicons-sort-by-alphabet-alt':
     'prefix': 'glyphicons-sort-by-alphabet-alt'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sort-by-alphabet-alt$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sort-by-alphabet-alt$3"></${1:span}>'
   'glyphicons-sort-by-attributes':
     'prefix': 'glyphicons-sort-by-attributes'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sort-by-attributes$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sort-by-attributes$3"></${1:span}>'
   'glyphicons-sort-by-attributes-alt':
     'prefix': 'glyphicons-sort-by-attributes-alt'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sort-by-attributes-alt$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sort-by-attributes-alt$3"></${1:span}>'
   'glyphicons-sort-by-order':
     'prefix': 'glyphicons-sort-by-order'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sort-by-order$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sort-by-order$3"></${1:span}>'
   'glyphicons-sort-by-order-alt':
     'prefix': 'glyphicons-sort-by-order-alt'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sort-by-order-alt$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sort-by-order-alt$3"></${1:span}>'
   'glyphicons-sorting':
     'prefix': 'glyphicons-sorting'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sorting$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sorting$3"></${1:span}>'
   'glyphicons-sound-5-1':
     'prefix': 'glyphicons-sound-5-1'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sound-5-1$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sound-5-1$3"></${1:span}>'
   'glyphicons-sound-6-1':
     'prefix': 'glyphicons-sound-6-1'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sound-6-1$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sound-6-1$3"></${1:span}>'
   'glyphicons-sound-7-1':
     'prefix': 'glyphicons-sound-7-1'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sound-7-1$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sound-7-1$3"></${1:span}>'
   'glyphicons-sound-dolby':
     'prefix': 'glyphicons-sound-dolby'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sound-dolby$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sound-dolby$3"></${1:span}>'
   'glyphicons-sound-stereo':
     'prefix': 'glyphicons-sound-stereo'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sound-stereo$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sound-stereo$3"></${1:span}>'
   'glyphicons-spade':
     'prefix': 'glyphicons-spade'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-spade$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-spade$3"></${1:span}>'
   'glyphicons-speakers':
     'prefix': 'glyphicons-speakers'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-speakers$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-speakers$3"></${1:span}>'
   'glyphicons-spray':
     'prefix': 'glyphicons-spray'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-spray$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-spray$3"></${1:span}>'
   'glyphicons-star':
     'prefix': 'glyphicons-star'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-star$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-star$3"></${1:span}>'
   'glyphicons-star-empty':
     'prefix': 'glyphicons-star-empty'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-star-empty$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-star-empty$3"></${1:span}>'
   'glyphicons-star-half':
     'prefix': 'glyphicons-star-half'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-star-half$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-star-half$3"></${1:span}>'
   'glyphicons-stats':
     'prefix': 'glyphicons-stats'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-stats$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-stats$3"></${1:span}>'
   'glyphicons-step-backward':
     'prefix': 'glyphicons-step-backward'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-step-backward$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-step-backward$3"></${1:span}>'
   'glyphicons-step-forward':
     'prefix': 'glyphicons-step-forward'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-step-forward$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-step-forward$3"></${1:span}>'
   'glyphicons-stethoscope':
     'prefix': 'glyphicons-stethoscope'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-stethoscope$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-stethoscope$3"></${1:span}>'
   'glyphicons-stop':
     'prefix': 'glyphicons-stop'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-stop$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-stop$3"></${1:span}>'
   'glyphicons-stop-sign':
     'prefix': 'glyphicons-stop-sign'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-stop-sign$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-stop-sign$3"></${1:span}>'
   'glyphicons-stopwatch':
     'prefix': 'glyphicons-stopwatch'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-stopwatch$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-stopwatch$3"></${1:span}>'
   'glyphicons-stroller':
     'prefix': 'glyphicons-stroller'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-stroller$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-stroller$3"></${1:span}>'
   'glyphicons-subscript':
     'prefix': 'glyphicons-subscript'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-subscript$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-subscript$3"></${1:span}>'
   'glyphicons-subtitles':
     'prefix': 'glyphicons-subtitles'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-subtitles$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-subtitles$3"></${1:span}>'
   'glyphicons-suitcase':
     'prefix': 'glyphicons-suitcase'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-suitcase$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-suitcase$3"></${1:span}>'
   'glyphicons-sun':
     'prefix': 'glyphicons-sun'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sun$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sun$3"></${1:span}>'
   'glyphicons-sunglasses':
     'prefix': 'glyphicons-sunglasses'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sunglasses$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sunglasses$3"></${1:span}>'
   'glyphicons-superscript':
     'prefix': 'glyphicons-superscript'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-superscript$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-superscript$3"></${1:span}>'
   'glyphicons-sweater':
     'prefix': 'glyphicons-sweater'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sweater$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-sweater$3"></${1:span}>'
   'glyphicons-t-shirt':
     'prefix': 'glyphicons-t-shirt'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-t-shirt$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-t-shirt$3"></${1:span}>'
   'glyphicons-table':
     'prefix': 'glyphicons-table'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-table$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-table$3"></${1:span}>'
   'glyphicons-table-tennis':
     'prefix': 'glyphicons-table-tennis'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-table-tennis$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-table-tennis$3"></${1:span}>'
   'glyphicons-tablet':
     'prefix': 'glyphicons-tablet'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-tablet$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-tablet$3"></${1:span}>'
   'glyphicons-tag':
     'prefix': 'glyphicons-tag'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-tag$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-tag$3"></${1:span}>'
   'glyphicons-tags':
     'prefix': 'glyphicons-tags'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-tags$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-tags$3"></${1:span}>'
   'glyphicons-target':
     'prefix': 'glyphicons-target'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-target$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-target$3"></${1:span}>'
   'glyphicons-taxi':
     'prefix': 'glyphicons-taxi'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-taxi$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-taxi$3"></${1:span}>'
   'glyphicons-tea-kettle':
     'prefix': 'glyphicons-tea-kettle'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-tea-kettle$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-tea-kettle$3"></${1:span}>'
   'glyphicons-temple-buddhist':
     'prefix': 'glyphicons-temple-buddhist'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-temple-buddhist$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-temple-buddhist$3"></${1:span}>'
   'glyphicons-temple-christianity-church':
     'prefix': 'glyphicons-temple-christianity-church'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-temple-christianity-church$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-temple-christianity-church$3"></${1:span}>'
   'glyphicons-temple-hindu':
     'prefix': 'glyphicons-temple-hindu'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-temple-hindu$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-temple-hindu$3"></${1:span}>'
   'glyphicons-temple-islam':
     'prefix': 'glyphicons-temple-islam'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-temple-islam$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-temple-islam$3"></${1:span}>'
   'glyphicons-tent':
     'prefix': 'glyphicons-tent'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-tent$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-tent$3"></${1:span}>'
   'glyphicons-text-background':
     'prefix': 'glyphicons-text-background'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-text-background$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-text-background$3"></${1:span}>'
   'glyphicons-text-bigger':
     'prefix': 'glyphicons-text-bigger'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-text-bigger$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-text-bigger$3"></${1:span}>'
   'glyphicons-text-color':
     'prefix': 'glyphicons-text-color'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-text-color$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-text-color$3"></${1:span}>'
   'glyphicons-text-height':
     'prefix': 'glyphicons-text-height'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-text-height$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-text-height$3"></${1:span}>'
   'glyphicons-text-resize':
     'prefix': 'glyphicons-text-resize'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-text-resize$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-text-resize$3"></${1:span}>'
   'glyphicons-text-size':
     'prefix': 'glyphicons-text-size'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-text-size$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-text-size$3"></${1:span}>'
   'glyphicons-text-smaller':
     'prefix': 'glyphicons-text-smaller'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-text-smaller$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-text-smaller$3"></${1:span}>'
   'glyphicons-text-strike':
     'prefix': 'glyphicons-text-strike'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-text-strike$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-text-strike$3"></${1:span}>'
   'glyphicons-text-underline':
     'prefix': 'glyphicons-text-underline'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-text-underline$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-text-underline$3"></${1:span}>'
   'glyphicons-text-width':
     'prefix': 'glyphicons-text-width'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-text-width$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-text-width$3"></${1:span}>'
   'glyphicons-thumbs-down':
     'prefix': 'glyphicons-thumbs-down'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-thumbs-down$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-thumbs-down$3"></${1:span}>'
   'glyphicons-thumbs-up':
     'prefix': 'glyphicons-thumbs-up'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-thumbs-up$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-thumbs-up$3"></${1:span}>'
   'glyphicons-tie':
     'prefix': 'glyphicons-tie'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-tie$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-tie$3"></${1:span}>'
   'glyphicons-tint':
     'prefix': 'glyphicons-tint'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-tint$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-tint$3"></${1:span}>'
   'glyphicons-tower':
     'prefix': 'glyphicons-tower'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-tower$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-tower$3"></${1:span}>'
   'glyphicons-tractor':
     'prefix': 'glyphicons-tractor'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-tractor$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-tractor$3"></${1:span}>'
   'glyphicons-train':
     'prefix': 'glyphicons-train'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-train$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-train$3"></${1:span}>'
   'glyphicons-transfer':
     'prefix': 'glyphicons-transfer'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-transfer$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-transfer$3"></${1:span}>'
   'glyphicons-translate':
     'prefix': 'glyphicons-translate'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-translate$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-translate$3"></${1:span}>'
   'glyphicons-transport':
     'prefix': 'glyphicons-transport'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-transport$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-transport$3"></${1:span}>'
   'glyphicons-tree-conifer':
     'prefix': 'glyphicons-tree-conifer'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-tree-conifer$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-tree-conifer$3"></${1:span}>'
   'glyphicons-tree-deciduous':
     'prefix': 'glyphicons-tree-deciduous'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-tree-deciduous$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-tree-deciduous$3"></${1:span}>'
   'glyphicons-truck':
     'prefix': 'glyphicons-truck'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-truck$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-truck$3"></${1:span}>'
   'glyphicons-turtle':
     'prefix': 'glyphicons-turtle'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-turtle$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-turtle$3"></${1:span}>'
   'glyphicons-tv':
     'prefix': 'glyphicons-tv'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-tv$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-tv$3"></${1:span}>'
   'glyphicons-uk-rat-12':
     'prefix': 'glyphicons-uk-rat-12'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-uk-rat-12$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-uk-rat-12$3"></${1:span}>'
   'glyphicons-uk-rat-12a':
     'prefix': 'glyphicons-uk-rat-12a'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-uk-rat-12a$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-uk-rat-12a$3"></${1:span}>'
   'glyphicons-uk-rat-15':
     'prefix': 'glyphicons-uk-rat-15'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-uk-rat-15$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-uk-rat-15$3"></${1:span}>'
   'glyphicons-uk-rat-18':
     'prefix': 'glyphicons-uk-rat-18'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-uk-rat-18$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-uk-rat-18$3"></${1:span}>'
   'glyphicons-uk-rat-pg':
     'prefix': 'glyphicons-uk-rat-pg'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-uk-rat-pg$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-uk-rat-pg$3"></${1:span}>'
   'glyphicons-uk-rat-r18':
     'prefix': 'glyphicons-uk-rat-r18'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-uk-rat-r18$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-uk-rat-r18$3"></${1:span}>'
   'glyphicons-uk-rat-u':
     'prefix': 'glyphicons-uk-rat-u'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-uk-rat-u$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-uk-rat-u$3"></${1:span}>'
   'glyphicons-umbrella':
     'prefix': 'glyphicons-umbrella'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-umbrella$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-umbrella$3"></${1:span}>'
   'glyphicons-unchecked':
     'prefix': 'glyphicons-unchecked'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-unchecked$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-unchecked$3"></${1:span}>'
   'glyphicons-underground':
     'prefix': 'glyphicons-underground'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-underground$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-underground$3"></${1:span}>'
   'glyphicons-underwear':
     'prefix': 'glyphicons-underwear'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-underwear$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-underwear$3"></${1:span}>'
   'glyphicons-undo':
     'prefix': 'glyphicons-undo'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-undo$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-undo$3"></${1:span}>'
   'glyphicons-unlock':
     'prefix': 'glyphicons-unlock'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-unlock$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-unlock$3"></${1:span}>'
   'glyphicons-unshare':
     'prefix': 'glyphicons-unshare'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-unshare$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-unshare$3"></${1:span}>'
   'glyphicons-up-arrow':
     'prefix': 'glyphicons-up-arrow'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-up-arrow$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-up-arrow$3"></${1:span}>'
   'glyphicons-upload':
     'prefix': 'glyphicons-upload'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-upload$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-upload$3"></${1:span}>'
   'glyphicons-us-rat-g':
     'prefix': 'glyphicons-us-rat-g'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-us-rat-g$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-us-rat-g$3"></${1:span}>'
   'glyphicons-us-rat-no-one-17':
     'prefix': 'glyphicons-us-rat-no-one-17'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-us-rat-no-one-17$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-us-rat-no-one-17$3"></${1:span}>'
   'glyphicons-us-rat-pg':
     'prefix': 'glyphicons-us-rat-pg'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-us-rat-pg$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-us-rat-pg$3"></${1:span}>'
   'glyphicons-us-rat-pg-13':
     'prefix': 'glyphicons-us-rat-pg-13'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-us-rat-pg-13$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-us-rat-pg-13$3"></${1:span}>'
   'glyphicons-us-rat-restricted':
     'prefix': 'glyphicons-us-rat-restricted'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-us-rat-restricted$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-us-rat-restricted$3"></${1:span}>'
   'glyphicons-usd':
     'prefix': 'glyphicons-usd'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-usd$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-usd$3"></${1:span}>'
   'glyphicons-user':
     'prefix': 'glyphicons-user'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-user$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-user$3"></${1:span}>'
   'glyphicons-user-add':
     'prefix': 'glyphicons-user-add'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-user-add$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-user-add$3"></${1:span}>'
   'glyphicons-user-alert':
     'prefix': 'glyphicons-user-alert'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-user-alert$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-user-alert$3"></${1:span}>'
   'glyphicons-user-asterisk':
     'prefix': 'glyphicons-user-asterisk'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-user-asterisk$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-user-asterisk$3"></${1:span}>'
   'glyphicons-user-ban':
     'prefix': 'glyphicons-user-ban'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-user-ban$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-user-ban$3"></${1:span}>'
   'glyphicons-user-conversation':
     'prefix': 'glyphicons-user-conversation'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-user-conversation$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-user-conversation$3"></${1:span}>'
   'glyphicons-user-flag':
     'prefix': 'glyphicons-user-flag'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-user-flag$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-user-flag$3"></${1:span}>'
   'glyphicons-user-key':
     'prefix': 'glyphicons-user-key'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-user-key$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-user-key$3"></${1:span}>'
   'glyphicons-user-lock':
     'prefix': 'glyphicons-user-lock'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-user-lock$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-user-lock$3"></${1:span}>'
   'glyphicons-user-remove':
     'prefix': 'glyphicons-user-remove'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-user-remove$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-user-remove$3"></${1:span}>'
   'glyphicons-vases':
     'prefix': 'glyphicons-vases'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-vases$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-vases$3"></${1:span}>'
   'glyphicons-vcard':
     'prefix': 'glyphicons-vcard'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-vcard$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-vcard$3"></${1:span}>'
   'glyphicons-vector-path-all':
     'prefix': 'glyphicons-vector-path-all'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-vector-path-all$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-vector-path-all$3"></${1:span}>'
   'glyphicons-vector-path-circle':
     'prefix': 'glyphicons-vector-path-circle'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-vector-path-circle$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-vector-path-circle$3"></${1:span}>'
   'glyphicons-vector-path-curve':
     'prefix': 'glyphicons-vector-path-curve'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-vector-path-curve$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-vector-path-curve$3"></${1:span}>'
   'glyphicons-vector-path-line':
     'prefix': 'glyphicons-vector-path-line'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-vector-path-line$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-vector-path-line$3"></${1:span}>'
   'glyphicons-vector-path-polygon':
     'prefix': 'glyphicons-vector-path-polygon'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-vector-path-polygon$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-vector-path-polygon$3"></${1:span}>'
   'glyphicons-vector-path-square':
     'prefix': 'glyphicons-vector-path-square'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-vector-path-square$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-vector-path-square$3"></${1:span}>'
   'glyphicons-video-hd':
     'prefix': 'glyphicons-video-hd'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-video-hd$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-video-hd$3"></${1:span}>'
   'glyphicons-video-sd':
     'prefix': 'glyphicons-video-sd'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-video-sd$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-video-sd$3"></${1:span}>'
   'glyphicons-voice':
     'prefix': 'glyphicons-voice'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-voice$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-voice$3"></${1:span}>'
   'glyphicons-voicemail':
     'prefix': 'glyphicons-voicemail'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-voicemail$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-voicemail$3"></${1:span}>'
   'glyphicons-volume-down':
     'prefix': 'glyphicons-volume-down'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-volume-down$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-volume-down$3"></${1:span}>'
   'glyphicons-volume-up':
     'prefix': 'glyphicons-volume-up'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-volume-up$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-volume-up$3"></${1:span}>'
   'glyphicons-wallet':
     'prefix': 'glyphicons-wallet'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-wallet$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-wallet$3"></${1:span}>'
   'glyphicons-warning-sign':
     'prefix': 'glyphicons-warning-sign'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-warning-sign$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-warning-sign$3"></${1:span}>'
   'glyphicons-watch':
     'prefix': 'glyphicons-watch'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-watch$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-watch$3"></${1:span}>'
   'glyphicons-webcam':
     'prefix': 'glyphicons-webcam'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-webcam$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-webcam$3"></${1:span}>'
   'glyphicons-wifi':
     'prefix': 'glyphicons-wifi'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-wifi$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-wifi$3"></${1:span}>'
   'glyphicons-wifi-alt':
     'prefix': 'glyphicons-wifi-alt'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-wifi-alt$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-wifi-alt$3"></${1:span}>'
   'glyphicons-woman':
     'prefix': 'glyphicons-woman'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-woman$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-woman$3"></${1:span}>'
   'glyphicons-wrench':
     'prefix': 'glyphicons-wrench'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-wrench$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-wrench$3"></${1:span}>'
   'glyphicons-yen':
     'prefix': 'glyphicons-yen'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-yen$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-yen$3"></${1:span}>'
   'glyphicons-zoom-in':
     'prefix': 'glyphicons-zoom-in'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-zoom-in$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-zoom-in$3"></${1:span}>'
   'glyphicons-zoom-out':
     'prefix': 'glyphicons-zoom-out'
-    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-zoom-out$3">$4</${1:span}>'
+    'body': '<${1:span} class="glyphicon${2:s} glyphicon${2:s}-zoom-out$3"></${1:span}>'
