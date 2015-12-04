@@ -1,5 +1,5 @@
 # Generated with Atomizr v0.14.0 - https://github.com/idleberg/atomizr
-'.text.html -.source.gfm':
+'.text.html':
   'dashicons-admin-appearance':
     'prefix': 'dashicons-admin-appearance'
     'body': '<${1:span} class=\"dashicons dashicons-admin-appearance$2\"></${1:span}>'
