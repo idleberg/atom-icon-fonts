@@ -47,7 +47,7 @@ Prefix         | Icon Font | Version | cdnjs | jsDelivr
 `ion`          | [Ionicons](https://github.com/driftyco/ionicons) | 2.0.1 | 🚫 | 🚫
 `line`         | [Elegant Theme Line Icons](http://www.elegantthemes.com/blog/resources/how-to-use-and-embed-an-icon-font-on-your-website) | – | 🚫 | 🚫
 `mfg`          | [MFG Labs Iconset](http://mfglabs.github.io/mfglabs-iconset/) | – | 🚫 | 🚫
-`octicon`      | [GitHub Octicons](https://octicons.github.com/) | 3.3.0 | 🚫 | 🚫
+`octicon`      | [GitHub Octicons](https://octicons.github.com/) | 3.4.0 | 🚫 | 🚫
 `oi`           | [Open Iconic](https://useiconic.com/open/) | 1.1.0 | 🚫 | ✅
 `openwebicons` | [OpenWeb Icons](http://pfefferle.github.io/openwebicons/) | 1.3.3 | 🚫 | 🚫
 `pf`           | [PaymentFont](http://paymentfont.io/) | 1.1.2 | ✅ | 🚫
@@ -59,7 +59,7 @@ Prefix         | Icon Font | Version | cdnjs | jsDelivr
 `wi`           | [Weather Icons](http://weathericons.io/) | 2.0.10 | ✅ | 🚫
 `zmdi`         | [Material Design Iconic Font](https://github.com/zavoloklom/material-design-iconic-font) | 2.2.0 | ✅ | 🚫
 
-\* Vanilla Glyphicons and Bootstrap Glyphicons use different class-names, the former adding a plural-s to its classes. On completion, a tab-stop is added to support both options. Future versions will deprecate this distinction, since [Bootstrap 4](http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/) is likely to ship without (glyph)icons.
+\* Vanilla Glyphicons and Bootstrap Glyphicons use different class-names, the former adding a plural-s to its classes. On completion, a tab-stop is added to support both options. Future versions will deprecate this distinction, since [Bootstrap 4](http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/) will ship without any icons.
 
 Examples:
 

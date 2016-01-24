@@ -108,9 +108,6 @@
   'octicon-code':
     'prefix': 'octicon-code'
     'body': '<${1:span} class=\"octicon octicon-code$2\"></${1:span}>'
-  'octicon-color-mode':
-    'prefix': 'octicon-color-mode'
-    'body': '<${1:span} class=\"octicon octicon-color-mode$2\"></${1:span}>'
   'octicon-comment-add':
     'prefix': 'octicon-comment-add'
     'body': '<${1:span} class=\"octicon octicon-comment-add$2\"></${1:span}>'
@@ -552,6 +549,9 @@
   'octicon-sign-out':
     'prefix': 'octicon-sign-out'
     'body': '<${1:span} class=\"octicon octicon-sign-out$2\"></${1:span}>'
+  'octicon-smiley':
+    'prefix': 'octicon-smiley'
+    'body': '<${1:span} class=\"octicon octicon-smiley$2\"></${1:span}>'
   'octicon-split':
     'prefix': 'octicon-split'
     'body': '<${1:span} class=\"octicon octicon-split$2\"></${1:span}>'
@@ -630,6 +630,9 @@
   'octicon-unmute':
     'prefix': 'octicon-unmute'
     'body': '<${1:span} class=\"octicon octicon-unmute$2\"></${1:span}>'
+  'octicon-verified':
+    'prefix': 'octicon-verified'
+    'body': '<${1:span} class=\"octicon octicon-verified$2\"></${1:span}>'
   'octicon-versions':
     'prefix': 'octicon-versions'
     'body': '<${1:span} class=\"octicon octicon-versions$2\"></${1:span}>'
