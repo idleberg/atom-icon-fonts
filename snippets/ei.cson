@@ -153,6 +153,9 @@
   'ei-sc-soundcloud':
     'prefix': 'ei-sc-soundcloud'
     'body': '<div data-icon=\"ei-sc-soundcloud\"${1: data-size=\"${2:s|m|l}}\"$3></div>'
+  'ei-sc-telegram':
+    'prefix': 'ei-sc-telegram'
+    'body': '<div data-icon=\"ei-sc-telegram\"${1: data-size=\"${2:s|m|l}}\"$3></div>'
   'ei-sc-tumblr':
     'prefix': 'ei-sc-tumblr'
     'body': '<div data-icon=\"ei-sc-tumblr\"${1: data-size=\"${2:s|m|l}}\"$3></div>'
