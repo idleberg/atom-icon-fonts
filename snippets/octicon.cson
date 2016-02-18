@@ -630,6 +630,9 @@
   'octicon-unmute':
     'prefix': 'octicon-unmute'
     'body': '<${1:span} class=\"octicon octicon-unmute$2\"></${1:span}>'
+  'octicon-unverified':
+    'prefix': 'octicon-unverified'
+    'body': '<${1:span} class=\"octicon octicon-unverified$2\"></${1:span}>'
   'octicon-verified':
     'prefix': 'octicon-verified'
     'body': '<${1:span} class=\"octicon octicon-verified$2\"></${1:span}>'
