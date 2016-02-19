@@ -1,0 +1,670 @@
+".source.css,.source.sass":
+	"content: '\\e000';":
+		prefix: "oi-account-login"
+		body: "content: '\\\\e000';"
+	"content: '\\e001';":
+		prefix: "oi-account-logout"
+		body: "content: '\\\\e001';"
+	"content: '\\e002';":
+		prefix: "oi-action-redo"
+		body: "content: '\\\\e002';"
+	"content: '\\e003';":
+		prefix: "oi-action-undo"
+		body: "content: '\\\\e003';"
+	"content: '\\e004';":
+		prefix: "oi-align-center"
+		body: "content: '\\\\e004';"
+	"content: '\\e005';":
+		prefix: "oi-align-left"
+		body: "content: '\\\\e005';"
+	"content: '\\e006';":
+		prefix: "oi-align-right"
+		body: "content: '\\\\e006';"
+	"content: '\\e007';":
+		prefix: "oi-aperture"
+		body: "content: '\\\\e007';"
+	"content: '\\e008';":
+		prefix: "oi-arrow-bottom"
+		body: "content: '\\\\e008';"
+	"content: '\\e009';":
+		prefix: "oi-arrow-circle-bottom"
+		body: "content: '\\\\e009';"
+	"content: '\\e00a';":
+		prefix: "oi-arrow-circle-left"
+		body: "content: '\\\\e00a';"
+	"content: '\\e00b';":
+		prefix: "oi-arrow-circle-right"
+		body: "content: '\\\\e00b';"
+	"content: '\\e00c';":
+		prefix: "oi-arrow-circle-top"
+		body: "content: '\\\\e00c';"
+	"content: '\\e00d';":
+		prefix: "oi-arrow-left"
+		body: "content: '\\\\e00d';"
+	"content: '\\e00e';":
+		prefix: "oi-arrow-right"
+		body: "content: '\\\\e00e';"
+	"content: '\\e00f';":
+		prefix: "oi-arrow-thick-bottom"
+		body: "content: '\\\\e00f';"
+	"content: '\\e010';":
+		prefix: "oi-arrow-thick-left"
+		body: "content: '\\\\e010';"
+	"content: '\\e011';":
+		prefix: "oi-arrow-thick-right"
+		body: "content: '\\\\e011';"
+	"content: '\\e012';":
+		prefix: "oi-arrow-thick-top"
+		body: "content: '\\\\e012';"
+	"content: '\\e013';":
+		prefix: "oi-arrow-top"
+		body: "content: '\\\\e013';"
+	"content: '\\e015';":
+		prefix: "oi-audio"
+		body: "content: '\\\\e015';"
+	"content: '\\e014';":
+		prefix: "oi-audio-spectrum"
+		body: "content: '\\\\e014';"
+	"content: '\\e016';":
+		prefix: "oi-badge"
+		body: "content: '\\\\e016';"
+	"content: '\\e017';":
+		prefix: "oi-ban"
+		body: "content: '\\\\e017';"
+	"content: '\\e018';":
+		prefix: "oi-bar-chart"
+		body: "content: '\\\\e018';"
+	"content: '\\e019';":
+		prefix: "oi-basket"
+		body: "content: '\\\\e019';"
+	"content: '\\e01a';":
+		prefix: "oi-battery-empty"
+		body: "content: '\\\\e01a';"
+	"content: '\\e01b';":
+		prefix: "oi-battery-full"
+		body: "content: '\\\\e01b';"
+	"content: '\\e01c';":
+		prefix: "oi-beaker"
+		body: "content: '\\\\e01c';"
+	"content: '\\e01d';":
+		prefix: "oi-bell"
+		body: "content: '\\\\e01d';"
+	"content: '\\e01e';":
+		prefix: "oi-bluetooth"
+		body: "content: '\\\\e01e';"
+	"content: '\\e01f';":
+		prefix: "oi-bold"
+		body: "content: '\\\\e01f';"
+	"content: '\\e020';":
+		prefix: "oi-bolt"
+		body: "content: '\\\\e020';"
+	"content: '\\e021';":
+		prefix: "oi-book"
+		body: "content: '\\\\e021';"
+	"content: '\\e022';":
+		prefix: "oi-bookmark"
+		body: "content: '\\\\e022';"
+	"content: '\\e023';":
+		prefix: "oi-box"
+		body: "content: '\\\\e023';"
+	"content: '\\e024';":
+		prefix: "oi-briefcase"
+		body: "content: '\\\\e024';"
+	"content: '\\e025';":
+		prefix: "oi-british-pound"
+		body: "content: '\\\\e025';"
+	"content: '\\e026';":
+		prefix: "oi-browser"
+		body: "content: '\\\\e026';"
+	"content: '\\e027';":
+		prefix: "oi-brush"
+		body: "content: '\\\\e027';"
+	"content: '\\e028';":
+		prefix: "oi-bug"
+		body: "content: '\\\\e028';"
+	"content: '\\e029';":
+		prefix: "oi-bullhorn"
+		body: "content: '\\\\e029';"
+	"content: '\\e02a';":
+		prefix: "oi-calculator"
+		body: "content: '\\\\e02a';"
+	"content: '\\e02b';":
+		prefix: "oi-calendar"
+		body: "content: '\\\\e02b';"
+	"content: '\\e02c';":
+		prefix: "oi-camera-slr"
+		body: "content: '\\\\e02c';"
+	"content: '\\e02d';":
+		prefix: "oi-caret-bottom"
+		body: "content: '\\\\e02d';"
+	"content: '\\e02e';":
+		prefix: "oi-caret-left"
+		body: "content: '\\\\e02e';"
+	"content: '\\e02f';":
+		prefix: "oi-caret-right"
+		body: "content: '\\\\e02f';"
+	"content: '\\e030';":
+		prefix: "oi-caret-top"
+		body: "content: '\\\\e030';"
+	"content: '\\e031';":
+		prefix: "oi-cart"
+		body: "content: '\\\\e031';"
+	"content: '\\e032';":
+		prefix: "oi-chat"
+		body: "content: '\\\\e032';"
+	"content: '\\e033';":
+		prefix: "oi-check"
+		body: "content: '\\\\e033';"
+	"content: '\\e034';":
+		prefix: "oi-chevron-bottom"
+		body: "content: '\\\\e034';"
+	"content: '\\e035';":
+		prefix: "oi-chevron-left"
+		body: "content: '\\\\e035';"
+	"content: '\\e036';":
+		prefix: "oi-chevron-right"
+		body: "content: '\\\\e036';"
+	"content: '\\e037';":
+		prefix: "oi-chevron-top"
+		body: "content: '\\\\e037';"
+	"content: '\\e038';":
+		prefix: "oi-circle-check"
+		body: "content: '\\\\e038';"
+	"content: '\\e039';":
+		prefix: "oi-circle-x"
+		body: "content: '\\\\e039';"
+	"content: '\\e03a';":
+		prefix: "oi-clipboard"
+		body: "content: '\\\\e03a';"
+	"content: '\\e03b';":
+		prefix: "oi-clock"
+		body: "content: '\\\\e03b';"
+	"content: '\\e03e';":
+		prefix: "oi-cloud"
+		body: "content: '\\\\e03e';"
+	"content: '\\e03c';":
+		prefix: "oi-cloud-download"
+		body: "content: '\\\\e03c';"
+	"content: '\\e03d';":
+		prefix: "oi-cloud-upload"
+		body: "content: '\\\\e03d';"
+	"content: '\\e03f';":
+		prefix: "oi-cloudy"
+		body: "content: '\\\\e03f';"
+	"content: '\\e040';":
+		prefix: "oi-code"
+		body: "content: '\\\\e040';"
+	"content: '\\e041';":
+		prefix: "oi-cog"
+		body: "content: '\\\\e041';"
+	"content: '\\e042';":
+		prefix: "oi-collapse-down"
+		body: "content: '\\\\e042';"
+	"content: '\\e043';":
+		prefix: "oi-collapse-left"
+		body: "content: '\\\\e043';"
+	"content: '\\e044';":
+		prefix: "oi-collapse-right"
+		body: "content: '\\\\e044';"
+	"content: '\\e045';":
+		prefix: "oi-collapse-up"
+		body: "content: '\\\\e045';"
+	"content: '\\e046';":
+		prefix: "oi-command"
+		body: "content: '\\\\e046';"
+	"content: '\\e047';":
+		prefix: "oi-comment-square"
+		body: "content: '\\\\e047';"
+	"content: '\\e048';":
+		prefix: "oi-compass"
+		body: "content: '\\\\e048';"
+	"content: '\\e049';":
+		prefix: "oi-contrast"
+		body: "content: '\\\\e049';"
+	"content: '\\e04a';":
+		prefix: "oi-copywriting"
+		body: "content: '\\\\e04a';"
+	"content: '\\e04b';":
+		prefix: "oi-credit-card"
+		body: "content: '\\\\e04b';"
+	"content: '\\e04c';":
+		prefix: "oi-crop"
+		body: "content: '\\\\e04c';"
+	"content: '\\e04d';":
+		prefix: "oi-dashboard"
+		body: "content: '\\\\e04d';"
+	"content: '\\e04e';":
+		prefix: "oi-data-transfer-download"
+		body: "content: '\\\\e04e';"
+	"content: '\\e04f';":
+		prefix: "oi-data-transfer-upload"
+		body: "content: '\\\\e04f';"
+	"content: '\\e050';":
+		prefix: "oi-delete"
+		body: "content: '\\\\e050';"
+	"content: '\\e051';":
+		prefix: "oi-dial"
+		body: "content: '\\\\e051';"
+	"content: '\\e052';":
+		prefix: "oi-document"
+		body: "content: '\\\\e052';"
+	"content: '\\e053';":
+		prefix: "oi-dollar"
+		body: "content: '\\\\e053';"
+	"content: '\\e054';":
+		prefix: "oi-double-quote-sans-left"
+		body: "content: '\\\\e054';"
+	"content: '\\e055';":
+		prefix: "oi-double-quote-sans-right"
+		body: "content: '\\\\e055';"
+	"content: '\\e056';":
+		prefix: "oi-double-quote-serif-left"
+		body: "content: '\\\\e056';"
+	"content: '\\e057';":
+		prefix: "oi-double-quote-serif-right"
+		body: "content: '\\\\e057';"
+	"content: '\\e058';":
+		prefix: "oi-droplet"
+		body: "content: '\\\\e058';"
+	"content: '\\e059';":
+		prefix: "oi-eject"
+		body: "content: '\\\\e059';"
+	"content: '\\e05a';":
+		prefix: "oi-elevator"
+		body: "content: '\\\\e05a';"
+	"content: '\\e05b';":
+		prefix: "oi-ellipses"
+		body: "content: '\\\\e05b';"
+	"content: '\\e05c';":
+		prefix: "oi-envelope-closed"
+		body: "content: '\\\\e05c';"
+	"content: '\\e05d';":
+		prefix: "oi-envelope-open"
+		body: "content: '\\\\e05d';"
+	"content: '\\e05e';":
+		prefix: "oi-euro"
+		body: "content: '\\\\e05e';"
+	"content: '\\e05f';":
+		prefix: "oi-excerpt"
+		body: "content: '\\\\e05f';"
+	"content: '\\e060';":
+		prefix: "oi-expand-down"
+		body: "content: '\\\\e060';"
+	"content: '\\e061';":
+		prefix: "oi-expand-left"
+		body: "content: '\\\\e061';"
+	"content: '\\e062';":
+		prefix: "oi-expand-right"
+		body: "content: '\\\\e062';"
+	"content: '\\e063';":
+		prefix: "oi-expand-up"
+		body: "content: '\\\\e063';"
+	"content: '\\e064';":
+		prefix: "oi-external-link"
+		body: "content: '\\\\e064';"
+	"content: '\\e065';":
+		prefix: "oi-eye"
+		body: "content: '\\\\e065';"
+	"content: '\\e066';":
+		prefix: "oi-eyedropper"
+		body: "content: '\\\\e066';"
+	"content: '\\e067';":
+		prefix: "oi-file"
+		body: "content: '\\\\e067';"
+	"content: '\\e068';":
+		prefix: "oi-fire"
+		body: "content: '\\\\e068';"
+	"content: '\\e069';":
+		prefix: "oi-flag"
+		body: "content: '\\\\e069';"
+	"content: '\\e06a';":
+		prefix: "oi-flash"
+		body: "content: '\\\\e06a';"
+	"content: '\\e06b';":
+		prefix: "oi-folder"
+		body: "content: '\\\\e06b';"
+	"content: '\\e06c';":
+		prefix: "oi-fork"
+		body: "content: '\\\\e06c';"
+	"content: '\\e06d';":
+		prefix: "oi-fullscreen-enter"
+		body: "content: '\\\\e06d';"
+	"content: '\\e06e';":
+		prefix: "oi-fullscreen-exit"
+		body: "content: '\\\\e06e';"
+	"content: '\\e06f';":
+		prefix: "oi-globe"
+		body: "content: '\\\\e06f';"
+	"content: '\\e070';":
+		prefix: "oi-graph"
+		body: "content: '\\\\e070';"
+	"content: '\\e071';":
+		prefix: "oi-grid-four-up"
+		body: "content: '\\\\e071';"
+	"content: '\\e072';":
+		prefix: "oi-grid-three-up"
+		body: "content: '\\\\e072';"
+	"content: '\\e073';":
+		prefix: "oi-grid-two-up"
+		body: "content: '\\\\e073';"
+	"content: '\\e074';":
+		prefix: "oi-hard-drive"
+		body: "content: '\\\\e074';"
+	"content: '\\e075';":
+		prefix: "oi-header"
+		body: "content: '\\\\e075';"
+	"content: '\\e076';":
+		prefix: "oi-headphones"
+		body: "content: '\\\\e076';"
+	"content: '\\e077';":
+		prefix: "oi-heart"
+		body: "content: '\\\\e077';"
+	"content: '\\e078';":
+		prefix: "oi-home"
+		body: "content: '\\\\e078';"
+	"content: '\\e079';":
+		prefix: "oi-image"
+		body: "content: '\\\\e079';"
+	"content: '\\e07a';":
+		prefix: "oi-inbox"
+		body: "content: '\\\\e07a';"
+	"content: '\\e07b';":
+		prefix: "oi-infinity"
+		body: "content: '\\\\e07b';"
+	"content: '\\e07c';":
+		prefix: "oi-info"
+		body: "content: '\\\\e07c';"
+	"content: '\\e07d';":
+		prefix: "oi-italic"
+		body: "content: '\\\\e07d';"
+	"content: '\\e07e';":
+		prefix: "oi-justify-center"
+		body: "content: '\\\\e07e';"
+	"content: '\\e07f';":
+		prefix: "oi-justify-left"
+		body: "content: '\\\\e07f';"
+	"content: '\\e080';":
+		prefix: "oi-justify-right"
+		body: "content: '\\\\e080';"
+	"content: '\\e081';":
+		prefix: "oi-key"
+		body: "content: '\\\\e081';"
+	"content: '\\e082';":
+		prefix: "oi-laptop"
+		body: "content: '\\\\e082';"
+	"content: '\\e083';":
+		prefix: "oi-layers"
+		body: "content: '\\\\e083';"
+	"content: '\\e084';":
+		prefix: "oi-lightbulb"
+		body: "content: '\\\\e084';"
+	"content: '\\e085';":
+		prefix: "oi-link-broken"
+		body: "content: '\\\\e085';"
+	"content: '\\e086';":
+		prefix: "oi-link-intact"
+		body: "content: '\\\\e086';"
+	"content: '\\e088';":
+		prefix: "oi-list"
+		body: "content: '\\\\e088';"
+	"content: '\\e087';":
+		prefix: "oi-list-rich"
+		body: "content: '\\\\e087';"
+	"content: '\\e089';":
+		prefix: "oi-location"
+		body: "content: '\\\\e089';"
+	"content: '\\e08a';":
+		prefix: "oi-lock-locked"
+		body: "content: '\\\\e08a';"
+	"content: '\\e08b';":
+		prefix: "oi-lock-unlocked"
+		body: "content: '\\\\e08b';"
+	"content: '\\e08e';":
+		prefix: "oi-loop"
+		body: "content: '\\\\e08e';"
+	"content: '\\e08c';":
+		prefix: "oi-loop-circular"
+		body: "content: '\\\\e08c';"
+	"content: '\\e08d';":
+		prefix: "oi-loop-square"
+		body: "content: '\\\\e08d';"
+	"content: '\\e08f';":
+		prefix: "oi-magnifying-glass"
+		body: "content: '\\\\e08f';"
+	"content: '\\e091';":
+		prefix: "oi-map"
+		body: "content: '\\\\e091';"
+	"content: '\\e090';":
+		prefix: "oi-map-marker"
+		body: "content: '\\\\e090';"
+	"content: '\\e092';":
+		prefix: "oi-media-pause"
+		body: "content: '\\\\e092';"
+	"content: '\\e093';":
+		prefix: "oi-media-play"
+		body: "content: '\\\\e093';"
+	"content: '\\e094';":
+		prefix: "oi-media-record"
+		body: "content: '\\\\e094';"
+	"content: '\\e095';":
+		prefix: "oi-media-skip-backward"
+		body: "content: '\\\\e095';"
+	"content: '\\e096';":
+		prefix: "oi-media-skip-forward"
+		body: "content: '\\\\e096';"
+	"content: '\\e097';":
+		prefix: "oi-media-step-backward"
+		body: "content: '\\\\e097';"
+	"content: '\\e098';":
+		prefix: "oi-media-step-forward"
+		body: "content: '\\\\e098';"
+	"content: '\\e099';":
+		prefix: "oi-media-stop"
+		body: "content: '\\\\e099';"
+	"content: '\\e09a';":
+		prefix: "oi-medical-cross"
+		body: "content: '\\\\e09a';"
+	"content: '\\e09b';":
+		prefix: "oi-menu"
+		body: "content: '\\\\e09b';"
+	"content: '\\e09c';":
+		prefix: "oi-microphone"
+		body: "content: '\\\\e09c';"
+	"content: '\\e09d';":
+		prefix: "oi-minus"
+		body: "content: '\\\\e09d';"
+	"content: '\\e09e';":
+		prefix: "oi-monitor"
+		body: "content: '\\\\e09e';"
+	"content: '\\e09f';":
+		prefix: "oi-moon"
+		body: "content: '\\\\e09f';"
+	"content: '\\e0a0';":
+		prefix: "oi-move"
+		body: "content: '\\\\e0a0';"
+	"content: '\\e0a1';":
+		prefix: "oi-musical-note"
+		body: "content: '\\\\e0a1';"
+	"content: '\\e0a2';":
+		prefix: "oi-paperclip"
+		body: "content: '\\\\e0a2';"
+	"content: '\\e0a3';":
+		prefix: "oi-pencil"
+		body: "content: '\\\\e0a3';"
+	"content: '\\e0a4';":
+		prefix: "oi-people"
+		body: "content: '\\\\e0a4';"
+	"content: '\\e0a5';":
+		prefix: "oi-person"
+		body: "content: '\\\\e0a5';"
+	"content: '\\e0a6';":
+		prefix: "oi-phone"
+		body: "content: '\\\\e0a6';"
+	"content: '\\e0a7';":
+		prefix: "oi-pie-chart"
+		body: "content: '\\\\e0a7';"
+	"content: '\\e0a8';":
+		prefix: "oi-pin"
+		body: "content: '\\\\e0a8';"
+	"content: '\\e0a9';":
+		prefix: "oi-play-circle"
+		body: "content: '\\\\e0a9';"
+	"content: '\\e0aa';":
+		prefix: "oi-plus"
+		body: "content: '\\\\e0aa';"
+	"content: '\\e0ab';":
+		prefix: "oi-power-standby"
+		body: "content: '\\\\e0ab';"
+	"content: '\\e0ac';":
+		prefix: "oi-print"
+		body: "content: '\\\\e0ac';"
+	"content: '\\e0ad';":
+		prefix: "oi-project"
+		body: "content: '\\\\e0ad';"
+	"content: '\\e0ae';":
+		prefix: "oi-pulse"
+		body: "content: '\\\\e0ae';"
+	"content: '\\e0af';":
+		prefix: "oi-puzzle-piece"
+		body: "content: '\\\\e0af';"
+	"content: '\\e0b0';":
+		prefix: "oi-question-mark"
+		body: "content: '\\\\e0b0';"
+	"content: '\\e0b1';":
+		prefix: "oi-rain"
+		body: "content: '\\\\e0b1';"
+	"content: '\\e0b2';":
+		prefix: "oi-random"
+		body: "content: '\\\\e0b2';"
+	"content: '\\e0b3';":
+		prefix: "oi-reload"
+		body: "content: '\\\\e0b3';"
+	"content: '\\e0b4';":
+		prefix: "oi-resize-both"
+		body: "content: '\\\\e0b4';"
+	"content: '\\e0b5';":
+		prefix: "oi-resize-height"
+		body: "content: '\\\\e0b5';"
+	"content: '\\e0b6';":
+		prefix: "oi-resize-width"
+		body: "content: '\\\\e0b6';"
+	"content: '\\e0b8';":
+		prefix: "oi-rss"
+		body: "content: '\\\\e0b8';"
+	"content: '\\e0b7';":
+		prefix: "oi-rss-alt"
+		body: "content: '\\\\e0b7';"
+	"content: '\\e0b9';":
+		prefix: "oi-script"
+		body: "content: '\\\\e0b9';"
+	"content: '\\e0bb';":
+		prefix: "oi-share"
+		body: "content: '\\\\e0bb';"
+	"content: '\\e0ba';":
+		prefix: "oi-share-boxed"
+		body: "content: '\\\\e0ba';"
+	"content: '\\e0bc';":
+		prefix: "oi-shield"
+		body: "content: '\\\\e0bc';"
+	"content: '\\e0bd';":
+		prefix: "oi-signal"
+		body: "content: '\\\\e0bd';"
+	"content: '\\e0be';":
+		prefix: "oi-signpost"
+		body: "content: '\\\\e0be';"
+	"content: '\\e0bf';":
+		prefix: "oi-sort-ascending"
+		body: "content: '\\\\e0bf';"
+	"content: '\\e0c0';":
+		prefix: "oi-sort-descending"
+		body: "content: '\\\\e0c0';"
+	"content: '\\e0c1';":
+		prefix: "oi-spreadsheet"
+		body: "content: '\\\\e0c1';"
+	"content: '\\e0c2';":
+		prefix: "oi-star"
+		body: "content: '\\\\e0c2';"
+	"content: '\\e0c3';":
+		prefix: "oi-sun"
+		body: "content: '\\\\e0c3';"
+	"content: '\\e0c4';":
+		prefix: "oi-tablet"
+		body: "content: '\\\\e0c4';"
+	"content: '\\e0c5';":
+		prefix: "oi-tag"
+		body: "content: '\\\\e0c5';"
+	"content: '\\e0c6';":
+		prefix: "oi-tags"
+		body: "content: '\\\\e0c6';"
+	"content: '\\e0c7';":
+		prefix: "oi-target"
+		body: "content: '\\\\e0c7';"
+	"content: '\\e0c8';":
+		prefix: "oi-task"
+		body: "content: '\\\\e0c8';"
+	"content: '\\e0c9';":
+		prefix: "oi-terminal"
+		body: "content: '\\\\e0c9';"
+	"content: '\\e0ca';":
+		prefix: "oi-text"
+		body: "content: '\\\\e0ca';"
+	"content: '\\e0cb';":
+		prefix: "oi-thumb-down"
+		body: "content: '\\\\e0cb';"
+	"content: '\\e0cc';":
+		prefix: "oi-thumb-up"
+		body: "content: '\\\\e0cc';"
+	"content: '\\e0cd';":
+		prefix: "oi-timer"
+		body: "content: '\\\\e0cd';"
+	"content: '\\e0ce';":
+		prefix: "oi-transfer"
+		body: "content: '\\\\e0ce';"
+	"content: '\\e0cf';":
+		prefix: "oi-trash"
+		body: "content: '\\\\e0cf';"
+	"content: '\\e0d0';":
+		prefix: "oi-underline"
+		body: "content: '\\\\e0d0';"
+	"content: '\\e0d1';":
+		prefix: "oi-vertical-align-bottom"
+		body: "content: '\\\\e0d1';"
+	"content: '\\e0d2';":
+		prefix: "oi-vertical-align-center"
+		body: "content: '\\\\e0d2';"
+	"content: '\\e0d3';":
+		prefix: "oi-vertical-align-top"
+		body: "content: '\\\\e0d3';"
+	"content: '\\e0d4';":
+		prefix: "oi-video"
+		body: "content: '\\\\e0d4';"
+	"content: '\\e0d5';":
+		prefix: "oi-volume-high"
+		body: "content: '\\\\e0d5';"
+	"content: '\\e0d6';":
+		prefix: "oi-volume-low"
+		body: "content: '\\\\e0d6';"
+	"content: '\\e0d7';":
+		prefix: "oi-volume-off"
+		body: "content: '\\\\e0d7';"
+	"content: '\\e0d8';":
+		prefix: "oi-warning"
+		body: "content: '\\\\e0d8';"
+	"content: '\\e0d9';":
+		prefix: "oi-wifi"
+		body: "content: '\\\\e0d9';"
+	"content: '\\e0da';":
+		prefix: "oi-wrench"
+		body: "content: '\\\\e0da';"
+	"content: '\\e0db';":
+		prefix: "oi-x"
+		body: "content: '\\\\e0db';"
+	"content: '\\e0dc';":
+		prefix: "oi-yen"
+		body: "content: '\\\\e0dc';"
+	"content: '\\e0dd';":
+		prefix: "oi-zoom-in"
+		body: "content: '\\\\e0dd';"
+	"content: '\\e0de';":
+		prefix: "oi-zoom-out"
+		body: "content: '\\\\e0de';"

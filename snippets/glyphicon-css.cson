@@ -1,0 +1,790 @@
+".source.css,source.sass":
+	"content: '\\e063';":
+		prefix: "glyphicon-adjust"
+		body: "content: '\\\\e063';"
+	"content: '\\e209';":
+		prefix: "glyphicon-alert"
+		body: "content: '\\\\e209';"
+	"content: '\\e053';":
+		prefix: "glyphicon-align-center"
+		body: "content: '\\\\e053';"
+	"content: '\\e055';":
+		prefix: "glyphicon-align-justify"
+		body: "content: '\\\\e055';"
+	"content: '\\e052';":
+		prefix: "glyphicon-align-left"
+		body: "content: '\\\\e052';"
+	"content: '\\e054';":
+		prefix: "glyphicon-align-right"
+		body: "content: '\\\\e054';"
+	"content: '\\f8ff';":
+		prefix: "glyphicon-apple"
+		body: "content: '\\\\f8ff';"
+	"content: '\\e094';":
+		prefix: "glyphicon-arrow-down"
+		body: "content: '\\\\e094';"
+	"content: '\\e091';":
+		prefix: "glyphicon-arrow-left"
+		body: "content: '\\\\e091';"
+	"content: '\\e092';":
+		prefix: "glyphicon-arrow-right"
+		body: "content: '\\\\e092';"
+	"content: '\\e093';":
+		prefix: "glyphicon-arrow-up"
+		body: "content: '\\\\e093';"
+	"content: '\\002a';":
+		prefix: "glyphicon-asterisk"
+		body: "content: '\\\\002a';"
+	"content: '\\e216';":
+		prefix: "glyphicon-baby-formula"
+		body: "content: '\\\\e216';"
+	"content: '\\e071';":
+		prefix: "glyphicon-backward"
+		body: "content: '\\\\e071';"
+	"content: '\\e090';":
+		prefix: "glyphicon-ban-circle"
+		body: "content: '\\\\e090';"
+	"content: '\\e040';":
+		prefix: "glyphicon-barcode"
+		body: "content: '\\\\e040';"
+	"content: '\\e219';":
+		prefix: "glyphicon-bed"
+		body: "content: '\\\\e219';"
+	"content: '\\e123';":
+		prefix: "glyphicon-bell"
+		body: "content: '\\\\e123';"
+	"content: '\\e214';":
+		prefix: "glyphicon-bishop"
+		body: "content: '\\\\e214';"
+	"content: '\\e227';":
+		prefix: "glyphicon-bitcoin"
+		body: "content: '\\\\e227';"
+	"content: '\\e218';":
+		prefix: "glyphicon-blackboard"
+		body: "content: '\\\\e218';"
+	"content: '\\e048';":
+		prefix: "glyphicon-bold"
+		body: "content: '\\\\e048';"
+	"content: '\\e043';":
+		prefix: "glyphicon-book"
+		body: "content: '\\\\e043';"
+	"content: '\\e044';":
+		prefix: "glyphicon-bookmark"
+		body: "content: '\\\\e044';"
+	"content: '\\e139';":
+		prefix: "glyphicon-briefcase"
+		body: "content: '\\\\e139';"
+	"content: '\\e227';":
+		prefix: "glyphicon-btc"
+		body: "content: '\\\\e227';"
+	"content: '\\e122';":
+		prefix: "glyphicon-bullhorn"
+		body: "content: '\\\\e122';"
+	"content: '\\e109';":
+		prefix: "glyphicon-calendar"
+		body: "content: '\\\\e109';"
+	"content: '\\e046';":
+		prefix: "glyphicon-camera"
+		body: "content: '\\\\e046';"
+	"content: '\\e201';":
+		prefix: "glyphicon-cd"
+		body: "content: '\\\\e201';"
+	"content: '\\e124';":
+		prefix: "glyphicon-certificate"
+		body: "content: '\\\\e124';"
+	"content: '\\e067';":
+		prefix: "glyphicon-check"
+		body: "content: '\\\\e067';"
+	"content: '\\e114';":
+		prefix: "glyphicon-chevron-down"
+		body: "content: '\\\\e114';"
+	"content: '\\e079';":
+		prefix: "glyphicon-chevron-left"
+		body: "content: '\\\\e079';"
+	"content: '\\e080';":
+		prefix: "glyphicon-chevron-right"
+		body: "content: '\\\\e080';"
+	"content: '\\e113';":
+		prefix: "glyphicon-chevron-up"
+		body: "content: '\\\\e113';"
+	"content: '\\e134';":
+		prefix: "glyphicon-circle-arrow-down"
+		body: "content: '\\\\e134';"
+	"content: '\\e132';":
+		prefix: "glyphicon-circle-arrow-left"
+		body: "content: '\\\\e132';"
+	"content: '\\e131';":
+		prefix: "glyphicon-circle-arrow-right"
+		body: "content: '\\\\e131';"
+	"content: '\\e133';":
+		prefix: "glyphicon-circle-arrow-up"
+		body: "content: '\\\\e133';"
+	"content: '\\2601';":
+		prefix: "glyphicon-cloud"
+		body: "content: '\\\\2601';"
+	"content: '\\e197';":
+		prefix: "glyphicon-cloud-download"
+		body: "content: '\\\\e197';"
+	"content: '\\e198';":
+		prefix: "glyphicon-cloud-upload"
+		body: "content: '\\\\e198';"
+	"content: '\\e019';":
+		prefix: "glyphicon-cog"
+		body: "content: '\\\\e019';"
+	"content: '\\e159';":
+		prefix: "glyphicon-collapse-down"
+		body: "content: '\\\\e159';"
+	"content: '\\e160';":
+		prefix: "glyphicon-collapse-up"
+		body: "content: '\\\\e160';"
+	"content: '\\e111';":
+		prefix: "glyphicon-comment"
+		body: "content: '\\\\e111';"
+	"content: '\\e181';":
+		prefix: "glyphicon-compressed"
+		body: "content: '\\\\e181';"
+	"content: '\\e254';":
+		prefix: "glyphicon-console"
+		body: "content: '\\\\e254';"
+	"content: '\\e205';":
+		prefix: "glyphicon-copy"
+		body: "content: '\\\\e205';"
+	"content: '\\e194';":
+		prefix: "glyphicon-copyright-mark"
+		body: "content: '\\\\e194';"
+	"content: '\\e177';":
+		prefix: "glyphicon-credit-card"
+		body: "content: '\\\\e177';"
+	"content: '\\e179';":
+		prefix: "glyphicon-cutlery"
+		body: "content: '\\\\e179';"
+	"content: '\\e141';":
+		prefix: "glyphicon-dashboard"
+		body: "content: '\\\\e141';"
+	"content: '\\e026';":
+		prefix: "glyphicon-download"
+		body: "content: '\\\\e026';"
+	"content: '\\e025';":
+		prefix: "glyphicon-download-alt"
+		body: "content: '\\\\e025';"
+	"content: '\\e224';":
+		prefix: "glyphicon-duplicate"
+		body: "content: '\\\\e224';"
+	"content: '\\e182';":
+		prefix: "glyphicon-earphone"
+		body: "content: '\\\\e182';"
+	"content: '\\e065';":
+		prefix: "glyphicon-edit"
+		body: "content: '\\\\e065';"
+	"content: '\\e233';":
+		prefix: "glyphicon-education"
+		body: "content: '\\\\e233';"
+	"content: '\\e078';":
+		prefix: "glyphicon-eject"
+		body: "content: '\\\\e078';"
+	"content: '\\2709';":
+		prefix: "glyphicon-envelope"
+		body: "content: '\\\\2709';"
+	"content: '\\e210';":
+		prefix: "glyphicon-equalizer"
+		body: "content: '\\\\e210';"
+	"content: '\\e221';":
+		prefix: "glyphicon-erase"
+		body: "content: '\\\\e221';"
+	"content: '\\20ac';":
+		prefix: "glyphicon-eur"
+		body: "content: '\\\\20ac';"
+	"content: '\\20ac';":
+		prefix: "glyphicon-euro"
+		body: "content: '\\\\20ac';"
+	"content: '\\e101';":
+		prefix: "glyphicon-exclamation-sign"
+		body: "content: '\\\\e101';"
+	"content: '\\e158';":
+		prefix: "glyphicon-expand"
+		body: "content: '\\\\e158';"
+	"content: '\\e170';":
+		prefix: "glyphicon-export"
+		body: "content: '\\\\e170';"
+	"content: '\\e106';":
+		prefix: "glyphicon-eye-close"
+		body: "content: '\\\\e106';"
+	"content: '\\e105';":
+		prefix: "glyphicon-eye-open"
+		body: "content: '\\\\e105';"
+	"content: '\\e059';":
+		prefix: "glyphicon-facetime-video"
+		body: "content: '\\\\e059';"
+	"content: '\\e070';":
+		prefix: "glyphicon-fast-backward"
+		body: "content: '\\\\e070';"
+	"content: '\\e076';":
+		prefix: "glyphicon-fast-forward"
+		body: "content: '\\\\e076';"
+	"content: '\\e022';":
+		prefix: "glyphicon-file"
+		body: "content: '\\\\e022';"
+	"content: '\\e009';":
+		prefix: "glyphicon-film"
+		body: "content: '\\\\e009';"
+	"content: '\\e138';":
+		prefix: "glyphicon-filter"
+		body: "content: '\\\\e138';"
+	"content: '\\e104';":
+		prefix: "glyphicon-fire"
+		body: "content: '\\\\e104';"
+	"content: '\\e034';":
+		prefix: "glyphicon-flag"
+		body: "content: '\\\\e034';"
+	"content: '\\e162';":
+		prefix: "glyphicon-flash"
+		body: "content: '\\\\e162';"
+	"content: '\\e172';":
+		prefix: "glyphicon-floppy-disk"
+		body: "content: '\\\\e172';"
+	"content: '\\e176';":
+		prefix: "glyphicon-floppy-open"
+		body: "content: '\\\\e176';"
+	"content: '\\e174';":
+		prefix: "glyphicon-floppy-remove"
+		body: "content: '\\\\e174';"
+	"content: '\\e175';":
+		prefix: "glyphicon-floppy-save"
+		body: "content: '\\\\e175';"
+	"content: '\\e173';":
+		prefix: "glyphicon-floppy-saved"
+		body: "content: '\\\\e173';"
+	"content: '\\e117';":
+		prefix: "glyphicon-folder-close"
+		body: "content: '\\\\e117';"
+	"content: '\\e118';":
+		prefix: "glyphicon-folder-open"
+		body: "content: '\\\\e118';"
+	"content: '\\e047';":
+		prefix: "glyphicon-font"
+		body: "content: '\\\\e047';"
+	"content: '\\e075';":
+		prefix: "glyphicon-forward"
+		body: "content: '\\\\e075';"
+	"content: '\\e140';":
+		prefix: "glyphicon-fullscreen"
+		body: "content: '\\\\e140';"
+	"content: '\\e149';":
+		prefix: "glyphicon-gbp"
+		body: "content: '\\\\e149';"
+	"content: '\\e102';":
+		prefix: "glyphicon-gift"
+		body: "content: '\\\\e102';"
+	"content: '\\e001';":
+		prefix: "glyphicon-glass"
+		body: "content: '\\\\e001';"
+	"content: '\\e135';":
+		prefix: "glyphicon-globe"
+		body: "content: '\\\\e135';"
+	"content: '\\e239';":
+		prefix: "glyphicon-grain"
+		body: "content: '\\\\e239';"
+	"content: '\\e130';":
+		prefix: "glyphicon-hand-down"
+		body: "content: '\\\\e130';"
+	"content: '\\e128';":
+		prefix: "glyphicon-hand-left"
+		body: "content: '\\\\e128';"
+	"content: '\\e127';":
+		prefix: "glyphicon-hand-right"
+		body: "content: '\\\\e127';"
+	"content: '\\e129';":
+		prefix: "glyphicon-hand-up"
+		body: "content: '\\\\e129';"
+	"content: '\\e187';":
+		prefix: "glyphicon-hd-video"
+		body: "content: '\\\\e187';"
+	"content: '\\e121';":
+		prefix: "glyphicon-hdd"
+		body: "content: '\\\\e121';"
+	"content: '\\e180';":
+		prefix: "glyphicon-header"
+		body: "content: '\\\\e180';"
+	"content: '\\e035';":
+		prefix: "glyphicon-headphones"
+		body: "content: '\\\\e035';"
+	"content: '\\e005';":
+		prefix: "glyphicon-heart"
+		body: "content: '\\\\e005';"
+	"content: '\\e143';":
+		prefix: "glyphicon-heart-empty"
+		body: "content: '\\\\e143';"
+	"content: '\\e021';":
+		prefix: "glyphicon-home"
+		body: "content: '\\\\e021';"
+	"content: '\\231b';":
+		prefix: "glyphicon-hourglass"
+		body: "content: '\\\\231b';"
+	"content: '\\e231';":
+		prefix: "glyphicon-ice-lolly"
+		body: "content: '\\\\e231';"
+	"content: '\\e232';":
+		prefix: "glyphicon-ice-lolly-tasted"
+		body: "content: '\\\\e232';"
+	"content: '\\e169';":
+		prefix: "glyphicon-import"
+		body: "content: '\\\\e169';"
+	"content: '\\e028';":
+		prefix: "glyphicon-inbox"
+		body: "content: '\\\\e028';"
+	"content: '\\e057';":
+		prefix: "glyphicon-indent-left"
+		body: "content: '\\\\e057';"
+	"content: '\\e058';":
+		prefix: "glyphicon-indent-right"
+		body: "content: '\\\\e058';"
+	"content: '\\e086';":
+		prefix: "glyphicon-info-sign"
+		body: "content: '\\\\e086';"
+	"content: '\\e049';":
+		prefix: "glyphicon-italic"
+		body: "content: '\\\\e049';"
+	"content: '\\00a5';":
+		prefix: "glyphicon-jpy"
+		body: "content: '\\\\00a5';"
+	"content: '\\e211';":
+		prefix: "glyphicon-king"
+		body: "content: '\\\\e211';"
+	"content: '\\e215';":
+		prefix: "glyphicon-knight"
+		body: "content: '\\\\e215';"
+	"content: '\\e223';":
+		prefix: "glyphicon-lamp"
+		body: "content: '\\\\e223';"
+	"content: '\\e103';":
+		prefix: "glyphicon-leaf"
+		body: "content: '\\\\e103';"
+	"content: '\\e204';":
+		prefix: "glyphicon-level-up"
+		body: "content: '\\\\e204';"
+	"content: '\\e144';":
+		prefix: "glyphicon-link"
+		body: "content: '\\\\e144';"
+	"content: '\\e056';":
+		prefix: "glyphicon-list"
+		body: "content: '\\\\e056';"
+	"content: '\\e032';":
+		prefix: "glyphicon-list-alt"
+		body: "content: '\\\\e032';"
+	"content: '\\e033';":
+		prefix: "glyphicon-lock"
+		body: "content: '\\\\e033';"
+	"content: '\\e161';":
+		prefix: "glyphicon-log-in"
+		body: "content: '\\\\e161';"
+	"content: '\\e163';":
+		prefix: "glyphicon-log-out"
+		body: "content: '\\\\e163';"
+	"content: '\\e112';":
+		prefix: "glyphicon-magnet"
+		body: "content: '\\\\e112';"
+	"content: '\\e062';":
+		prefix: "glyphicon-map-marker"
+		body: "content: '\\\\e062';"
+	"content: '\\e259';":
+		prefix: "glyphicon-menu-down"
+		body: "content: '\\\\e259';"
+	"content: '\\e236';":
+		prefix: "glyphicon-menu-hamburger"
+		body: "content: '\\\\e236';"
+	"content: '\\e257';":
+		prefix: "glyphicon-menu-left"
+		body: "content: '\\\\e257';"
+	"content: '\\e258';":
+		prefix: "glyphicon-menu-right"
+		body: "content: '\\\\e258';"
+	"content: '\\e260';":
+		prefix: "glyphicon-menu-up"
+		body: "content: '\\\\e260';"
+	"content: '\\2212';":
+		prefix: "glyphicon-minus"
+		body: "content: '\\\\2212';"
+	"content: '\\e082';":
+		prefix: "glyphicon-minus-sign"
+		body: "content: '\\\\e082';"
+	"content: '\\e237';":
+		prefix: "glyphicon-modal-window"
+		body: "content: '\\\\e237';"
+	"content: '\\e068';":
+		prefix: "glyphicon-move"
+		body: "content: '\\\\e068';"
+	"content: '\\e002';":
+		prefix: "glyphicon-music"
+		body: "content: '\\\\e002';"
+	"content: '\\e164';":
+		prefix: "glyphicon-new-window"
+		body: "content: '\\\\e164';"
+	"content: '\\e245';":
+		prefix: "glyphicon-object-align-bottom"
+		body: "content: '\\\\e245';"
+	"content: '\\e246';":
+		prefix: "glyphicon-object-align-horizontal"
+		body: "content: '\\\\e246';"
+	"content: '\\e247';":
+		prefix: "glyphicon-object-align-left"
+		body: "content: '\\\\e247';"
+	"content: '\\e249';":
+		prefix: "glyphicon-object-align-right"
+		body: "content: '\\\\e249';"
+	"content: '\\e244';":
+		prefix: "glyphicon-object-align-top"
+		body: "content: '\\\\e244';"
+	"content: '\\e248';":
+		prefix: "glyphicon-object-align-vertical"
+		body: "content: '\\\\e248';"
+	"content: '\\e017';":
+		prefix: "glyphicon-off"
+		body: "content: '\\\\e017';"
+	"content: '\\e238';":
+		prefix: "glyphicon-oil"
+		body: "content: '\\\\e238';"
+	"content: '\\e013';":
+		prefix: "glyphicon-ok"
+		body: "content: '\\\\e013';"
+	"content: '\\e089';":
+		prefix: "glyphicon-ok-circle"
+		body: "content: '\\\\e089';"
+	"content: '\\e084';":
+		prefix: "glyphicon-ok-sign"
+		body: "content: '\\\\e084';"
+	"content: '\\e167';":
+		prefix: "glyphicon-open"
+		body: "content: '\\\\e167';"
+	"content: '\\e203';":
+		prefix: "glyphicon-open-file"
+		body: "content: '\\\\e203';"
+	"content: '\\e234';":
+		prefix: "glyphicon-option-horizontal"
+		body: "content: '\\\\e234';"
+	"content: '\\e235';":
+		prefix: "glyphicon-option-vertical"
+		body: "content: '\\\\e235';"
+	"content: '\\e142';":
+		prefix: "glyphicon-paperclip"
+		body: "content: '\\\\e142';"
+	"content: '\\e206';":
+		prefix: "glyphicon-paste"
+		body: "content: '\\\\e206';"
+	"content: '\\e073';":
+		prefix: "glyphicon-pause"
+		body: "content: '\\\\e073';"
+	"content: '\\e213';":
+		prefix: "glyphicon-pawn"
+		body: "content: '\\\\e213';"
+	"content: '\\270f';":
+		prefix: "glyphicon-pencil"
+		body: "content: '\\\\270f';"
+	"content: '\\e145';":
+		prefix: "glyphicon-phone"
+		body: "content: '\\\\e145';"
+	"content: '\\e183';":
+		prefix: "glyphicon-phone-alt"
+		body: "content: '\\\\e183';"
+	"content: '\\e060';":
+		prefix: "glyphicon-picture"
+		body: "content: '\\\\e060';"
+	"content: '\\e225';":
+		prefix: "glyphicon-piggy-bank"
+		body: "content: '\\\\e225';"
+	"content: '\\e108';":
+		prefix: "glyphicon-plane"
+		body: "content: '\\\\e108';"
+	"content: '\\e072';":
+		prefix: "glyphicon-play"
+		body: "content: '\\\\e072';"
+	"content: '\\e029';":
+		prefix: "glyphicon-play-circle"
+		body: "content: '\\\\e029';"
+	"content: '\\002b';":
+		prefix: "glyphicon-plus"
+		body: "content: '\\\\002b';"
+	"content: '\\e081';":
+		prefix: "glyphicon-plus-sign"
+		body: "content: '\\\\e081';"
+	"content: '\\e045';":
+		prefix: "glyphicon-print"
+		body: "content: '\\\\e045';"
+	"content: '\\e146';":
+		prefix: "glyphicon-pushpin"
+		body: "content: '\\\\e146';"
+	"content: '\\e039';":
+		prefix: "glyphicon-qrcode"
+		body: "content: '\\\\e039';"
+	"content: '\\e212';":
+		prefix: "glyphicon-queen"
+		body: "content: '\\\\e212';"
+	"content: '\\e085';":
+		prefix: "glyphicon-question-sign"
+		body: "content: '\\\\e085';"
+	"content: '\\e110';":
+		prefix: "glyphicon-random"
+		body: "content: '\\\\e110';"
+	"content: '\\e165';":
+		prefix: "glyphicon-record"
+		body: "content: '\\\\e165';"
+	"content: '\\e031';":
+		prefix: "glyphicon-refresh"
+		body: "content: '\\\\e031';"
+	"content: '\\e195';":
+		prefix: "glyphicon-registration-mark"
+		body: "content: '\\\\e195';"
+	"content: '\\e014';":
+		prefix: "glyphicon-remove"
+		body: "content: '\\\\e014';"
+	"content: '\\e088';":
+		prefix: "glyphicon-remove-circle"
+		body: "content: '\\\\e088';"
+	"content: '\\e083';":
+		prefix: "glyphicon-remove-sign"
+		body: "content: '\\\\e083';"
+	"content: '\\e030';":
+		prefix: "glyphicon-repeat"
+		body: "content: '\\\\e030';"
+	"content: '\\e096';":
+		prefix: "glyphicon-resize-full"
+		body: "content: '\\\\e096';"
+	"content: '\\e120';":
+		prefix: "glyphicon-resize-horizontal"
+		body: "content: '\\\\e120';"
+	"content: '\\e097';":
+		prefix: "glyphicon-resize-small"
+		body: "content: '\\\\e097';"
+	"content: '\\e119';":
+		prefix: "glyphicon-resize-vertical"
+		body: "content: '\\\\e119';"
+	"content: '\\e115';":
+		prefix: "glyphicon-retweet"
+		body: "content: '\\\\e115';"
+	"content: '\\e024';":
+		prefix: "glyphicon-road"
+		body: "content: '\\\\e024';"
+	"content: '\\20bd';":
+		prefix: "glyphicon-rub"
+		body: "content: '\\\\20bd';"
+	"content: '\\20bd';":
+		prefix: "glyphicon-ruble"
+		body: "content: '\\\\20bd';"
+	"content: '\\e166';":
+		prefix: "glyphicon-save"
+		body: "content: '\\\\e166';"
+	"content: '\\e202';":
+		prefix: "glyphicon-save-file"
+		body: "content: '\\\\e202';"
+	"content: '\\e168';":
+		prefix: "glyphicon-saved"
+		body: "content: '\\\\e168';"
+	"content: '\\e230';":
+		prefix: "glyphicon-scale"
+		body: "content: '\\\\e230';"
+	"content: '\\e226';":
+		prefix: "glyphicon-scissors"
+		body: "content: '\\\\e226';"
+	"content: '\\e087';":
+		prefix: "glyphicon-screenshot"
+		body: "content: '\\\\e087';"
+	"content: '\\e186';":
+		prefix: "glyphicon-sd-video"
+		body: "content: '\\\\e186';"
+	"content: '\\e003';":
+		prefix: "glyphicon-search"
+		body: "content: '\\\\e003';"
+	"content: '\\e171';":
+		prefix: "glyphicon-send"
+		body: "content: '\\\\e171';"
+	"content: '\\e066';":
+		prefix: "glyphicon-share"
+		body: "content: '\\\\e066';"
+	"content: '\\e095';":
+		prefix: "glyphicon-share-alt"
+		body: "content: '\\\\e095';"
+	"content: '\\e116';":
+		prefix: "glyphicon-shopping-cart"
+		body: "content: '\\\\e116';"
+	"content: '\\e018';":
+		prefix: "glyphicon-signal"
+		body: "content: '\\\\e018';"
+	"content: '\\e150';":
+		prefix: "glyphicon-sort"
+		body: "content: '\\\\e150';"
+	"content: '\\e151';":
+		prefix: "glyphicon-sort-by-alphabet"
+		body: "content: '\\\\e151';"
+	"content: '\\e152';":
+		prefix: "glyphicon-sort-by-alphabet-alt"
+		body: "content: '\\\\e152';"
+	"content: '\\e155';":
+		prefix: "glyphicon-sort-by-attributes"
+		body: "content: '\\\\e155';"
+	"content: '\\e156';":
+		prefix: "glyphicon-sort-by-attributes-alt"
+		body: "content: '\\\\e156';"
+	"content: '\\e153';":
+		prefix: "glyphicon-sort-by-order"
+		body: "content: '\\\\e153';"
+	"content: '\\e154';":
+		prefix: "glyphicon-sort-by-order-alt"
+		body: "content: '\\\\e154';"
+	"content: '\\e191';":
+		prefix: "glyphicon-sound-5-1"
+		body: "content: '\\\\e191';"
+	"content: '\\e192';":
+		prefix: "glyphicon-sound-6-1"
+		body: "content: '\\\\e192';"
+	"content: '\\e193';":
+		prefix: "glyphicon-sound-7-1"
+		body: "content: '\\\\e193';"
+	"content: '\\e190';":
+		prefix: "glyphicon-sound-dolby"
+		body: "content: '\\\\e190';"
+	"content: '\\e189';":
+		prefix: "glyphicon-sound-stereo"
+		body: "content: '\\\\e189';"
+	"content: '\\e006';":
+		prefix: "glyphicon-star"
+		body: "content: '\\\\e006';"
+	"content: '\\e007';":
+		prefix: "glyphicon-star-empty"
+		body: "content: '\\\\e007';"
+	"content: '\\e185';":
+		prefix: "glyphicon-stats"
+		body: "content: '\\\\e185';"
+	"content: '\\e069';":
+		prefix: "glyphicon-step-backward"
+		body: "content: '\\\\e069';"
+	"content: '\\e077';":
+		prefix: "glyphicon-step-forward"
+		body: "content: '\\\\e077';"
+	"content: '\\e074';":
+		prefix: "glyphicon-stop"
+		body: "content: '\\\\e074';"
+	"content: '\\e256';":
+		prefix: "glyphicon-subscript"
+		body: "content: '\\\\e256';"
+	"content: '\\e188';":
+		prefix: "glyphicon-subtitles"
+		body: "content: '\\\\e188';"
+	"content: '\\e240';":
+		prefix: "glyphicon-sunglasses"
+		body: "content: '\\\\e240';"
+	"content: '\\e255';":
+		prefix: "glyphicon-superscript"
+		body: "content: '\\\\e255';"
+	"content: '\\e041';":
+		prefix: "glyphicon-tag"
+		body: "content: '\\\\e041';"
+	"content: '\\e042';":
+		prefix: "glyphicon-tags"
+		body: "content: '\\\\e042';"
+	"content: '\\e137';":
+		prefix: "glyphicon-tasks"
+		body: "content: '\\\\e137';"
+	"content: '\\26fa';":
+		prefix: "glyphicon-tent"
+		body: "content: '\\\\26fa';"
+	"content: '\\e243';":
+		prefix: "glyphicon-text-background"
+		body: "content: '\\\\e243';"
+	"content: '\\e242';":
+		prefix: "glyphicon-text-color"
+		body: "content: '\\\\e242';"
+	"content: '\\e050';":
+		prefix: "glyphicon-text-height"
+		body: "content: '\\\\e050';"
+	"content: '\\e241';":
+		prefix: "glyphicon-text-size"
+		body: "content: '\\\\e241';"
+	"content: '\\e051';":
+		prefix: "glyphicon-text-width"
+		body: "content: '\\\\e051';"
+	"content: '\\e011';":
+		prefix: "glyphicon-th"
+		body: "content: '\\\\e011';"
+	"content: '\\e010';":
+		prefix: "glyphicon-th-large"
+		body: "content: '\\\\e010';"
+	"content: '\\e012';":
+		prefix: "glyphicon-th-list"
+		body: "content: '\\\\e012';"
+	"content: '\\e126';":
+		prefix: "glyphicon-thumbs-down"
+		body: "content: '\\\\e126';"
+	"content: '\\e125';":
+		prefix: "glyphicon-thumbs-up"
+		body: "content: '\\\\e125';"
+	"content: '\\e023';":
+		prefix: "glyphicon-time"
+		body: "content: '\\\\e023';"
+	"content: '\\e064';":
+		prefix: "glyphicon-tint"
+		body: "content: '\\\\e064';"
+	"content: '\\e184';":
+		prefix: "glyphicon-tower"
+		body: "content: '\\\\e184';"
+	"content: '\\e178';":
+		prefix: "glyphicon-transfer"
+		body: "content: '\\\\e178';"
+	"content: '\\e020';":
+		prefix: "glyphicon-trash"
+		body: "content: '\\\\e020';"
+	"content: '\\e199';":
+		prefix: "glyphicon-tree-conifer"
+		body: "content: '\\\\e199';"
+	"content: '\\e200';":
+		prefix: "glyphicon-tree-deciduous"
+		body: "content: '\\\\e200';"
+	"content: '\\e252';":
+		prefix: "glyphicon-triangle-bottom"
+		body: "content: '\\\\e252';"
+	"content: '\\e251';":
+		prefix: "glyphicon-triangle-left"
+		body: "content: '\\\\e251';"
+	"content: '\\e250';":
+		prefix: "glyphicon-triangle-right"
+		body: "content: '\\\\e250';"
+	"content: '\\e253';":
+		prefix: "glyphicon-triangle-top"
+		body: "content: '\\\\e253';"
+	"content: '\\e157';":
+		prefix: "glyphicon-unchecked"
+		body: "content: '\\\\e157';"
+	"content: '\\e027';":
+		prefix: "glyphicon-upload"
+		body: "content: '\\\\e027';"
+	"content: '\\e148';":
+		prefix: "glyphicon-usd"
+		body: "content: '\\\\e148';"
+	"content: '\\e008';":
+		prefix: "glyphicon-user"
+		body: "content: '\\\\e008';"
+	"content: '\\e037';":
+		prefix: "glyphicon-volume-down"
+		body: "content: '\\\\e037';"
+	"content: '\\e036';":
+		prefix: "glyphicon-volume-off"
+		body: "content: '\\\\e036';"
+	"content: '\\e038';":
+		prefix: "glyphicon-volume-up"
+		body: "content: '\\\\e038';"
+	"content: '\\e107';":
+		prefix: "glyphicon-warning-sign"
+		body: "content: '\\\\e107';"
+	"content: '\\e136';":
+		prefix: "glyphicon-wrench"
+		body: "content: '\\\\e136';"
+	"content: '\\e227';":
+		prefix: "glyphicon-xbt"
+		body: "content: '\\\\e227';"
+	"content: '\\00a5';":
+		prefix: "glyphicon-yen"
+		body: "content: '\\\\00a5';"
+	"content: '\\e015';":
+		prefix: "glyphicon-zoom-in"
+		body: "content: '\\\\e015';"
+	"content: '\\e016';":
+		prefix: "glyphicon-zoom-out"
+		body: "content: '\\\\e016';"

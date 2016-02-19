@@ -1,0 +1,748 @@
+".source.css,.source.sass":
+	"content: '\\e824';":
+		prefix: "ai-achievement"
+		body: "content: '\\\\e824';"
+	"content: '\\e8c0';":
+		prefix: "ai-alarm"
+		body: "content: '\\\\e8c0';"
+	"content: '\\e8d2';":
+		prefix: "ai-amazon"
+		body: "content: '\\\\e8d2';"
+	"content: '\\e820';":
+		prefix: "ai-anchor"
+		body: "content: '\\\\e820';"
+	"content: '\\e818';":
+		prefix: "ai-android"
+		body: "content: '\\\\e818';"
+	"content: '\\e861';":
+		prefix: "ai-armchair"
+		body: "content: '\\\\e861';"
+	"content: '\\e829';":
+		prefix: "ai-arrow-down"
+		body: "content: '\\\\e829';"
+	"content: '\\e826';":
+		prefix: "ai-arrow-left"
+		body: "content: '\\\\e826';"
+	"content: '\\e82c';":
+		prefix: "ai-arrow-left-down"
+		body: "content: '\\\\e82c';"
+	"content: '\\e82b';":
+		prefix: "ai-arrow-left-up"
+		body: "content: '\\\\e82b';"
+	"content: '\\e825';":
+		prefix: "ai-arrow-right"
+		body: "content: '\\\\e825';"
+	"content: '\\e82d';":
+		prefix: "ai-arrow-right-down"
+		body: "content: '\\\\e82d';"
+	"content: '\\e82a';":
+		prefix: "ai-arrow-right-up"
+		body: "content: '\\\\e82a';"
+	"content: '\\e828';":
+		prefix: "ai-arrow-up"
+		body: "content: '\\\\e828';"
+	"content: '\\e845';":
+		prefix: "ai-attachment"
+		body: "content: '\\\\e845';"
+	"content: '\\e846';":
+		prefix: "ai-attachment-2"
+		body: "content: '\\\\e846';"
+	"content: '\\e835';":
+		prefix: "ai-ball"
+		body: "content: '\\\\e835';"
+	"content: '\\e8bc';":
+		prefix: "ai-balloon"
+		body: "content: '\\\\e8bc';"
+	"content: '\\e8f0';":
+		prefix: "ai-barcode"
+		body: "content: '\\\\e8f0';"
+	"content: '\\e867';":
+		prefix: "ai-bargraph"
+		body: "content: '\\\\e867';"
+	"content: '\\e8a0';":
+		prefix: "ai-bars"
+		body: "content: '\\\\e8a0';"
+	"content: '\\e894';":
+		prefix: "ai-basket"
+		body: "content: '\\\\e894';"
+	"content: '\\e8ee';":
+		prefix: "ai-bell"
+		body: "content: '\\\\e8ee';"
+	"content: '\\e8ab';":
+		prefix: "ai-bike"
+		body: "content: '\\\\e8ab';"
+	"content: '\\e876';":
+		prefix: "ai-blob"
+		body: "content: '\\\\e876';"
+	"content: '\\e896';":
+		prefix: "ai-bluetooth"
+		body: "content: '\\\\e896';"
+	"content: '\\e89b';":
+		prefix: "ai-book"
+		body: "content: '\\\\e89b';"
+	"content: '\\e830';":
+		prefix: "ai-bookmark"
+		body: "content: '\\\\e830';"
+	"content: '\\e8a7';":
+		prefix: "ai-box"
+		body: "content: '\\\\e8a7';"
+	"content: '\\e864';":
+		prefix: "ai-brush"
+		body: "content: '\\\\e864';"
+	"content: '\\e865';":
+		prefix: "ai-bug"
+		body: "content: '\\\\e865';"
+	"content: '\\e858';":
+		prefix: "ai-bulb"
+		body: "content: '\\\\e858';"
+	"content: '\\e8ac';":
+		prefix: "ai-bus"
+		body: "content: '\\\\e8ac';"
+	"content: '\\e80d';":
+		prefix: "ai-business"
+		body: "content: '\\\\e80d';"
+	"content: '\\e85b';":
+		prefix: "ai-calculator"
+		body: "content: '\\\\e85b';"
+	"content: '\\e8eb';":
+		prefix: "ai-calendar"
+		body: "content: '\\\\e8eb';"
+	"content: '\\e81e';":
+		prefix: "ai-camera"
+		body: "content: '\\\\e81e';"
+	"content: '\\e82f';":
+		prefix: "ai-cancel"
+		body: "content: '\\\\e82f';"
+	"content: '\\e8ae';":
+		prefix: "ai-car"
+		body: "content: '\\\\e8ae';"
+	"content: '\\e8a6';":
+		prefix: "ai-cart"
+		body: "content: '\\\\e8a6';"
+	"content: '\\e806';":
+		prefix: "ai-clock"
+		body: "content: '\\\\e806';"
+	"content: '\\e8f7';":
+		prefix: "ai-cloud"
+		body: "content: '\\\\e8f7';"
+	"content: '\\e800';":
+		prefix: "ai-cloudy"
+		body: "content: '\\\\e800';"
+	"content: '\\e890';":
+		prefix: "ai-coffee"
+		body: "content: '\\\\e890';"
+	"content: '\\e891';":
+		prefix: "ai-coffee2go"
+		body: "content: '\\\\e891';"
+	"content: '\\e81a';":
+		prefix: "ai-collapse"
+		body: "content: '\\\\e81a';"
+	"content: '\\e8aa';":
+		prefix: "ai-compass"
+		body: "content: '\\\\e8aa';"
+	"content: '\\e821';":
+		prefix: "ai-contrast"
+		body: "content: '\\\\e821';"
+	"content: '\\e86c';":
+		prefix: "ai-copy"
+		body: "content: '\\\\e86c';"
+	"content: '\\e866';":
+		prefix: "ai-creditcard"
+		body: "content: '\\\\e866';"
+	"content: '\\e84a';":
+		prefix: "ai-crop"
+		body: "content: '\\\\e84a';"
+	"content: '\\e86d';":
+		prefix: "ai-cut"
+		body: "content: '\\\\e86d';"
+	"content: '\\e842';":
+		prefix: "ai-database"
+		body: "content: '\\\\e842';"
+	"content: '\\e8e5';":
+		prefix: "ai-dialer"
+		body: "content: '\\\\e8e5';"
+	"content: '\\e8f3';":
+		prefix: "ai-dialog"
+		body: "content: '\\\\e8f3';"
+	"content: '\\e8af';":
+		prefix: "ai-dice1"
+		body: "content: '\\\\e8af';"
+	"content: '\\e8b0';":
+		prefix: "ai-dice2"
+		body: "content: '\\\\e8b0';"
+	"content: '\\e8b1';":
+		prefix: "ai-dice3"
+		body: "content: '\\\\e8b1';"
+	"content: '\\e8b2';":
+		prefix: "ai-dice4"
+		body: "content: '\\\\e8b2';"
+	"content: '\\e8b3';":
+		prefix: "ai-dice5"
+		body: "content: '\\\\e8b3';"
+	"content: '\\e8b4';":
+		prefix: "ai-dice6"
+		body: "content: '\\\\e8b4';"
+	"content: '\\e855';":
+		prefix: "ai-document"
+		body: "content: '\\\\e855';"
+	"content: '\\e88c';":
+		prefix: "ai-dontlike"
+		body: "content: '\\\\e88c';"
+	"content: '\\e849';":
+		prefix: "ai-download"
+		body: "content: '\\\\e849';"
+	"content: '\\e8a5';":
+		prefix: "ai-drag"
+		body: "content: '\\\\e8a5';"
+	"content: '\\e84d';":
+		prefix: "ai-drop"
+		body: "content: '\\\\e84d';"
+	"content: '\\e8d4';":
+		prefix: "ai-dropbox"
+		body: "content: '\\\\e8d4';"
+	"content: '\\e8c4';":
+		prefix: "ai-edit"
+		body: "content: '\\\\e8c4';"
+	"content: '\\e8cb';":
+		prefix: "ai-emo-angry"
+		body: "content: '\\\\e8cb';"
+	"content: '\\e8c6';":
+		prefix: "ai-emo-basic"
+		body: "content: '\\\\e8c6';"
+	"content: '\\e8c7';":
+		prefix: "ai-emo-cool"
+		body: "content: '\\\\e8c7';"
+	"content: '\\e8cf';":
+		prefix: "ai-emo-cry"
+		body: "content: '\\\\e8cf';"
+	"content: '\\e8cd';":
+		prefix: "ai-emo-err"
+		body: "content: '\\\\e8cd';"
+	"content: '\\e8d1';":
+		prefix: "ai-emo-evil"
+		body: "content: '\\\\e8d1';"
+	"content: '\\e8ce';":
+		prefix: "ai-emo-kiss"
+		body: "content: '\\\\e8ce';"
+	"content: '\\e8ca';":
+		prefix: "ai-emo-laugh"
+		body: "content: '\\\\e8ca';"
+	"content: '\\e8c9';":
+		prefix: "ai-emo-shame"
+		body: "content: '\\\\e8c9';"
+	"content: '\\e8cc';":
+		prefix: "ai-emo-tongue"
+		body: "content: '\\\\e8cc';"
+	"content: '\\e8d0';":
+		prefix: "ai-emo-wink"
+		body: "content: '\\\\e8d0';"
+	"content: '\\e8c8';":
+		prefix: "ai-emo-wonder"
+		body: "content: '\\\\e8c8';"
+	"content: '\\e862';":
+		prefix: "ai-exit"
+		body: "content: '\\\\e862';"
+	"content: '\\e819';":
+		prefix: "ai-expand"
+		body: "content: '\\\\e819';"
+	"content: '\\e87c';":
+		prefix: "ai-export"
+		body: "content: '\\\\e87c';"
+	"content: '\\e8c1';":
+		prefix: "ai-eye-closed"
+		body: "content: '\\\\e8c1';"
+	"content: '\\e8a3';":
+		prefix: "ai-eye-open"
+		body: "content: '\\\\e8a3';"
+	"content: '\\e8d5';":
+		prefix: "ai-facebook"
+		body: "content: '\\\\e8d5';"
+	"content: '\\e86f';":
+		prefix: "ai-filter"
+		body: "content: '\\\\e86f';"
+	"content: '\\e802';":
+		prefix: "ai-flag"
+		body: "content: '\\\\e802';"
+	"content: '\\e88f';":
+		prefix: "ai-flags"
+		body: "content: '\\\\e88f';"
+	"content: '\\e817';":
+		prefix: "ai-flash"
+		body: "content: '\\\\e817';"
+	"content: '\\e80f';":
+		prefix: "ai-folder-closed"
+		body: "content: '\\\\e80f';"
+	"content: '\\e80e';":
+		prefix: "ai-folder-open"
+		body: "content: '\\\\e80e';"
+	"content: '\\e810';":
+		prefix: "ai-folder-tabs"
+		body: "content: '\\\\e810';"
+	"content: '\\e8b7';":
+		prefix: "ai-font-bigger"
+		body: "content: '\\\\e8b7';"
+	"content: '\\e8b9';":
+		prefix: "ai-font-bold"
+		body: "content: '\\\\e8b9';"
+	"content: '\\e8bb';":
+		prefix: "ai-font-faces"
+		body: "content: '\\\\e8bb';"
+	"content: '\\e8c2';":
+		prefix: "ai-font-italic"
+		body: "content: '\\\\e8c2';"
+	"content: '\\e8b8';":
+		prefix: "ai-font-smaller"
+		body: "content: '\\\\e8b8';"
+	"content: '\\e8ba';":
+		prefix: "ai-font-underline"
+		body: "content: '\\\\e8ba';"
+	"content: '\\e8de';":
+		prefix: "ai-foursquare"
+		body: "content: '\\\\e8de';"
+	"content: '\\e8db';":
+		prefix: "ai-gcircles"
+		body: "content: '\\\\e8db';"
+	"content: '\\e868';":
+		prefix: "ai-gear"
+		body: "content: '\\\\e868';"
+	"content: '\\e8d6';":
+		prefix: "ai-github"
+		body: "content: '\\\\e8d6';"
+	"content: '\\e839';":
+		prefix: "ai-glasses"
+		body: "content: '\\\\e839';"
+	"content: '\\e83a';":
+		prefix: "ai-globe"
+		body: "content: '\\\\e83a';"
+	"content: '\\e8d7';":
+		prefix: "ai-gmail"
+		body: "content: '\\\\e8d7';"
+	"content: '\\e88a';":
+		prefix: "ai-goleft"
+		body: "content: '\\\\e88a';"
+	"content: '\\e889';":
+		prefix: "ai-goright"
+		body: "content: '\\\\e889';"
+	"content: '\\e8d8';":
+		prefix: "ai-gplay"
+		body: "content: '\\\\e8d8';"
+	"content: '\\e8df';":
+		prefix: "ai-gplus"
+		body: "content: '\\\\e8df';"
+	"content: '\\e834';":
+		prefix: "ai-grow"
+		body: "content: '\\\\e834';"
+	"content: '\\e892';":
+		prefix: "ai-guitar"
+		body: "content: '\\\\e892';"
+	"content: '\\e874';":
+		prefix: "ai-halt"
+		body: "content: '\\\\e874';"
+	"content: '\\e80a';":
+		prefix: "ai-headphones"
+		body: "content: '\\\\e80a';"
+	"content: '\\e8ef';":
+		prefix: "ai-heart"
+		body: "content: '\\\\e8ef';"
+	"content: '\\e84e';":
+		prefix: "ai-help"
+		body: "content: '\\\\e84e';"
+	"content: '\\e84b';":
+		prefix: "ai-home"
+		body: "content: '\\\\e84b';"
+	"content: '\\e8d3';":
+		prefix: "ai-html5"
+		body: "content: '\\\\e8d3';"
+	"content: '\\e87b';":
+		prefix: "ai-import"
+		body: "content: '\\\\e87b';"
+	"content: '\\e84c';":
+		prefix: "ai-inbox"
+		body: "content: '\\\\e84c';"
+	"content: '\\e84f';":
+		prefix: "ai-info"
+		body: "content: '\\\\e84f';"
+	"content: '\\e87a';":
+		prefix: "ai-joypad"
+		body: "content: '\\\\e87a';"
+	"content: '\\e89e';":
+		prefix: "ai-key"
+		body: "content: '\\\\e89e';"
+	"content: '\\e88e';":
+		prefix: "ai-knight"
+		body: "content: '\\\\e88e';"
+	"content: '\\e831';":
+		prefix: "ai-lab"
+		body: "content: '\\\\e831';"
+	"content: '\\e83e';":
+		prefix: "ai-laptop"
+		body: "content: '\\\\e83e';"
+	"content: '\\e88b';":
+		prefix: "ai-like"
+		body: "content: '\\\\e88b';"
+	"content: '\\e85a';":
+		prefix: "ai-line-chart"
+		body: "content: '\\\\e85a';"
+	"content: '\\e869';":
+		prefix: "ai-link"
+		body: "content: '\\\\e869';"
+	"content: '\\e8e0';":
+		prefix: "ai-linkedin"
+		body: "content: '\\\\e8e0';"
+	"content: '\\e8a1';":
+		prefix: "ai-list"
+		body: "content: '\\\\e8a1';"
+	"content: '\\e8a2';":
+		prefix: "ai-list-2"
+		body: "content: '\\\\e8a2';"
+	"content: '\\e860';":
+		prefix: "ai-location"
+		body: "content: '\\\\e860';"
+	"content: '\\e8c3';":
+		prefix: "ai-location-2"
+		body: "content: '\\\\e8c3';"
+	"content: '\\e89c';":
+		prefix: "ai-lock-closed"
+		body: "content: '\\\\e89c';"
+	"content: '\\e89d';":
+		prefix: "ai-lock-open"
+		body: "content: '\\\\e89d';"
+	"content: '\\e804';":
+		prefix: "ai-magnet"
+		body: "content: '\\\\e804';"
+	"content: '\\e83b';":
+		prefix: "ai-mail"
+		body: "content: '\\\\e83b';"
+	"content: '\\e85f';":
+		prefix: "ai-map"
+		body: "content: '\\\\e85f';"
+	"content: '\\e877';":
+		prefix: "ai-mic"
+		body: "content: '\\\\e877';"
+	"content: '\\e878';":
+		prefix: "ai-micoff"
+		body: "content: '\\\\e878';"
+	"content: '\\e81c';":
+		prefix: "ai-minus"
+		body: "content: '\\\\e81c';"
+	"content: '\\e801';":
+		prefix: "ai-mist"
+		body: "content: '\\\\e801';"
+	"content: '\\e83f';":
+		prefix: "ai-monitor"
+		body: "content: '\\\\e83f';"
+	"content: '\\e8f2';":
+		prefix: "ai-monolog"
+		body: "content: '\\\\e8f2';"
+	"content: '\\e888';":
+		prefix: "ai-more"
+		body: "content: '\\\\e888';"
+	"content: '\\e8a8';":
+		prefix: "ai-mouse"
+		body: "content: '\\\\e8a8';"
+	"content: '\\e857';":
+		prefix: "ai-movie"
+		body: "content: '\\\\e857';"
+	"content: '\\e808';":
+		prefix: "ai-music-1"
+		body: "content: '\\\\e808';"
+	"content: '\\e809';":
+		prefix: "ai-music-2"
+		body: "content: '\\\\e809';"
+	"content: '\\e8b6';":
+		prefix: "ai-mustache"
+		body: "content: '\\\\e8b6';"
+	"content: '\\e8ea';":
+		prefix: "ai-navigate"
+		body: "content: '\\\\e8ea';"
+	"content: '\\e859';":
+		prefix: "ai-news"
+		body: "content: '\\\\e859';"
+	"content: '\\e8ec';":
+		prefix: "ai-overflow"
+		body: "content: '\\\\e8ec';"
+	"content: '\\e86e';":
+		prefix: "ai-paste"
+		body: "content: '\\\\e86e';"
+	"content: '\\e8e1';":
+		prefix: "ai-paypal"
+		body: "content: '\\\\e8e1';"
+	"content: '\\e83d';":
+		prefix: "ai-phone"
+		body: "content: '\\\\e83d';"
+	"content: '\\e811';":
+		prefix: "ai-phone-end"
+		body: "content: '\\\\e811';"
+	"content: '\\e813';":
+		prefix: "ai-phone-incoming"
+		body: "content: '\\\\e813';"
+	"content: '\\e815';":
+		prefix: "ai-phone-missed"
+		body: "content: '\\\\e815';"
+	"content: '\\e814';":
+		prefix: "ai-phone-outgoing"
+		body: "content: '\\\\e814';"
+	"content: '\\e812';":
+		prefix: "ai-phone-start"
+		body: "content: '\\\\e812';"
+	"content: '\\e863';":
+		prefix: "ai-picker"
+		body: "content: '\\\\e863';"
+	"content: '\\e856';":
+		prefix: "ai-picture"
+		body: "content: '\\\\e856';"
+	"content: '\\e805';":
+		prefix: "ai-pie-chart"
+		body: "content: '\\\\e805';"
+	"content: '\\e8b5';":
+		prefix: "ai-pill"
+		body: "content: '\\\\e8b5';"
+	"content: '\\e838';":
+		prefix: "ai-pin"
+		body: "content: '\\\\e838';"
+	"content: '\\e8d9';":
+		prefix: "ai-pinterest"
+		body: "content: '\\\\e8d9';"
+	"content: '\\e816';":
+		prefix: "ai-plane"
+		body: "content: '\\\\e816';"
+	"content: '\\e88d';":
+		prefix: "ai-planet"
+		body: "content: '\\\\e88d';"
+	"content: '\\e883';":
+		prefix: "ai-playback-forw"
+		body: "content: '\\\\e883';"
+	"content: '\\e884';":
+		prefix: "ai-playback-next"
+		body: "content: '\\\\e884';"
+	"content: '\\e87f';":
+		prefix: "ai-playback-pause"
+		body: "content: '\\\\e87f';"
+	"content: '\\e87e';":
+		prefix: "ai-playback-play"
+		body: "content: '\\\\e87e';"
+	"content: '\\e882';":
+		prefix: "ai-playback-prev"
+		body: "content: '\\\\e882';"
+	"content: '\\e886';":
+		prefix: "ai-playback-repeat"
+		body: "content: '\\\\e886';"
+	"content: '\\e887';":
+		prefix: "ai-playback-repeat-1"
+		body: "content: '\\\\e887';"
+	"content: '\\e881';":
+		prefix: "ai-playback-rew"
+		body: "content: '\\\\e881';"
+	"content: '\\e885';":
+		prefix: "ai-playback-shuffle"
+		body: "content: '\\\\e885';"
+	"content: '\\e880';":
+		prefix: "ai-playback-stop"
+		body: "content: '\\\\e880';"
+	"content: '\\e8a9';":
+		prefix: "ai-plug"
+		body: "content: '\\\\e8a9';"
+	"content: '\\e81b';":
+		prefix: "ai-plus"
+		body: "content: '\\\\e81b';"
+	"content: '\\e850';":
+		prefix: "ai-plusone"
+		body: "content: '\\\\e850';"
+	"content: '\\e875';":
+		prefix: "ai-power"
+		body: "content: '\\\\e875';"
+	"content: '\\e87d';":
+		prefix: "ai-present"
+		body: "content: '\\\\e87d';"
+	"content: '\\e8bd';":
+		prefix: "ai-process-end"
+		body: "content: '\\\\e8bd';"
+	"content: '\\e8be';":
+		prefix: "ai-process-save"
+		body: "content: '\\\\e8be';"
+	"content: '\\e8bf';":
+		prefix: "ai-process-start"
+		body: "content: '\\\\e8bf';"
+	"content: '\\e843';":
+		prefix: "ai-puzzle"
+		body: "content: '\\\\e843';"
+	"content: '\\e8f1';":
+		prefix: "ai-qrcode"
+		body: "content: '\\\\e8f1';"
+	"content: '\\e8f8';":
+		prefix: "ai-rain"
+		body: "content: '\\\\e8f8';"
+	"content: '\\e893';":
+		prefix: "ai-record"
+		body: "content: '\\\\e893';"
+	"content: '\\e852';":
+		prefix: "ai-redo"
+		body: "content: '\\\\e852';"
+	"content: '\\e844';":
+		prefix: "ai-reload"
+		body: "content: '\\\\e844';"
+	"content: '\\e897';":
+		prefix: "ai-restaurant"
+		body: "content: '\\\\e897';"
+	"content: '\\e89a';":
+		prefix: "ai-rocket"
+		body: "content: '\\\\e89a';"
+	"content: '\\e8c5';":
+		prefix: "ai-rss"
+		body: "content: '\\\\e8c5';"
+	"content: '\\e81f';":
+		prefix: "ai-ruler"
+		body: "content: '\\\\e81f';"
+	"content: '\\e8a4';":
+		prefix: "ai-save"
+		body: "content: '\\\\e8a4';"
+	"content: '\\e827';":
+		prefix: "ai-search"
+		body: "content: '\\\\e827';"
+	"content: '\\e8ed';":
+		prefix: "ai-send"
+		body: "content: '\\\\e8ed';"
+	"content: '\\e807';":
+		prefix: "ai-settings"
+		body: "content: '\\\\e807';"
+	"content: '\\e8e6';":
+		prefix: "ai-share"
+		body: "content: '\\\\e8e6';"
+	"content: '\\e83c';":
+		prefix: "ai-share-2"
+		body: "content: '\\\\e83c';"
+	"content: '\\e823';":
+		prefix: "ai-shield"
+		body: "content: '\\\\e823';"
+	"content: '\\e837';":
+		prefix: "ai-signal"
+		body: "content: '\\\\e837';"
+	"content: '\\e895';":
+		prefix: "ai-sms"
+		body: "content: '\\\\e895';"
+	"content: '\\e853';":
+		prefix: "ai-sort-1"
+		body: "content: '\\\\e853';"
+	"content: '\\e854';":
+		prefix: "ai-sort-2"
+		body: "content: '\\\\e854';"
+	"content: '\\e8da';":
+		prefix: "ai-soundcloud"
+		body: "content: '\\\\e8da';"
+	"content: '\\e85c';":
+		prefix: "ai-stamp"
+		body: "content: '\\\\e85c';"
+	"content: '\\e8e7';":
+		prefix: "ai-star-0"
+		body: "content: '\\\\e8e7';"
+	"content: '\\e8e9';":
+		prefix: "ai-star-10"
+		body: "content: '\\\\e8e9';"
+	"content: '\\e8e8';":
+		prefix: "ai-star-5"
+		body: "content: '\\\\e8e8';"
+	"content: '\\e836';":
+		prefix: "ai-steering-wheel"
+		body: "content: '\\\\e836';"
+	"content: '\\e8e2';":
+		prefix: "ai-stumbleupon"
+		body: "content: '\\\\e8e2';"
+	"content: '\\e8f6';":
+		prefix: "ai-sun"
+		body: "content: '\\\\e8f6';"
+	"content: '\\e840';":
+		prefix: "ai-tablet"
+		body: "content: '\\\\e840';"
+	"content: '\\e86a';":
+		prefix: "ai-tag"
+		body: "content: '\\\\e86a';"
+	"content: '\\e86b';":
+		prefix: "ai-tags"
+		body: "content: '\\\\e86b';"
+	"content: '\\e833';":
+		prefix: "ai-temperature"
+		body: "content: '\\\\e833';"
+	"content: '\\e82e';":
+		prefix: "ai-tick"
+		body: "content: '\\\\e82e';"
+	"content: '\\e899';":
+		prefix: "ai-ticket"
+		body: "content: '\\\\e899';"
+	"content: '\\e80b';":
+		prefix: "ai-tiles-large"
+		body: "content: '\\\\e80b';"
+	"content: '\\e80c';":
+		prefix: "ai-tiles-small"
+		body: "content: '\\\\e80c';"
+	"content: '\\e8ad';":
+		prefix: "ai-train"
+		body: "content: '\\\\e8ad';"
+	"content: '\\e847';":
+		prefix: "ai-trash"
+		body: "content: '\\\\e847';"
+	"content: '\\e898';":
+		prefix: "ai-tshirt"
+		body: "content: '\\\\e898';"
+	"content: '\\e8e3';":
+		prefix: "ai-tumblr"
+		body: "content: '\\\\e8e3';"
+	"content: '\\e85d';":
+		prefix: "ai-turn-left"
+		body: "content: '\\\\e85d';"
+	"content: '\\e85e';":
+		prefix: "ai-turn-right"
+		body: "content: '\\\\e85e';"
+	"content: '\\e841';":
+		prefix: "ai-tv"
+		body: "content: '\\\\e841';"
+	"content: '\\e8e4';":
+		prefix: "ai-twitter"
+		body: "content: '\\\\e8e4';"
+	"content: '\\e803';":
+		prefix: "ai-umbrella"
+		body: "content: '\\\\e803';"
+	"content: '\\e851';":
+		prefix: "ai-undo"
+		body: "content: '\\\\e851';"
+	"content: '\\e848';":
+		prefix: "ai-upload"
+		body: "content: '\\\\e848';"
+	"content: '\\e8f4';":
+		prefix: "ai-user"
+		body: "content: '\\\\e8f4';"
+	"content: '\\e8f5';":
+		prefix: "ai-users"
+		body: "content: '\\\\e8f5';"
+	"content: '\\e81d';":
+		prefix: "ai-video"
+		body: "content: '\\\\e81d';"
+	"content: '\\e8dc';":
+		prefix: "ai-vimeo"
+		body: "content: '\\\\e8dc';"
+	"content: '\\e870';":
+		prefix: "ai-volume"
+		body: "content: '\\\\e870';"
+	"content: '\\e873';":
+		prefix: "ai-volume-down"
+		body: "content: '\\\\e873';"
+	"content: '\\e871';":
+		prefix: "ai-volume-mute"
+		body: "content: '\\\\e871';"
+	"content: '\\e872';":
+		prefix: "ai-volume-up"
+		body: "content: '\\\\e872';"
+	"content: '\\e879';":
+		prefix: "ai-warning"
+		body: "content: '\\\\e879';"
+	"content: '\\e89f';":
+		prefix: "ai-wifi"
+		body: "content: '\\\\e89f';"
+	"content: '\\e832';":
+		prefix: "ai-wizard"
+		body: "content: '\\\\e832';"
+	"content: '\\e822';":
+		prefix: "ai-yingyang"
+		body: "content: '\\\\e822';"
+	"content: '\\e8dd';":
+		prefix: "ai-youtube"
+		body: "content: '\\\\e8dd';"

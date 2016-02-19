@@ -1,0 +1,685 @@
+".source.css,.source.sass":
+	"content: '\\f326';":
+		prefix: "mfg-amex"
+		body: "content: '\\\\f326';"
+	"content: '\\2693';":
+		prefix: "mfg-anchor"
+		body: "content: '\\\\2693';"
+	"content: '\\21CA":
+		prefix: "mfg-arrow_big_down"
+		body: "content: '\\\\21CA';"
+	"content: '\\21C7":
+		prefix: "mfg-arrow_big_left"
+		body: "content: '\\\\21C7';"
+	"content: '\\21C9":
+		prefix: "mfg-arrow_big_right"
+		body: "content: '\\\\21C9';"
+	"content: '\\21C8":
+		prefix: "mfg-arrow_big_up"
+		body: "content: '\\\\21C8';"
+	"content: '\\21D3":
+		prefix: "mfg-arrow_doubled_down"
+		body: "content: '\\\\21D3';"
+	"content: '\\21D0":
+		prefix: "mfg-arrow_doubled_left"
+		body: "content: '\\\\21D0';"
+	"content: '\\21D2":
+		prefix: "mfg-arrow_doubled_right"
+		body: "content: '\\\\21D2';"
+	"content: '\\21D1":
+		prefix: "mfg-arrow_doubled_up"
+		body: "content: '\\\\21D1';"
+	"content: '\\2193';":
+		prefix: "mfg-arrow_down"
+		body: "content: '\\\\2193';"
+	"content: '\\2190';":
+		prefix: "mfg-arrow_left"
+		body: "content: '\\\\2190';"
+	"content: '\\2192';":
+		prefix: "mfg-arrow_right"
+		body: "content: '\\\\2192';"
+	"content: '\\2191';":
+		prefix: "mfg-arrow_up"
+		body: "content: '\\\\2191';"
+	"content: '\\0040';":
+		prefix: "mfg-at"
+		body: "content: '\\\\0040';"
+	"content: '\\f06a';":
+		prefix: "mfg-attachment"
+		body: "content: '\\\\f06a';"
+	"content: '\\f32b';":
+		prefix: "mfg-bandcamp"
+		body: "content: '\\\\f32b';"
+	"content: '\\2753';":
+		prefix: "mfg-black_question"
+		body: "content: '\\\\2753';"
+	"content: '\\f314';":
+		prefix: "mfg-blogger"
+		body: "content: '\\\\f314';"
+	"content: '\\f315';":
+		prefix: "mfg-blogger-rect"
+		body: "content: '\\\\f315';"
+	"content: '\\f321';":
+		prefix: "mfg-box"
+		body: "content: '\\\\f321';"
+	"content: '\\f322';":
+		prefix: "mfg-box-rect"
+		body: "content: '\\\\f322';"
+	"content: '\\E000';":
+		prefix: "mfg-brush"
+		body: "content: '\\\\E000';"
+	"content: '\\F4C5":
+		prefix: "mfg-calendar"
+		body: "content: '\\\\F4C5';"
+	"content: '\\F4F7":
+		prefix: "mfg-camera"
+		body: "content: '\\\\F4F7';"
+	"content: '\\F06E'":
+		prefix: "mfg-cancel_circle"
+		body: "content: '\\\\F06E';"
+	"content: '\\F526';":
+		prefix: "mfg-chart"
+		body: "content: '\\\\F526';"
+	"content: '\\F530';":
+		prefix: "mfg-chart_alt"
+		body: "content: '\\\\F530';"
+	"content: '\\2713';":
+		prefix: "mfg-check"
+		body: "content: '\\\\2713';"
+	"content: '\\f06d';":
+		prefix: "mfg-check_circle"
+		body: "content: '\\\\f06d';"
+	"content: '\\f004';":
+		prefix: "mfg-chevron_down"
+		body: "content: '\\\\f004';"
+	"content: '\\f007';":
+		prefix: "mfg-chevron_left"
+		body: "content: '\\\\f007';"
+	"content: '\\f006';":
+		prefix: "mfg-chevron_right"
+		body: "content: '\\\\f006';"
+	"content: '\\f005';":
+		prefix: "mfg-chevron_up"
+		body: "content: '\\\\f005';"
+	"content: '\\23F2":
+		prefix: "mfg-clock"
+		body: "content: '\\\\23F2';"
+	"content: '\\2601';":
+		prefix: "mfg-cloud"
+		body: "content: '\\\\2601';"
+	"content: '\\f015';":
+		prefix: "mfg-cloud_download"
+		body: "content: '\\\\f015';"
+	"content: '\\f014';":
+		prefix: "mfg-cloud_upload"
+		body: "content: '\\\\f014';"
+	"content: '\\f32c';":
+		prefix: "mfg-codepen"
+		body: "content: '\\\\f32c';"
+	"content: '\\f020';":
+		prefix: "mfg-color_balance"
+		body: "content: '\\\\f020';"
+	"content: '\\f035';":
+		prefix: "mfg-connected_object"
+		body: "content: '\\\\f035';"
+	"content: '\\f00c';":
+		prefix: "mfg-coverflow"
+		body: "content: '\\\\f00c';"
+	"content: '\\f00d';":
+		prefix: "mfg-coverflow_line"
+		body: "content: '\\\\f00d';"
+	"content: '\\F4B3":
+		prefix: "mfg-credit_card"
+		body: "content: '\\\\F4B3';"
+	"content: '\\274C'":
+		prefix: "mfg-cross_mark"
+		body: "content: '\\\\274C';"
+	"content: '\\f016';":
+		prefix: "mfg-data_science"
+		body: "content: '\\\\f016';"
+	"content: '\\f017';":
+		prefix: "mfg-data_science_black"
+		body: "content: '\\\\f017';"
+	"content: '\\f316';":
+		prefix: "mfg-deviantart"
+		body: "content: '\\\\f316';"
+	"content: '\\f320';":
+		prefix: "mfg-diigo"
+		body: "content: '\\\\f320';"
+	"content: '\\F534';":
+		prefix: "mfg-disconnect"
+		body: "content: '\\\\F534';"
+	"content: '\\f327';":
+		prefix: "mfg-discover"
+		body: "content: '\\\\f327';"
+	"content: '\\f03d';":
+		prefix: "mfg-discussion"
+		body: "content: '\\\\f03d';"
+	"content: '\\E016';":
+		prefix: "mfg-display_graph"
+		body: "content: '\\\\E016';"
+	"content: '\\f032';":
+		prefix: "mfg-display_screen"
+		body: "content: '\\\\f032';"
+	"content: '\\f02e';":
+		prefix: "mfg-download"
+		body: "content: '\\\\f02e';"
+	"content: '\\f050';":
+		prefix: "mfg-dribbble"
+		body: "content: '\\\\f050';"
+	"content: '\\f04f';":
+		prefix: "mfg-dribbble_circle"
+		body: "content: '\\\\f04f';"
+	"content: '\\f082';":
+		prefix: "mfg-eye"
+		body: "content: '\\\\f082';"
+	"content: '\\f052';":
+		prefix: "mfg-facebook"
+		body: "content: '\\\\f052';"
+	"content: '\\f301';":
+		prefix: "mfg-facebook-rect"
+		body: "content: '\\\\f301';"
+	"content: '\\f051';":
+		prefix: "mfg-facebook_circle"
+		body: "content: '\\\\f051';"
+	"content: '\\f013';":
+		prefix: "mfg-fast_backward"
+		body: "content: '\\\\f013';"
+	"content: '\\f012';":
+		prefix: "mfg-fast_forward"
+		body: "content: '\\\\f012';"
+	"content: '\\2640';":
+		prefix: "mfg-female_sign"
+		body: "content: '\\\\2640';"
+	"content: '\\f068';":
+		prefix: "mfg-file_alt"
+		body: "content: '\\\\f068';"
+	"content: '\\f067';":
+		prefix: "mfg-file_close"
+		body: "content: '\\\\f067';"
+	"content: '\\f069';":
+		prefix: "mfg-file_close_alt"
+		body: "content: '\\\\f069';"
+	"content: '\\F4C2":
+		prefix: "mfg-file_open"
+		body: "content: '\\\\F4C2';"
+	"content: '\\F525';":
+		prefix: "mfg-fire"
+		body: "content: '\\\\F525';"
+	"content: '\\f312';":
+		prefix: "mfg-friendfeed"
+		body: "content: '\\\\f312';"
+	"content: '\\f313';":
+		prefix: "mfg-friendfeed-rect"
+		body: "content: '\\\\f313';"
+	"content: '\\f055';":
+		prefix: "mfg-git"
+		body: "content: '\\\\f055';"
+	"content: '\\f054';":
+		prefix: "mfg-git_circle"
+		body: "content: '\\\\f054';"
+	"content: '\\f053';":
+		prefix: "mfg-git_circle_alt"
+		body: "content: '\\\\f053';"
+	"content: '\\f308';":
+		prefix: "mfg-github"
+		body: "content: '\\\\f308';"
+	"content: '\\f307';":
+		prefix: "mfg-github-text"
+		body: "content: '\\\\f307';"
+	"content: '\\f018';":
+		prefix: "mfg-globe"
+		body: "content: '\\\\f018';"
+	"content: '\\f019';":
+		prefix: "mfg-globe_black"
+		body: "content: '\\\\f019';"
+	"content: '\\f05a';":
+		prefix: "mfg-google_plus"
+		body: "content: '\\\\f05a';"
+	"content: '\\f059';":
+		prefix: "mfg-google_plus_circle"
+		body: "content: '\\\\f059';"
+	"content: '\\f309';":
+		prefix: "mfg-googleplus-rect"
+		body: "content: '\\\\f309';"
+	"content: '\\F535';":
+		prefix: "mfg-graph"
+		body: "content: '\\\\F535';"
+	"content: '\\f084';":
+		prefix: "mfg-hard_drive"
+		body: "content: '\\\\f084';"
+	"content: '\\f029';":
+		prefix: "mfg-hashtag"
+		body: "content: '\\\\f029';"
+	"content: '\\2665';":
+		prefix: "mfg-heart"
+		body: "content: '\\\\2665';"
+	"content: '\\f028';":
+		prefix: "mfg-heart_broken"
+		body: "content: '\\\\f028';"
+	"content: '\\26A1":
+		prefix: "mfg-high_voltage"
+		body: "content: '\\\\26A1';"
+	"content: '\\2302';":
+		prefix: "mfg-home"
+		body: "content: '\\\\2302';"
+	"content: '\\231B'":
+		prefix: "mfg-hourglass"
+		body: "content: '\\\\231B';"
+	"content: '\\f32a';":
+		prefix: "mfg-houzz"
+		body: "content: '\\\\f32a';"
+	"content: '\\f304';":
+		prefix: "mfg-icq"
+		body: "content: '\\\\f304';"
+	"content: '\\f070';":
+		prefix: "mfg-inbox"
+		body: "content: '\\\\f070';"
+	"content: '\\f085';":
+		prefix: "mfg-information_black"
+		body: "content: '\\\\f085';"
+	"content: '\\f086';":
+		prefix: "mfg-information_white"
+		body: "content: '\\\\f086';"
+	"content: '\\f31e';":
+		prefix: "mfg-instagram"
+		body: "content: '\\\\f31e';"
+	"content: '\\f31f';":
+		prefix: "mfg-instagram-filled"
+		body: "content: '\\\\f31f';"
+	"content: '\\f05e';":
+		prefix: "mfg-instagram_circle"
+		body: "content: '\\\\f05e';"
+	"content: '\\f039';":
+		prefix: "mfg-isight"
+		body: "content: '\\\\f039';"
+	"content: '\\f317';":
+		prefix: "mfg-jabber"
+		body: "content: '\\\\f317';"
+	"content: '\\F514';":
+		prefix: "mfg-joystick"
+		body: "content: '\\\\F514';"
+	"content: '\\F531';":
+		prefix: "mfg-label"
+		body: "content: '\\\\F531';"
+	"content: '\\f318';":
+		prefix: "mfg-lastfm"
+		body: "content: '\\\\f318';"
+	"content: '\\f319';":
+		prefix: "mfg-lastfm-rect"
+		body: "content: '\\\\f319';"
+	"content: '\\E010';":
+		prefix: "mfg-layout_directed"
+		body: "content: '\\\\E010';"
+	"content: '\\E012';":
+		prefix: "mfg-layout_hierarchical"
+		body: "content: '\\\\E012';"
+	"content: '\\E011';":
+		prefix: "mfg-layout_radial"
+		body: "content: '\\\\E011';"
+	"content: '\\f088';":
+		prefix: "mfg-letter"
+		body: "content: '\\\\f088';"
+	"content: '\\f07B'":
+		prefix: "mfg-link"
+		body: "content: '\\\\f07B';"
+	"content: '\\E005';":
+		prefix: "mfg-link_2_nodes"
+		body: "content: '\\\\E005';"
+	"content: '\\E006';":
+		prefix: "mfg-link_3_nodes"
+		body: "content: '\\\\E006';"
+	"content: '\\E007';":
+		prefix: "mfg-link_loop_nodes"
+		body: "content: '\\\\E007';"
+	"content: '\\f05c';":
+		prefix: "mfg-linked_in"
+		body: "content: '\\\\f05c';"
+	"content: '\\f05b';":
+		prefix: "mfg-linked_in_circle"
+		body: "content: '\\\\f05b';"
+	"content: '\\f31a';":
+		prefix: "mfg-linkedin"
+		body: "content: '\\\\f31a';"
+	"content: '\\f31b';":
+		prefix: "mfg-linkedin-rect"
+		body: "content: '\\\\f31b';"
+	"content: '\\f009';":
+		prefix: "mfg-list"
+		body: "content: '\\\\f009';"
+	"content: '\\F512';":
+		prefix: "mfg-lock"
+		body: "content: '\\\\F512';"
+	"content: '\\F510';":
+		prefix: "mfg-lock_alt"
+		body: "content: '\\\\F510';"
+	"content: '\\F50D'":
+		prefix: "mfg-magnifying"
+		body: "content: '\\\\F50D';"
+	"content: '\\f07F'":
+		prefix: "mfg-magnifying_minus"
+		body: "content: '\\\\f07F';"
+	"content: '\\f07E'":
+		prefix: "mfg-magnifying_plus"
+		body: "content: '\\\\f07E';"
+	"content: '\\2709';":
+		prefix: "mfg-mail"
+		body: "content: '\\\\2709';"
+	"content: '\\2642';":
+		prefix: "mfg-male_sign"
+		body: "content: '\\\\2642';"
+	"content: '\\f329';":
+		prefix: "mfg-mastercard"
+		body: "content: '\\\\f329';"
+	"content: '\\f01b';":
+		prefix: "mfg-math"
+		body: "content: '\\\\f01b';"
+	"content: '\\f01c';":
+		prefix: "mfg-math_black"
+		body: "content: '\\\\f01c';"
+	"content: '\\f01a';":
+		prefix: "mfg-math_ico"
+		body: "content: '\\\\f01a';"
+	"content: '\\f044';":
+		prefix: "mfg-measure"
+		body: "content: '\\\\f044';"
+	"content: '\\F4AC":
+		prefix: "mfg-message"
+		body: "content: '\\\\F4AC';"
+	"content: '\\f05f';":
+		prefix: "mfg-mfg_icon"
+		body: "content: '\\\\f05f';"
+	"content: '\\f060';":
+		prefix: "mfg-mfg_icon_circle"
+		body: "content: '\\\\f060';"
+	"content: '\\2212';":
+		prefix: "mfg-minus"
+		body: "content: '\\\\2212';"
+	"content: '\\E018';":
+		prefix: "mfg-more_node_links"
+		body: "content: '\\\\E018';"
+	"content: '\\f040';":
+		prefix: "mfg-movie"
+		body: "content: '\\\\f040';"
+	"content: '\\f048';":
+		prefix: "mfg-mute_off"
+		body: "content: '\\\\f048';"
+	"content: '\\f047';":
+		prefix: "mfg-mute_on"
+		body: "content: '\\\\f047';"
+	"content: '\\F536';":
+		prefix: "mfg-new_user"
+		body: "content: '\\\\F536';"
+	"content: '\\F4F0":
+		prefix: "mfg-newspaper"
+		body: "content: '\\\\F4F0';"
+	"content: '\\E002';":
+		prefix: "mfg-node"
+		body: "content: '\\\\E002';"
+	"content: '\\E003';":
+		prefix: "mfg-node_2"
+		body: "content: '\\\\E003';"
+	"content: '\\E004';":
+		prefix: "mfg-node_3"
+		body: "content: '\\\\E004';"
+	"content: '\\E015';":
+		prefix: "mfg-node_cluster"
+		body: "content: '\\\\E015';"
+	"content: '\\E009';":
+		prefix: "mfg-node_color"
+		body: "content: '\\\\E009';"
+	"content: '\\E00B'":
+		prefix: "mfg-node_icon"
+		body: "content: '\\\\E00B';"
+	"content: '\\E00E'":
+		prefix: "mfg-node_link_color"
+		body: "content: '\\\\E00E';"
+	"content: '\\E013';":
+		prefix: "mfg-node_link_direction"
+		body: "content: '\\\\E013';"
+	"content: '\\E00F'":
+		prefix: "mfg-node_link_shape"
+		body: "content: '\\\\E00F';"
+	"content: '\\E014';":
+		prefix: "mfg-node_link_short_path"
+		body: "content: '\\\\E014';"
+	"content: '\\E00D'":
+		prefix: "mfg-node_link_text"
+		body: "content: '\\\\E00D';"
+	"content: '\\E017';":
+		prefix: "mfg-node_link_weight"
+		body: "content: '\\\\E017';"
+	"content: '\\E00A'":
+		prefix: "mfg-node_shape"
+		body: "content: '\\\\E00A';"
+	"content: '\\E008';":
+		prefix: "mfg-node_size"
+		body: "content: '\\\\E008';"
+	"content: '\\E00C'":
+		prefix: "mfg-node_text"
+		body: "content: '\\\\E00C';"
+	"content: '\\f056';":
+		prefix: "mfg-octopus"
+		body: "content: '\\\\f056';"
+	"content: '\\f30c';":
+		prefix: "mfg-odnoklassniki"
+		body: "content: '\\\\f30c';"
+	"content: '\\f30d';":
+		prefix: "mfg-odnoklassniki-rect"
+		body: "content: '\\\\f30d';"
+	"content: '\\f01e';":
+		prefix: "mfg-paperplane"
+		body: "content: '\\\\f01e';"
+	"content: '\\f01f';":
+		prefix: "mfg-paperplane_black"
+		body: "content: '\\\\f01f';"
+	"content: '\\f01d';":
+		prefix: "mfg-paperplane_ico"
+		body: "content: '\\\\f01d';"
+	"content: '\\f00e';":
+		prefix: "mfg-pause"
+		body: "content: '\\\\f00e';"
+	"content: '\\270F'":
+		prefix: "mfg-pen"
+		body: "content: '\\\\270F';"
+	"content: '\\f31c';":
+		prefix: "mfg-picasa"
+		body: "content: '\\\\f31c';"
+	"content: '\\f031';":
+		prefix: "mfg-placepin"
+		body: "content: '\\\\f031';"
+	"content: '\\f00f';":
+		prefix: "mfg-play"
+		body: "content: '\\\\f00f';"
+	"content: '\\002B'":
+		prefix: "mfg-plus"
+		body: "content: '\\\\002B';"
+	"content: '\\f087';":
+		prefix: "mfg-printer"
+		body: "content: '\\\\f087';"
+	"content: '\\f03b';":
+		prefix: "mfg-random"
+		body: "content: '\\\\f03b';"
+	"content: '\\E001';":
+		prefix: "mfg-refresh"
+		body: "content: '\\\\E001';"
+	"content: '\\f025';":
+		prefix: "mfg-reload"
+		body: "content: '\\\\f025';"
+	"content: '\\f008';":
+		prefix: "mfg-reorder"
+		body: "content: '\\\\f008';"
+	"content: '\\f00a';":
+		prefix: "mfg-reorder_square"
+		body: "content: '\\\\f00a';"
+	"content: '\\f00b';":
+		prefix: "mfg-reorder_square_line"
+		body: "content: '\\\\f00b';"
+	"content: '\\f02a';":
+		prefix: "mfg-reply"
+		body: "content: '\\\\f02a';"
+	"content: '\\f02b';":
+		prefix: "mfg-retweet"
+		body: "content: '\\\\f02b';"
+	"content: '\\f03f';":
+		prefix: "mfg-ringbell"
+		body: "content: '\\\\f03f';"
+	"content: '\\9881';":
+		prefix: "mfg-settings"
+		body: "content: '\\\\9881';"
+	"content: '\\f081';":
+		prefix: "mfg-share"
+		body: "content: '\\\\f081';"
+	"content: '\\f04a';":
+		prefix: "mfg-sheet"
+		body: "content: '\\\\f04a';"
+	"content: '\\f02c';":
+		prefix: "mfg-signin"
+		body: "content: '\\\\f02c';"
+	"content: '\\f02d';":
+		prefix: "mfg-signout"
+		body: "content: '\\\\f02d';"
+	"content: '\\f30b';":
+		prefix: "mfg-skype"
+		body: "content: '\\\\f30b';"
+	"content: '\\f034';":
+		prefix: "mfg-smartphone"
+		body: "content: '\\\\f034';"
+	"content: '\\f089';":
+		prefix: "mfg-soundcloud"
+		body: "content: '\\\\f089';"
+	"content: '\\f08A'":
+		prefix: "mfg-soundcloud_circle"
+		body: "content: '\\\\f08A';"
+	"content: '\\F528';":
+		prefix: "mfg-spinner_1"
+		body: "content: '\\\\F528';"
+	"content: '\\F529';":
+		prefix: "mfg-spinner_2"
+		body: "content: '\\\\F529';"
+	"content: '\\F527';":
+		prefix: "mfg-spread"
+		body: "content: '\\\\F527';"
+	"content: '\\2605';":
+		prefix: "mfg-star"
+		body: "content: '\\\\2605';"
+	"content: '\\2606';":
+		prefix: "mfg-star_empty"
+		body: "content: '\\\\2606';"
+	"content: '\\f022';":
+		prefix: "mfg-star_half"
+		body: "content: '\\\\f022';"
+	"content: '\\f024';":
+		prefix: "mfg-star_half_empty"
+		body: "content: '\\\\f024';"
+	"content: '\\f011';":
+		prefix: "mfg-step_backward"
+		body: "content: '\\\\f011';"
+	"content: '\\f010';":
+		prefix: "mfg-step_forward"
+		body: "content: '\\\\f010';"
+	"content: '\\f080';":
+		prefix: "mfg-stop"
+		body: "content: '\\\\f080';"
+	"content: '\\23F1":
+		prefix: "mfg-stopwatch"
+		body: "content: '\\\\23F1';"
+	"content: '\\f033';":
+		prefix: "mfg-tablet"
+		body: "content: '\\\\f033';"
+	"content: '\\f083';":
+		prefix: "mfg-trash_can"
+		body: "content: '\\\\f083';"
+	"content: '\\f074';":
+		prefix: "mfg-trophy"
+		body: "content: '\\\\f074';"
+	"content: '\\f323';":
+		prefix: "mfg-tudou"
+		body: "content: '\\\\f323';"
+	"content: '\\f311';":
+		prefix: "mfg-tumblr"
+		body: "content: '\\\\f311';"
+	"content: '\\f310';":
+		prefix: "mfg-tumblr-rect"
+		body: "content: '\\\\f310';"
+	"content: '\\f058';":
+		prefix: "mfg-twitter"
+		body: "content: '\\\\f058';"
+	"content: '\\f303';":
+		prefix: "mfg-twitter-bird"
+		body: "content: '\\\\f303';"
+	"content: '\\f057';":
+		prefix: "mfg-twitter_circle"
+		body: "content: '\\\\f057';"
+	"content: '\\F513';":
+		prefix: "mfg-unlock"
+		body: "content: '\\\\F513';"
+	"content: '\\F075';":
+		prefix: "mfg-unlock_alt"
+		body: "content: '\\\\F075';"
+	"content: '\\f02f';":
+		prefix: "mfg-upload"
+		body: "content: '\\\\f02f';"
+	"content: '\\f061';":
+		prefix: "mfg-user"
+		body: "content: '\\\\f061';"
+	"content: '\\f063';":
+		prefix: "mfg-user_female"
+		body: "content: '\\\\f063';"
+	"content: '\\f062';":
+		prefix: "mfg-user_male"
+		body: "content: '\\\\f062';"
+	"content: '\\f064';":
+		prefix: "mfg-users"
+		body: "content: '\\\\f064';"
+	"content: '\\f045';":
+		prefix: "mfg-vector"
+		body: "content: '\\\\f045';"
+	"content: '\\2712';":
+		prefix: "mfg-vector_pen"
+		body: "content: '\\\\2712';"
+	"content: '\\f03a';":
+		prefix: "mfg-video_camera"
+		body: "content: '\\\\f03a';"
+	"content: '\\f30f';":
+		prefix: "mfg-vimeo"
+		body: "content: '\\\\f30f';"
+	"content: '\\f30e';":
+		prefix: "mfg-vimeo-rect"
+		body: "content: '\\\\f30e';"
+	"content: '\\f328';":
+		prefix: "mfg-visa"
+		body: "content: '\\\\f328';"
+	"content: '\\f30a';":
+		prefix: "mfg-vkontakte-rect"
+		body: "content: '\\\\f30a';"
+	"content: '\\2757';":
+		prefix: "mfg-warning"
+		body: "content: '\\\\2757';"
+	"content: '\\2755';":
+		prefix: "mfg-warning_alt"
+		body: "content: '\\\\2755';"
+	"content: '\\2754';":
+		prefix: "mfg-white_question"
+		body: "content: '\\\\2754';"
+	"content: '\\f325';":
+		prefix: "mfg-win8"
+		body: "content: '\\\\f325';"
+	"content: '\\f31d';":
+		prefix: "mfg-wordpress"
+		body: "content: '\\\\f31d';"
+	"content: '\\F532';":
+		prefix: "mfg-xing"
+		body: "content: '\\\\F532';"
+	"content: '\\F533';":
+		prefix: "mfg-xing_circle"
+		body: "content: '\\\\F533';"
+	"content: '\\f305';":
+		prefix: "mfg-yandex"
+		body: "content: '\\\\f305';"
+	"content: '\\f306';":
+		prefix: "mfg-yandex-rect"
+		body: "content: '\\\\f306';"
+	"content: '\\f324';":
+		prefix: "mfg-youku"
+		body: "content: '\\\\f324';"

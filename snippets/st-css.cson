@@ -1,0 +1,232 @@
+".source.css,.source.sass":
+	"content: '\\e06b';":
+		prefix: "st-icon-addthis"
+		body: "content: '\\\\e06b';"
+	"content: '\\e072';":
+		prefix: "st-icon-adn"
+		body: "content: '\\\\e072';"
+	"content: '\\e07b';":
+		prefix: "st-icon-amazon"
+		body: "content: '\\\\e07b';"
+	"content: '\\e07b';":
+		prefix: "st-icon-amazon2"
+		body: "content: '\\\\e07b';"
+	"content: '\\e082';":
+		prefix: "st-icon-android"
+		body: "content: '\\\\e082';"
+	"content: '\\e08b';":
+		prefix: "st-icon-apple"
+		body: "content: '\\\\e08b';"
+	"content: '\\e092';":
+		prefix: "st-icon-behance"
+		body: "content: '\\\\e092';"
+	"content: '\\e09b';":
+		prefix: "st-icon-blogger"
+		body: "content: '\\\\e09b';"
+	"content: '\\e102';":
+		prefix: "st-icon-codepen"
+		body: "content: '\\\\e102';"
+	"content: '\\e10b';":
+		prefix: "st-icon-delicious"
+		body: "content: '\\\\e10b';"
+	"content: '\\e112';":
+		prefix: "st-icon-deviantart"
+		body: "content: '\\\\e112';"
+	"content: '\\e11b';":
+		prefix: "st-icon-digg"
+		body: "content: '\\\\e11b';"
+	"content: '\\e122';":
+		prefix: "st-icon-dribbble"
+		body: "content: '\\\\e122';"
+	"content: '\\e122';":
+		prefix: "st-icon-dribbble-alt"
+		body: "content: '\\\\e122';"
+	"content: '\\e12b';":
+		prefix: "st-icon-dropbox"
+		body: "content: '\\\\e12b';"
+	"content: '\\e132';":
+		prefix: "st-icon-ebay"
+		body: "content: '\\\\e132';"
+	"content: '\\e04b';":
+		prefix: "st-icon-email"
+		body: "content: '\\\\e04b';"
+	"content: '\\e04b';":
+		prefix: "st-icon-email2"
+		body: "content: '\\\\e04b';"
+	"content: '\\e142';":
+		prefix: "st-icon-evernote"
+		body: "content: '\\\\e142';"
+	"content: '\\e022';":
+		prefix: "st-icon-facebook"
+		body: "content: '\\\\e022';"
+	"content: '\\e02b';":
+		prefix: "st-icon-facebook-alt"
+		body: "content: '\\\\e02b';"
+	"content: '\\e14b';":
+		prefix: "st-icon-flattr"
+		body: "content: '\\\\e14b';"
+	"content: '\\e152';":
+		prefix: "st-icon-flickr"
+		body: "content: '\\\\e152';"
+	"content: '\\e15b';":
+		prefix: "st-icon-forrst"
+		body: "content: '\\\\e15b';"
+	"content: '\\e162';":
+		prefix: "st-icon-foursquare"
+		body: "content: '\\\\e162';"
+	"content: '\\e17b';":
+		prefix: "st-icon-github"
+		body: "content: '\\\\e17b';"
+	"content: '\\e182';":
+		prefix: "st-icon-github-alt"
+		body: "content: '\\\\e182';"
+	"content: '\\e18b';":
+		prefix: "st-icon-gittip"
+		body: "content: '\\\\e18b';"
+	"content: '\\e192';":
+		prefix: "st-icon-gmail"
+		body: "content: '\\\\e192';"
+	"content: '\\e192';":
+		prefix: "st-icon-gmail-alt"
+		body: "content: '\\\\e192';"
+	"content: '\\e20b';":
+		prefix: "st-icon-google"
+		body: "content: '\\\\e20b';"
+	"content: '\\e03b';":
+		prefix: "st-icon-googleplus"
+		body: "content: '\\\\e03b';"
+	"content: '\\e212';":
+		prefix: "st-icon-imdb"
+		body: "content: '\\\\e212';"
+	"content: '\\e222';":
+		prefix: "st-icon-instagram"
+		body: "content: '\\\\e222';"
+	"content: '\\e24b';":
+		prefix: "st-icon-kickstarter"
+		body: "content: '\\\\e24b';"
+	"content: '\\e252';":
+		prefix: "st-icon-lastfm"
+		body: "content: '\\\\e252';"
+	"content: '\\e25b';":
+		prefix: "st-icon-linkedin"
+		body: "content: '\\\\e25b';"
+	"content: '\\e582';":
+		prefix: "st-icon-menu"
+		body: "content: '\\\\e582';"
+	"content: '\\e58b';":
+		prefix: "st-icon-menu-alt"
+		body: "content: '\\\\e58b';"
+	"content: '\\e592';":
+		prefix: "st-icon-menu-alt2"
+		body: "content: '\\\\e592';"
+	"content: '\\e37b';":
+		prefix: "st-icon-microsoft"
+		body: "content: '\\\\e37b';"
+	"content: '\\e462';":
+		prefix: "st-icon-more"
+		body: "content: '\\\\e462';"
+	"content: '\\e262';":
+		prefix: "st-icon-myspace"
+		body: "content: '\\\\e262';"
+	"content: '\\e26b';":
+		prefix: "st-icon-pandora"
+		body: "content: '\\\\e26b';"
+	"content: '\\e272';":
+		prefix: "st-icon-paypal"
+		body: "content: '\\\\e272';"
+	"content: '\\e272';":
+		prefix: "st-icon-paypal2"
+		body: "content: '\\\\e272';"
+	"content: '\\e27b';":
+		prefix: "st-icon-picasa"
+		body: "content: '\\\\e27b';"
+	"content: '\\e28b';":
+		prefix: "st-icon-pinboard"
+		body: "content: '\\\\e28b';"
+	"content: '\\e292';":
+		prefix: "st-icon-pinterest"
+		body: "content: '\\\\e292';"
+	"content: '\\e30b';":
+		prefix: "st-icon-rdio"
+		body: "content: '\\\\e30b';"
+	"content: '\\e312';":
+		prefix: "st-icon-reddit"
+		body: "content: '\\\\e312';"
+	"content: '\\e042';":
+		prefix: "st-icon-rss"
+		body: "content: '\\\\e042';"
+	"content: '\\e062';":
+		prefix: "st-icon-search"
+		body: "content: '\\\\e062';"
+	"content: '\\e062';":
+		prefix: "st-icon-search-alt"
+		body: "content: '\\\\e062';"
+	"content: '\\e31b';":
+		prefix: "st-icon-sharethis"
+		body: "content: '\\\\e31b';"
+	"content: '\\e322';":
+		prefix: "st-icon-skype"
+		body: "content: '\\\\e322';"
+	"content: '\\e32b';":
+		prefix: "st-icon-slideshare"
+		body: "content: '\\\\e32b';"
+	"content: '\\e332';":
+		prefix: "st-icon-soundcloud"
+		body: "content: '\\\\e332';"
+	"content: '\\e33b';":
+		prefix: "st-icon-spotify"
+		body: "content: '\\\\e33b';"
+	"content: '\\e342';":
+		prefix: "st-icon-stackoverflow"
+		body: "content: '\\\\e342';"
+	"content: '\\e352';":
+		prefix: "st-icon-stumbleupon"
+		body: "content: '\\\\e352';"
+	"content: '\\e442';":
+		prefix: "st-icon-triangle-down"
+		body: "content: '\\\\e442';"
+	"content: '\\e35b';":
+		prefix: "st-icon-tumblr"
+		body: "content: '\\\\e35b';"
+	"content: '\\e032';":
+		prefix: "st-icon-twitter"
+		body: "content: '\\\\e032';"
+	"content: '\\e362';":
+		prefix: "st-icon-vimeo"
+		body: "content: '\\\\e362';"
+	"content: '\\e36b';":
+		prefix: "st-icon-vine"
+		body: "content: '\\\\e36b';"
+	"content: '\\e372';":
+		prefix: "st-icon-windows"
+		body: "content: '\\\\e372';"
+	"content: '\\e382';":
+		prefix: "st-icon-windows7"
+		body: "content: '\\\\e382';"
+	"content: '\\e38b';":
+		prefix: "st-icon-wordpress"
+		body: "content: '\\\\e38b';"
+	"content: '\\e392';":
+		prefix: "st-icon-xing"
+		body: "content: '\\\\e392';"
+	"content: '\\e39b';":
+		prefix: "st-icon-yahoo"
+		body: "content: '\\\\e39b';"
+	"content: '\\e402';":
+		prefix: "st-icon-yelp"
+		body: "content: '\\\\e402';"
+	"content: '\\e412';":
+		prefix: "st-icon-youtube"
+		body: "content: '\\\\e412';"
+	"content: '\\e422';":
+		prefix: "st-icon-youtube-alt"
+		body: "content: '\\\\e422';"
+	"content: '\\e422';":
+		prefix: "st-icon-youtube-alt-sm"
+		body: "content: '\\\\e422';"
+	"content: '\\e412';":
+		prefix: "st-icon-youtube2"
+		body: "content: '\\\\e412';"
+	"content: '\\e432';":
+		prefix: "st-icon-zerply"
+		body: "content: '\\\\e432';"

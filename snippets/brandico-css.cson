@@ -1,0 +1,136 @@
+".source.css,.source.sass":
+	"content: '\\f326';":
+		prefix: "brandico-amex"
+		body: "content: '\\\\f326';"
+	"content: '\\f32b';":
+		prefix: "brandico-bandcamp"
+		body: "content: '\\\\f32b';"
+	"content: '\\f314';":
+		prefix: "brandico-blogger"
+		body: "content: '\\\\f314';"
+	"content: '\\f315';":
+		prefix: "brandico-blogger-rect"
+		body: "content: '\\\\f315';"
+	"content: '\\f321';":
+		prefix: "brandico-box"
+		body: "content: '\\\\f321';"
+	"content: '\\f322';":
+		prefix: "brandico-box-rect"
+		body: "content: '\\\\f322';"
+	"content: '\\f32c';":
+		prefix: "brandico-codepen"
+		body: "content: '\\\\f32c';"
+	"content: '\\f316';":
+		prefix: "brandico-deviantart"
+		body: "content: '\\\\f316';"
+	"content: '\\f320';":
+		prefix: "brandico-diigo"
+		body: "content: '\\\\f320';"
+	"content: '\\f327';":
+		prefix: "brandico-discover"
+		body: "content: '\\\\f327';"
+	"content: '\\f300';":
+		prefix: "brandico-facebook"
+		body: "content: '\\\\f300';"
+	"content: '\\f301';":
+		prefix: "brandico-facebook-rect"
+		body: "content: '\\\\f301';"
+	"content: '\\f312';":
+		prefix: "brandico-friendfeed"
+		body: "content: '\\\\f312';"
+	"content: '\\f313';":
+		prefix: "brandico-friendfeed-rect"
+		body: "content: '\\\\f313';"
+	"content: '\\f308';":
+		prefix: "brandico-github"
+		body: "content: '\\\\f308';"
+	"content: '\\f307';":
+		prefix: "brandico-github-text"
+		body: "content: '\\\\f307';"
+	"content: '\\f309';":
+		prefix: "brandico-googleplus-rect"
+		body: "content: '\\\\f309';"
+	"content: '\\f32a';":
+		prefix: "brandico-houzz"
+		body: "content: '\\\\f32a';"
+	"content: '\\f304';":
+		prefix: "brandico-icq"
+		body: "content: '\\\\f304';"
+	"content: '\\f31e';":
+		prefix: "brandico-instagram"
+		body: "content: '\\\\f31e';"
+	"content: '\\f31f';":
+		prefix: "brandico-instagram-filled"
+		body: "content: '\\\\f31f';"
+	"content: '\\f317';":
+		prefix: "brandico-jabber"
+		body: "content: '\\\\f317';"
+	"content: '\\f318';":
+		prefix: "brandico-lastfm"
+		body: "content: '\\\\f318';"
+	"content: '\\f319';":
+		prefix: "brandico-lastfm-rect"
+		body: "content: '\\\\f319';"
+	"content: '\\f31a';":
+		prefix: "brandico-linkedin"
+		body: "content: '\\\\f31a';"
+	"content: '\\f31b';":
+		prefix: "brandico-linkedin-rect"
+		body: "content: '\\\\f31b';"
+	"content: '\\f329';":
+		prefix: "brandico-mastercard"
+		body: "content: '\\\\f329';"
+	"content: '\\f30c';":
+		prefix: "brandico-odnoklassniki"
+		body: "content: '\\\\f30c';"
+	"content: '\\f30d';":
+		prefix: "brandico-odnoklassniki-rect"
+		body: "content: '\\\\f30d';"
+	"content: '\\f31c';":
+		prefix: "brandico-picasa"
+		body: "content: '\\\\f31c';"
+	"content: '\\f30b';":
+		prefix: "brandico-skype"
+		body: "content: '\\\\f30b';"
+	"content: '\\f323';":
+		prefix: "brandico-tudou"
+		body: "content: '\\\\f323';"
+	"content: '\\f311';":
+		prefix: "brandico-tumblr"
+		body: "content: '\\\\f311';"
+	"content: '\\f310';":
+		prefix: "brandico-tumblr-rect"
+		body: "content: '\\\\f310';"
+	"content: '\\f302';":
+		prefix: "brandico-twitter"
+		body: "content: '\\\\f302';"
+	"content: '\\f303';":
+		prefix: "brandico-twitter-bird"
+		body: "content: '\\\\f303';"
+	"content: '\\f30f';":
+		prefix: "brandico-vimeo"
+		body: "content: '\\\\f30f';"
+	"content: '\\f30e';":
+		prefix: "brandico-vimeo-rect"
+		body: "content: '\\\\f30e';"
+	"content: '\\f328';":
+		prefix: "brandico-visa"
+		body: "content: '\\\\f328';"
+	"content: '\\f30a';":
+		prefix: "brandico-vkontakte-rect"
+		body: "content: '\\\\f30a';"
+	"content: '\\f325';":
+		prefix: "brandico-win8"
+		body: "content: '\\\\f325';"
+	"content: '\\f31d';":
+		prefix: "brandico-wordpress"
+		body: "content: '\\\\f31d';"
+	"content: '\\f305';":
+		prefix: "brandico-yandex"
+		body: "content: '\\\\f305';"
+	"content: '\\f306';":
+		prefix: "brandico-yandex-rect"
+		body: "content: '\\\\f306';"
+	"content: '\\f324';":
+		prefix: "brandico-youku"
+		body: "content: '\\\\f324';"

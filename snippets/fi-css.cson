@@ -1,0 +1,310 @@
+".source.css,.source.sass":
+	"content: '\\f019';":
+		prefix: "fi-add-doc"
+		body: "content: '\\\\f019';"
+	"content: '\\f025';":
+		prefix: "fi-address-book"
+		body: "content: '\\\\f025';"
+	"content: '\\f009';":
+		prefix: "fi-adult"
+		body: "content: '\\\\f009';"
+	"content: '\\f006';":
+		prefix: "fi-asl"
+		body: "content: '\\\\f006';"
+	"content: '\\f00b';":
+		prefix: "fi-behance"
+		body: "content: '\\\\f00b';"
+	"content: '\\f00d';":
+		prefix: "fi-blind"
+		body: "content: '\\\\f00d';"
+	"content: '\\f00e';":
+		prefix: "fi-braille"
+		body: "content: '\\\\f00e';"
+	"content: '\\f008';":
+		prefix: "fi-calendar"
+		body: "content: '\\\\f008';"
+	"content: '\\f024';":
+		prefix: "fi-cart"
+		body: "content: '\\\\f024';"
+	"content: '\\f00c';":
+		prefix: "fi-cc"
+		body: "content: '\\\\f00c';"
+	"content: '\\f018';":
+		prefix: "fi-chat"
+		body: "content: '\\\\f018';"
+	"content: '\\f005';":
+		prefix: "fi-checkmark"
+		body: "content: '\\\\f005';"
+	"content: '\\f00a';":
+		prefix: "fi-child"
+		body: "content: '\\\\f00a';"
+	"content: '\\f029';":
+		prefix: "fi-clock"
+		body: "content: '\\\\f029';"
+	"content: '\\f012';":
+		prefix: "fi-cloud"
+		body: "content: '\\\\f012';"
+	"content: '\\f026';":
+		prefix: "fi-compass"
+		body: "content: '\\\\f026';"
+	"content: '\\f011';":
+		prefix: "fi-css"
+		body: "content: '\\\\f011';"
+	"content: '\\f017';":
+		prefix: "fi-delicious"
+		body: "content: '\\\\f017';"
+	"content: '\\f01c';":
+		prefix: "fi-digg"
+		body: "content: '\\\\f01c';"
+	"content: '\\f017';":
+		prefix: "fi-down-arrow"
+		body: "content: '\\\\f017';"
+	"content: '\\f009';":
+		prefix: "fi-dribbble"
+		body: "content: '\\\\f009';"
+	"content: '\\f01a';":
+		prefix: "fi-edit"
+		body: "content: '\\\\f01a';"
+	"content: '\\f003';":
+		prefix: "fi-eject"
+		body: "content: '\\\\f003';"
+	"content: '\\f019';":
+		prefix: "fi-elevator"
+		body: "content: '\\\\f019';"
+	"content: '\\f013';":
+		prefix: "fi-error"
+		body: "content: '\\\\f013';"
+	"content: '\\f005';":
+		prefix: "fi-eyeball"
+		body: "content: '\\\\f005';"
+	"content: '\\f003';":
+		prefix: "fi-facebook"
+		body: "content: '\\\\f003';"
+	"content: '\\f015';":
+		prefix: "fi-female"
+		body: "content: '\\\\f015';"
+	"content: '\\f027';":
+		prefix: "fi-flag"
+		body: "content: '\\\\f027';"
+	"content: '\\f010';":
+		prefix: "fi-flickr"
+		body: "content: '\\\\f010';"
+	"content: '\\f02a';":
+		prefix: "fi-folder"
+		body: "content: '\\\\f02a';"
+	"content: '\\f002';":
+		prefix: "fi-fontsize"
+		body: "content: '\\\\f002';"
+	"content: '\\f016';":
+		prefix: "fi-foursquare"
+		body: "content: '\\\\f016';"
+	"content: '\\f006';":
+		prefix: "fi-github"
+		body: "content: '\\\\f006';"
+	"content: '\\f00b';":
+		prefix: "fi-glasses"
+		body: "content: '\\\\f00b';"
+	"content: '\\f00b';":
+		prefix: "fi-globe"
+		body: "content: '\\\\f00b';"
+	"content: '\\f00d';":
+		prefix: "fi-google-plus"
+		body: "content: '\\\\f00d';"
+	"content: '\\f021';":
+		prefix: "fi-graph"
+		body: "content: '\\\\f021';"
+	"content: '\\f017';":
+		prefix: "fi-guidedog"
+		body: "content: '\\\\f017';"
+	"content: '\\f013';":
+		prefix: "fi-hearing-impaired"
+		body: "content: '\\\\f013';"
+	"content: '\\f001';":
+		prefix: "fi-heart"
+		body: "content: '\\\\f001';"
+	"content: '\\f00c';":
+		prefix: "fi-home"
+		body: "content: '\\\\f00c';"
+	"content: '\\f022';":
+		prefix: "fi-idea"
+		body: "content: '\\\\f022';"
+	"content: '\\f02b';":
+		prefix: "fi-inbox"
+		body: "content: '\\\\f02b';"
+	"content: '\\f015';":
+		prefix: "fi-instagram"
+		body: "content: '\\\\f015';"
+	"content: '\\f00f';":
+		prefix: "fi-iphone-home"
+		body: "content: '\\\\f00f';"
+	"content: '\\f012';":
+		prefix: "fi-key"
+		body: "content: '\\\\f012';"
+	"content: '\\f010';":
+		prefix: "fi-laptop"
+		body: "content: '\\\\f010';"
+	"content: '\\f015';":
+		prefix: "fi-left-arrow"
+		body: "content: '\\\\f015';"
+	"content: '\\f008';":
+		prefix: "fi-linkedin"
+		body: "content: '\\\\f008';"
+	"content: '\\f028';":
+		prefix: "fi-location"
+		body: "content: '\\\\f028';"
+	"content: '\\f01b';":
+		prefix: "fi-lock"
+		body: "content: '\\\\f01b';"
+	"content: '\\f007';":
+		prefix: "fi-mail"
+		body: "content: '\\\\f007';"
+	"content: '\\f014';":
+		prefix: "fi-male"
+		body: "content: '\\\\f014';"
+	"content: '\\f023';":
+		prefix: "fi-mic"
+		body: "content: '\\\\f023';"
+	"content: '\\f004';":
+		prefix: "fi-minus"
+		body: "content: '\\\\f004';"
+	"content: '\\f00f';":
+		prefix: "fi-monitor"
+		body: "content: '\\\\f00f';"
+	"content: '\\f016';":
+		prefix: "fi-network"
+		body: "content: '\\\\f016';"
+	"content: '\\f009';":
+		prefix: "fi-page"
+		body: "content: '\\\\f009';"
+	"content: '\\f01e';":
+		prefix: "fi-paper-clip"
+		body: "content: '\\\\f01e';"
+	"content: '\\f007';":
+		prefix: "fi-path"
+		body: "content: '\\\\f007';"
+	"content: '\\f00e';":
+		prefix: "fi-people"
+		body: "content: '\\\\f00e';"
+	"content: '\\f007';":
+		prefix: "fi-person"
+		body: "content: '\\\\f007';"
+	"content: '\\f011';":
+		prefix: "fi-phone"
+		body: "content: '\\\\f011';"
+	"content: '\\f020';":
+		prefix: "fi-photo"
+		body: "content: '\\\\f020';"
+	"content: '\\f012';":
+		prefix: "fi-picassa"
+		body: "content: '\\\\f012';"
+	"content: '\\f005';":
+		prefix: "fi-pinterest"
+		body: "content: '\\\\f005';"
+	"content: '\\f003';":
+		prefix: "fi-plus"
+		body: "content: '\\\\f003';"
+	"content: '\\f008';":
+		prefix: "fi-question"
+		body: "content: '\\\\f008';"
+	"content: '\\f00d';":
+		prefix: "fi-quote"
+		body: "content: '\\\\f00d';"
+	"content: '\\f00c';":
+		prefix: "fi-reddit"
+		body: "content: '\\\\f00c';"
+	"content: '\\f01d';":
+		prefix: "fi-refresh"
+		body: "content: '\\\\f01d';"
+	"content: '\\f006';":
+		prefix: "fi-remove"
+		body: "content: '\\\\f006';"
+	"content: '\\f014';":
+		prefix: "fi-right-arrow"
+		body: "content: '\\\\f014';"
+	"content: '\\f002';":
+		prefix: "fi-rss"
+		body: "content: '\\\\f002';"
+	"content: '\\f02e';":
+		prefix: "fi-search"
+		body: "content: '\\\\f02e';"
+	"content: '\\f000';":
+		prefix: "fi-settings"
+		body: "content: '\\\\f000';"
+	"content: '\\f013';":
+		prefix: "fi-skype"
+		body: "content: '\\\\f013';"
+	"content: '\\f011';":
+		prefix: "fi-slideshare"
+		body: "content: '\\\\f011';"
+	"content: '\\f02d';":
+		prefix: "fi-smiley"
+		body: "content: '\\\\f02d';"
+	"content: '\\f001';":
+		prefix: "fi-speaker"
+		body: "content: '\\\\f001';"
+	"content: '\\f002';":
+		prefix: "fi-star"
+		body: "content: '\\\\f002';"
+	"content: '\\f014';":
+		prefix: "fi-steam"
+		body: "content: '\\\\f014';"
+	"content: '\\f00a';":
+		prefix: "fi-stumble-upon"
+		body: "content: '\\\\f00a';"
+	"content: '\\f001';":
+		prefix: "fi-thumb-down"
+		body: "content: '\\\\f001';"
+	"content: '\\f000';":
+		prefix: "fi-thumb-up"
+		body: "content: '\\\\f000';"
+	"content: '\\f00a';":
+		prefix: "fi-tools"
+		body: "content: '\\\\f00a';"
+	"content: '\\f019';":
+		prefix: "fi-torso"
+		body: "content: '\\\\f019';"
+	"content: '\\f018';":
+		prefix: "fi-trash"
+		body: "content: '\\\\f018';"
+	"content: '\\f01a';":
+		prefix: "fi-tumblr"
+		body: "content: '\\\\f01a';"
+	"content: '\\f004';":
+		prefix: "fi-twitter"
+		body: "content: '\\\\f004';"
+	"content: '\\f018';":
+		prefix: "fi-universal-access"
+		body: "content: '\\\\f018';"
+	"content: '\\f01c';":
+		prefix: "fi-unlock"
+		body: "content: '\\\\f01c';"
+	"content: '\\f016';":
+		prefix: "fi-up-arrow"
+		body: "content: '\\\\f016';"
+	"content: '\\f01f';":
+		prefix: "fi-video"
+		body: "content: '\\\\f01f';"
+	"content: '\\f01b';":
+		prefix: "fi-video-chat"
+		body: "content: '\\\\f01b';"
+	"content: '\\f004';":
+		prefix: "fi-view-mode"
+		body: "content: '\\\\f004';"
+	"content: '\\f00f';":
+		prefix: "fi-vimeo"
+		body: "content: '\\\\f00f';"
+	"content: '\\f010';":
+		prefix: "fi-w3c"
+		body: "content: '\\\\f010';"
+	"content: '\\f02c';":
+		prefix: "fi-website"
+		body: "content: '\\\\f02c';"
+	"content: '\\f000';":
+		prefix: "fi-wheelchair"
+		body: "content: '\\\\f000';"
+	"content: '\\f01d';":
+		prefix: "fi-wordpress"
+		body: "content: '\\\\f01d';"
+	"content: '\\f00e';":
+		prefix: "fi-youtube"
+		body: "content: '\\\\f00e';"

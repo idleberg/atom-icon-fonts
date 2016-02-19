@@ -1,0 +1,2659 @@
+".source.css,.source.sass":
+	"content: '\\f101';":
+		prefix: "zmdi-3d-rotation"
+		body: "content: '\\\\f101';"
+	"content: '\\f3ee';":
+		prefix: "zmdi-500px"
+		body: "content: '\\\\f3ee';"
+	"content: '\\f3ef';":
+		prefix: "zmdi-8tracks"
+		body: "content: '\\\\f3ef';"
+	"content: '\\f207';":
+		prefix: "zmdi-account"
+		body: "content: '\\\\f207';"
+	"content: '\\f1ff';":
+		prefix: "zmdi-account-add"
+		body: "content: '\\\\f1ff';"
+	"content: '\\f203';":
+		prefix: "zmdi-account-box"
+		body: "content: '\\\\f203';"
+	"content: '\\f200';":
+		prefix: "zmdi-account-box-mail"
+		body: "content: '\\\\f200';"
+	"content: '\\f201';":
+		prefix: "zmdi-account-box-o"
+		body: "content: '\\\\f201';"
+	"content: '\\f202';":
+		prefix: "zmdi-account-box-phone"
+		body: "content: '\\\\f202';"
+	"content: '\\f204';":
+		prefix: "zmdi-account-calendar"
+		body: "content: '\\\\f204';"
+	"content: '\\f205';":
+		prefix: "zmdi-account-circle"
+		body: "content: '\\\\f205';"
+	"content: '\\f206';":
+		prefix: "zmdi-account-o"
+		body: "content: '\\\\f206';"
+	"content: '\\f20d';":
+		prefix: "zmdi-accounts"
+		body: "content: '\\\\f20d';"
+	"content: '\\f208';":
+		prefix: "zmdi-accounts-add"
+		body: "content: '\\\\f208';"
+	"content: '\\f209';":
+		prefix: "zmdi-accounts-alt"
+		body: "content: '\\\\f209';"
+	"content: '\\f20b';":
+		prefix: "zmdi-accounts-list"
+		body: "content: '\\\\f20b';"
+	"content: '\\f20a';":
+		prefix: "zmdi-accounts-list-alt"
+		body: "content: '\\\\f20a';"
+	"content: '\\f20c';":
+		prefix: "zmdi-accounts-outline"
+		body: "content: '\\\\f20c';"
+	"content: '\\f33a';":
+		prefix: "zmdi-adb"
+		body: "content: '\\\\f33a';"
+	"content: '\\f3cb';":
+		prefix: "zmdi-airline-seat-flat"
+		body: "content: '\\\\f3cb';"
+	"content: '\\f3ca';":
+		prefix: "zmdi-airline-seat-flat-angled"
+		body: "content: '\\\\f3ca';"
+	"content: '\\f3cc';":
+		prefix: "zmdi-airline-seat-individual-suite"
+		body: "content: '\\\\f3cc';"
+	"content: '\\f3cd';":
+		prefix: "zmdi-airline-seat-legroom-extra"
+		body: "content: '\\\\f3cd';"
+	"content: '\\f3ce';":
+		prefix: "zmdi-airline-seat-legroom-normal"
+		body: "content: '\\\\f3ce';"
+	"content: '\\f3cf';":
+		prefix: "zmdi-airline-seat-legroom-reduced"
+		body: "content: '\\\\f3cf';"
+	"content: '\\f3d0';":
+		prefix: "zmdi-airline-seat-recline-extra"
+		body: "content: '\\\\f3d0';"
+	"content: '\\f3d1';":
+		prefix: "zmdi-airline-seat-recline-normal"
+		body: "content: '\\\\f3d1';"
+	"content: '\\f103';":
+		prefix: "zmdi-airplane"
+		body: "content: '\\\\f103';"
+	"content: '\\f102';":
+		prefix: "zmdi-airplane-off"
+		body: "content: '\\\\f102';"
+	"content: '\\f103';":
+		prefix: "zmdi-airplanemode-active"
+		body: "content: '\\\\f103';"
+	"content: '\\f102';":
+		prefix: "zmdi-airplanemode-inactive"
+		body: "content: '\\\\f102';"
+	"content: '\\f3d2';":
+		prefix: "zmdi-airplay"
+		body: "content: '\\\\f3d2';"
+	"content: '\\f32d';":
+		prefix: "zmdi-alarm"
+		body: "content: '\\\\f32d';"
+	"content: '\\f32b';":
+		prefix: "zmdi-alarm-add"
+		body: "content: '\\\\f32b';"
+	"content: '\\f329';":
+		prefix: "zmdi-alarm-check"
+		body: "content: '\\\\f329';"
+	"content: '\\f32a';":
+		prefix: "zmdi-alarm-off"
+		body: "content: '\\\\f32a';"
+	"content: '\\f32b';":
+		prefix: "zmdi-alarm-plus"
+		body: "content: '\\\\f32b';"
+	"content: '\\f32c';":
+		prefix: "zmdi-alarm-snooze"
+		body: "content: '\\\\f32c';"
+	"content: '\\f104';":
+		prefix: "zmdi-album"
+		body: "content: '\\\\f104';"
+	"content: '\\f1f1';":
+		prefix: "zmdi-alert-circle"
+		body: "content: '\\\\f1f1';"
+	"content: '\\f1f0';":
+		prefix: "zmdi-alert-circle-o"
+		body: "content: '\\\\f1f0';"
+	"content: '\\f1f2';":
+		prefix: "zmdi-alert-octagon"
+		body: "content: '\\\\f1f2';"
+	"content: '\\f1f3';":
+		prefix: "zmdi-alert-polygon"
+		body: "content: '\\\\f1f3';"
+	"content: '\\f1f4';":
+		prefix: "zmdi-alert-triangle"
+		body: "content: '\\\\f1f4';"
+	"content: '\\f3f0';":
+		prefix: "zmdi-amazon"
+		body: "content: '\\\\f3f0';"
+	"content: '\\f33b';":
+		prefix: "zmdi-android"
+		body: "content: '\\\\f33b';"
+	"content: '\\f33a';":
+		prefix: "zmdi-android-alt"
+		body: "content: '\\\\f33a';"
+	"content: '\\f33c';":
+		prefix: "zmdi-apple"
+		body: "content: '\\\\f33c';"
+	"content: '\\f313';":
+		prefix: "zmdi-apps"
+		body: "content: '\\\\f313';"
+	"content: '\\f105';":
+		prefix: "zmdi-archive"
+		body: "content: '\\\\f105';"
+	"content: '\\f2ea';":
+		prefix: "zmdi-arrow-back"
+		body: "content: '\\\\f2ea';"
+	"content: '\\f2ee';":
+		prefix: "zmdi-arrow-forward"
+		body: "content: '\\\\f2ee';"
+	"content: '\\f2e9';":
+		prefix: "zmdi-arrow-in"
+		body: "content: '\\\\f2e9';"
+	"content: '\\f2ea';":
+		prefix: "zmdi-arrow-left"
+		body: "content: '\\\\f2ea';"
+	"content: '\\f2e9';":
+		prefix: "zmdi-arrow-left-bottom"
+		body: "content: '\\\\f2e9';"
+	"content: '\\f2eb';":
+		prefix: "zmdi-arrow-merge"
+		body: "content: '\\\\f2eb';"
+	"content: '\\f2ec';":
+		prefix: "zmdi-arrow-missed"
+		body: "content: '\\\\f2ec';"
+	"content: '\\f2ed';":
+		prefix: "zmdi-arrow-out"
+		body: "content: '\\\\f2ed';"
+	"content: '\\f2ee';":
+		prefix: "zmdi-arrow-right"
+		body: "content: '\\\\f2ee';"
+	"content: '\\f2ed';":
+		prefix: "zmdi-arrow-right-top"
+		body: "content: '\\\\f2ed';"
+	"content: '\\f2ef';":
+		prefix: "zmdi-arrow-split"
+		body: "content: '\\\\f2ef';"
+	"content: '\\f2f0';":
+		prefix: "zmdi-arrows"
+		body: "content: '\\\\f2f0';"
+	"content: '\\f365';":
+		prefix: "zmdi-aspect-ratio"
+		body: "content: '\\\\f365';"
+	"content: '\\f364';":
+		prefix: "zmdi-aspect-ratio-alt"
+		body: "content: '\\\\f364';"
+	"content: '\\f10c';":
+		prefix: "zmdi-assignment"
+		body: "content: '\\\\f10c';"
+	"content: '\\f106';":
+		prefix: "zmdi-assignment-account"
+		body: "content: '\\\\f106';"
+	"content: '\\f107';":
+		prefix: "zmdi-assignment-alert"
+		body: "content: '\\\\f107';"
+	"content: '\\f108';":
+		prefix: "zmdi-assignment-check"
+		body: "content: '\\\\f108';"
+	"content: '\\f109';":
+		prefix: "zmdi-assignment-o"
+		body: "content: '\\\\f109';"
+	"content: '\\f10a';":
+		prefix: "zmdi-assignment-return"
+		body: "content: '\\\\f10a';"
+	"content: '\\f10b';":
+		prefix: "zmdi-assignment-returned"
+		body: "content: '\\\\f10b';"
+	"content: '\\f10e';":
+		prefix: "zmdi-attachment"
+		body: "content: '\\\\f10e';"
+	"content: '\\f10d';":
+		prefix: "zmdi-attachment-alt"
+		body: "content: '\\\\f10d';"
+	"content: '\\f10f';":
+		prefix: "zmdi-audio"
+		body: "content: '\\\\f10f';"
+	"content: '\\f110';":
+		prefix: "zmdi-badge-check"
+		body: "content: '\\\\f110';"
+	"content: '\\f112';":
+		prefix: "zmdi-balance"
+		body: "content: '\\\\f112';"
+	"content: '\\f111';":
+		prefix: "zmdi-balance-wallet"
+		body: "content: '\\\\f111';"
+	"content: '\\f116';":
+		prefix: "zmdi-battery"
+		body: "content: '\\\\f116';"
+	"content: '\\f113';":
+		prefix: "zmdi-battery-alert"
+		body: "content: '\\\\f113';"
+	"content: '\\f114';":
+		prefix: "zmdi-battery-charging"
+		body: "content: '\\\\f114';"
+	"content: '\\f114';":
+		prefix: "zmdi-battery-flash"
+		body: "content: '\\\\f114';"
+	"content: '\\f115';":
+		prefix: "zmdi-battery-unknown"
+		body: "content: '\\\\f115';"
+	"content: '\\f33d';":
+		prefix: "zmdi-behance"
+		body: "content: '\\\\f33d';"
+	"content: '\\f117';":
+		prefix: "zmdi-bike"
+		body: "content: '\\\\f117';"
+	"content: '\\f119';":
+		prefix: "zmdi-block"
+		body: "content: '\\\\f119';"
+	"content: '\\f118';":
+		prefix: "zmdi-block-alt"
+		body: "content: '\\\\f118';"
+	"content: '\\f3f1';":
+		prefix: "zmdi-blogger"
+		body: "content: '\\\\f3f1';"
+	"content: '\\f282';":
+		prefix: "zmdi-bluetooth"
+		body: "content: '\\\\f282';"
+	"content: '\\f27e';":
+		prefix: "zmdi-bluetooth-connected"
+		body: "content: '\\\\f27e';"
+	"content: '\\f27f';":
+		prefix: "zmdi-bluetooth-off"
+		body: "content: '\\\\f27f';"
+	"content: '\\f280';":
+		prefix: "zmdi-bluetooth-search"
+		body: "content: '\\\\f280';"
+	"content: '\\f281';":
+		prefix: "zmdi-bluetooth-setting"
+		body: "content: '\\\\f281';"
+	"content: '\\f369';":
+		prefix: "zmdi-blur"
+		body: "content: '\\\\f369';"
+	"content: '\\f366';":
+		prefix: "zmdi-blur-circular"
+		body: "content: '\\\\f366';"
+	"content: '\\f367';":
+		prefix: "zmdi-blur-linear"
+		body: "content: '\\\\f367';"
+	"content: '\\f368';":
+		prefix: "zmdi-blur-off"
+		body: "content: '\\\\f368';"
+	"content: '\\f11a';":
+		prefix: "zmdi-boat"
+		body: "content: '\\\\f11a';"
+	"content: '\\f11c';":
+		prefix: "zmdi-book"
+		body: "content: '\\\\f11c';"
+	"content: '\\f11b';":
+		prefix: "zmdi-book-image"
+		body: "content: '\\\\f11b';"
+	"content: '\\f11b';":
+		prefix: "zmdi-book-photo"
+		body: "content: '\\\\f11b';"
+	"content: '\\f11e';":
+		prefix: "zmdi-bookmark"
+		body: "content: '\\\\f11e';"
+	"content: '\\f11d';":
+		prefix: "zmdi-bookmark-outline"
+		body: "content: '\\\\f11d';"
+	"content: '\\f22b';":
+		prefix: "zmdi-border-all"
+		body: "content: '\\\\f22b';"
+	"content: '\\f22c';":
+		prefix: "zmdi-border-bottom"
+		body: "content: '\\\\f22c';"
+	"content: '\\f22d';":
+		prefix: "zmdi-border-clear"
+		body: "content: '\\\\f22d';"
+	"content: '\\f22e';":
+		prefix: "zmdi-border-color"
+		body: "content: '\\\\f22e';"
+	"content: '\\f22f';":
+		prefix: "zmdi-border-horizontal"
+		body: "content: '\\\\f22f';"
+	"content: '\\f230';":
+		prefix: "zmdi-border-inner"
+		body: "content: '\\\\f230';"
+	"content: '\\f231';":
+		prefix: "zmdi-border-left"
+		body: "content: '\\\\f231';"
+	"content: '\\f232';":
+		prefix: "zmdi-border-outer"
+		body: "content: '\\\\f232';"
+	"content: '\\f233';":
+		prefix: "zmdi-border-right"
+		body: "content: '\\\\f233';"
+	"content: '\\f234';":
+		prefix: "zmdi-border-style"
+		body: "content: '\\\\f234';"
+	"content: '\\f235';":
+		prefix: "zmdi-border-top"
+		body: "content: '\\\\f235';"
+	"content: '\\f236';":
+		prefix: "zmdi-border-vertical"
+		body: "content: '\\\\f236';"
+	"content: '\\f36a';":
+		prefix: "zmdi-brightness-2"
+		body: "content: '\\\\f36a';"
+	"content: '\\f36b';":
+		prefix: "zmdi-brightness-3"
+		body: "content: '\\\\f36b';"
+	"content: '\\f36c';":
+		prefix: "zmdi-brightness-4"
+		body: "content: '\\\\f36c';"
+	"content: '\\f36d';":
+		prefix: "zmdi-brightness-5"
+		body: "content: '\\\\f36d';"
+	"content: '\\f36e';":
+		prefix: "zmdi-brightness-6"
+		body: "content: '\\\\f36e';"
+	"content: '\\f36f';":
+		prefix: "zmdi-brightness-7"
+		body: "content: '\\\\f36f';"
+	"content: '\\f370';":
+		prefix: "zmdi-brightness-auto"
+		body: "content: '\\\\f370';"
+	"content: '\\f36f';":
+		prefix: "zmdi-brightness-high"
+		body: "content: '\\\\f36f';"
+	"content: '\\f36d';":
+		prefix: "zmdi-brightness-low"
+		body: "content: '\\\\f36d';"
+	"content: '\\f36e';":
+		prefix: "zmdi-brightness-medium"
+		body: "content: '\\\\f36e';"
+	"content: '\\f371';":
+		prefix: "zmdi-brightness-setting"
+		body: "content: '\\\\f371';"
+	"content: '\\f372';":
+		prefix: "zmdi-broken-image"
+		body: "content: '\\\\f372';"
+	"content: '\\f11f';":
+		prefix: "zmdi-brush"
+		body: "content: '\\\\f11f';"
+	"content: '\\f120';":
+		prefix: "zmdi-bug"
+		body: "content: '\\\\f120';"
+	"content: '\\f121';":
+		prefix: "zmdi-bus"
+		body: "content: '\\\\f121';"
+	"content: '\\f122';":
+		prefix: "zmdi-cake"
+		body: "content: '\\\\f122';"
+	"content: '\\f332';":
+		prefix: "zmdi-calendar"
+		body: "content: '\\\\f332';"
+	"content: '\\f204';":
+		prefix: "zmdi-calendar-account"
+		body: "content: '\\\\f204';"
+	"content: '\\f32e';":
+		prefix: "zmdi-calendar-alt"
+		body: "content: '\\\\f32e';"
+	"content: '\\f32f';":
+		prefix: "zmdi-calendar-check"
+		body: "content: '\\\\f32f';"
+	"content: '\\f330';":
+		prefix: "zmdi-calendar-close"
+		body: "content: '\\\\f330';"
+	"content: '\\f331';":
+		prefix: "zmdi-calendar-note"
+		body: "content: '\\\\f331';"
+	"content: '\\f330';":
+		prefix: "zmdi-calendar-remove"
+		body: "content: '\\\\f330';"
+	"content: '\\f28c';":
+		prefix: "zmdi-camera"
+		body: "content: '\\\\f28c';"
+	"content: '\\f283';":
+		prefix: "zmdi-camera-add"
+		body: "content: '\\\\f283';"
+	"content: '\\f284';":
+		prefix: "zmdi-camera-alt"
+		body: "content: '\\\\f284';"
+	"content: '\\f285';":
+		prefix: "zmdi-camera-bw"
+		body: "content: '\\\\f285';"
+	"content: '\\f286';":
+		prefix: "zmdi-camera-front"
+		body: "content: '\\\\f286';"
+	"content: '\\f287';":
+		prefix: "zmdi-camera-mic"
+		body: "content: '\\\\f287';"
+	"content: '\\f285';":
+		prefix: "zmdi-camera-monochrome-photos"
+		body: "content: '\\\\f285';"
+	"content: '\\f288';":
+		prefix: "zmdi-camera-party-mode"
+		body: "content: '\\\\f288';"
+	"content: '\\f289';":
+		prefix: "zmdi-camera-rear"
+		body: "content: '\\\\f289';"
+	"content: '\\f28a';":
+		prefix: "zmdi-camera-roll"
+		body: "content: '\\\\f28a';"
+	"content: '\\f28b';":
+		prefix: "zmdi-camera-switch"
+		body: "content: '\\\\f28b';"
+	"content: '\\f125';":
+		prefix: "zmdi-car"
+		body: "content: '\\\\f125';"
+	"content: '\\f123';":
+		prefix: "zmdi-car-taxi"
+		body: "content: '\\\\f123';"
+	"content: '\\f124';":
+		prefix: "zmdi-car-wash"
+		body: "content: '\\\\f124';"
+	"content: '\\f129';":
+		prefix: "zmdi-card"
+		body: "content: '\\\\f129';"
+	"content: '\\f28d';":
+		prefix: "zmdi-card-alert"
+		body: "content: '\\\\f28d';"
+	"content: '\\f126';":
+		prefix: "zmdi-card-giftcard"
+		body: "content: '\\\\f126';"
+	"content: '\\f127';":
+		prefix: "zmdi-card-membership"
+		body: "content: '\\\\f127';"
+	"content: '\\f28e';":
+		prefix: "zmdi-card-off"
+		body: "content: '\\\\f28e';"
+	"content: '\\f28f';":
+		prefix: "zmdi-card-sd"
+		body: "content: '\\\\f28f';"
+	"content: '\\f290';":
+		prefix: "zmdi-card-sim"
+		body: "content: '\\\\f290';"
+	"content: '\\f128';":
+		prefix: "zmdi-card-travel"
+		body: "content: '\\\\f128';"
+	"content: '\\f2f2';":
+		prefix: "zmdi-caret-down"
+		body: "content: '\\\\f2f2';"
+	"content: '\\f2f1';":
+		prefix: "zmdi-caret-down-circle"
+		body: "content: '\\\\f2f1';"
+	"content: '\\f2f4';":
+		prefix: "zmdi-caret-left"
+		body: "content: '\\\\f2f4';"
+	"content: '\\f2f3';":
+		prefix: "zmdi-caret-left-circle"
+		body: "content: '\\\\f2f3';"
+	"content: '\\f2f6';":
+		prefix: "zmdi-caret-right"
+		body: "content: '\\\\f2f6';"
+	"content: '\\f2f5';":
+		prefix: "zmdi-caret-right-circle"
+		body: "content: '\\\\f2f5';"
+	"content: '\\f2f8';":
+		prefix: "zmdi-caret-up"
+		body: "content: '\\\\f2f8';"
+	"content: '\\f2f7';":
+		prefix: "zmdi-caret-up-circle"
+		body: "content: '\\\\f2f7';"
+	"content: '\\f12d';":
+		prefix: "zmdi-case"
+		body: "content: '\\\\f12d';"
+	"content: '\\f12a';":
+		prefix: "zmdi-case-check"
+		body: "content: '\\\\f12a';"
+	"content: '\\f12b';":
+		prefix: "zmdi-case-download"
+		body: "content: '\\\\f12b';"
+	"content: '\\f12c';":
+		prefix: "zmdi-case-play"
+		body: "content: '\\\\f12c';"
+	"content: '\\f12f';":
+		prefix: "zmdi-cast"
+		body: "content: '\\\\f12f';"
+	"content: '\\f12e';":
+		prefix: "zmdi-cast-connected"
+		body: "content: '\\\\f12e';"
+	"content: '\\f373';":
+		prefix: "zmdi-center-focus-strong"
+		body: "content: '\\\\f373';"
+	"content: '\\f374';":
+		prefix: "zmdi-center-focus-weak"
+		body: "content: '\\\\f374';"
+	"content: '\\f131';":
+		prefix: "zmdi-chart"
+		body: "content: '\\\\f131';"
+	"content: '\\f130';":
+		prefix: "zmdi-chart-donut"
+		body: "content: '\\\\f130';"
+	"content: '\\f26b';":
+		prefix: "zmdi-check"
+		body: "content: '\\\\f26b';"
+	"content: '\\f267';":
+		prefix: "zmdi-check-all"
+		body: "content: '\\\\f267';"
+	"content: '\\f269';":
+		prefix: "zmdi-check-circle"
+		body: "content: '\\\\f269';"
+	"content: '\\f268';":
+		prefix: "zmdi-check-circle-u"
+		body: "content: '\\\\f268';"
+	"content: '\\f26a';":
+		prefix: "zmdi-check-square"
+		body: "content: '\\\\f26a';"
+	"content: '\\f2f9';":
+		prefix: "zmdi-chevron-down"
+		body: "content: '\\\\f2f9';"
+	"content: '\\f2fa';":
+		prefix: "zmdi-chevron-left"
+		body: "content: '\\\\f2fa';"
+	"content: '\\f2fb';":
+		prefix: "zmdi-chevron-right"
+		body: "content: '\\\\f2fb';"
+	"content: '\\f2fc';":
+		prefix: "zmdi-chevron-up"
+		body: "content: '\\\\f2fc';"
+	"content: '\\f26d';":
+		prefix: "zmdi-circle"
+		body: "content: '\\\\f26d';"
+	"content: '\\f26c';":
+		prefix: "zmdi-circle-o"
+		body: "content: '\\\\f26c';"
+	"content: '\\f133';":
+		prefix: "zmdi-city"
+		body: "content: '\\\\f133';"
+	"content: '\\f132';":
+		prefix: "zmdi-city-alt"
+		body: "content: '\\\\f132';"
+	"content: '\\f136';":
+		prefix: "zmdi-close"
+		body: "content: '\\\\f136';"
+	"content: '\\f135';":
+		prefix: "zmdi-close-circle"
+		body: "content: '\\\\f135';"
+	"content: '\\f134';":
+		prefix: "zmdi-close-circle-o"
+		body: "content: '\\\\f134';"
+	"content: '\\f3d3';":
+		prefix: "zmdi-closed-caption"
+		body: "content: '\\\\f3d3';"
+	"content: '\\f21f';":
+		prefix: "zmdi-cloud"
+		body: "content: '\\\\f21f';"
+	"content: '\\f217';":
+		prefix: "zmdi-cloud-box"
+		body: "content: '\\\\f217';"
+	"content: '\\f218';":
+		prefix: "zmdi-cloud-circle"
+		body: "content: '\\\\f218';"
+	"content: '\\f219';":
+		prefix: "zmdi-cloud-done"
+		body: "content: '\\\\f219';"
+	"content: '\\f21a';":
+		prefix: "zmdi-cloud-download"
+		body: "content: '\\\\f21a';"
+	"content: '\\f21b';":
+		prefix: "zmdi-cloud-off"
+		body: "content: '\\\\f21b';"
+	"content: '\\f21d';":
+		prefix: "zmdi-cloud-outline"
+		body: "content: '\\\\f21d';"
+	"content: '\\f21c';":
+		prefix: "zmdi-cloud-outline-alt"
+		body: "content: '\\\\f21c';"
+	"content: '\\f21e';":
+		prefix: "zmdi-cloud-upload"
+		body: "content: '\\\\f21e';"
+	"content: '\\f137';":
+		prefix: "zmdi-cocktail"
+		body: "content: '\\\\f137';"
+	"content: '\\f13a';":
+		prefix: "zmdi-code"
+		body: "content: '\\\\f13a';"
+	"content: '\\f138';":
+		prefix: "zmdi-code-setting"
+		body: "content: '\\\\f138';"
+	"content: '\\f139';":
+		prefix: "zmdi-code-smartphone"
+		body: "content: '\\\\f139';"
+	"content: '\\f33e';":
+		prefix: "zmdi-codepen"
+		body: "content: '\\\\f33e';"
+	"content: '\\f13b';":
+		prefix: "zmdi-coffee"
+		body: "content: '\\\\f13b';"
+	"content: '\\f14e';":
+		prefix: "zmdi-collection-add"
+		body: "content: '\\\\f14e';"
+	"content: '\\f13c';":
+		prefix: "zmdi-collection-bookmark"
+		body: "content: '\\\\f13c';"
+	"content: '\\f13d';":
+		prefix: "zmdi-collection-case-play"
+		body: "content: '\\\\f13d';"
+	"content: '\\f13e';":
+		prefix: "zmdi-collection-folder-image"
+		body: "content: '\\\\f13e';"
+	"content: '\\f140';":
+		prefix: "zmdi-collection-image"
+		body: "content: '\\\\f140';"
+	"content: '\\f13f';":
+		prefix: "zmdi-collection-image-o"
+		body: "content: '\\\\f13f';"
+	"content: '\\f14b';":
+		prefix: "zmdi-collection-item"
+		body: "content: '\\\\f14b';"
+	"content: '\\f141';":
+		prefix: "zmdi-collection-item-1"
+		body: "content: '\\\\f141';"
+	"content: '\\f142';":
+		prefix: "zmdi-collection-item-2"
+		body: "content: '\\\\f142';"
+	"content: '\\f143';":
+		prefix: "zmdi-collection-item-3"
+		body: "content: '\\\\f143';"
+	"content: '\\f144';":
+		prefix: "zmdi-collection-item-4"
+		body: "content: '\\\\f144';"
+	"content: '\\f145';":
+		prefix: "zmdi-collection-item-5"
+		body: "content: '\\\\f145';"
+	"content: '\\f146';":
+		prefix: "zmdi-collection-item-6"
+		body: "content: '\\\\f146';"
+	"content: '\\f147';":
+		prefix: "zmdi-collection-item-7"
+		body: "content: '\\\\f147';"
+	"content: '\\f148';":
+		prefix: "zmdi-collection-item-8"
+		body: "content: '\\\\f148';"
+	"content: '\\f14a';":
+		prefix: "zmdi-collection-item-9"
+		body: "content: '\\\\f14a';"
+	"content: '\\f149';":
+		prefix: "zmdi-collection-item-9-plus"
+		body: "content: '\\\\f149';"
+	"content: '\\f14c';":
+		prefix: "zmdi-collection-music"
+		body: "content: '\\\\f14c';"
+	"content: '\\f14d';":
+		prefix: "zmdi-collection-pdf"
+		body: "content: '\\\\f14d';"
+	"content: '\\f14e';":
+		prefix: "zmdi-collection-plus"
+		body: "content: '\\\\f14e';"
+	"content: '\\f14f';":
+		prefix: "zmdi-collection-speaker"
+		body: "content: '\\\\f14f';"
+	"content: '\\f150';":
+		prefix: "zmdi-collection-text"
+		body: "content: '\\\\f150';"
+	"content: '\\f151';":
+		prefix: "zmdi-collection-video"
+		body: "content: '\\\\f151';"
+	"content: '\\f15d';":
+		prefix: "zmdi-colorize"
+		body: "content: '\\\\f15d';"
+	"content: '\\f265';":
+		prefix: "zmdi-comment"
+		body: "content: '\\\\f265';"
+	"content: '\\f25a';":
+		prefix: "zmdi-comment-alert"
+		body: "content: '\\\\f25a';"
+	"content: '\\f25c';":
+		prefix: "zmdi-comment-alt"
+		body: "content: '\\\\f25c';"
+	"content: '\\f25b';":
+		prefix: "zmdi-comment-alt-text"
+		body: "content: '\\\\f25b';"
+	"content: '\\f260';":
+		prefix: "zmdi-comment-dots"
+		body: "content: '\\\\f260';"
+	"content: '\\f25d';":
+		prefix: "zmdi-comment-edit"
+		body: "content: '\\\\f25d';"
+	"content: '\\f25e';":
+		prefix: "zmdi-comment-image"
+		body: "content: '\\\\f25e';"
+	"content: '\\f25f';":
+		prefix: "zmdi-comment-list"
+		body: "content: '\\\\f25f';"
+	"content: '\\f260';":
+		prefix: "zmdi-comment-more"
+		body: "content: '\\\\f260';"
+	"content: '\\f261';":
+		prefix: "zmdi-comment-outline"
+		body: "content: '\\\\f261';"
+	"content: '\\f25a';":
+		prefix: "zmdi-comment-sign"
+		body: "content: '\\\\f25a';"
+	"content: '\\f263';":
+		prefix: "zmdi-comment-text"
+		body: "content: '\\\\f263';"
+	"content: '\\f262';":
+		prefix: "zmdi-comment-text-alt"
+		body: "content: '\\\\f262';"
+	"content: '\\f264';":
+		prefix: "zmdi-comment-video"
+		body: "content: '\\\\f264';"
+	"content: '\\f266';":
+		prefix: "zmdi-comments"
+		body: "content: '\\\\f266';"
+	"content: '\\f375';":
+		prefix: "zmdi-compare"
+		body: "content: '\\\\f375';"
+	"content: '\\f152';":
+		prefix: "zmdi-compass"
+		body: "content: '\\\\f152';"
+	"content: '\\f3d4';":
+		prefix: "zmdi-confirmation-number"
+		body: "content: '\\\\f3d4';"
+	"content: '\\f237';":
+		prefix: "zmdi-copy"
+		body: "content: '\\\\f237';"
+	"content: '\\f238';":
+		prefix: "zmdi-crop"
+		body: "content: '\\\\f238';"
+	"content: '\\f376';":
+		prefix: "zmdi-crop-16-9"
+		body: "content: '\\\\f376';"
+	"content: '\\f377';":
+		prefix: "zmdi-crop-3-2"
+		body: "content: '\\\\f377';"
+	"content: '\\f378';":
+		prefix: "zmdi-crop-5-4"
+		body: "content: '\\\\f378';"
+	"content: '\\f379';":
+		prefix: "zmdi-crop-7-5"
+		body: "content: '\\\\f379';"
+	"content: '\\f37a';":
+		prefix: "zmdi-crop-din"
+		body: "content: '\\\\f37a';"
+	"content: '\\f37b';":
+		prefix: "zmdi-crop-free"
+		body: "content: '\\\\f37b';"
+	"content: '\\f37c';":
+		prefix: "zmdi-crop-landscape"
+		body: "content: '\\\\f37c';"
+	"content: '\\f17e';":
+		prefix: "zmdi-crop-original"
+		body: "content: '\\\\f17e';"
+	"content: '\\f37d';":
+		prefix: "zmdi-crop-portrait"
+		body: "content: '\\\\f37d';"
+	"content: '\\f37e';":
+		prefix: "zmdi-crop-square"
+		body: "content: '\\\\f37e';"
+	"content: '\\f1bc';":
+		prefix: "zmdi-cut"
+		body: "content: '\\\\f1bc';"
+	"content: '\\f153';":
+		prefix: "zmdi-cutlery"
+		body: "content: '\\\\f153';"
+	"content: '\\f217';":
+		prefix: "zmdi-daydream-setting"
+		body: "content: '\\\\f217';"
+	"content: '\\f197';":
+		prefix: "zmdi-dehaze"
+		body: "content: '\\\\f197';"
+	"content: '\\f154';":
+		prefix: "zmdi-delete"
+		body: "content: '\\\\f154';"
+	"content: '\\f3f2';":
+		prefix: "zmdi-delicious"
+		body: "content: '\\\\f3f2';"
+	"content: '\\f291';":
+		prefix: "zmdi-desktop-mac"
+		body: "content: '\\\\f291';"
+	"content: '\\f292';":
+		prefix: "zmdi-desktop-windows"
+		body: "content: '\\\\f292';"
+	"content: '\\f3d5';":
+		prefix: "zmdi-developer-board"
+		body: "content: '\\\\f3d5';"
+	"content: '\\f293';":
+		prefix: "zmdi-device-hub"
+		body: "content: '\\\\f293';"
+	"content: '\\f295';":
+		prefix: "zmdi-devices"
+		body: "content: '\\\\f295';"
+	"content: '\\f294';":
+		prefix: "zmdi-devices-off"
+		body: "content: '\\\\f294';"
+	"content: '\\f155';":
+		prefix: "zmdi-dialpad"
+		body: "content: '\\\\f155';"
+	"content: '\\f1e7';":
+		prefix: "zmdi-directions"
+		body: "content: '\\\\f1e7';"
+	"content: '\\f117';":
+		prefix: "zmdi-directions-bike"
+		body: "content: '\\\\f117';"
+	"content: '\\f11a';":
+		prefix: "zmdi-directions-boat"
+		body: "content: '\\\\f11a';"
+	"content: '\\f121';":
+		prefix: "zmdi-directions-bus"
+		body: "content: '\\\\f121';"
+	"content: '\\f125';":
+		prefix: "zmdi-directions-car"
+		body: "content: '\\\\f125';"
+	"content: '\\f1b3';":
+		prefix: "zmdi-directions-railway"
+		body: "content: '\\\\f1b3';"
+	"content: '\\f215';":
+		prefix: "zmdi-directions-run"
+		body: "content: '\\\\f215';"
+	"content: '\\f1d5';":
+		prefix: "zmdi-directions-subway"
+		body: "content: '\\\\f1d5';"
+	"content: '\\f216';":
+		prefix: "zmdi-directions-walk"
+		body: "content: '\\\\f216';"
+	"content: '\\f3d6';":
+		prefix: "zmdi-disc-full"
+		body: "content: '\\\\f3d6';"
+	"content: '\\f3f3';":
+		prefix: "zmdi-disqus"
+		body: "content: '\\\\f3f3';"
+	"content: '\\f156';":
+		prefix: "zmdi-dns"
+		body: "content: '\\\\f156';"
+	"content: '\\f296';":
+		prefix: "zmdi-dock"
+		body: "content: '\\\\f296';"
+	"content: '\\f26f';":
+		prefix: "zmdi-dot-circle"
+		body: "content: '\\\\f26f';"
+	"content: '\\f26e';":
+		prefix: "zmdi-dot-circle-alt"
+		body: "content: '\\\\f26e';"
+	"content: '\\f220';":
+		prefix: "zmdi-download"
+		body: "content: '\\\\f220';"
+	"content: '\\f33f';":
+		prefix: "zmdi-dribbble"
+		body: "content: '\\\\f33f';"
+	"content: '\\f157';":
+		prefix: "zmdi-drink"
+		body: "content: '\\\\f157';"
+	"content: '\\f340';":
+		prefix: "zmdi-dropbox"
+		body: "content: '\\\\f340';"
+	"content: '\\f158';":
+		prefix: "zmdi-edit"
+		body: "content: '\\\\f158';"
+	"content: '\\f39d';":
+		prefix: "zmdi-eject"
+		body: "content: '\\\\f39d';"
+	"content: '\\f39c';":
+		prefix: "zmdi-eject-alt"
+		body: "content: '\\\\f39c';"
+	"content: '\\f15a';":
+		prefix: "zmdi-email"
+		body: "content: '\\\\f15a';"
+	"content: '\\f159';":
+		prefix: "zmdi-email-open"
+		body: "content: '\\\\f159';"
+	"content: '\\f39e';":
+		prefix: "zmdi-equalizer"
+		body: "content: '\\\\f39e';"
+	"content: '\\f341';":
+		prefix: "zmdi-evernote"
+		body: "content: '\\\\f341';"
+	"content: '\\f3d7';":
+		prefix: "zmdi-explicit"
+		body: "content: '\\\\f3d7';"
+	"content: '\\f380';":
+		prefix: "zmdi-exposure"
+		body: "content: '\\\\f380';"
+	"content: '\\f37f';":
+		prefix: "zmdi-exposure-alt"
+		body: "content: '\\\\f37f';"
+	"content: '\\f15c';":
+		prefix: "zmdi-eye"
+		body: "content: '\\\\f15c';"
+	"content: '\\f15b';":
+		prefix: "zmdi-eye-off"
+		body: "content: '\\\\f15b';"
+	"content: '\\f15d';":
+		prefix: "zmdi-eyedropper"
+		body: "content: '\\\\f15d';"
+	"content: '\\f20e';":
+		prefix: "zmdi-face"
+		body: "content: '\\\\f20e';"
+	"content: '\\f343';":
+		prefix: "zmdi-facebook"
+		body: "content: '\\\\f343';"
+	"content: '\\f342';":
+		prefix: "zmdi-facebook-box"
+		body: "content: '\\\\f342';"
+	"content: '\\f39f';":
+		prefix: "zmdi-fast-forward"
+		body: "content: '\\\\f39f';"
+	"content: '\\f3a0';":
+		prefix: "zmdi-fast-rewind"
+		body: "content: '\\\\f3a0';"
+	"content: '\\f15f';":
+		prefix: "zmdi-favorite"
+		body: "content: '\\\\f15f';"
+	"content: '\\f15e';":
+		prefix: "zmdi-favorite-outline"
+		body: "content: '\\\\f15e';"
+	"content: '\\f20f';":
+		prefix: "zmdi-female"
+		body: "content: '\\\\f20f';"
+	"content: '\\f223';":
+		prefix: "zmdi-file"
+		body: "content: '\\\\f223';"
+	"content: '\\f221';":
+		prefix: "zmdi-file-add"
+		body: "content: '\\\\f221';"
+	"content: '\\f221';":
+		prefix: "zmdi-file-plus"
+		body: "content: '\\\\f221';"
+	"content: '\\f222';":
+		prefix: "zmdi-file-text"
+		body: "content: '\\\\f222';"
+	"content: '\\f381';":
+		prefix: "zmdi-filter-b-and-w"
+		body: "content: '\\\\f381';"
+	"content: '\\f382';":
+		prefix: "zmdi-filter-center-focus"
+		body: "content: '\\\\f382';"
+	"content: '\\f383';":
+		prefix: "zmdi-filter-frames"
+		body: "content: '\\\\f383';"
+	"content: '\\f160';":
+		prefix: "zmdi-filter-list"
+		body: "content: '\\\\f160';"
+	"content: '\\f384';":
+		prefix: "zmdi-filter-tilt-shift"
+		body: "content: '\\\\f384';"
+	"content: '\\f161';":
+		prefix: "zmdi-fire"
+		body: "content: '\\\\f161';"
+	"content: '\\f162';":
+		prefix: "zmdi-flag"
+		body: "content: '\\\\f162';"
+	"content: '\\f163';":
+		prefix: "zmdi-flare"
+		body: "content: '\\\\f163';"
+	"content: '\\f166';":
+		prefix: "zmdi-flash"
+		body: "content: '\\\\f166';"
+	"content: '\\f164';":
+		prefix: "zmdi-flash-auto"
+		body: "content: '\\\\f164';"
+	"content: '\\f165';":
+		prefix: "zmdi-flash-off"
+		body: "content: '\\\\f165';"
+	"content: '\\f3f4';":
+		prefix: "zmdi-flattr"
+		body: "content: '\\\\f3f4';"
+	"content: '\\f3f5';":
+		prefix: "zmdi-flickr"
+		body: "content: '\\\\f3f5';"
+	"content: '\\f3d8';":
+		prefix: "zmdi-flight-land"
+		body: "content: '\\\\f3d8';"
+	"content: '\\f3d9';":
+		prefix: "zmdi-flight-takeoff"
+		body: "content: '\\\\f3d9';"
+	"content: '\\f167';":
+		prefix: "zmdi-flip"
+		body: "content: '\\\\f167';"
+	"content: '\\f3da';":
+		prefix: "zmdi-flip-to-back"
+		body: "content: '\\\\f3da';"
+	"content: '\\f3db';":
+		prefix: "zmdi-flip-to-front"
+		body: "content: '\\\\f3db';"
+	"content: '\\f297';":
+		prefix: "zmdi-floppy"
+		body: "content: '\\\\f297';"
+	"content: '\\f169';":
+		prefix: "zmdi-flower"
+		body: "content: '\\\\f169';"
+	"content: '\\f168';":
+		prefix: "zmdi-flower-alt"
+		body: "content: '\\\\f168';"
+	"content: '\\f228';":
+		prefix: "zmdi-folder"
+		body: "content: '\\\\f228';"
+	"content: '\\f224';":
+		prefix: "zmdi-folder-outline"
+		body: "content: '\\\\f224';"
+	"content: '\\f225';":
+		prefix: "zmdi-folder-person"
+		body: "content: '\\\\f225';"
+	"content: '\\f225';":
+		prefix: "zmdi-folder-shared"
+		body: "content: '\\\\f225';"
+	"content: '\\f226';":
+		prefix: "zmdi-folder-special"
+		body: "content: '\\\\f226';"
+	"content: '\\f227';":
+		prefix: "zmdi-folder-star"
+		body: "content: '\\\\f227';"
+	"content: '\\f226';":
+		prefix: "zmdi-folder-star-alt"
+		body: "content: '\\\\f226';"
+	"content: '\\f16a';":
+		prefix: "zmdi-font"
+		body: "content: '\\\\f16a';"
+	"content: '\\f239';":
+		prefix: "zmdi-format-align-center"
+		body: "content: '\\\\f239';"
+	"content: '\\f23a';":
+		prefix: "zmdi-format-align-justify"
+		body: "content: '\\\\f23a';"
+	"content: '\\f23b';":
+		prefix: "zmdi-format-align-left"
+		body: "content: '\\\\f23b';"
+	"content: '\\f23c';":
+		prefix: "zmdi-format-align-right"
+		body: "content: '\\\\f23c';"
+	"content: '\\f23d';":
+		prefix: "zmdi-format-bold"
+		body: "content: '\\\\f23d';"
+	"content: '\\f23f';":
+		prefix: "zmdi-format-clear"
+		body: "content: '\\\\f23f';"
+	"content: '\\f23e';":
+		prefix: "zmdi-format-clear-all"
+		body: "content: '\\\\f23e';"
+	"content: '\\f240';":
+		prefix: "zmdi-format-color-fill"
+		body: "content: '\\\\f240';"
+	"content: '\\f241';":
+		prefix: "zmdi-format-color-reset"
+		body: "content: '\\\\f241';"
+	"content: '\\f242';":
+		prefix: "zmdi-format-color-text"
+		body: "content: '\\\\f242';"
+	"content: '\\f243';":
+		prefix: "zmdi-format-indent-decrease"
+		body: "content: '\\\\f243';"
+	"content: '\\f244';":
+		prefix: "zmdi-format-indent-increase"
+		body: "content: '\\\\f244';"
+	"content: '\\f245';":
+		prefix: "zmdi-format-italic"
+		body: "content: '\\\\f245';"
+	"content: '\\f246';":
+		prefix: "zmdi-format-line-spacing"
+		body: "content: '\\\\f246';"
+	"content: '\\f247';":
+		prefix: "zmdi-format-list-bulleted"
+		body: "content: '\\\\f247';"
+	"content: '\\f248';":
+		prefix: "zmdi-format-list-numbered"
+		body: "content: '\\\\f248';"
+	"content: '\\f249';":
+		prefix: "zmdi-format-ltr"
+		body: "content: '\\\\f249';"
+	"content: '\\f1ba';":
+		prefix: "zmdi-format-paint"
+		body: "content: '\\\\f1ba';"
+	"content: '\\f3ac';":
+		prefix: "zmdi-format-playlist-add"
+		body: "content: '\\\\f3ac';"
+	"content: '\\f3ab';":
+		prefix: "zmdi-format-queue-music"
+		body: "content: '\\\\f3ab';"
+	"content: '\\f1b2';":
+		prefix: "zmdi-format-quote"
+		body: "content: '\\\\f1b2';"
+	"content: '\\f24a';":
+		prefix: "zmdi-format-rtl"
+		body: "content: '\\\\f24a';"
+	"content: '\\f24b';":
+		prefix: "zmdi-format-size"
+		body: "content: '\\\\f24b';"
+	"content: '\\f24d';":
+		prefix: "zmdi-format-strikethrough"
+		body: "content: '\\\\f24d';"
+	"content: '\\f24c';":
+		prefix: "zmdi-format-strikethrough-s"
+		body: "content: '\\\\f24c';"
+	"content: '\\f24e';":
+		prefix: "zmdi-format-subject"
+		body: "content: '\\\\f24e';"
+	"content: '\\f249';":
+		prefix: "zmdi-format-textdirection-l-to-r"
+		body: "content: '\\\\f249';"
+	"content: '\\f24a';":
+		prefix: "zmdi-format-textdirection-r-to-l"
+		body: "content: '\\\\f24a';"
+	"content: '\\f24f';":
+		prefix: "zmdi-format-underlined"
+		body: "content: '\\\\f24f';"
+	"content: '\\f250';":
+		prefix: "zmdi-format-valign-bottom"
+		body: "content: '\\\\f250';"
+	"content: '\\f251';":
+		prefix: "zmdi-format-valign-center"
+		body: "content: '\\\\f251';"
+	"content: '\\f252';":
+		prefix: "zmdi-format-valign-top"
+		body: "content: '\\\\f252';"
+	"content: '\\f2fd';":
+		prefix: "zmdi-forward"
+		body: "content: '\\\\f2fd';"
+	"content: '\\f3a1';":
+		prefix: "zmdi-forward-10"
+		body: "content: '\\\\f3a1';"
+	"content: '\\f3a2';":
+		prefix: "zmdi-forward-30"
+		body: "content: '\\\\f3a2';"
+	"content: '\\f3a3';":
+		prefix: "zmdi-forward-5"
+		body: "content: '\\\\f3a3';"
+	"content: '\\f16d';":
+		prefix: "zmdi-fullscreen"
+		body: "content: '\\\\f16d';"
+	"content: '\\f16b';":
+		prefix: "zmdi-fullscreen-alt"
+		body: "content: '\\\\f16b';"
+	"content: '\\f16c';":
+		prefix: "zmdi-fullscreen-exit"
+		body: "content: '\\\\f16c';"
+	"content: '\\f16e';":
+		prefix: "zmdi-functions"
+		body: "content: '\\\\f16e';"
+	"content: '\\f298';":
+		prefix: "zmdi-gamepad"
+		body: "content: '\\\\f298';"
+	"content: '\\f16f';":
+		prefix: "zmdi-gas-station"
+		body: "content: '\\\\f16f';"
+	"content: '\\f170';":
+		prefix: "zmdi-gesture"
+		body: "content: '\\\\f170';"
+	"content: '\\f229';":
+		prefix: "zmdi-gif"
+		body: "content: '\\\\f229';"
+	"content: '\\f345';":
+		prefix: "zmdi-github"
+		body: "content: '\\\\f345';"
+	"content: '\\f3f6';":
+		prefix: "zmdi-github-alt"
+		body: "content: '\\\\f3f6';"
+	"content: '\\f344';":
+		prefix: "zmdi-github-box"
+		body: "content: '\\\\f344';"
+	"content: '\\f173';":
+		prefix: "zmdi-globe"
+		body: "content: '\\\\f173';"
+	"content: '\\f171';":
+		prefix: "zmdi-globe-alt"
+		body: "content: '\\\\f171';"
+	"content: '\\f172';":
+		prefix: "zmdi-globe-lock"
+		body: "content: '\\\\f172';"
+	"content: '\\f34e';":
+		prefix: "zmdi-google"
+		body: "content: '\\\\f34e';"
+	"content: '\\f346';":
+		prefix: "zmdi-google-drive"
+		body: "content: '\\\\f346';"
+	"content: '\\f347';":
+		prefix: "zmdi-google-earth"
+		body: "content: '\\\\f347';"
+	"content: '\\f348';":
+		prefix: "zmdi-google-glass"
+		body: "content: '\\\\f348';"
+	"content: '\\f349';":
+		prefix: "zmdi-google-maps"
+		body: "content: '\\\\f349';"
+	"content: '\\f3f7';":
+		prefix: "zmdi-google-old"
+		body: "content: '\\\\f3f7';"
+	"content: '\\f34a';":
+		prefix: "zmdi-google-pages"
+		body: "content: '\\\\f34a';"
+	"content: '\\f34b';":
+		prefix: "zmdi-google-play"
+		body: "content: '\\\\f34b';"
+	"content: '\\f34d';":
+		prefix: "zmdi-google-plus"
+		body: "content: '\\\\f34d';"
+	"content: '\\f34c';":
+		prefix: "zmdi-google-plus-box"
+		body: "content: '\\\\f34c';"
+	"content: '\\f29b';":
+		prefix: "zmdi-gps"
+		body: "content: '\\\\f29b';"
+	"content: '\\f299';":
+		prefix: "zmdi-gps-dot"
+		body: "content: '\\\\f299';"
+	"content: '\\f29a';":
+		prefix: "zmdi-gps-off"
+		body: "content: '\\\\f29a';"
+	"content: '\\f385';":
+		prefix: "zmdi-gradient"
+		body: "content: '\\\\f385';"
+	"content: '\\f174';":
+		prefix: "zmdi-graduation-cap"
+		body: "content: '\\\\f174';"
+	"content: '\\f386';":
+		prefix: "zmdi-grain"
+		body: "content: '\\\\f386';"
+	"content: '\\f387';":
+		prefix: "zmdi-graphic-eq"
+		body: "content: '\\\\f387';"
+	"content: '\\f315';":
+		prefix: "zmdi-grid"
+		body: "content: '\\\\f315';"
+	"content: '\\f314';":
+		prefix: "zmdi-grid-off"
+		body: "content: '\\\\f314';"
+	"content: '\\f3e9';":
+		prefix: "zmdi-group"
+		body: "content: '\\\\f3e9';"
+	"content: '\\f3dc';":
+		prefix: "zmdi-group-work"
+		body: "content: '\\\\f3dc';"
+	"content: '\\f3dd';":
+			prefix: "zmdi-hd"
+		body: "content: '\\\\f3dd';"
+	"content: '\\f38b';":
+		prefix: "zmdi-hdr"
+		body: "content: '\\\\f38b';"
+	"content: '\\f388';":
+		prefix: "zmdi-hdr-off"
+		body: "content: '\\\\f388';"
+	"content: '\\f389';":
+		prefix: "zmdi-hdr-strong"
+		body: "content: '\\\\f389';"
+	"content: '\\f38a';":
+		prefix: "zmdi-hdr-weak"
+		body: "content: '\\\\f38a';"
+	"content: '\\f29d';":
+		prefix: "zmdi-headset"
+		body: "content: '\\\\f29d';"
+	"content: '\\f29c';":
+		prefix: "zmdi-headset-mic"
+		body: "content: '\\\\f29c';"
+	"content: '\\f3a4';":
+		prefix: "zmdi-hearing"
+		body: "content: '\\\\f3a4';"
+	"content: '\\f1f6';":
+		prefix: "zmdi-help"
+		body: "content: '\\\\f1f6';"
+	"content: '\\f1f5';":
+		prefix: "zmdi-help-outline"
+		body: "content: '\\\\f1f5';"
+	"content: '\\f175';":
+		prefix: "zmdi-home"
+		body: "content: '\\\\f175';"
+	"content: '\\f177';":
+		prefix: "zmdi-hospital"
+		body: "content: '\\\\f177';"
+	"content: '\\f176';":
+		prefix: "zmdi-hospital-alt"
+		body: "content: '\\\\f176';"
+	"content: '\\f178';":
+		prefix: "zmdi-hotel"
+		body: "content: '\\\\f178';"
+	"content: '\\f17b';":
+		prefix: "zmdi-hourglass"
+		body: "content: '\\\\f17b';"
+	"content: '\\f179';":
+		prefix: "zmdi-hourglass-alt"
+		body: "content: '\\\\f179';"
+	"content: '\\f17a';":
+		prefix: "zmdi-hourglass-outline"
+		body: "content: '\\\\f17a';"
+	"content: '\\f3de';":
+			prefix: "zmdi-hq"
+		body: "content: '\\\\f3de';"
+	"content: '\\f17c';":
+		prefix: "zmdi-http"
+		body: "content: '\\\\f17c';"
+	"content: '\\f17f';":
+		prefix: "zmdi-image"
+		body: "content: '\\\\f17f';"
+	"content: '\\f17d';":
+		prefix: "zmdi-image-alt"
+		body: "content: '\\\\f17d';"
+	"content: '\\f17e';":
+		prefix: "zmdi-image-o"
+		body: "content: '\\\\f17e';"
+	"content: '\\f30c';":
+		prefix: "zmdi-import-export"
+		body: "content: '\\\\f30c';"
+	"content: '\\f180';":
+		prefix: "zmdi-inbox"
+		body: "content: '\\\\f180';"
+	"content: '\\f189';":
+		prefix: "zmdi-incandescent"
+		body: "content: '\\\\f189';"
+	"content: '\\f1f8';":
+		prefix: "zmdi-info"
+		body: "content: '\\\\f1f8';"
+	"content: '\\f1f7';":
+		prefix: "zmdi-info-outline"
+		body: "content: '\\\\f1f7';"
+	"content: '\\f29e';":
+		prefix: "zmdi-input-antenna"
+		body: "content: '\\\\f29e';"
+	"content: '\\f29f';":
+		prefix: "zmdi-input-composite"
+		body: "content: '\\\\f29f';"
+	"content: '\\f2a0';":
+		prefix: "zmdi-input-hdmi"
+		body: "content: '\\\\f2a0';"
+	"content: '\\f2a1';":
+		prefix: "zmdi-input-power"
+		body: "content: '\\\\f2a1';"
+	"content: '\\f2a2';":
+		prefix: "zmdi-input-svideo"
+		body: "content: '\\\\f2a2';"
+	"content: '\\f34f';":
+		prefix: "zmdi-instagram"
+		body: "content: '\\\\f34f';"
+	"content: '\\f182';":
+		prefix: "zmdi-invert-colors"
+		body: "content: '\\\\f182';"
+	"content: '\\f181';":
+		prefix: "zmdi-invert-colors-off"
+		body: "content: '\\\\f181';"
+	"content: '\\f38c';":
+		prefix: "zmdi-iridescent"
+		body: "content: '\\\\f38c';"
+	"content: '\\f183';":
+		prefix: "zmdi-key"
+		body: "content: '\\\\f183';"
+	"content: '\\f2a4';":
+		prefix: "zmdi-keyboard"
+		body: "content: '\\\\f2a4';"
+	"content: '\\f2a3';":
+		prefix: "zmdi-keyboard-hide"
+		body: "content: '\\\\f2a3';"
+	"content: '\\f187';":
+		prefix: "zmdi-label"
+		body: "content: '\\\\f187';"
+	"content: '\\f185';":
+		prefix: "zmdi-label-alt"
+		body: "content: '\\\\f185';"
+	"content: '\\f184';":
+		prefix: "zmdi-label-alt-outline"
+		body: "content: '\\\\f184';"
+	"content: '\\f186';":
+		prefix: "zmdi-label-heart"
+		body: "content: '\\\\f186';"
+	"content: '\\f188';":
+		prefix: "zmdi-labels"
+		body: "content: '\\\\f188';"
+	"content: '\\f189';":
+		prefix: "zmdi-lamp"
+		body: "content: '\\\\f189';"
+	"content: '\\f18a';":
+		prefix: "zmdi-landscape"
+		body: "content: '\\\\f18a';"
+	"content: '\\f350';":
+		prefix: "zmdi-language-css3"
+		body: "content: '\\\\f350';"
+	"content: '\\f351';":
+		prefix: "zmdi-language-html5"
+		body: "content: '\\\\f351';"
+	"content: '\\f352';":
+		prefix: "zmdi-language-javascript"
+		body: "content: '\\\\f352';"
+	"content: '\\f354';":
+		prefix: "zmdi-language-python"
+		body: "content: '\\\\f354';"
+	"content: '\\f353';":
+		prefix: "zmdi-language-python-alt"
+		body: "content: '\\\\f353';"
+	"content: '\\f2a7';":
+		prefix: "zmdi-laptop"
+		body: "content: '\\\\f2a7';"
+	"content: '\\f2a5';":
+		prefix: "zmdi-laptop-chromebook"
+		body: "content: '\\\\f2a5';"
+	"content: '\\f2a6';":
+		prefix: "zmdi-laptop-mac"
+		body: "content: '\\\\f2a6';"
+	"content: '\\f355';":
+		prefix: "zmdi-lastfm"
+		body: "content: '\\\\f355';"
+	"content: '\\f18c';":
+		prefix: "zmdi-layers"
+		body: "content: '\\\\f18c';"
+	"content: '\\f18b';":
+		prefix: "zmdi-layers-clear"
+		body: "content: '\\\\f18b';"
+	"content: '\\f18b';":
+		prefix: "zmdi-layers-off"
+		body: "content: '\\\\f18b';"
+	"content: '\\f38e';":
+		prefix: "zmdi-leak"
+		body: "content: '\\\\f38e';"
+	"content: '\\f38d';":
+		prefix: "zmdi-leak-off"
+		body: "content: '\\\\f38d';"
+	"content: '\\f38d';":
+		prefix: "zmdi-leak-remove"
+		body: "content: '\\\\f38d';"
+	"content: '\\f18d';":
+		prefix: "zmdi-library"
+		body: "content: '\\\\f18d';"
+	"content: '\\f18e';":
+		prefix: "zmdi-link"
+		body: "content: '\\\\f18e';"
+	"content: '\\f3f8';":
+		prefix: "zmdi-linkedin"
+		body: "content: '\\\\f3f8';"
+	"content: '\\f356';":
+		prefix: "zmdi-linkedin-box"
+		body: "content: '\\\\f356';"
+	"content: '\\f2d9';":
+		prefix: "zmdi-live-tv"
+		body: "content: '\\\\f2d9';"
+	"content: '\\f1df';":
+		prefix: "zmdi-local-activity"
+		body: "content: '\\\\f1df';"
+	"content: '\\f103';":
+		prefix: "zmdi-local-airport"
+		body: "content: '\\\\f103';"
+	"content: '\\f198';":
+		prefix: "zmdi-local-atm"
+		body: "content: '\\\\f198';"
+	"content: '\\f137';":
+		prefix: "zmdi-local-bar"
+		body: "content: '\\\\f137';"
+	"content: '\\f13b';":
+		prefix: "zmdi-local-cafe"
+		body: "content: '\\\\f13b';"
+	"content: '\\f124';":
+		prefix: "zmdi-local-car-wash"
+		body: "content: '\\\\f124';"
+	"content: '\\f1d3';":
+		prefix: "zmdi-local-convenience-store"
+		body: "content: '\\\\f1d3';"
+	"content: '\\f153';":
+		prefix: "zmdi-local-dining"
+		body: "content: '\\\\f153';"
+	"content: '\\f157';":
+		prefix: "zmdi-local-drink"
+		body: "content: '\\\\f157';"
+	"content: '\\f168';":
+		prefix: "zmdi-local-florist"
+		body: "content: '\\\\f168';"
+	"content: '\\f16f';":
+		prefix: "zmdi-local-gas-station"
+		body: "content: '\\\\f16f';"
+	"content: '\\f1cb';":
+		prefix: "zmdi-local-grocery-store"
+		body: "content: '\\\\f1cb';"
+	"content: '\\f177';":
+		prefix: "zmdi-local-hospital"
+		body: "content: '\\\\f177';"
+	"content: '\\f178';":
+		prefix: "zmdi-local-hotel"
+		body: "content: '\\\\f178';"
+	"content: '\\f1e9';":
+		prefix: "zmdi-local-laundry-service"
+		body: "content: '\\\\f1e9';"
+	"content: '\\f18d';":
+		prefix: "zmdi-local-library"
+		body: "content: '\\\\f18d';"
+	"content: '\\f195';":
+		prefix: "zmdi-local-mall"
+		body: "content: '\\\\f195';"
+	"content: '\\f19d';":
+		prefix: "zmdi-local-movies"
+		body: "content: '\\\\f19d';"
+	"content: '\\f187';":
+		prefix: "zmdi-local-offer"
+		body: "content: '\\\\f187';"
+	"content: '\\f1a5';":
+		prefix: "zmdi-local-parking"
+		body: "content: '\\\\f1a5';"
+	"content: '\\f176';":
+		prefix: "zmdi-local-pharmacy"
+		body: "content: '\\\\f176';"
+	"content: '\\f2be';":
+		prefix: "zmdi-local-phone"
+		body: "content: '\\\\f2be';"
+	"content: '\\f1ac';":
+		prefix: "zmdi-local-pizza"
+		body: "content: '\\\\f1ac';"
+	"content: '\\f1df';":
+		prefix: "zmdi-local-play"
+		body: "content: '\\\\f1df';"
+	"content: '\\f15a';":
+		prefix: "zmdi-local-post-office"
+		body: "content: '\\\\f15a';"
+	"content: '\\f1b0';":
+		prefix: "zmdi-local-printshop"
+		body: "content: '\\\\f1b0';"
+	"content: '\\f28c';":
+		prefix: "zmdi-local-see"
+		body: "content: '\\\\f28c';"
+	"content: '\\f1e6';":
+		prefix: "zmdi-local-shipping"
+		body: "content: '\\\\f1e6';"
+	"content: '\\f1d4';":
+		prefix: "zmdi-local-store"
+		body: "content: '\\\\f1d4';"
+	"content: '\\f123';":
+		prefix: "zmdi-local-taxi"
+		body: "content: '\\\\f123';"
+	"content: '\\f211';":
+		prefix: "zmdi-local-wc"
+		body: "content: '\\\\f211';"
+	"content: '\\f191';":
+		prefix: "zmdi-lock"
+		body: "content: '\\\\f191';"
+	"content: '\\f18f';":
+		prefix: "zmdi-lock-open"
+		body: "content: '\\\\f18f';"
+	"content: '\\f190';":
+		prefix: "zmdi-lock-outline"
+		body: "content: '\\\\f190';"
+	"content: '\\f2fe';":
+		prefix: "zmdi-long-arrow-down"
+		body: "content: '\\\\f2fe';"
+	"content: '\\f2ff';":
+		prefix: "zmdi-long-arrow-left"
+		body: "content: '\\\\f2ff';"
+	"content: '\\f300';":
+		prefix: "zmdi-long-arrow-return"
+		body: "content: '\\\\f300';"
+	"content: '\\f301';":
+		prefix: "zmdi-long-arrow-right"
+		body: "content: '\\\\f301';"
+	"content: '\\f302';":
+		prefix: "zmdi-long-arrow-tab"
+		body: "content: '\\\\f302';"
+	"content: '\\f303';":
+		prefix: "zmdi-long-arrow-up"
+		body: "content: '\\\\f303';"
+	"content: '\\f38f';":
+		prefix: "zmdi-looks"
+		body: "content: '\\\\f38f';"
+	"content: '\\f390';":
+		prefix: "zmdi-loupe"
+		body: "content: '\\\\f390';"
+	"content: '\\f193';":
+		prefix: "zmdi-mail-reply"
+		body: "content: '\\\\f193';"
+	"content: '\\f192';":
+		prefix: "zmdi-mail-reply-all"
+		body: "content: '\\\\f192';"
+	"content: '\\f194';":
+		prefix: "zmdi-mail-send"
+		body: "content: '\\\\f194';"
+	"content: '\\f212';":
+		prefix: "zmdi-male"
+		body: "content: '\\\\f212';"
+	"content: '\\f210';":
+		prefix: "zmdi-male-alt"
+		body: "content: '\\\\f210';"
+	"content: '\\f211';":
+		prefix: "zmdi-male-female"
+		body: "content: '\\\\f211';"
+	"content: '\\f195';":
+		prefix: "zmdi-mall"
+		body: "content: '\\\\f195';"
+	"content: '\\f196';":
+		prefix: "zmdi-map"
+		body: "content: '\\\\f196';"
+	"content: '\\f3df';":
+		prefix: "zmdi-markunread-mailbox"
+		body: "content: '\\\\f3df';"
+	"content: '\\f3e0';":
+		prefix: "zmdi-memory"
+		body: "content: '\\\\f3e0';"
+	"content: '\\f197';":
+		prefix: "zmdi-menu"
+		body: "content: '\\\\f197';"
+	"content: '\\f2ab';":
+		prefix: "zmdi-mic"
+		body: "content: '\\\\f2ab';"
+	"content: '\\f2a8';":
+		prefix: "zmdi-mic-off"
+		body: "content: '\\\\f2a8';"
+	"content: '\\f2a9';":
+		prefix: "zmdi-mic-outline"
+		body: "content: '\\\\f2a9';"
+	"content: '\\f2aa';":
+		prefix: "zmdi-mic-setting"
+		body: "content: '\\\\f2aa';"
+	"content: '\\f273';":
+		prefix: "zmdi-minus"
+		body: "content: '\\\\f273';"
+	"content: '\\f271';":
+		prefix: "zmdi-minus-circle"
+		body: "content: '\\\\f271';"
+	"content: '\\f270';":
+		prefix: "zmdi-minus-circle-outline"
+		body: "content: '\\\\f270';"
+	"content: '\\f272';":
+		prefix: "zmdi-minus-square"
+		body: "content: '\\\\f272';"
+	"content: '\\f19a';":
+		prefix: "zmdi-money"
+		body: "content: '\\\\f19a';"
+	"content: '\\f198';":
+		prefix: "zmdi-money-box"
+		body: "content: '\\\\f198';"
+	"content: '\\f199';":
+		prefix: "zmdi-money-off"
+		body: "content: '\\\\f199';"
+	"content: '\\f214';":
+		prefix: "zmdi-mood"
+		body: "content: '\\\\f214';"
+	"content: '\\f213';":
+		prefix: "zmdi-mood-bad"
+		body: "content: '\\\\f213';"
+	"content: '\\f19c';":
+		prefix: "zmdi-more"
+		body: "content: '\\\\f19c';"
+	"content: '\\f19c';":
+		prefix: "zmdi-more-horiz"
+		body: "content: '\\\\f19c';"
+	"content: '\\f19b';":
+		prefix: "zmdi-more-vert"
+		body: "content: '\\\\f19b';"
+	"content: '\\f2ac';":
+		prefix: "zmdi-mouse"
+		body: "content: '\\\\f2ac';"
+	"content: '\\f19e';":
+		prefix: "zmdi-movie"
+		body: "content: '\\\\f19e';"
+	"content: '\\f19d';":
+		prefix: "zmdi-movie-alt"
+		body: "content: '\\\\f19d';"
+	"content: '\\f299';":
+		prefix: "zmdi-my-location"
+		body: "content: '\\\\f299';"
+	"content: '\\f3bd';":
+		prefix: "zmdi-n-1-square"
+		body: "content: '\\\\f3bd';"
+	"content: '\\f3be';":
+		prefix: "zmdi-n-2-square"
+		body: "content: '\\\\f3be';"
+	"content: '\\f3bf';":
+		prefix: "zmdi-n-3-square"
+		body: "content: '\\\\f3bf';"
+	"content: '\\f3c0';":
+		prefix: "zmdi-n-4-square"
+		body: "content: '\\\\f3c0';"
+	"content: '\\f3c1';":
+		prefix: "zmdi-n-5-square"
+		body: "content: '\\\\f3c1';"
+	"content: '\\f3c2';":
+		prefix: "zmdi-n-6-square"
+		body: "content: '\\\\f3c2';"
+	"content: '\\f1a0';":
+		prefix: "zmdi-nature"
+		body: "content: '\\\\f1a0';"
+	"content: '\\f19f';":
+		prefix: "zmdi-nature-people"
+		body: "content: '\\\\f19f';"
+	"content: '\\f1a1';":
+		prefix: "zmdi-navigation"
+		body: "content: '\\\\f1a1';"
+	"content: '\\f3c3';":
+		prefix: "zmdi-neg-1"
+		body: "content: '\\\\f3c3';"
+	"content: '\\f3c4';":
+		prefix: "zmdi-neg-2"
+		body: "content: '\\\\f3c4';"
+	"content: '\\f2b2';":
+		prefix: "zmdi-network"
+		body: "content: '\\\\f2b2';"
+	"content: '\\f2ad';":
+		prefix: "zmdi-network-alert"
+		body: "content: '\\\\f2ad';"
+	"content: '\\f2ae';":
+		prefix: "zmdi-network-locked"
+		body: "content: '\\\\f2ae';"
+	"content: '\\f2af';":
+		prefix: "zmdi-network-off"
+		body: "content: '\\\\f2af';"
+	"content: '\\f2b0';":
+		prefix: "zmdi-network-outline"
+		body: "content: '\\\\f2b0';"
+	"content: '\\f2b1';":
+		prefix: "zmdi-network-setting"
+		body: "content: '\\\\f2b1';"
+	"content: '\\f2ad';":
+		prefix: "zmdi-network-warning"
+		body: "content: '\\\\f2ad';"
+	"content: '\\f2e8';":
+		prefix: "zmdi-network-wifi"
+		body: "content: '\\\\f2e8';"
+	"content: '\\f2e3';":
+		prefix: "zmdi-network-wifi-alt"
+		body: "content: '\\\\f2e3';"
+	"content: '\\f2e4';":
+		prefix: "zmdi-network-wifi-info"
+		body: "content: '\\\\f2e4';"
+	"content: '\\f2e5';":
+		prefix: "zmdi-network-wifi-lock"
+		body: "content: '\\\\f2e5';"
+	"content: '\\f2e6';":
+		prefix: "zmdi-network-wifi-off"
+		body: "content: '\\\\f2e6';"
+	"content: '\\f2e7';":
+		prefix: "zmdi-network-wifi-outline"
+		body: "content: '\\\\f2e7';"
+	"content: '\\f2e4';":
+		prefix: "zmdi-network-wifi-scan"
+		body: "content: '\\\\f2e4';"
+	"content: '\\f3e1';":
+		prefix: "zmdi-nfc"
+		body: "content: '\\\\f3e1';"
+	"content: '\\f1fe';":
+		prefix: "zmdi-notifications"
+		body: "content: '\\\\f1fe';"
+	"content: '\\f1f9';":
+		prefix: "zmdi-notifications-active"
+		body: "content: '\\\\f1f9';"
+	"content: '\\f1fa';":
+		prefix: "zmdi-notifications-add"
+		body: "content: '\\\\f1fa';"
+	"content: '\\f1fb';":
+		prefix: "zmdi-notifications-none"
+		body: "content: '\\\\f1fb';"
+	"content: '\\f1fc';":
+		prefix: "zmdi-notifications-off"
+		body: "content: '\\\\f1fc';"
+	"content: '\\f1fd';":
+		prefix: "zmdi-notifications-paused"
+		body: "content: '\\\\f1fd';"
+	"content: '\\f3f9';":
+		prefix: "zmdi-odnoklassniki"
+		body: "content: '\\\\f3f9';"
+	"content: '\\f1a2';":
+		prefix: "zmdi-open-in-browser"
+		body: "content: '\\\\f1a2';"
+	"content: '\\f1a3';":
+		prefix: "zmdi-open-in-new"
+		body: "content: '\\\\f1a3';"
+	"content: '\\f3fa';":
+		prefix: "zmdi-outlook"
+		body: "content: '\\\\f3fa';"
+	"content: '\\f34a';":
+		prefix: "zmdi-pages"
+		body: "content: '\\\\f34a';"
+	"content: '\\f1a4';":
+		prefix: "zmdi-palette"
+		body: "content: '\\\\f1a4';"
+	"content: '\\f391';":
+		prefix: "zmdi-panorama-horizontal"
+		body: "content: '\\\\f391';"
+	"content: '\\f392';":
+		prefix: "zmdi-panorama-vertical"
+		body: "content: '\\\\f392';"
+	"content: '\\f393';":
+		prefix: "zmdi-panorama-wide-angle"
+		body: "content: '\\\\f393';"
+	"content: '\\f1a5';":
+		prefix: "zmdi-parking"
+		body: "content: '\\\\f1a5';"
+	"content: '\\f109';":
+		prefix: "zmdi-paste"
+		body: "content: '\\\\f109';"
+	"content: '\\f3a7';":
+		prefix: "zmdi-pause"
+		body: "content: '\\\\f3a7';"
+	"content: '\\f3a6';":
+		prefix: "zmdi-pause-circle"
+		body: "content: '\\\\f3a6';"
+	"content: '\\f3a5';":
+		prefix: "zmdi-pause-circle-outline"
+		body: "content: '\\\\f3a5';"
+	"content: '\\f357';":
+		prefix: "zmdi-paypal"
+		body: "content: '\\\\f357';"
+	"content: '\\f3fb';":
+		prefix: "zmdi-paypal-alt"
+		body: "content: '\\\\f3fb';"
+	"content: '\\f2be';":
+		prefix: "zmdi-phone"
+		body: "content: '\\\\f2be';"
+	"content: '\\f2b3';":
+		prefix: "zmdi-phone-bluetooth"
+		body: "content: '\\\\f2b3';"
+	"content: '\\f2b4';":
+		prefix: "zmdi-phone-end"
+		body: "content: '\\\\f2b4';"
+	"content: '\\f2b5';":
+		prefix: "zmdi-phone-forwarded"
+		body: "content: '\\\\f2b5';"
+	"content: '\\f2b6';":
+		prefix: "zmdi-phone-in-talk"
+		body: "content: '\\\\f2b6';"
+	"content: '\\f2b7';":
+		prefix: "zmdi-phone-locked"
+		body: "content: '\\\\f2b7';"
+	"content: '\\f2b8';":
+		prefix: "zmdi-phone-missed"
+		body: "content: '\\\\f2b8';"
+	"content: '\\f2b9';":
+		prefix: "zmdi-phone-msg"
+		body: "content: '\\\\f2b9';"
+	"content: '\\f2ba';":
+		prefix: "zmdi-phone-paused"
+		body: "content: '\\\\f2ba';"
+	"content: '\\f2bb';":
+		prefix: "zmdi-phone-ring"
+		body: "content: '\\\\f2bb';"
+	"content: '\\f2bc';":
+		prefix: "zmdi-phone-setting"
+		body: "content: '\\\\f2bc';"
+	"content: '\\f2bd';":
+		prefix: "zmdi-phone-sip"
+		body: "content: '\\\\f2bd';"
+	"content: '\\f394';":
+		prefix: "zmdi-photo-size-select-large"
+		body: "content: '\\\\f394';"
+	"content: '\\f395';":
+		prefix: "zmdi-photo-size-select-small"
+		body: "content: '\\\\f395';"
+	"content: '\\f396';":
+		prefix: "zmdi-picture-in-picture"
+		body: "content: '\\\\f396';"
+	"content: '\\f1ab';":
+		prefix: "zmdi-pin"
+		body: "content: '\\\\f1ab';"
+	"content: '\\f1a6';":
+		prefix: "zmdi-pin-account"
+		body: "content: '\\\\f1a6';"
+	"content: '\\f1a7';":
+		prefix: "zmdi-pin-assistant"
+		body: "content: '\\\\f1a7';"
+	"content: '\\f1a8';":
+		prefix: "zmdi-pin-drop"
+		body: "content: '\\\\f1a8';"
+	"content: '\\f1a9';":
+		prefix: "zmdi-pin-help"
+		body: "content: '\\\\f1a9';"
+	"content: '\\f1aa';":
+		prefix: "zmdi-pin-off"
+		body: "content: '\\\\f1aa';"
+	"content: '\\f3fc';":
+		prefix: "zmdi-pinterest"
+		body: "content: '\\\\f3fc';"
+	"content: '\\f358';":
+		prefix: "zmdi-pinterest-box"
+		body: "content: '\\\\f358';"
+	"content: '\\f1ac';":
+		prefix: "zmdi-pizza"
+		body: "content: '\\\\f1ac';"
+	"content: '\\f1ad';":
+		prefix: "zmdi-plaster"
+		body: "content: '\\\\f1ad';"
+	"content: '\\f3aa';":
+		prefix: "zmdi-play"
+		body: "content: '\\\\f3aa';"
+	"content: '\\f3a9';":
+		prefix: "zmdi-play-circle"
+		body: "content: '\\\\f3a9';"
+	"content: '\\f3a8';":
+		prefix: "zmdi-play-circle-outline"
+		body: "content: '\\\\f3a8';"
+	"content: '\\f3e2';":
+		prefix: "zmdi-play-for-work"
+		body: "content: '\\\\f3e2';"
+	"content: '\\f3ab';":
+		prefix: "zmdi-playlist-audio"
+		body: "content: '\\\\f3ab';"
+	"content: '\\f3ac';":
+		prefix: "zmdi-playlist-plus"
+		body: "content: '\\\\f3ac';"
+	"content: '\\f3fd';":
+		prefix: "zmdi-playstation"
+		body: "content: '\\\\f3fd';"
+	"content: '\\f278';":
+		prefix: "zmdi-plus"
+		body: "content: '\\\\f278';"
+	"content: '\\f3c5';":
+		prefix: "zmdi-plus-1"
+		body: "content: '\\\\f3c5';"
+	"content: '\\f3c6';":
+		prefix: "zmdi-plus-2"
+		body: "content: '\\\\f3c6';"
+	"content: '\\f277';":
+		prefix: "zmdi-plus-box"
+		body: "content: '\\\\f277';"
+	"content: '\\f276';":
+		prefix: "zmdi-plus-circle"
+		body: "content: '\\\\f276';"
+	"content: '\\f275';":
+		prefix: "zmdi-plus-circle-o"
+		body: "content: '\\\\f275';"
+	"content: '\\f274';":
+		prefix: "zmdi-plus-circle-o-duplicate"
+		body: "content: '\\\\f274';"
+	"content: '\\f277';":
+		prefix: "zmdi-plus-square"
+		body: "content: '\\\\f277';"
+	"content: '\\f359';":
+		prefix: "zmdi-pocket"
+		body: "content: '\\\\f359';"
+	"content: '\\f35a';":
+		prefix: "zmdi-polymer"
+		body: "content: '\\\\f35a';"
+	"content: '\\f2c1';":
+		prefix: "zmdi-portable-wifi"
+		body: "content: '\\\\f2c1';"
+	"content: '\\f2bf';":
+		prefix: "zmdi-portable-wifi-changes"
+		body: "content: '\\\\f2bf';"
+	"content: '\\f2c0';":
+		prefix: "zmdi-portable-wifi-off"
+		body: "content: '\\\\f2c0';"
+	"content: '\\f1af';":
+		prefix: "zmdi-power"
+		body: "content: '\\\\f1af';"
+	"content: '\\f3e3';":
+		prefix: "zmdi-power-input"
+		body: "content: '\\\\f3e3';"
+	"content: '\\f1af';":
+		prefix: "zmdi-power-off"
+		body: "content: '\\\\f1af';"
+	"content: '\\f1ae';":
+		prefix: "zmdi-power-off-setting"
+		body: "content: '\\\\f1ae';"
+	"content: '\\f1ae';":
+		prefix: "zmdi-power-setting"
+		body: "content: '\\\\f1ae';"
+	"content: '\\f3e4';":
+		prefix: "zmdi-present-to-all"
+		body: "content: '\\\\f3e4';"
+	"content: '\\f1b0';":
+		prefix: "zmdi-print"
+		body: "content: '\\\\f1b0';"
+	"content: '\\f1b1';":
+		prefix: "zmdi-puzzle-piece"
+		body: "content: '\\\\f1b1';"
+	"content: '\\f1b2';":
+		prefix: "zmdi-quote"
+		body: "content: '\\\\f1b2';"
+	"content: '\\f2c2';":
+		prefix: "zmdi-radio"
+		body: "content: '\\\\f2c2';"
+	"content: '\\f1b3';":
+		prefix: "zmdi-railway"
+		body: "content: '\\\\f1b3';"
+	"content: '\\f103';":
+		prefix: "zmdi-rate-review"
+		body: "content: '\\\\f103';"
+	"content: '\\f2c3';":
+		prefix: "zmdi-reader"
+		body: "content: '\\\\f2c3';"
+	"content: '\\f1b4';":
+		prefix: "zmdi-receipt"
+		body: "content: '\\\\f1b4';"
+	"content: '\\f3fe';":
+		prefix: "zmdi-reddit"
+		body: "content: '\\\\f3fe';"
+	"content: '\\f253';":
+		prefix: "zmdi-redo"
+		body: "content: '\\\\f253';"
+	"content: '\\f1b9';":
+		prefix: "zmdi-refresh"
+		body: "content: '\\\\f1b9';"
+	"content: '\\f1b5';":
+		prefix: "zmdi-refresh-alt"
+		body: "content: '\\\\f1b5';"
+	"content: '\\f1b8';":
+		prefix: "zmdi-refresh-sync"
+		body: "content: '\\\\f1b8';"
+	"content: '\\f1b6';":
+		prefix: "zmdi-refresh-sync-alert"
+		body: "content: '\\\\f1b6';"
+	"content: '\\f1b7';":
+		prefix: "zmdi-refresh-sync-disabled"
+		body: "content: '\\\\f1b7';"
+	"content: '\\f1b7';":
+		prefix: "zmdi-refresh-sync-off"
+		body: "content: '\\\\f1b7';"
+	"content: '\\f1b6';":
+		prefix: "zmdi-refresh-sync-problem"
+		body: "content: '\\\\f1b6';"
+	"content: '\\f2c5';":
+		prefix: "zmdi-remote-control"
+		body: "content: '\\\\f2c5';"
+	"content: '\\f2c4';":
+		prefix: "zmdi-remote-control-alt"
+		body: "content: '\\\\f2c4';"
+	"content: '\\f31e';":
+		prefix: "zmdi-reorder"
+		body: "content: '\\\\f31e';"
+	"content: '\\f3ae';":
+		prefix: "zmdi-repeat"
+		body: "content: '\\\\f3ae';"
+	"content: '\\f3ad';":
+		prefix: "zmdi-repeat-one"
+		body: "content: '\\\\f3ad';"
+	"content: '\\f3b2';":
+		prefix: "zmdi-replay"
+		body: "content: '\\\\f3b2';"
+	"content: '\\f3af';":
+		prefix: "zmdi-replay-10"
+		body: "content: '\\\\f3af';"
+	"content: '\\f3b0';":
+		prefix: "zmdi-replay-30"
+		body: "content: '\\\\f3b0';"
+	"content: '\\f3b1';":
+		prefix: "zmdi-replay-5"
+		body: "content: '\\\\f3b1';"
+	"content: '\\f1ba';":
+		prefix: "zmdi-roller"
+		body: "content: '\\\\f1ba';"
+	"content: '\\f304';":
+		prefix: "zmdi-rotate-90-degrees-ccw"
+		body: "content: '\\\\f304';"
+	"content: '\\f304';":
+		prefix: "zmdi-rotate-ccw"
+		body: "content: '\\\\f304';"
+	"content: '\\f305';":
+		prefix: "zmdi-rotate-cw"
+		body: "content: '\\\\f305';"
+	"content: '\\f306';":
+		prefix: "zmdi-rotate-left"
+		body: "content: '\\\\f306';"
+	"content: '\\f307';":
+		prefix: "zmdi-rotate-right"
+		body: "content: '\\\\f307';"
+	"content: '\\f2c6';":
+		prefix: "zmdi-router"
+		body: "content: '\\\\f2c6';"
+	"content: '\\f3ea';":
+		prefix: "zmdi-rss"
+		body: "content: '\\\\f3ea';"
+	"content: '\\f1bb';":
+		prefix: "zmdi-ruler"
+		body: "content: '\\\\f1bb';"
+	"content: '\\f215';":
+		prefix: "zmdi-run"
+		body: "content: '\\\\f215';"
+	"content: '\\f3e5';":
+		prefix: "zmdi-satellite"
+		body: "content: '\\\\f3e5';"
+	"content: '\\f297';":
+		prefix: "zmdi-save"
+		body: "content: '\\\\f297';"
+	"content: '\\f2c7';":
+		prefix: "zmdi-scanner"
+		body: "content: '\\\\f2c7';"
+	"content: '\\f1bc';":
+		prefix: "zmdi-scissors"
+		body: "content: '\\\\f1bc';"
+	"content: '\\f1be';":
+		prefix: "zmdi-screen-rotation"
+		body: "content: '\\\\f1be';"
+	"content: '\\f1bd';":
+		prefix: "zmdi-screen-rotation-lock"
+		body: "content: '\\\\f1bd';"
+	"content: '\\f1c3';":
+		prefix: "zmdi-search"
+		body: "content: '\\\\f1c3';"
+	"content: '\\f1bf';":
+		prefix: "zmdi-search-for"
+		body: "content: '\\\\f1bf';"
+	"content: '\\f1c0';":
+		prefix: "zmdi-search-in-file"
+		body: "content: '\\\\f1c0';"
+	"content: '\\f1c1';":
+		prefix: "zmdi-search-in-page"
+		body: "content: '\\\\f1c1';"
+	"content: '\\f1c2';":
+		prefix: "zmdi-search-replace"
+		body: "content: '\\\\f1c2';"
+	"content: '\\f1c4';":
+		prefix: "zmdi-seat"
+		body: "content: '\\\\f1c4';"
+	"content: '\\f3c7';":
+		prefix: "zmdi-sec-10"
+		body: "content: '\\\\f3c7';"
+	"content: '\\f3c8';":
+		prefix: "zmdi-sec-3"
+		body: "content: '\\\\f3c8';"
+	"content: '\\f254';":
+		prefix: "zmdi-select-all"
+		body: "content: '\\\\f254';"
+	"content: '\\f1c6';":
+		prefix: "zmdi-settings"
+		body: "content: '\\\\f1c6';"
+	"content: '\\f1c5';":
+		prefix: "zmdi-settings-square"
+		body: "content: '\\\\f1c5';"
+	"content: '\\f3eb';":
+		prefix: "zmdi-shape"
+		body: "content: '\\\\f3eb';"
+	"content: '\\f35b';":
+		prefix: "zmdi-share"
+		body: "content: '\\\\f35b';"
+	"content: '\\f1c7';":
+		prefix: "zmdi-shield-check"
+		body: "content: '\\\\f1c7';"
+	"content: '\\f1c8';":
+		prefix: "zmdi-shield-security"
+		body: "content: '\\\\f1c8';"
+	"content: '\\f1c9';":
+		prefix: "zmdi-shopping-basket"
+		body: "content: '\\\\f1c9';"
+	"content: '\\f1cb';":
+		prefix: "zmdi-shopping-cart"
+		body: "content: '\\\\f1cb';"
+	"content: '\\f1ca';":
+		prefix: "zmdi-shopping-cart-add"
+		body: "content: '\\\\f1ca';"
+	"content: '\\f1ca';":
+		prefix: "zmdi-shopping-cart-plus"
+		body: "content: '\\\\f1ca';"
+	"content: '\\f3b3';":
+		prefix: "zmdi-shuffle"
+		body: "content: '\\\\f3b3';"
+	"content: '\\f1cc';":
+		prefix: "zmdi-sign-in"
+		body: "content: '\\\\f1cc';"
+	"content: '\\f3b4';":
+		prefix: "zmdi-skip-next"
+		body: "content: '\\\\f3b4';"
+	"content: '\\f3b5';":
+		prefix: "zmdi-skip-previous"
+		body: "content: '\\\\f3b5';"
+	"content: '\\f3ff';":
+		prefix: "zmdi-skype"
+		body: "content: '\\\\f3ff';"
+	"content: '\\f400';":
+		prefix: "zmdi-slideshare"
+		body: "content: '\\\\f400';"
+	"content: '\\f397';":
+		prefix: "zmdi-slideshow"
+		body: "content: '\\\\f397';"
+	"content: '\\f2d4';":
+		prefix: "zmdi-smartphone"
+		body: "content: '\\\\f2d4';"
+	"content: '\\f2c8';":
+		prefix: "zmdi-smartphone-android"
+		body: "content: '\\\\f2c8';"
+	"content: '\\f139';":
+		prefix: "zmdi-smartphone-code"
+		body: "content: '\\\\f139';"
+	"content: '\\f2c9';":
+		prefix: "zmdi-smartphone-download"
+		body: "content: '\\\\f2c9';"
+	"content: '\\f2ca';":
+		prefix: "zmdi-smartphone-erase"
+		body: "content: '\\\\f2ca';"
+	"content: '\\f2cb';":
+		prefix: "zmdi-smartphone-info"
+		body: "content: '\\\\f2cb';"
+	"content: '\\f2cc';":
+		prefix: "zmdi-smartphone-iphone"
+		body: "content: '\\\\f2cc';"
+	"content: '\\f2ce';":
+		prefix: "zmdi-smartphone-landscape"
+		body: "content: '\\\\f2ce';"
+	"content: '\\f2cd';":
+		prefix: "zmdi-smartphone-landscape-lock"
+		body: "content: '\\\\f2cd';"
+	"content: '\\f2cf';":
+		prefix: "zmdi-smartphone-lock"
+		body: "content: '\\\\f2cf';"
+	"content: '\\f2d4';":
+		prefix: "zmdi-smartphone-portrait"
+		body: "content: '\\\\f2d4';"
+	"content: '\\f2d0';":
+		prefix: "zmdi-smartphone-portrait-lock"
+		body: "content: '\\\\f2d0';"
+	"content: '\\f2d1';":
+		prefix: "zmdi-smartphone-ring"
+		body: "content: '\\\\f2d1';"
+	"content: '\\f2d2';":
+		prefix: "zmdi-smartphone-setting"
+		body: "content: '\\\\f2d2';"
+	"content: '\\f2d3';":
+		prefix: "zmdi-smartphone-setup"
+		body: "content: '\\\\f2d3';"
+	"content: '\\f1ce';":
+		prefix: "zmdi-sort"
+		body: "content: '\\\\f1ce';"
+	"content: '\\f1cd';":
+		prefix: "zmdi-sort-amount-asc"
+		body: "content: '\\\\f1cd';"
+	"content: '\\f1ce';":
+		prefix: "zmdi-sort-amount-desc"
+		body: "content: '\\\\f1ce';"
+	"content: '\\f1cf';":
+		prefix: "zmdi-sort-asc"
+		body: "content: '\\\\f1cf';"
+	"content: '\\f1cf';":
+		prefix: "zmdi-sort-by-alpha"
+		body: "content: '\\\\f1cf';"
+	"content: '\\f1d0';":
+		prefix: "zmdi-sort-desc"
+		body: "content: '\\\\f1d0';"
+	"content: '\\f401';":
+		prefix: "zmdi-soundcloud"
+		body: "content: '\\\\f401';"
+	"content: '\\f255';":
+		prefix: "zmdi-space-bar"
+		body: "content: '\\\\f255';"
+	"content: '\\f2d5';":
+		prefix: "zmdi-speaker"
+		body: "content: '\\\\f2d5';"
+	"content: '\\f1d1';":
+		prefix: "zmdi-spellcheck"
+		body: "content: '\\\\f1d1';"
+	"content: '\\f3ec';":
+		prefix: "zmdi-spinner"
+		body: "content: '\\\\f3ec';"
+	"content: '\\f308';":
+		prefix: "zmdi-square-down"
+		body: "content: '\\\\f308';"
+	"content: '\\f279';":
+		prefix: "zmdi-square-o"
+		body: "content: '\\\\f279';"
+	"content: '\\f309';":
+		prefix: "zmdi-square-right"
+		body: "content: '\\\\f309';"
+	"content: '\\f35c';":
+		prefix: "zmdi-stack-overflow"
+		body: "content: '\\\\f35c';"
+	"content: '\\f35c';":
+		prefix: "zmdi-stackoverflow"
+		body: "content: '\\\\f35c';"
+	"content: '\\f27d';":
+		prefix: "zmdi-star"
+		body: "content: '\\\\f27d';"
+	"content: '\\f27c';":
+		prefix: "zmdi-star-border"
+		body: "content: '\\\\f27c';"
+	"content: '\\f27a';":
+		prefix: "zmdi-star-circle"
+		body: "content: '\\\\f27a';"
+	"content: '\\f27b';":
+		prefix: "zmdi-star-half"
+		body: "content: '\\\\f27b';"
+	"content: '\\f27c';":
+		prefix: "zmdi-star-outline"
+		body: "content: '\\\\f27c';"
+	"content: '\\f35e';":
+		prefix: "zmdi-steam"
+		body: "content: '\\\\f35e';"
+	"content: '\\f35d';":
+		prefix: "zmdi-steam-square"
+		body: "content: '\\\\f35d';"
+	"content: '\\f3b6';":
+		prefix: "zmdi-stop"
+		body: "content: '\\\\f3b6';"
+	"content: '\\f1d2';":
+		prefix: "zmdi-storage"
+		body: "content: '\\\\f1d2';"
+	"content: '\\f1d4';":
+		prefix: "zmdi-store"
+		body: "content: '\\\\f1d4';"
+	"content: '\\f1d3';":
+		prefix: "zmdi-store-24"
+		body: "content: '\\\\f1d3';"
+	"content: '\\f1d5';":
+		prefix: "zmdi-subway"
+		body: "content: '\\\\f1d5';"
+	"content: '\\f1d6';":
+		prefix: "zmdi-sun"
+		body: "content: '\\\\f1d6';"
+	"content: '\\f3b7';":
+		prefix: "zmdi-surround-sound"
+		body: "content: '\\\\f3b7';"
+	"content: '\\f30d';":
+		prefix: "zmdi-swap"
+		body: "content: '\\\\f30d';"
+	"content: '\\f30a';":
+		prefix: "zmdi-swap-alt"
+		body: "content: '\\\\f30a';"
+	"content: '\\f30c';":
+		prefix: "zmdi-swap-vertical"
+		body: "content: '\\\\f30c';"
+	"content: '\\f30c';":
+		prefix: "zmdi-swap-vertical-"
+		body: "content: '\\\\f30c';"
+	"content: '\\f30b';":
+		prefix: "zmdi-swap-vertical-circle"
+		body: "content: '\\\\f30b';"
+	"content: '\\f1d8';":
+		prefix: "zmdi-tab"
+		body: "content: '\\\\f1d8';"
+	"content: '\\f1d7';":
+		prefix: "zmdi-tab-unselected"
+		body: "content: '\\\\f1d7';"
+	"content: '\\f2d8';":
+		prefix: "zmdi-tablet"
+		body: "content: '\\\\f2d8';"
+	"content: '\\f2d6';":
+		prefix: "zmdi-tablet-android"
+		body: "content: '\\\\f2d6';"
+	"content: '\\f2d7';":
+		prefix: "zmdi-tablet-mac"
+		body: "content: '\\\\f2d7';"
+	"content: '\\f1db';":
+		prefix: "zmdi-tag"
+		body: "content: '\\\\f1db';"
+	"content: '\\f1d9';":
+		prefix: "zmdi-tag-backspace"
+		body: "content: '\\\\f1d9';"
+	"content: '\\f1d9';":
+		prefix: "zmdi-tag-close"
+		body: "content: '\\\\f1d9';"
+	"content: '\\f1da';":
+		prefix: "zmdi-tag-more"
+		body: "content: '\\\\f1da';"
+	"content: '\\f3e6';":
+		prefix: "zmdi-tap-and-play"
+		body: "content: '\\\\f3e6';"
+	"content: '\\f256';":
+		prefix: "zmdi-text-format"
+		body: "content: '\\\\f256';"
+	"content: '\\f398';":
+		prefix: "zmdi-texture"
+		body: "content: '\\\\f398';"
+	"content: '\\f1dc';":
+		prefix: "zmdi-thumb-down"
+		body: "content: '\\\\f1dc';"
+	"content: '\\f1de';":
+		prefix: "zmdi-thumb-up"
+		body: "content: '\\\\f1de';"
+	"content: '\\f1dd';":
+		prefix: "zmdi-thumb-up-down"
+		body: "content: '\\\\f1dd';"
+	"content: '\\f1df';":
+		prefix: "zmdi-ticket-star"
+		body: "content: '\\\\f1df';"
+	"content: '\\f337';":
+		prefix: "zmdi-time"
+		body: "content: '\\\\f337';"
+	"content: '\\f333';":
+		prefix: "zmdi-time-countdown"
+		body: "content: '\\\\f333';"
+	"content: '\\f334';":
+		prefix: "zmdi-time-interval"
+		body: "content: '\\\\f334';"
+	"content: '\\f336';":
+		prefix: "zmdi-time-restore"
+		body: "content: '\\\\f336';"
+	"content: '\\f335';":
+		prefix: "zmdi-time-restore-setting"
+		body: "content: '\\\\f335';"
+	"content: '\\f339';":
+		prefix: "zmdi-timer"
+		body: "content: '\\\\f339';"
+	"content: '\\f338';":
+		prefix: "zmdi-timer-off"
+		body: "content: '\\\\f338';"
+	"content: '\\f1e0';":
+		prefix: "zmdi-toll"
+		body: "content: '\\\\f1e0';"
+	"content: '\\f399';":
+		prefix: "zmdi-tonality"
+		body: "content: '\\\\f399';"
+	"content: '\\f1e1';":
+		prefix: "zmdi-toys"
+		body: "content: '\\\\f1e1';"
+	"content: '\\f1e2';":
+		prefix: "zmdi-traffic"
+		body: "content: '\\\\f1e2';"
+	"content: '\\f257';":
+		prefix: "zmdi-transform"
+		body: "content: '\\\\f257';"
+	"content: '\\f1e3';":
+		prefix: "zmdi-translate"
+		body: "content: '\\\\f1e3';"
+	"content: '\\f30e';":
+		prefix: "zmdi-trending-down"
+		body: "content: '\\\\f30e';"
+	"content: '\\f30f';":
+		prefix: "zmdi-trending-flat"
+		body: "content: '\\\\f30f';"
+	"content: '\\f310';":
+		prefix: "zmdi-trending-up"
+		body: "content: '\\\\f310';"
+	"content: '\\f1e4';":
+		prefix: "zmdi-triangle-down"
+		body: "content: '\\\\f1e4';"
+	"content: '\\f1e5';":
+		prefix: "zmdi-triangle-up"
+		body: "content: '\\\\f1e5';"
+	"content: '\\f1e6';":
+		prefix: "zmdi-truck"
+		body: "content: '\\\\f1e6';"
+	"content: '\\f402';":
+		prefix: "zmdi-tumblr"
+		body: "content: '\\\\f402';"
+	"content: '\\f3b8';":
+		prefix: "zmdi-tune"
+		body: "content: '\\\\f3b8';"
+	"content: '\\f1e7';":
+		prefix: "zmdi-turning-sign"
+		body: "content: '\\\\f1e7';"
+	"content: '\\f2dc';":
+			prefix: "zmdi-tv"
+		body: "content: '\\\\f2dc';"
+	"content: '\\f2d9';":
+		prefix: "zmdi-tv-alt-play"
+		body: "content: '\\\\f2d9';"
+	"content: '\\f2da';":
+		prefix: "zmdi-tv-list"
+		body: "content: '\\\\f2da';"
+	"content: '\\f2db';":
+		prefix: "zmdi-tv-play"
+		body: "content: '\\\\f2db';"
+	"content: '\\f403';":
+		prefix: "zmdi-twitch"
+		body: "content: '\\\\f403';"
+	"content: '\\f360';":
+		prefix: "zmdi-twitter"
+		body: "content: '\\\\f360';"
+	"content: '\\f35f';":
+		prefix: "zmdi-twitter-box"
+		body: "content: '\\\\f35f';"
+	"content: '\\f258';":
+		prefix: "zmdi-undo"
+		body: "content: '\\\\f258';"
+	"content: '\\f311';":
+		prefix: "zmdi-unfold-less"
+		body: "content: '\\\\f311';"
+	"content: '\\f312';":
+		prefix: "zmdi-unfold-more"
+		body: "content: '\\\\f312';"
+	"content: '\\f3ed';":
+		prefix: "zmdi-ungroup"
+		body: "content: '\\\\f3ed';"
+	"content: '\\f22a';":
+		prefix: "zmdi-upload"
+		body: "content: '\\\\f22a';"
+	"content: '\\f2dd';":
+		prefix: "zmdi-usb"
+		body: "content: '\\\\f2dd';"
+	"content: '\\f3e7';":
+		prefix: "zmdi-vibration"
+		body: "content: '\\\\f3e7';"
+	"content: '\\f2e0';":
+		prefix: "zmdi-videocam"
+		body: "content: '\\\\f2e0';"
+	"content: '\\f2de';":
+		prefix: "zmdi-videocam-off"
+		body: "content: '\\\\f2de';"
+	"content: '\\f2df';":
+		prefix: "zmdi-videocam-switch"
+		body: "content: '\\\\f2df';"
+	"content: '\\f316';":
+		prefix: "zmdi-view-agenda"
+		body: "content: '\\\\f316';"
+	"content: '\\f317';":
+		prefix: "zmdi-view-array"
+		body: "content: '\\\\f317';"
+	"content: '\\f318';":
+		prefix: "zmdi-view-carousel"
+		body: "content: '\\\\f318';"
+	"content: '\\f319';":
+		prefix: "zmdi-view-column"
+		body: "content: '\\\\f319';"
+	"content: '\\f31a';":
+		prefix: "zmdi-view-comfy"
+		body: "content: '\\\\f31a';"
+	"content: '\\f31b';":
+		prefix: "zmdi-view-compact"
+		body: "content: '\\\\f31b';"
+	"content: '\\f31c';":
+		prefix: "zmdi-view-dashboard"
+		body: "content: '\\\\f31c';"
+	"content: '\\f31d';":
+		prefix: "zmdi-view-day"
+		body: "content: '\\\\f31d';"
+	"content: '\\f31e';":
+		prefix: "zmdi-view-headline"
+		body: "content: '\\\\f31e';"
+	"content: '\\f320';":
+		prefix: "zmdi-view-list"
+		body: "content: '\\\\f320';"
+	"content: '\\f31f';":
+		prefix: "zmdi-view-list-alt"
+		body: "content: '\\\\f31f';"
+	"content: '\\f321';":
+		prefix: "zmdi-view-module"
+		body: "content: '\\\\f321';"
+	"content: '\\f322';":
+		prefix: "zmdi-view-quilt"
+		body: "content: '\\\\f322';"
+	"content: '\\f323';":
+		prefix: "zmdi-view-stream"
+		body: "content: '\\\\f323';"
+	"content: '\\f324';":
+		prefix: "zmdi-view-subtitles"
+		body: "content: '\\\\f324';"
+	"content: '\\f325';":
+		prefix: "zmdi-view-toc"
+		body: "content: '\\\\f325';"
+	"content: '\\f326';":
+		prefix: "zmdi-view-web"
+		body: "content: '\\\\f326';"
+	"content: '\\f327';":
+		prefix: "zmdi-view-week"
+		body: "content: '\\\\f327';"
+	"content: '\\f39a';":
+		prefix: "zmdi-vignette"
+		body: "content: '\\\\f39a';"
+	"content: '\\f404';":
+		prefix: "zmdi-vimeo"
+		body: "content: '\\\\f404';"
+	"content: '\\f361';":
+			prefix: "zmdi-vk"
+		body: "content: '\\\\f361';"
+	"content: '\\f3e8';":
+		prefix: "zmdi-voicemail"
+		body: "content: '\\\\f3e8';"
+	"content: '\\f3b9';":
+		prefix: "zmdi-volume-down"
+		body: "content: '\\\\f3b9';"
+	"content: '\\f3ba';":
+		prefix: "zmdi-volume-mute"
+		body: "content: '\\\\f3ba';"
+	"content: '\\f3bb';":
+		prefix: "zmdi-volume-off"
+		body: "content: '\\\\f3bb';"
+	"content: '\\f3bc';":
+		prefix: "zmdi-volume-up"
+		body: "content: '\\\\f3bc';"
+	"content: '\\f216';":
+		prefix: "zmdi-walk"
+		body: "content: '\\\\f216';"
+	"content: '\\f1e8';":
+		prefix: "zmdi-wallpaper"
+		body: "content: '\\\\f1e8';"
+	"content: '\\f1e9';":
+		prefix: "zmdi-washing-machine"
+		body: "content: '\\\\f1e9';"
+	"content: '\\f2e1';":
+		prefix: "zmdi-watch"
+		body: "content: '\\\\f2e1';"
+	"content: '\\f39b';":
+		prefix: "zmdi-wb-auto"
+		body: "content: '\\\\f39b';"
+	"content: '\\f38c';":
+		prefix: "zmdi-wb-iridescent"
+		body: "content: '\\\\f38c';"
+	"content: '\\f405';":
+		prefix: "zmdi-whatsapp"
+		body: "content: '\\\\f405';"
+	"content: '\\f328';":
+		prefix: "zmdi-widgets"
+		body: "content: '\\\\f328';"
+	"content: '\\f2e8';":
+		prefix: "zmdi-wifi"
+		body: "content: '\\\\f2e8';"
+	"content: '\\f2e3';":
+		prefix: "zmdi-wifi-alt"
+		body: "content: '\\\\f2e3';"
+	"content: '\\f2e2';":
+		prefix: "zmdi-wifi-alt-2"
+		body: "content: '\\\\f2e2';"
+	"content: '\\f2e4';":
+		prefix: "zmdi-wifi-info"
+		body: "content: '\\\\f2e4';"
+	"content: '\\f2e5';":
+		prefix: "zmdi-wifi-lock"
+		body: "content: '\\\\f2e5';"
+	"content: '\\f2e6';":
+		prefix: "zmdi-wifi-off"
+		body: "content: '\\\\f2e6';"
+	"content: '\\f2e7';":
+		prefix: "zmdi-wifi-outline"
+		body: "content: '\\\\f2e7';"
+	"content: '\\f362';":
+		prefix: "zmdi-wikipedia"
+		body: "content: '\\\\f362';"
+	"content: '\\f1ea';":
+		prefix: "zmdi-window-maximize"
+		body: "content: '\\\\f1ea';"
+	"content: '\\f1eb';":
+		prefix: "zmdi-window-minimize"
+		body: "content: '\\\\f1eb';"
+	"content: '\\f1ec';":
+		prefix: "zmdi-window-restore"
+		body: "content: '\\\\f1ec';"
+	"content: '\\f363';":
+		prefix: "zmdi-windows"
+		body: "content: '\\\\f363';"
+	"content: '\\f259';":
+		prefix: "zmdi-wrap-text"
+		body: "content: '\\\\f259';"
+	"content: '\\f1ed';":
+		prefix: "zmdi-wrench"
+		body: "content: '\\\\f1ed';"
+	"content: '\\f406';":
+		prefix: "zmdi-xbox"
+		body: "content: '\\\\f406';"
+	"content: '\\f407';":
+		prefix: "zmdi-yahoo"
+		body: "content: '\\\\f407';"
+	"content: '\\f409';":
+		prefix: "zmdi-youtube"
+		body: "content: '\\\\f409';"
+	"content: '\\f408';":
+		prefix: "zmdi-youtube-play"
+		body: "content: '\\\\f408';"
+	"content: '\\f3c9';":
+		prefix: "zmdi-zero"
+		body: "content: '\\\\f3c9';"
+	"content: '\\f1ee';":
+		prefix: "zmdi-zoom-in"
+		body: "content: '\\\\f1ee';"
+	"content: '\\f1ef';":
+		prefix: "zmdi-zoom-out"
+		body: "content: '\\\\f1ef';"

@@ -1,0 +1,1009 @@
+".source.css,.source.sass":
+	"content: '\\e000';":
+		prefix: "typcn-adjust-brightness"
+		body: "content: '\\\\e000';"
+	"content: '\\e001';":
+		prefix: "typcn-adjust-contrast"
+		body: "content: '\\\\e001';"
+	"content: '\\e003';":
+		prefix: "typcn-anchor"
+		body: "content: '\\\\e003';"
+	"content: '\\e002';":
+		prefix: "typcn-anchor-outline"
+		body: "content: '\\\\e002';"
+	"content: '\\e004';":
+		prefix: "typcn-archive"
+		body: "content: '\\\\e004';"
+	"content: '\\e006';":
+		prefix: "typcn-arrow-back"
+		body: "content: '\\\\e006';"
+	"content: '\\e005';":
+		prefix: "typcn-arrow-back-outline"
+		body: "content: '\\\\e005';"
+	"content: '\\e009';":
+		prefix: "typcn-arrow-down"
+		body: "content: '\\\\e009';"
+	"content: '\\e007';":
+		prefix: "typcn-arrow-down-outline"
+		body: "content: '\\\\e007';"
+	"content: '\\e008';":
+		prefix: "typcn-arrow-down-thick"
+		body: "content: '\\\\e008';"
+	"content: '\\e00b';":
+		prefix: "typcn-arrow-forward"
+		body: "content: '\\\\e00b';"
+	"content: '\\e00a';":
+		prefix: "typcn-arrow-forward-outline"
+		body: "content: '\\\\e00a';"
+	"content: '\\e00e';":
+		prefix: "typcn-arrow-left"
+		body: "content: '\\\\e00e';"
+	"content: '\\e00c';":
+		prefix: "typcn-arrow-left-outline"
+		body: "content: '\\\\e00c';"
+	"content: '\\e00d';":
+		prefix: "typcn-arrow-left-thick"
+		body: "content: '\\\\e00d';"
+	"content: '\\e010';":
+		prefix: "typcn-arrow-loop"
+		body: "content: '\\\\e010';"
+	"content: '\\e00f';":
+		prefix: "typcn-arrow-loop-outline"
+		body: "content: '\\\\e00f';"
+	"content: '\\e012';":
+		prefix: "typcn-arrow-maximise"
+		body: "content: '\\\\e012';"
+	"content: '\\e011';":
+		prefix: "typcn-arrow-maximise-outline"
+		body: "content: '\\\\e011';"
+	"content: '\\e014';":
+		prefix: "typcn-arrow-minimise"
+		body: "content: '\\\\e014';"
+	"content: '\\e013';":
+		prefix: "typcn-arrow-minimise-outline"
+		body: "content: '\\\\e013';"
+	"content: '\\e016';":
+		prefix: "typcn-arrow-move"
+		body: "content: '\\\\e016';"
+	"content: '\\e015';":
+		prefix: "typcn-arrow-move-outline"
+		body: "content: '\\\\e015';"
+	"content: '\\e018';":
+		prefix: "typcn-arrow-repeat"
+		body: "content: '\\\\e018';"
+	"content: '\\e017';":
+		prefix: "typcn-arrow-repeat-outline"
+		body: "content: '\\\\e017';"
+	"content: '\\e01b';":
+		prefix: "typcn-arrow-right"
+		body: "content: '\\\\e01b';"
+	"content: '\\e019';":
+		prefix: "typcn-arrow-right-outline"
+		body: "content: '\\\\e019';"
+	"content: '\\e01a';":
+		prefix: "typcn-arrow-right-thick"
+		body: "content: '\\\\e01a';"
+	"content: '\\e01c';":
+		prefix: "typcn-arrow-shuffle"
+		body: "content: '\\\\e01c';"
+	"content: '\\e01d';":
+		prefix: "typcn-arrow-sorted-down"
+		body: "content: '\\\\e01d';"
+	"content: '\\e01e';":
+		prefix: "typcn-arrow-sorted-up"
+		body: "content: '\\\\e01e';"
+	"content: '\\e020';":
+		prefix: "typcn-arrow-sync"
+		body: "content: '\\\\e020';"
+	"content: '\\e01f';":
+		prefix: "typcn-arrow-sync-outline"
+		body: "content: '\\\\e01f';"
+	"content: '\\e021';":
+		prefix: "typcn-arrow-unsorted"
+		body: "content: '\\\\e021';"
+	"content: '\\e024';":
+		prefix: "typcn-arrow-up"
+		body: "content: '\\\\e024';"
+	"content: '\\e022';":
+		prefix: "typcn-arrow-up-outline"
+		body: "content: '\\\\e022';"
+	"content: '\\e023';":
+		prefix: "typcn-arrow-up-thick"
+		body: "content: '\\\\e023';"
+	"content: '\\e025';":
+		prefix: "typcn-at"
+		body: "content: '\\\\e025';"
+	"content: '\\e027';":
+		prefix: "typcn-attachment"
+		body: "content: '\\\\e027';"
+	"content: '\\e026';":
+		prefix: "typcn-attachment-outline"
+		body: "content: '\\\\e026';"
+	"content: '\\e029';":
+		prefix: "typcn-backspace"
+		body: "content: '\\\\e029';"
+	"content: '\\e028';":
+		prefix: "typcn-backspace-outline"
+		body: "content: '\\\\e028';"
+	"content: '\\e02a';":
+		prefix: "typcn-battery-charge"
+		body: "content: '\\\\e02a';"
+	"content: '\\e02b';":
+		prefix: "typcn-battery-full"
+		body: "content: '\\\\e02b';"
+	"content: '\\e02c';":
+		prefix: "typcn-battery-high"
+		body: "content: '\\\\e02c';"
+	"content: '\\e02d';":
+		prefix: "typcn-battery-low"
+		body: "content: '\\\\e02d';"
+	"content: '\\e02e';":
+		prefix: "typcn-battery-mid"
+		body: "content: '\\\\e02e';"
+	"content: '\\e02f';":
+		prefix: "typcn-beaker"
+		body: "content: '\\\\e02f';"
+	"content: '\\e030';":
+		prefix: "typcn-beer"
+		body: "content: '\\\\e030';"
+	"content: '\\e031';":
+		prefix: "typcn-bell"
+		body: "content: '\\\\e031';"
+	"content: '\\e032';":
+		prefix: "typcn-book"
+		body: "content: '\\\\e032';"
+	"content: '\\e033';":
+		prefix: "typcn-bookmark"
+		body: "content: '\\\\e033';"
+	"content: '\\e034';":
+		prefix: "typcn-briefcase"
+		body: "content: '\\\\e034';"
+	"content: '\\e035';":
+		prefix: "typcn-brush"
+		body: "content: '\\\\e035';"
+	"content: '\\e036';":
+		prefix: "typcn-business-card"
+		body: "content: '\\\\e036';"
+	"content: '\\e037';":
+		prefix: "typcn-calculator"
+		body: "content: '\\\\e037';"
+	"content: '\\e039';":
+		prefix: "typcn-calendar"
+		body: "content: '\\\\e039';"
+	"content: '\\e038';":
+		prefix: "typcn-calendar-outline"
+		body: "content: '\\\\e038';"
+	"content: '\\e03b';":
+		prefix: "typcn-camera"
+		body: "content: '\\\\e03b';"
+	"content: '\\e03a';":
+		prefix: "typcn-camera-outline"
+		body: "content: '\\\\e03a';"
+	"content: '\\e03d';":
+		prefix: "typcn-cancel"
+		body: "content: '\\\\e03d';"
+	"content: '\\e03c';":
+		prefix: "typcn-cancel-outline"
+		body: "content: '\\\\e03c';"
+	"content: '\\e03f';":
+		prefix: "typcn-chart-area"
+		body: "content: '\\\\e03f';"
+	"content: '\\e03e';":
+		prefix: "typcn-chart-area-outline"
+		body: "content: '\\\\e03e';"
+	"content: '\\e041';":
+		prefix: "typcn-chart-bar"
+		body: "content: '\\\\e041';"
+	"content: '\\e040';":
+		prefix: "typcn-chart-bar-outline"
+		body: "content: '\\\\e040';"
+	"content: '\\e043';":
+		prefix: "typcn-chart-line"
+		body: "content: '\\\\e043';"
+	"content: '\\e042';":
+		prefix: "typcn-chart-line-outline"
+		body: "content: '\\\\e042';"
+	"content: '\\e045';":
+		prefix: "typcn-chart-pie"
+		body: "content: '\\\\e045';"
+	"content: '\\e044';":
+		prefix: "typcn-chart-pie-outline"
+		body: "content: '\\\\e044';"
+	"content: '\\e047';":
+		prefix: "typcn-chevron-left"
+		body: "content: '\\\\e047';"
+	"content: '\\e046';":
+		prefix: "typcn-chevron-left-outline"
+		body: "content: '\\\\e046';"
+	"content: '\\e049';":
+		prefix: "typcn-chevron-right"
+		body: "content: '\\\\e049';"
+	"content: '\\e048';":
+		prefix: "typcn-chevron-right-outline"
+		body: "content: '\\\\e048';"
+	"content: '\\e04a';":
+		prefix: "typcn-clipboard"
+		body: "content: '\\\\e04a';"
+	"content: '\\e04b';":
+		prefix: "typcn-cloud-storage"
+		body: "content: '\\\\e04b';"
+	"content: '\\e054';":
+		prefix: "typcn-cloud-storage-outline"
+		body: "content: '\\\\e054';"
+	"content: '\\e04d';":
+		prefix: "typcn-code"
+		body: "content: '\\\\e04d';"
+	"content: '\\e04c';":
+		prefix: "typcn-code-outline"
+		body: "content: '\\\\e04c';"
+	"content: '\\e04e';":
+		prefix: "typcn-coffee"
+		body: "content: '\\\\e04e';"
+	"content: '\\e050';":
+		prefix: "typcn-cog"
+		body: "content: '\\\\e050';"
+	"content: '\\e04f';":
+		prefix: "typcn-cog-outline"
+		body: "content: '\\\\e04f';"
+	"content: '\\e051';":
+		prefix: "typcn-compass"
+		body: "content: '\\\\e051';"
+	"content: '\\e052';":
+		prefix: "typcn-contacts"
+		body: "content: '\\\\e052';"
+	"content: '\\e053';":
+		prefix: "typcn-credit-card"
+		body: "content: '\\\\e053';"
+	"content: '\\e055';":
+		prefix: "typcn-css3"
+		body: "content: '\\\\e055';"
+	"content: '\\e056';":
+		prefix: "typcn-database"
+		body: "content: '\\\\e056';"
+	"content: '\\e058';":
+		prefix: "typcn-delete"
+		body: "content: '\\\\e058';"
+	"content: '\\e057';":
+		prefix: "typcn-delete-outline"
+		body: "content: '\\\\e057';"
+	"content: '\\e059';":
+		prefix: "typcn-device-desktop"
+		body: "content: '\\\\e059';"
+	"content: '\\e05a';":
+		prefix: "typcn-device-laptop"
+		body: "content: '\\\\e05a';"
+	"content: '\\e05b';":
+		prefix: "typcn-device-phone"
+		body: "content: '\\\\e05b';"
+	"content: '\\e05c';":
+		prefix: "typcn-device-tablet"
+		body: "content: '\\\\e05c';"
+	"content: '\\e05d';":
+		prefix: "typcn-directions"
+		body: "content: '\\\\e05d';"
+	"content: '\\e05f';":
+		prefix: "typcn-divide"
+		body: "content: '\\\\e05f';"
+	"content: '\\e05e';":
+		prefix: "typcn-divide-outline"
+		body: "content: '\\\\e05e';"
+	"content: '\\e063';":
+		prefix: "typcn-document"
+		body: "content: '\\\\e063';"
+	"content: '\\e060';":
+		prefix: "typcn-document-add"
+		body: "content: '\\\\e060';"
+	"content: '\\e061';":
+		prefix: "typcn-document-delete"
+		body: "content: '\\\\e061';"
+	"content: '\\e062';":
+		prefix: "typcn-document-text"
+		body: "content: '\\\\e062';"
+	"content: '\\e065';":
+		prefix: "typcn-download"
+		body: "content: '\\\\e065';"
+	"content: '\\e064';":
+		prefix: "typcn-download-outline"
+		body: "content: '\\\\e064';"
+	"content: '\\e066';":
+		prefix: "typcn-dropbox"
+		body: "content: '\\\\e066';"
+	"content: '\\e067';":
+		prefix: "typcn-edit"
+		body: "content: '\\\\e067';"
+	"content: '\\e069';":
+		prefix: "typcn-eject"
+		body: "content: '\\\\e069';"
+	"content: '\\e068';":
+		prefix: "typcn-eject-outline"
+		body: "content: '\\\\e068';"
+	"content: '\\e06b';":
+		prefix: "typcn-equals"
+		body: "content: '\\\\e06b';"
+	"content: '\\e06a';":
+		prefix: "typcn-equals-outline"
+		body: "content: '\\\\e06a';"
+	"content: '\\e06d';":
+		prefix: "typcn-export"
+		body: "content: '\\\\e06d';"
+	"content: '\\e06c';":
+		prefix: "typcn-export-outline"
+		body: "content: '\\\\e06c';"
+	"content: '\\e06f';":
+		prefix: "typcn-eye"
+		body: "content: '\\\\e06f';"
+	"content: '\\e06e';":
+		prefix: "typcn-eye-outline"
+		body: "content: '\\\\e06e';"
+	"content: '\\e070';":
+		prefix: "typcn-feather"
+		body: "content: '\\\\e070';"
+	"content: '\\e071';":
+		prefix: "typcn-film"
+		body: "content: '\\\\e071';"
+	"content: '\\e072';":
+		prefix: "typcn-filter"
+		body: "content: '\\\\e072';"
+	"content: '\\e074';":
+		prefix: "typcn-flag"
+		body: "content: '\\\\e074';"
+	"content: '\\e073';":
+		prefix: "typcn-flag-outline"
+		body: "content: '\\\\e073';"
+	"content: '\\e076';":
+		prefix: "typcn-flash"
+		body: "content: '\\\\e076';"
+	"content: '\\e075';":
+		prefix: "typcn-flash-outline"
+		body: "content: '\\\\e075';"
+	"content: '\\e077';":
+		prefix: "typcn-flow-children"
+		body: "content: '\\\\e077';"
+	"content: '\\e078';":
+		prefix: "typcn-flow-merge"
+		body: "content: '\\\\e078';"
+	"content: '\\e079';":
+		prefix: "typcn-flow-parallel"
+		body: "content: '\\\\e079';"
+	"content: '\\e07a';":
+		prefix: "typcn-flow-switch"
+		body: "content: '\\\\e07a';"
+	"content: '\\e07e';":
+		prefix: "typcn-folder"
+		body: "content: '\\\\e07e';"
+	"content: '\\e07b';":
+		prefix: "typcn-folder-add"
+		body: "content: '\\\\e07b';"
+	"content: '\\e07c';":
+		prefix: "typcn-folder-delete"
+		body: "content: '\\\\e07c';"
+	"content: '\\e07d';":
+		prefix: "typcn-folder-open"
+		body: "content: '\\\\e07d';"
+	"content: '\\e07f';":
+		prefix: "typcn-gift"
+		body: "content: '\\\\e07f';"
+	"content: '\\e081';":
+		prefix: "typcn-globe"
+		body: "content: '\\\\e081';"
+	"content: '\\e080';":
+		prefix: "typcn-globe-outline"
+		body: "content: '\\\\e080';"
+	"content: '\\e083';":
+		prefix: "typcn-group"
+		body: "content: '\\\\e083';"
+	"content: '\\e082';":
+		prefix: "typcn-group-outline"
+		body: "content: '\\\\e082';"
+	"content: '\\e084';":
+		prefix: "typcn-headphones"
+		body: "content: '\\\\e084';"
+	"content: '\\e088';":
+		prefix: "typcn-heart"
+		body: "content: '\\\\e088';"
+	"content: '\\e085';":
+		prefix: "typcn-heart-full-outline"
+		body: "content: '\\\\e085';"
+	"content: '\\e086';":
+		prefix: "typcn-heart-half-outline"
+		body: "content: '\\\\e086';"
+	"content: '\\e087';":
+		prefix: "typcn-heart-outline"
+		body: "content: '\\\\e087';"
+	"content: '\\e08a';":
+		prefix: "typcn-home"
+		body: "content: '\\\\e08a';"
+	"content: '\\e089';":
+		prefix: "typcn-home-outline"
+		body: "content: '\\\\e089';"
+	"content: '\\e08b';":
+		prefix: "typcn-html5"
+		body: "content: '\\\\e08b';"
+	"content: '\\e08d';":
+		prefix: "typcn-image"
+		body: "content: '\\\\e08d';"
+	"content: '\\e08c';":
+		prefix: "typcn-image-outline"
+		body: "content: '\\\\e08c';"
+	"content: '\\e08f';":
+		prefix: "typcn-infinity"
+		body: "content: '\\\\e08f';"
+	"content: '\\e08e';":
+		prefix: "typcn-infinity-outline"
+		body: "content: '\\\\e08e';"
+	"content: '\\e093';":
+		prefix: "typcn-info"
+		body: "content: '\\\\e093';"
+	"content: '\\e091';":
+		prefix: "typcn-info-large"
+		body: "content: '\\\\e091';"
+	"content: '\\e090';":
+		prefix: "typcn-info-large-outline"
+		body: "content: '\\\\e090';"
+	"content: '\\e092';":
+		prefix: "typcn-info-outline"
+		body: "content: '\\\\e092';"
+	"content: '\\e095';":
+		prefix: "typcn-input-checked"
+		body: "content: '\\\\e095';"
+	"content: '\\e094';":
+		prefix: "typcn-input-checked-outline"
+		body: "content: '\\\\e094';"
+	"content: '\\e097';":
+		prefix: "typcn-key"
+		body: "content: '\\\\e097';"
+	"content: '\\e096';":
+		prefix: "typcn-key-outline"
+		body: "content: '\\\\e096';"
+	"content: '\\e098';":
+		prefix: "typcn-keyboard"
+		body: "content: '\\\\e098';"
+	"content: '\\e099';":
+		prefix: "typcn-leaf"
+		body: "content: '\\\\e099';"
+	"content: '\\e09a';":
+		prefix: "typcn-lightbulb"
+		body: "content: '\\\\e09a';"
+	"content: '\\e09c';":
+		prefix: "typcn-link"
+		body: "content: '\\\\e09c';"
+	"content: '\\e09b';":
+		prefix: "typcn-link-outline"
+		body: "content: '\\\\e09b';"
+	"content: '\\e0a0';":
+		prefix: "typcn-location"
+		body: "content: '\\\\e0a0';"
+	"content: '\\e09e';":
+		prefix: "typcn-location-arrow"
+		body: "content: '\\\\e09e';"
+	"content: '\\e09d';":
+		prefix: "typcn-location-arrow-outline"
+		body: "content: '\\\\e09d';"
+	"content: '\\e09f';":
+		prefix: "typcn-location-outline"
+		body: "content: '\\\\e09f';"
+	"content: '\\e0a2';":
+		prefix: "typcn-lock-closed"
+		body: "content: '\\\\e0a2';"
+	"content: '\\e0a1';":
+		prefix: "typcn-lock-closed-outline"
+		body: "content: '\\\\e0a1';"
+	"content: '\\e0a4';":
+		prefix: "typcn-lock-open"
+		body: "content: '\\\\e0a4';"
+	"content: '\\e0a3';":
+		prefix: "typcn-lock-open-outline"
+		body: "content: '\\\\e0a3';"
+	"content: '\\e0a5';":
+		prefix: "typcn-mail"
+		body: "content: '\\\\e0a5';"
+	"content: '\\e0a6';":
+		prefix: "typcn-map"
+		body: "content: '\\\\e0a6';"
+	"content: '\\e0a8';":
+		prefix: "typcn-media-eject"
+		body: "content: '\\\\e0a8';"
+	"content: '\\e0a7';":
+		prefix: "typcn-media-eject-outline"
+		body: "content: '\\\\e0a7';"
+	"content: '\\e0aa';":
+		prefix: "typcn-media-fast-forward"
+		body: "content: '\\\\e0aa';"
+	"content: '\\e0a9';":
+		prefix: "typcn-media-fast-forward-outline"
+		body: "content: '\\\\e0a9';"
+	"content: '\\e0ac';":
+		prefix: "typcn-media-pause"
+		body: "content: '\\\\e0ac';"
+	"content: '\\e0ab';":
+		prefix: "typcn-media-pause-outline"
+		body: "content: '\\\\e0ab';"
+	"content: '\\e0b0';":
+		prefix: "typcn-media-play"
+		body: "content: '\\\\e0b0';"
+	"content: '\\e0ad';":
+		prefix: "typcn-media-play-outline"
+		body: "content: '\\\\e0ad';"
+	"content: '\\e0af';":
+		prefix: "typcn-media-play-reverse"
+		body: "content: '\\\\e0af';"
+	"content: '\\e0ae';":
+		prefix: "typcn-media-play-reverse-outline"
+		body: "content: '\\\\e0ae';"
+	"content: '\\e0b2';":
+		prefix: "typcn-media-record"
+		body: "content: '\\\\e0b2';"
+	"content: '\\e0b1';":
+		prefix: "typcn-media-record-outline"
+		body: "content: '\\\\e0b1';"
+	"content: '\\e0b4';":
+		prefix: "typcn-media-rewind"
+		body: "content: '\\\\e0b4';"
+	"content: '\\e0b3';":
+		prefix: "typcn-media-rewind-outline"
+		body: "content: '\\\\e0b3';"
+	"content: '\\e0b6';":
+		prefix: "typcn-media-stop"
+		body: "content: '\\\\e0b6';"
+	"content: '\\e0b5';":
+		prefix: "typcn-media-stop-outline"
+		body: "content: '\\\\e0b5';"
+	"content: '\\e0b8';":
+		prefix: "typcn-message"
+		body: "content: '\\\\e0b8';"
+	"content: '\\e0b7';":
+		prefix: "typcn-message-typing"
+		body: "content: '\\\\e0b7';"
+	"content: '\\e0b9';":
+		prefix: "typcn-messages"
+		body: "content: '\\\\e0b9';"
+	"content: '\\e0bb';":
+		prefix: "typcn-microphone"
+		body: "content: '\\\\e0bb';"
+	"content: '\\e0ba';":
+		prefix: "typcn-microphone-outline"
+		body: "content: '\\\\e0ba';"
+	"content: '\\e0bd';":
+		prefix: "typcn-minus"
+		body: "content: '\\\\e0bd';"
+	"content: '\\e0bc';":
+		prefix: "typcn-minus-outline"
+		body: "content: '\\\\e0bc';"
+	"content: '\\e0be';":
+		prefix: "typcn-mortar-board"
+		body: "content: '\\\\e0be';"
+	"content: '\\e0bf';":
+		prefix: "typcn-news"
+		body: "content: '\\\\e0bf';"
+	"content: '\\e0c1';":
+		prefix: "typcn-notes"
+		body: "content: '\\\\e0c1';"
+	"content: '\\e0c0';":
+		prefix: "typcn-notes-outline"
+		body: "content: '\\\\e0c0';"
+	"content: '\\e0c2';":
+		prefix: "typcn-pen"
+		body: "content: '\\\\e0c2';"
+	"content: '\\e0c3';":
+		prefix: "typcn-pencil"
+		body: "content: '\\\\e0c3';"
+	"content: '\\e0c5';":
+		prefix: "typcn-phone"
+		body: "content: '\\\\e0c5';"
+	"content: '\\e0c4';":
+		prefix: "typcn-phone-outline"
+		body: "content: '\\\\e0c4';"
+	"content: '\\e0c7';":
+		prefix: "typcn-pi"
+		body: "content: '\\\\e0c7';"
+	"content: '\\e0c6';":
+		prefix: "typcn-pi-outline"
+		body: "content: '\\\\e0c6';"
+	"content: '\\e0c9';":
+		prefix: "typcn-pin"
+		body: "content: '\\\\e0c9';"
+	"content: '\\e0c8';":
+		prefix: "typcn-pin-outline"
+		body: "content: '\\\\e0c8';"
+	"content: '\\e0ca';":
+		prefix: "typcn-pipette"
+		body: "content: '\\\\e0ca';"
+	"content: '\\e0cc';":
+		prefix: "typcn-plane"
+		body: "content: '\\\\e0cc';"
+	"content: '\\e0cb';":
+		prefix: "typcn-plane-outline"
+		body: "content: '\\\\e0cb';"
+	"content: '\\e0cd';":
+		prefix: "typcn-plug"
+		body: "content: '\\\\e0cd';"
+	"content: '\\e0cf';":
+		prefix: "typcn-plus"
+		body: "content: '\\\\e0cf';"
+	"content: '\\e0ce';":
+		prefix: "typcn-plus-outline"
+		body: "content: '\\\\e0ce';"
+	"content: '\\e0d1';":
+		prefix: "typcn-point-of-interest"
+		body: "content: '\\\\e0d1';"
+	"content: '\\e0d0';":
+		prefix: "typcn-point-of-interest-outline"
+		body: "content: '\\\\e0d0';"
+	"content: '\\e0d3';":
+		prefix: "typcn-power"
+		body: "content: '\\\\e0d3';"
+	"content: '\\e0d2';":
+		prefix: "typcn-power-outline"
+		body: "content: '\\\\e0d2';"
+	"content: '\\e0d4';":
+		prefix: "typcn-printer"
+		body: "content: '\\\\e0d4';"
+	"content: '\\e0d6';":
+		prefix: "typcn-puzzle"
+		body: "content: '\\\\e0d6';"
+	"content: '\\e0d5';":
+		prefix: "typcn-puzzle-outline"
+		body: "content: '\\\\e0d5';"
+	"content: '\\e0d8';":
+		prefix: "typcn-radar"
+		body: "content: '\\\\e0d8';"
+	"content: '\\e0d7';":
+		prefix: "typcn-radar-outline"
+		body: "content: '\\\\e0d7';"
+	"content: '\\e0da';":
+		prefix: "typcn-refresh"
+		body: "content: '\\\\e0da';"
+	"content: '\\e0d9';":
+		prefix: "typcn-refresh-outline"
+		body: "content: '\\\\e0d9';"
+	"content: '\\e0dc';":
+		prefix: "typcn-rss"
+		body: "content: '\\\\e0dc';"
+	"content: '\\e0db';":
+		prefix: "typcn-rss-outline"
+		body: "content: '\\\\e0db';"
+	"content: '\\e0de';":
+		prefix: "typcn-scissors"
+		body: "content: '\\\\e0de';"
+	"content: '\\e0dd';":
+		prefix: "typcn-scissors-outline"
+		body: "content: '\\\\e0dd';"
+	"content: '\\e0df';":
+		prefix: "typcn-shopping-bag"
+		body: "content: '\\\\e0df';"
+	"content: '\\e0e0';":
+		prefix: "typcn-shopping-cart"
+		body: "content: '\\\\e0e0';"
+	"content: '\\e0e1';":
+		prefix: "typcn-social-at-circular"
+		body: "content: '\\\\e0e1';"
+	"content: '\\e0e3';":
+		prefix: "typcn-social-dribbble"
+		body: "content: '\\\\e0e3';"
+	"content: '\\e0e2';":
+		prefix: "typcn-social-dribbble-circular"
+		body: "content: '\\\\e0e2';"
+	"content: '\\e0e5';":
+		prefix: "typcn-social-facebook"
+		body: "content: '\\\\e0e5';"
+	"content: '\\e0e4';":
+		prefix: "typcn-social-facebook-circular"
+		body: "content: '\\\\e0e4';"
+	"content: '\\e0e7';":
+		prefix: "typcn-social-flickr"
+		body: "content: '\\\\e0e7';"
+	"content: '\\e0e6';":
+		prefix: "typcn-social-flickr-circular"
+		body: "content: '\\\\e0e6';"
+	"content: '\\e0e9';":
+		prefix: "typcn-social-github"
+		body: "content: '\\\\e0e9';"
+	"content: '\\e0e8';":
+		prefix: "typcn-social-github-circular"
+		body: "content: '\\\\e0e8';"
+	"content: '\\e0eb';":
+		prefix: "typcn-social-google-plus"
+		body: "content: '\\\\e0eb';"
+	"content: '\\e0ea';":
+		prefix: "typcn-social-google-plus-circular"
+		body: "content: '\\\\e0ea';"
+	"content: '\\e0ed';":
+		prefix: "typcn-social-instagram"
+		body: "content: '\\\\e0ed';"
+	"content: '\\e0ec';":
+		prefix: "typcn-social-instagram-circular"
+		body: "content: '\\\\e0ec';"
+	"content: '\\e0ef';":
+		prefix: "typcn-social-last-fm"
+		body: "content: '\\\\e0ef';"
+	"content: '\\e0ee';":
+		prefix: "typcn-social-last-fm-circular"
+		body: "content: '\\\\e0ee';"
+	"content: '\\e0f1';":
+		prefix: "typcn-social-linkedin"
+		body: "content: '\\\\e0f1';"
+	"content: '\\e0f0';":
+		prefix: "typcn-social-linkedin-circular"
+		body: "content: '\\\\e0f0';"
+	"content: '\\e0f3';":
+		prefix: "typcn-social-pinterest"
+		body: "content: '\\\\e0f3';"
+	"content: '\\e0f2';":
+		prefix: "typcn-social-pinterest-circular"
+		body: "content: '\\\\e0f2';"
+	"content: '\\e0f5';":
+		prefix: "typcn-social-skype"
+		body: "content: '\\\\e0f5';"
+	"content: '\\e0f4';":
+		prefix: "typcn-social-skype-outline"
+		body: "content: '\\\\e0f4';"
+	"content: '\\e0f7';":
+		prefix: "typcn-social-tumbler"
+		body: "content: '\\\\e0f7';"
+	"content: '\\e0f6';":
+		prefix: "typcn-social-tumbler-circular"
+		body: "content: '\\\\e0f6';"
+	"content: '\\e0f9';":
+		prefix: "typcn-social-twitter"
+		body: "content: '\\\\e0f9';"
+	"content: '\\e0f8';":
+		prefix: "typcn-social-twitter-circular"
+		body: "content: '\\\\e0f8';"
+	"content: '\\e0fb';":
+		prefix: "typcn-social-vimeo"
+		body: "content: '\\\\e0fb';"
+	"content: '\\e0fa';":
+		prefix: "typcn-social-vimeo-circular"
+		body: "content: '\\\\e0fa';"
+	"content: '\\e0fd';":
+		prefix: "typcn-social-youtube"
+		body: "content: '\\\\e0fd';"
+	"content: '\\e0fc';":
+		prefix: "typcn-social-youtube-circular"
+		body: "content: '\\\\e0fc';"
+	"content: '\\e0ff';":
+		prefix: "typcn-sort-alphabetically"
+		body: "content: '\\\\e0ff';"
+	"content: '\\e0fe';":
+		prefix: "typcn-sort-alphabetically-outline"
+		body: "content: '\\\\e0fe';"
+	"content: '\\e101';":
+		prefix: "typcn-sort-numerically"
+		body: "content: '\\\\e101';"
+	"content: '\\e100';":
+		prefix: "typcn-sort-numerically-outline"
+		body: "content: '\\\\e100';"
+	"content: '\\e103';":
+		prefix: "typcn-spanner"
+		body: "content: '\\\\e103';"
+	"content: '\\e102';":
+		prefix: "typcn-spanner-outline"
+		body: "content: '\\\\e102';"
+	"content: '\\e104';":
+		prefix: "typcn-spiral"
+		body: "content: '\\\\e104';"
+	"content: '\\e109';":
+		prefix: "typcn-star"
+		body: "content: '\\\\e109';"
+	"content: '\\e105';":
+		prefix: "typcn-star-full-outline"
+		body: "content: '\\\\e105';"
+	"content: '\\e107';":
+		prefix: "typcn-star-half"
+		body: "content: '\\\\e107';"
+	"content: '\\e106';":
+		prefix: "typcn-star-half-outline"
+		body: "content: '\\\\e106';"
+	"content: '\\e108';":
+		prefix: "typcn-star-outline"
+		body: "content: '\\\\e108';"
+	"content: '\\e10b';":
+		prefix: "typcn-starburst"
+		body: "content: '\\\\e10b';"
+	"content: '\\e10a';":
+		prefix: "typcn-starburst-outline"
+		body: "content: '\\\\e10a';"
+	"content: '\\e10c';":
+		prefix: "typcn-stopwatch"
+		body: "content: '\\\\e10c';"
+	"content: '\\e10d';":
+		prefix: "typcn-support"
+		body: "content: '\\\\e10d';"
+	"content: '\\e10e';":
+		prefix: "typcn-tabs-outline"
+		body: "content: '\\\\e10e';"
+	"content: '\\e10f';":
+		prefix: "typcn-tag"
+		body: "content: '\\\\e10f';"
+	"content: '\\e110';":
+		prefix: "typcn-tags"
+		body: "content: '\\\\e110';"
+	"content: '\\e112';":
+		prefix: "typcn-th-large"
+		body: "content: '\\\\e112';"
+	"content: '\\e111';":
+		prefix: "typcn-th-large-outline"
+		body: "content: '\\\\e111';"
+	"content: '\\e114';":
+		prefix: "typcn-th-list"
+		body: "content: '\\\\e114';"
+	"content: '\\e113';":
+		prefix: "typcn-th-list-outline"
+		body: "content: '\\\\e113';"
+	"content: '\\e116';":
+		prefix: "typcn-th-menu"
+		body: "content: '\\\\e116';"
+	"content: '\\e115';":
+		prefix: "typcn-th-menu-outline"
+		body: "content: '\\\\e115';"
+	"content: '\\e118';":
+		prefix: "typcn-th-small"
+		body: "content: '\\\\e118';"
+	"content: '\\e117';":
+		prefix: "typcn-th-small-outline"
+		body: "content: '\\\\e117';"
+	"content: '\\e119';":
+		prefix: "typcn-thermometer"
+		body: "content: '\\\\e119';"
+	"content: '\\e11a';":
+		prefix: "typcn-thumbs-down"
+		body: "content: '\\\\e11a';"
+	"content: '\\e11b';":
+		prefix: "typcn-thumbs-ok"
+		body: "content: '\\\\e11b';"
+	"content: '\\e11c';":
+		prefix: "typcn-thumbs-up"
+		body: "content: '\\\\e11c';"
+	"content: '\\e11e';":
+		prefix: "typcn-tick"
+		body: "content: '\\\\e11e';"
+	"content: '\\e11d';":
+		prefix: "typcn-tick-outline"
+		body: "content: '\\\\e11d';"
+	"content: '\\e11f';":
+		prefix: "typcn-ticket"
+		body: "content: '\\\\e11f';"
+	"content: '\\e120';":
+		prefix: "typcn-time"
+		body: "content: '\\\\e120';"
+	"content: '\\e122';":
+		prefix: "typcn-times"
+		body: "content: '\\\\e122';"
+	"content: '\\e121';":
+		prefix: "typcn-times-outline"
+		body: "content: '\\\\e121';"
+	"content: '\\e123';":
+		prefix: "typcn-trash"
+		body: "content: '\\\\e123';"
+	"content: '\\e124';":
+		prefix: "typcn-tree"
+		body: "content: '\\\\e124';"
+	"content: '\\e126';":
+		prefix: "typcn-upload"
+		body: "content: '\\\\e126';"
+	"content: '\\e125';":
+		prefix: "typcn-upload-outline"
+		body: "content: '\\\\e125';"
+	"content: '\\e12c';":
+		prefix: "typcn-user"
+		body: "content: '\\\\e12c';"
+	"content: '\\e128';":
+		prefix: "typcn-user-add"
+		body: "content: '\\\\e128';"
+	"content: '\\e127';":
+		prefix: "typcn-user-add-outline"
+		body: "content: '\\\\e127';"
+	"content: '\\e12a';":
+		prefix: "typcn-user-delete"
+		body: "content: '\\\\e12a';"
+	"content: '\\e129';":
+		prefix: "typcn-user-delete-outline"
+		body: "content: '\\\\e129';"
+	"content: '\\e12b';":
+		prefix: "typcn-user-outline"
+		body: "content: '\\\\e12b';"
+	"content: '\\e12d';":
+		prefix: "typcn-vendor-android"
+		body: "content: '\\\\e12d';"
+	"content: '\\e12e';":
+		prefix: "typcn-vendor-apple"
+		body: "content: '\\\\e12e';"
+	"content: '\\e12f';":
+		prefix: "typcn-vendor-microsoft"
+		body: "content: '\\\\e12f';"
+	"content: '\\e131';":
+		prefix: "typcn-video"
+		body: "content: '\\\\e131';"
+	"content: '\\e130';":
+		prefix: "typcn-video-outline"
+		body: "content: '\\\\e130';"
+	"content: '\\e135';":
+		prefix: "typcn-volume"
+		body: "content: '\\\\e135';"
+	"content: '\\e132';":
+		prefix: "typcn-volume-down"
+		body: "content: '\\\\e132';"
+	"content: '\\e133';":
+		prefix: "typcn-volume-mute"
+		body: "content: '\\\\e133';"
+	"content: '\\e134';":
+		prefix: "typcn-volume-up"
+		body: "content: '\\\\e134';"
+	"content: '\\e137';":
+		prefix: "typcn-warning"
+		body: "content: '\\\\e137';"
+	"content: '\\e136';":
+		prefix: "typcn-warning-outline"
+		body: "content: '\\\\e136';"
+	"content: '\\e138';":
+		prefix: "typcn-watch"
+		body: "content: '\\\\e138';"
+	"content: '\\e13a';":
+		prefix: "typcn-waves"
+		body: "content: '\\\\e13a';"
+	"content: '\\e139';":
+		prefix: "typcn-waves-outline"
+		body: "content: '\\\\e139';"
+	"content: '\\e13b';":
+		prefix: "typcn-weather-cloudy"
+		body: "content: '\\\\e13b';"
+	"content: '\\e13c';":
+		prefix: "typcn-weather-downpour"
+		body: "content: '\\\\e13c';"
+	"content: '\\e13d';":
+		prefix: "typcn-weather-night"
+		body: "content: '\\\\e13d';"
+	"content: '\\e13e';":
+		prefix: "typcn-weather-partly-sunny"
+		body: "content: '\\\\e13e';"
+	"content: '\\e13f';":
+		prefix: "typcn-weather-shower"
+		body: "content: '\\\\e13f';"
+	"content: '\\e140';":
+		prefix: "typcn-weather-snow"
+		body: "content: '\\\\e140';"
+	"content: '\\e141';":
+		prefix: "typcn-weather-stormy"
+		body: "content: '\\\\e141';"
+	"content: '\\e142';":
+		prefix: "typcn-weather-sunny"
+		body: "content: '\\\\e142';"
+	"content: '\\e144';":
+		prefix: "typcn-weather-windy"
+		body: "content: '\\\\e144';"
+	"content: '\\e143';":
+		prefix: "typcn-weather-windy-cloudy"
+		body: "content: '\\\\e143';"
+	"content: '\\e146';":
+		prefix: "typcn-wi-fi"
+		body: "content: '\\\\e146';"
+	"content: '\\e145';":
+		prefix: "typcn-wi-fi-outline"
+		body: "content: '\\\\e145';"
+	"content: '\\e147';":
+		prefix: "typcn-wine"
+		body: "content: '\\\\e147';"
+	"content: '\\e149';":
+		prefix: "typcn-world"
+		body: "content: '\\\\e149';"
+	"content: '\\e148';":
+		prefix: "typcn-world-outline"
+		body: "content: '\\\\e148';"
+	"content: '\\e14f';":
+		prefix: "typcn-zoom"
+		body: "content: '\\\\e14f';"
+	"content: '\\e14b';":
+		prefix: "typcn-zoom-in"
+		body: "content: '\\\\e14b';"
+	"content: '\\e14a';":
+		prefix: "typcn-zoom-in-outline"
+		body: "content: '\\\\e14a';"
+	"content: '\\e14d';":
+		prefix: "typcn-zoom-out"
+		body: "content: '\\\\e14d';"
+	"content: '\\e14c';":
+		prefix: "typcn-zoom-out-outline"
+		body: "content: '\\\\e14c';"
+	"content: '\\e14e';":
+		prefix: "typcn-zoom-outline"
+		body: "content: '\\\\e14e';"

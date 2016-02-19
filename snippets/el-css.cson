@@ -1,0 +1,913 @@
+".source.css,.source.sass":
+	"content: '\\f102';":
+		prefix: "el-address-book"
+		body: "content: '\\\\f102';"
+	"content: '\\f101';":
+		prefix: "el-address-book-alt"
+		body: "content: '\\\\f101';"
+	"content: '\\f104';":
+		prefix: "el-adjust"
+		body: "content: '\\\\f104';"
+	"content: '\\f103';":
+		prefix: "el-adjust-alt"
+		body: "content: '\\\\f103';"
+	"content: '\\f105';":
+		prefix: "el-adult"
+		body: "content: '\\\\f105';"
+	"content: '\\f106';":
+		prefix: "el-align-center"
+		body: "content: '\\\\f106';"
+	"content: '\\f107';":
+		prefix: "el-align-justify"
+		body: "content: '\\\\f107';"
+	"content: '\\f108';":
+		prefix: "el-align-left"
+		body: "content: '\\\\f108';"
+	"content: '\\f109';":
+		prefix: "el-align-right"
+		body: "content: '\\\\f109';"
+	"content: '\\f10a';":
+		prefix: "el-arrow-down"
+		body: "content: '\\\\f10a';"
+	"content: '\\f10b';":
+		prefix: "el-arrow-left"
+		body: "content: '\\\\f10b';"
+	"content: '\\f10c';":
+		prefix: "el-arrow-right"
+		body: "content: '\\\\f10c';"
+	"content: '\\f10d';":
+		prefix: "el-arrow-up"
+		body: "content: '\\\\f10d';"
+	"content: '\\f10e';":
+		prefix: "el-asl"
+		body: "content: '\\\\f10e';"
+	"content: '\\f10f';":
+		prefix: "el-asterisk"
+		body: "content: '\\\\f10f';"
+	"content: '\\f110';":
+		prefix: "el-backward"
+		body: "content: '\\\\f110';"
+	"content: '\\f111';":
+		prefix: "el-ban-circle"
+		body: "content: '\\\\f111';"
+	"content: '\\f112';":
+		prefix: "el-barcode"
+		body: "content: '\\\\f112';"
+	"content: '\\f113';":
+		prefix: "el-behance"
+		body: "content: '\\\\f113';"
+	"content: '\\f114';":
+		prefix: "el-bell"
+		body: "content: '\\\\f114';"
+	"content: '\\f115';":
+		prefix: "el-blind"
+		body: "content: '\\\\f115';"
+	"content: '\\f116';":
+		prefix: "el-blogger"
+		body: "content: '\\\\f116';"
+	"content: '\\f117';":
+		prefix: "el-bold"
+		body: "content: '\\\\f117';"
+	"content: '\\f118';":
+		prefix: "el-book"
+		body: "content: '\\\\f118';"
+	"content: '\\f11a';":
+		prefix: "el-bookmark"
+		body: "content: '\\\\f11a';"
+	"content: '\\f119';":
+		prefix: "el-bookmark-empty"
+		body: "content: '\\\\f119';"
+	"content: '\\f11b';":
+		prefix: "el-braille"
+		body: "content: '\\\\f11b';"
+	"content: '\\f11c';":
+		prefix: "el-briefcase"
+		body: "content: '\\\\f11c';"
+	"content: '\\f11d';":
+		prefix: "el-broom"
+		body: "content: '\\\\f11d';"
+	"content: '\\f11e';":
+		prefix: "el-brush"
+		body: "content: '\\\\f11e';"
+	"content: '\\f11f';":
+		prefix: "el-bulb"
+		body: "content: '\\\\f11f';"
+	"content: '\\f120';":
+		prefix: "el-bullhorn"
+		body: "content: '\\\\f120';"
+	"content: '\\f122';":
+		prefix: "el-calendar"
+		body: "content: '\\\\f122';"
+	"content: '\\f121';":
+		prefix: "el-calendar-sign"
+		body: "content: '\\\\f121';"
+	"content: '\\f123';":
+		prefix: "el-camera"
+		body: "content: '\\\\f123';"
+	"content: '\\f124';":
+		prefix: "el-car"
+		body: "content: '\\\\f124';"
+	"content: '\\f125';":
+		prefix: "el-caret-down"
+		body: "content: '\\\\f125';"
+	"content: '\\f126';":
+		prefix: "el-caret-left"
+		body: "content: '\\\\f126';"
+	"content: '\\f127';":
+		prefix: "el-caret-right"
+		body: "content: '\\\\f127';"
+	"content: '\\f128';":
+		prefix: "el-caret-up"
+		body: "content: '\\\\f128';"
+	"content: '\\f129';":
+		prefix: "el-cc"
+		body: "content: '\\\\f129';"
+	"content: '\\f12a';":
+		prefix: "el-certificate"
+		body: "content: '\\\\f12a';"
+	"content: '\\f12c';":
+		prefix: "el-check"
+		body: "content: '\\\\f12c';"
+	"content: '\\f12b';":
+		prefix: "el-check-empty"
+		body: "content: '\\\\f12b';"
+	"content: '\\f12d';":
+		prefix: "el-chevron-down"
+		body: "content: '\\\\f12d';"
+	"content: '\\f12e';":
+		prefix: "el-chevron-left"
+		body: "content: '\\\\f12e';"
+	"content: '\\f12f';":
+		prefix: "el-chevron-right"
+		body: "content: '\\\\f12f';"
+	"content: '\\f130';":
+		prefix: "el-chevron-up"
+		body: "content: '\\\\f130';"
+	"content: '\\f131';":
+		prefix: "el-child"
+		body: "content: '\\\\f131';"
+	"content: '\\f132';":
+		prefix: "el-circle-arrow-down"
+		body: "content: '\\\\f132';"
+	"content: '\\f133';":
+		prefix: "el-circle-arrow-left"
+		body: "content: '\\\\f133';"
+	"content: '\\f134';":
+		prefix: "el-circle-arrow-right"
+		body: "content: '\\\\f134';"
+	"content: '\\f135';":
+		prefix: "el-circle-arrow-up"
+		body: "content: '\\\\f135';"
+	"content: '\\f137';":
+		prefix: "el-cloud"
+		body: "content: '\\\\f137';"
+	"content: '\\f136';":
+		prefix: "el-cloud-alt"
+		body: "content: '\\\\f136';"
+	"content: '\\f139';":
+		prefix: "el-cog"
+		body: "content: '\\\\f139';"
+	"content: '\\f138';":
+		prefix: "el-cog-alt"
+		body: "content: '\\\\f138';"
+	"content: '\\f13a';":
+		prefix: "el-cogs"
+		body: "content: '\\\\f13a';"
+	"content: '\\f13c';":
+		prefix: "el-comment"
+		body: "content: '\\\\f13c';"
+	"content: '\\f13b';":
+		prefix: "el-comment-alt"
+		body: "content: '\\\\f13b';"
+	"content: '\\f13e';":
+		prefix: "el-compass"
+		body: "content: '\\\\f13e';"
+	"content: '\\f13d';":
+		prefix: "el-compass-alt"
+		body: "content: '\\\\f13d';"
+	"content: '\\f13f';":
+		prefix: "el-credit-card"
+		body: "content: '\\\\f13f';"
+	"content: '\\f140';":
+		prefix: "el-css"
+		body: "content: '\\\\f140';"
+	"content: '\\f141';":
+		prefix: "el-dashboard"
+		body: "content: '\\\\f141';"
+	"content: '\\f142';":
+		prefix: "el-delicious"
+		body: "content: '\\\\f142';"
+	"content: '\\f143';":
+		prefix: "el-deviantart"
+		body: "content: '\\\\f143';"
+	"content: '\\f144';":
+		prefix: "el-digg"
+		body: "content: '\\\\f144';"
+	"content: '\\f146';":
+		prefix: "el-download"
+		body: "content: '\\\\f146';"
+	"content: '\\f145';":
+		prefix: "el-download-alt"
+		body: "content: '\\\\f145';"
+	"content: '\\f147';":
+		prefix: "el-dribbble"
+		body: "content: '\\\\f147';"
+	"content: '\\f148';":
+		prefix: "el-edit"
+		body: "content: '\\\\f148';"
+	"content: '\\f149';":
+		prefix: "el-eject"
+		body: "content: '\\\\f149';"
+	"content: '\\f14b';":
+		prefix: "el-envelope"
+		body: "content: '\\\\f14b';"
+	"content: '\\f14a';":
+		prefix: "el-envelope-alt"
+		body: "content: '\\\\f14a';"
+	"content: '\\f14d';":
+		prefix: "el-error"
+		body: "content: '\\\\f14d';"
+	"content: '\\f14c';":
+		prefix: "el-error-alt"
+		body: "content: '\\\\f14c';"
+	"content: '\\f14e';":
+		prefix: "el-eur"
+		body: "content: '\\\\f14e';"
+	"content: '\\f14f';":
+		prefix: "el-exclamation-sign"
+		body: "content: '\\\\f14f';"
+	"content: '\\f150';":
+		prefix: "el-eye-close"
+		body: "content: '\\\\f150';"
+	"content: '\\f151';":
+		prefix: "el-eye-open"
+		body: "content: '\\\\f151';"
+	"content: '\\f152';":
+		prefix: "el-facebook"
+		body: "content: '\\\\f152';"
+	"content: '\\f153';":
+		prefix: "el-facetime-video"
+		body: "content: '\\\\f153';"
+	"content: '\\f154';":
+		prefix: "el-fast-backward"
+		body: "content: '\\\\f154';"
+	"content: '\\f155';":
+		prefix: "el-fast-forward"
+		body: "content: '\\\\f155';"
+	"content: '\\f156';":
+		prefix: "el-female"
+		body: "content: '\\\\f156';"
+	"content: '\\f15c';":
+		prefix: "el-file"
+		body: "content: '\\\\f15c';"
+	"content: '\\f157';":
+		prefix: "el-file-alt"
+		body: "content: '\\\\f157';"
+	"content: '\\f159';":
+		prefix: "el-file-edit"
+		body: "content: '\\\\f159';"
+	"content: '\\f158';":
+		prefix: "el-file-edit-alt"
+		body: "content: '\\\\f158';"
+	"content: '\\f15b';":
+		prefix: "el-file-new"
+		body: "content: '\\\\f15b';"
+	"content: '\\f15a';":
+		prefix: "el-file-new-alt"
+		body: "content: '\\\\f15a';"
+	"content: '\\f15d';":
+		prefix: "el-film"
+		body: "content: '\\\\f15d';"
+	"content: '\\f15e';":
+		prefix: "el-filter"
+		body: "content: '\\\\f15e';"
+	"content: '\\f15f';":
+		prefix: "el-fire"
+		body: "content: '\\\\f15f';"
+	"content: '\\f161';":
+		prefix: "el-flag"
+		body: "content: '\\\\f161';"
+	"content: '\\f160';":
+		prefix: "el-flag-alt"
+		body: "content: '\\\\f160';"
+	"content: '\\f162';":
+		prefix: "el-flickr"
+		body: "content: '\\\\f162';"
+	"content: '\\f166';":
+		prefix: "el-folder"
+		body: "content: '\\\\f166';"
+	"content: '\\f163';":
+		prefix: "el-folder-close"
+		body: "content: '\\\\f163';"
+	"content: '\\f164';":
+		prefix: "el-folder-open"
+		body: "content: '\\\\f164';"
+	"content: '\\f165';":
+		prefix: "el-folder-sign"
+		body: "content: '\\\\f165';"
+	"content: '\\f167';":
+		prefix: "el-font"
+		body: "content: '\\\\f167';"
+	"content: '\\f168';":
+		prefix: "el-fontsize"
+		body: "content: '\\\\f168';"
+	"content: '\\f169';":
+		prefix: "el-fork"
+		body: "content: '\\\\f169';"
+	"content: '\\f16b';":
+		prefix: "el-forward"
+		body: "content: '\\\\f16b';"
+	"content: '\\f16a';":
+		prefix: "el-forward-alt"
+		body: "content: '\\\\f16a';"
+	"content: '\\f16c';":
+		prefix: "el-foursquare"
+		body: "content: '\\\\f16c';"
+	"content: '\\f16e';":
+		prefix: "el-friendfeed"
+		body: "content: '\\\\f16e';"
+	"content: '\\f16d';":
+		prefix: "el-friendfeed-rect"
+		body: "content: '\\\\f16d';"
+	"content: '\\f16f';":
+		prefix: "el-fullscreen"
+		body: "content: '\\\\f16f';"
+	"content: '\\f170';":
+		prefix: "el-gbp"
+		body: "content: '\\\\f170';"
+	"content: '\\f171';":
+		prefix: "el-gift"
+		body: "content: '\\\\f171';"
+	"content: '\\f173';":
+		prefix: "el-github"
+		body: "content: '\\\\f173';"
+	"content: '\\f172';":
+		prefix: "el-github-text"
+		body: "content: '\\\\f172';"
+	"content: '\\f174';":
+		prefix: "el-glass"
+		body: "content: '\\\\f174';"
+	"content: '\\f175';":
+		prefix: "el-glasses"
+		body: "content: '\\\\f175';"
+	"content: '\\f177';":
+		prefix: "el-globe"
+		body: "content: '\\\\f177';"
+	"content: '\\f176';":
+		prefix: "el-globe-alt"
+		body: "content: '\\\\f176';"
+	"content: '\\f178';":
+		prefix: "el-googleplus"
+		body: "content: '\\\\f178';"
+	"content: '\\f17a';":
+		prefix: "el-graph"
+		body: "content: '\\\\f17a';"
+	"content: '\\f179';":
+		prefix: "el-graph-alt"
+		body: "content: '\\\\f179';"
+	"content: '\\f17c';":
+		prefix: "el-group"
+		body: "content: '\\\\f17c';"
+	"content: '\\f17b';":
+		prefix: "el-group-alt"
+		body: "content: '\\\\f17b';"
+	"content: '\\f17d';":
+		prefix: "el-guidedog"
+		body: "content: '\\\\f17d';"
+	"content: '\\f17e';":
+		prefix: "el-hand-down"
+		body: "content: '\\\\f17e';"
+	"content: '\\f17f';":
+		prefix: "el-hand-left"
+		body: "content: '\\\\f17f';"
+	"content: '\\f180';":
+		prefix: "el-hand-right"
+		body: "content: '\\\\f180';"
+	"content: '\\f181';":
+		prefix: "el-hand-up"
+		body: "content: '\\\\f181';"
+	"content: '\\f182';":
+		prefix: "el-hdd"
+		body: "content: '\\\\f182';"
+	"content: '\\f183';":
+		prefix: "el-headphones"
+		body: "content: '\\\\f183';"
+	"content: '\\f184';":
+		prefix: "el-hearing-impaired"
+		body: "content: '\\\\f184';"
+	"content: '\\f187';":
+		prefix: "el-heart"
+		body: "content: '\\\\f187';"
+	"content: '\\f185';":
+		prefix: "el-heart-alt"
+		body: "content: '\\\\f185';"
+	"content: '\\f186';":
+		prefix: "el-heart-empty"
+		body: "content: '\\\\f186';"
+	"content: '\\f189';":
+		prefix: "el-home"
+		body: "content: '\\\\f189';"
+	"content: '\\f188';":
+		prefix: "el-home-alt"
+		body: "content: '\\\\f188';"
+	"content: '\\f18a';":
+		prefix: "el-hourglass"
+		body: "content: '\\\\f18a';"
+	"content: '\\f18c';":
+		prefix: "el-idea"
+		body: "content: '\\\\f18c';"
+	"content: '\\f18b';":
+		prefix: "el-idea-alt"
+		body: "content: '\\\\f18b';"
+	"content: '\\f18f';":
+		prefix: "el-inbox"
+		body: "content: '\\\\f18f';"
+	"content: '\\f18d';":
+		prefix: "el-inbox-alt"
+		body: "content: '\\\\f18d';"
+	"content: '\\f18e';":
+		prefix: "el-inbox-box"
+		body: "content: '\\\\f18e';"
+	"content: '\\f190';":
+		prefix: "el-indent-left"
+		body: "content: '\\\\f190';"
+	"content: '\\f191';":
+		prefix: "el-indent-right"
+		body: "content: '\\\\f191';"
+	"content: '\\f192';":
+		prefix: "el-info-circle"
+		body: "content: '\\\\f192';"
+	"content: '\\f193';":
+		prefix: "el-instagram"
+		body: "content: '\\\\f193';"
+	"content: '\\f194';":
+		prefix: "el-iphone-home"
+		body: "content: '\\\\f194';"
+	"content: '\\f195';":
+		prefix: "el-italic"
+		body: "content: '\\\\f195';"
+	"content: '\\f196';":
+		prefix: "el-key"
+		body: "content: '\\\\f196';"
+	"content: '\\f198';":
+		prefix: "el-laptop"
+		body: "content: '\\\\f198';"
+	"content: '\\f197';":
+		prefix: "el-laptop-alt"
+		body: "content: '\\\\f197';"
+	"content: '\\f199';":
+		prefix: "el-lastfm"
+		body: "content: '\\\\f199';"
+	"content: '\\f19a';":
+		prefix: "el-leaf"
+		body: "content: '\\\\f19a';"
+	"content: '\\f19b';":
+		prefix: "el-lines"
+		body: "content: '\\\\f19b';"
+	"content: '\\f19c';":
+		prefix: "el-link"
+		body: "content: '\\\\f19c';"
+	"content: '\\f19d';":
+		prefix: "el-linkedin"
+		body: "content: '\\\\f19d';"
+	"content: '\\f19f';":
+		prefix: "el-list"
+		body: "content: '\\\\f19f';"
+	"content: '\\f19e';":
+		prefix: "el-list-alt"
+		body: "content: '\\\\f19e';"
+	"content: '\\f1a0';":
+		prefix: "el-livejournal"
+		body: "content: '\\\\f1a0';"
+	"content: '\\f1a2';":
+		prefix: "el-lock"
+		body: "content: '\\\\f1a2';"
+	"content: '\\f1a1';":
+		prefix: "el-lock-alt"
+		body: "content: '\\\\f1a1';"
+	"content: '\\f1a3';":
+		prefix: "el-magic"
+		body: "content: '\\\\f1a3';"
+	"content: '\\f1a4';":
+		prefix: "el-magnet"
+		body: "content: '\\\\f1a4';"
+	"content: '\\f1a5';":
+		prefix: "el-male"
+		body: "content: '\\\\f1a5';"
+	"content: '\\f1a7';":
+		prefix: "el-map-marker"
+		body: "content: '\\\\f1a7';"
+	"content: '\\f1a6';":
+		prefix: "el-map-marker-alt"
+		body: "content: '\\\\f1a6';"
+	"content: '\\f1a9';":
+		prefix: "el-mic"
+		body: "content: '\\\\f1a9';"
+	"content: '\\f1a8';":
+		prefix: "el-mic-alt"
+		body: "content: '\\\\f1a8';"
+	"content: '\\f1ab';":
+		prefix: "el-minus"
+		body: "content: '\\\\f1ab';"
+	"content: '\\f1aa';":
+		prefix: "el-minus-sign"
+		body: "content: '\\\\f1aa';"
+	"content: '\\f1ac';":
+		prefix: "el-move"
+		body: "content: '\\\\f1ac';"
+	"content: '\\f1ad';":
+		prefix: "el-music"
+		body: "content: '\\\\f1ad';"
+	"content: '\\f1ae';":
+		prefix: "el-myspace"
+		body: "content: '\\\\f1ae';"
+	"content: '\\f1af';":
+		prefix: "el-network"
+		body: "content: '\\\\f1af';"
+	"content: '\\f1b0';":
+		prefix: "el-off"
+		body: "content: '\\\\f1b0';"
+	"content: '\\f1b3';":
+		prefix: "el-ok"
+		body: "content: '\\\\f1b3';"
+	"content: '\\f1b1';":
+		prefix: "el-ok-circle"
+		body: "content: '\\\\f1b1';"
+	"content: '\\f1b2';":
+		prefix: "el-ok-sign"
+		body: "content: '\\\\f1b2';"
+	"content: '\\f1b4';":
+		prefix: "el-opensource"
+		body: "content: '\\\\f1b4';"
+	"content: '\\f1b6';":
+		prefix: "el-paper-clip"
+		body: "content: '\\\\f1b6';"
+	"content: '\\f1b5';":
+		prefix: "el-paper-clip-alt"
+		body: "content: '\\\\f1b5';"
+	"content: '\\f1b7';":
+		prefix: "el-path"
+		body: "content: '\\\\f1b7';"
+	"content: '\\f1b9';":
+		prefix: "el-pause"
+		body: "content: '\\\\f1b9';"
+	"content: '\\f1b8';":
+		prefix: "el-pause-alt"
+		body: "content: '\\\\f1b8';"
+	"content: '\\f1bb';":
+		prefix: "el-pencil"
+		body: "content: '\\\\f1bb';"
+	"content: '\\f1ba';":
+		prefix: "el-pencil-alt"
+		body: "content: '\\\\f1ba';"
+	"content: '\\f1bc';":
+		prefix: "el-person"
+		body: "content: '\\\\f1bc';"
+	"content: '\\f1be';":
+		prefix: "el-phone"
+		body: "content: '\\\\f1be';"
+	"content: '\\f1bd';":
+		prefix: "el-phone-alt"
+		body: "content: '\\\\f1bd';"
+	"content: '\\f1c0';":
+		prefix: "el-photo"
+		body: "content: '\\\\f1c0';"
+	"content: '\\f1bf';":
+		prefix: "el-photo-alt"
+		body: "content: '\\\\f1bf';"
+	"content: '\\f1c1';":
+		prefix: "el-picasa"
+		body: "content: '\\\\f1c1';"
+	"content: '\\f1c2';":
+		prefix: "el-picture"
+		body: "content: '\\\\f1c2';"
+	"content: '\\f1c3';":
+		prefix: "el-pinterest"
+		body: "content: '\\\\f1c3';"
+	"content: '\\f1c4';":
+		prefix: "el-plane"
+		body: "content: '\\\\f1c4';"
+	"content: '\\f1c7';":
+		prefix: "el-play"
+		body: "content: '\\\\f1c7';"
+	"content: '\\f1c5';":
+		prefix: "el-play-alt"
+		body: "content: '\\\\f1c5';"
+	"content: '\\f1c6';":
+		prefix: "el-play-circle"
+		body: "content: '\\\\f1c6';"
+	"content: '\\f1c9';":
+		prefix: "el-plurk"
+		body: "content: '\\\\f1c9';"
+	"content: '\\f1c8';":
+		prefix: "el-plurk-alt"
+		body: "content: '\\\\f1c8';"
+	"content: '\\f1cb';":
+		prefix: "el-plus"
+		body: "content: '\\\\f1cb';"
+	"content: '\\f1ca';":
+		prefix: "el-plus-sign"
+		body: "content: '\\\\f1ca';"
+	"content: '\\f1cc';":
+		prefix: "el-podcast"
+		body: "content: '\\\\f1cc';"
+	"content: '\\f1cd';":
+		prefix: "el-print"
+		body: "content: '\\\\f1cd';"
+	"content: '\\f1ce';":
+		prefix: "el-puzzle"
+		body: "content: '\\\\f1ce';"
+	"content: '\\f1cf';":
+		prefix: "el-qrcode"
+		body: "content: '\\\\f1cf';"
+	"content: '\\f1d1';":
+		prefix: "el-question"
+		body: "content: '\\\\f1d1';"
+	"content: '\\f1d0';":
+		prefix: "el-question-sign"
+		body: "content: '\\\\f1d0';"
+	"content: '\\f1d2';":
+		prefix: "el-quote-alt"
+		body: "content: '\\\\f1d2';"
+	"content: '\\f1d4';":
+		prefix: "el-quote-right"
+		body: "content: '\\\\f1d4';"
+	"content: '\\f1d3';":
+		prefix: "el-quote-right-alt"
+		body: "content: '\\\\f1d3';"
+	"content: '\\f1d5';":
+		prefix: "el-quotes"
+		body: "content: '\\\\f1d5';"
+	"content: '\\f1d6';":
+		prefix: "el-random"
+		body: "content: '\\\\f1d6';"
+	"content: '\\f1d7';":
+		prefix: "el-record"
+		body: "content: '\\\\f1d7';"
+	"content: '\\f1d8';":
+		prefix: "el-reddit"
+		body: "content: '\\\\f1d8';"
+	"content: '\\f1d9';":
+		prefix: "el-redux"
+		body: "content: '\\\\f1d9';"
+	"content: '\\f1da';":
+		prefix: "el-refresh"
+		body: "content: '\\\\f1da';"
+	"content: '\\f1dd';":
+		prefix: "el-remove"
+		body: "content: '\\\\f1dd';"
+	"content: '\\f1db';":
+		prefix: "el-remove-circle"
+		body: "content: '\\\\f1db';"
+	"content: '\\f1dc';":
+		prefix: "el-remove-sign"
+		body: "content: '\\\\f1dc';"
+	"content: '\\f1df';":
+		prefix: "el-repeat"
+		body: "content: '\\\\f1df';"
+	"content: '\\f1de';":
+		prefix: "el-repeat-alt"
+		body: "content: '\\\\f1de';"
+	"content: '\\f1e0';":
+		prefix: "el-resize-full"
+		body: "content: '\\\\f1e0';"
+	"content: '\\f1e1';":
+		prefix: "el-resize-horizontal"
+		body: "content: '\\\\f1e1';"
+	"content: '\\f1e2';":
+		prefix: "el-resize-small"
+		body: "content: '\\\\f1e2';"
+	"content: '\\f1e3';":
+		prefix: "el-resize-vertical"
+		body: "content: '\\\\f1e3';"
+	"content: '\\f1e4';":
+		prefix: "el-return-key"
+		body: "content: '\\\\f1e4';"
+	"content: '\\f1e5';":
+		prefix: "el-retweet"
+		body: "content: '\\\\f1e5';"
+	"content: '\\f1e6';":
+		prefix: "el-reverse-alt"
+		body: "content: '\\\\f1e6';"
+	"content: '\\f1e7';":
+		prefix: "el-road"
+		body: "content: '\\\\f1e7';"
+	"content: '\\f1e8';":
+		prefix: "el-rss"
+		body: "content: '\\\\f1e8';"
+	"content: '\\f1e9';":
+		prefix: "el-scissors"
+		body: "content: '\\\\f1e9';"
+	"content: '\\f1eb';":
+		prefix: "el-screen"
+		body: "content: '\\\\f1eb';"
+	"content: '\\f1ea';":
+		prefix: "el-screen-alt"
+		body: "content: '\\\\f1ea';"
+	"content: '\\f1ec';":
+		prefix: "el-screenshot"
+		body: "content: '\\\\f1ec';"
+	"content: '\\f1ee';":
+		prefix: "el-search"
+		body: "content: '\\\\f1ee';"
+	"content: '\\f1ed';":
+		prefix: "el-search-alt"
+		body: "content: '\\\\f1ed';"
+	"content: '\\f1f0';":
+		prefix: "el-share"
+		body: "content: '\\\\f1f0';"
+	"content: '\\f1ef';":
+		prefix: "el-share-alt"
+		body: "content: '\\\\f1ef';"
+	"content: '\\f1f2';":
+		prefix: "el-shopping-cart"
+		body: "content: '\\\\f1f2';"
+	"content: '\\f1f1';":
+		prefix: "el-shopping-cart-sign"
+		body: "content: '\\\\f1f1';"
+	"content: '\\f1f3';":
+		prefix: "el-signal"
+		body: "content: '\\\\f1f3';"
+	"content: '\\f1f4';":
+		prefix: "el-skype"
+		body: "content: '\\\\f1f4';"
+	"content: '\\f1f5';":
+		prefix: "el-slideshare"
+		body: "content: '\\\\f1f5';"
+	"content: '\\f1f7';":
+		prefix: "el-smiley"
+		body: "content: '\\\\f1f7';"
+	"content: '\\f1f6';":
+		prefix: "el-smiley-alt"
+		body: "content: '\\\\f1f6';"
+	"content: '\\f1f8';":
+		prefix: "el-soundcloud"
+		body: "content: '\\\\f1f8';"
+	"content: '\\f1f9';":
+		prefix: "el-speaker"
+		body: "content: '\\\\f1f9';"
+	"content: '\\f1fa';":
+		prefix: "el-spotify"
+		body: "content: '\\\\f1fa';"
+	"content: '\\f1fb';":
+		prefix: "el-stackoverflow"
+		body: "content: '\\\\f1fb';"
+	"content: '\\f1fe';":
+		prefix: "el-star"
+		body: "content: '\\\\f1fe';"
+	"content: '\\f1fc';":
+		prefix: "el-star-alt"
+		body: "content: '\\\\f1fc';"
+	"content: '\\f1fd';":
+		prefix: "el-star-empty"
+		body: "content: '\\\\f1fd';"
+	"content: '\\f1ff';":
+		prefix: "el-step-backward"
+		body: "content: '\\\\f1ff';"
+	"content: '\\f200';":
+		prefix: "el-step-forward"
+		body: "content: '\\\\f200';"
+	"content: '\\f202';":
+		prefix: "el-stop"
+		body: "content: '\\\\f202';"
+	"content: '\\f201';":
+		prefix: "el-stop-alt"
+		body: "content: '\\\\f201';"
+	"content: '\\f203';":
+		prefix: "el-stumbleupon"
+		body: "content: '\\\\f203';"
+	"content: '\\f204';":
+		prefix: "el-tag"
+		body: "content: '\\\\f204';"
+	"content: '\\f205';":
+		prefix: "el-tags"
+		body: "content: '\\\\f205';"
+	"content: '\\f206';":
+		prefix: "el-tasks"
+		body: "content: '\\\\f206';"
+	"content: '\\f207';":
+		prefix: "el-text-height"
+		body: "content: '\\\\f207';"
+	"content: '\\f208';":
+		prefix: "el-text-width"
+		body: "content: '\\\\f208';"
+	"content: '\\f20b';":
+		prefix: "el-th"
+		body: "content: '\\\\f20b';"
+	"content: '\\f209';":
+		prefix: "el-th-large"
+		body: "content: '\\\\f209';"
+	"content: '\\f20a';":
+		prefix: "el-th-list"
+		body: "content: '\\\\f20a';"
+	"content: '\\f20c';":
+		prefix: "el-thumbs-down"
+		body: "content: '\\\\f20c';"
+	"content: '\\f20d';":
+		prefix: "el-thumbs-up"
+		body: "content: '\\\\f20d';"
+	"content: '\\f20f';":
+		prefix: "el-time"
+		body: "content: '\\\\f20f';"
+	"content: '\\f20e';":
+		prefix: "el-time-alt"
+		body: "content: '\\\\f20e';"
+	"content: '\\f210';":
+		prefix: "el-tint"
+		body: "content: '\\\\f210';"
+	"content: '\\f211';":
+		prefix: "el-torso"
+		body: "content: '\\\\f211';"
+	"content: '\\f213';":
+		prefix: "el-trash"
+		body: "content: '\\\\f213';"
+	"content: '\\f212';":
+		prefix: "el-trash-alt"
+		body: "content: '\\\\f212';"
+	"content: '\\f214';":
+		prefix: "el-tumblr"
+		body: "content: '\\\\f214';"
+	"content: '\\f215';":
+		prefix: "el-twitter"
+		body: "content: '\\\\f215';"
+	"content: '\\f216';":
+		prefix: "el-universal-access"
+		body: "content: '\\\\f216';"
+	"content: '\\f218';":
+		prefix: "el-unlock"
+		body: "content: '\\\\f218';"
+	"content: '\\f217';":
+		prefix: "el-unlock-alt"
+		body: "content: '\\\\f217';"
+	"content: '\\f219';":
+		prefix: "el-upload"
+		body: "content: '\\\\f219';"
+	"content: '\\f21a';":
+		prefix: "el-usd"
+		body: "content: '\\\\f21a';"
+	"content: '\\f21b';":
+		prefix: "el-user"
+		body: "content: '\\\\f21b';"
+	"content: '\\f21c';":
+		prefix: "el-viadeo"
+		body: "content: '\\\\f21c';"
+	"content: '\\f21f';":
+		prefix: "el-video"
+		body: "content: '\\\\f21f';"
+	"content: '\\f21d';":
+		prefix: "el-video-alt"
+		body: "content: '\\\\f21d';"
+	"content: '\\f21e';":
+		prefix: "el-video-chat"
+		body: "content: '\\\\f21e';"
+	"content: '\\f220';":
+		prefix: "el-view-mode"
+		body: "content: '\\\\f220';"
+	"content: '\\f221';":
+		prefix: "el-vimeo"
+		body: "content: '\\\\f221';"
+	"content: '\\f222';":
+		prefix: "el-vkontakte"
+		body: "content: '\\\\f222';"
+	"content: '\\f223';":
+		prefix: "el-volume-down"
+		body: "content: '\\\\f223';"
+	"content: '\\f224';":
+		prefix: "el-volume-off"
+		body: "content: '\\\\f224';"
+	"content: '\\f225';":
+		prefix: "el-volume-up"
+		body: "content: '\\\\f225';"
+	"content: '\\f226';":
+		prefix: "el-w3c"
+		body: "content: '\\\\f226';"
+	"content: '\\f227';":
+		prefix: "el-warning-sign"
+		body: "content: '\\\\f227';"
+	"content: '\\f229';":
+		prefix: "el-website"
+		body: "content: '\\\\f229';"
+	"content: '\\f228';":
+		prefix: "el-website-alt"
+		body: "content: '\\\\f228';"
+	"content: '\\f22a';":
+		prefix: "el-wheelchair"
+		body: "content: '\\\\f22a';"
+	"content: '\\f22b';":
+		prefix: "el-wordpress"
+		body: "content: '\\\\f22b';"
+	"content: '\\f22d';":
+		prefix: "el-wrench"
+		body: "content: '\\\\f22d';"
+	"content: '\\f22c';":
+		prefix: "el-wrench-alt"
+		body: "content: '\\\\f22c';"
+	"content: '\\f22e';":
+		prefix: "el-youtube"
+		body: "content: '\\\\f22e';"
+	"content: '\\f22f';":
+		prefix: "el-zoom-in"
+		body: "content: '\\\\f22f';"
+	"content: '\\f230';":
+		prefix: "el-zoom-out"
+		body: "content: '\\\\f230';"

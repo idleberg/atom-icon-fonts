@@ -1,0 +1,2200 @@
+".source.css,.source.sass":
+	"content: '\\f101';":
+		prefix: "ion-alert"
+		body: "content: '\\\\f101';"
+	"content: '\\f100';":
+		prefix: "ion-alert-circled"
+		body: "content: '\\\\f100';"
+	"content: '\\f2c7';":
+		prefix: "ion-android-add"
+		body: "content: '\\\\f2c7';"
+	"content: '\\f359';":
+		prefix: "ion-android-add-circle"
+		body: "content: '\\\\f359';"
+	"content: '\\f35a';":
+		prefix: "ion-android-alarm-clock"
+		body: "content: '\\\\f35a';"
+	"content: '\\f35b';":
+		prefix: "ion-android-alert"
+		body: "content: '\\\\f35b';"
+	"content: '\\f35c';":
+		prefix: "ion-android-apps"
+		body: "content: '\\\\f35c';"
+	"content: '\\f2c9';":
+		prefix: "ion-android-archive"
+		body: "content: '\\\\f2c9';"
+	"content: '\\f2ca';":
+		prefix: "ion-android-arrow-back"
+		body: "content: '\\\\f2ca';"
+	"content: '\\f35d';":
+		prefix: "ion-android-arrow-down"
+		body: "content: '\\\\f35d';"
+	"content: '\\f35f';":
+		prefix: "ion-android-arrow-dropdown"
+		body: "content: '\\\\f35f';"
+	"content: '\\f35e';":
+		prefix: "ion-android-arrow-dropdown-circle"
+		body: "content: '\\\\f35e';"
+	"content: '\\f361';":
+		prefix: "ion-android-arrow-dropleft"
+		body: "content: '\\\\f361';"
+	"content: '\\f360';":
+		prefix: "ion-android-arrow-dropleft-circle"
+		body: "content: '\\\\f360';"
+	"content: '\\f363';":
+		prefix: "ion-android-arrow-dropright"
+		body: "content: '\\\\f363';"
+	"content: '\\f362';":
+		prefix: "ion-android-arrow-dropright-circle"
+		body: "content: '\\\\f362';"
+	"content: '\\f365';":
+		prefix: "ion-android-arrow-dropup"
+		body: "content: '\\\\f365';"
+	"content: '\\f364';":
+		prefix: "ion-android-arrow-dropup-circle"
+		body: "content: '\\\\f364';"
+	"content: '\\f30f';":
+		prefix: "ion-android-arrow-forward"
+		body: "content: '\\\\f30f';"
+	"content: '\\f366';":
+		prefix: "ion-android-arrow-up"
+		body: "content: '\\\\f366';"
+	"content: '\\f367';":
+		prefix: "ion-android-attach"
+		body: "content: '\\\\f367';"
+	"content: '\\f368';":
+		prefix: "ion-android-bar"
+		body: "content: '\\\\f368';"
+	"content: '\\f369';":
+		prefix: "ion-android-bicycle"
+		body: "content: '\\\\f369';"
+	"content: '\\f36a';":
+		prefix: "ion-android-boat"
+		body: "content: '\\\\f36a';"
+	"content: '\\f36b';":
+		prefix: "ion-android-bookmark"
+		body: "content: '\\\\f36b';"
+	"content: '\\f36c';":
+		prefix: "ion-android-bulb"
+		body: "content: '\\\\f36c';"
+	"content: '\\f36d';":
+		prefix: "ion-android-bus"
+		body: "content: '\\\\f36d';"
+	"content: '\\f2d1';":
+		prefix: "ion-android-calendar"
+		body: "content: '\\\\f2d1';"
+	"content: '\\f2d2';":
+		prefix: "ion-android-call"
+		body: "content: '\\\\f2d2';"
+	"content: '\\f2d3';":
+		prefix: "ion-android-camera"
+		body: "content: '\\\\f2d3';"
+	"content: '\\f36e';":
+		prefix: "ion-android-cancel"
+		body: "content: '\\\\f36e';"
+	"content: '\\f36f';":
+		prefix: "ion-android-car"
+		body: "content: '\\\\f36f';"
+	"content: '\\f370';":
+		prefix: "ion-android-cart"
+		body: "content: '\\\\f370';"
+	"content: '\\f2d4';":
+		prefix: "ion-android-chat"
+		body: "content: '\\\\f2d4';"
+	"content: '\\f374';":
+		prefix: "ion-android-checkbox"
+		body: "content: '\\\\f374';"
+	"content: '\\f371';":
+		prefix: "ion-android-checkbox-blank"
+		body: "content: '\\\\f371';"
+	"content: '\\f373';":
+		prefix: "ion-android-checkbox-outline"
+		body: "content: '\\\\f373';"
+	"content: '\\f372';":
+		prefix: "ion-android-checkbox-outline-blank"
+		body: "content: '\\\\f372';"
+	"content: '\\f375';":
+		prefix: "ion-android-checkmark-circle"
+		body: "content: '\\\\f375';"
+	"content: '\\f376';":
+		prefix: "ion-android-clipboard"
+		body: "content: '\\\\f376';"
+	"content: '\\f2d7';":
+		prefix: "ion-android-close"
+		body: "content: '\\\\f2d7';"
+	"content: '\\f37a';":
+		prefix: "ion-android-cloud"
+		body: "content: '\\\\f37a';"
+	"content: '\\f377';":
+		prefix: "ion-android-cloud-circle"
+		body: "content: '\\\\f377';"
+	"content: '\\f378';":
+		prefix: "ion-android-cloud-done"
+		body: "content: '\\\\f378';"
+	"content: '\\f379';":
+		prefix: "ion-android-cloud-outline"
+		body: "content: '\\\\f379';"
+	"content: '\\f37b';":
+		prefix: "ion-android-color-palette"
+		body: "content: '\\\\f37b';"
+	"content: '\\f37c';":
+		prefix: "ion-android-compass"
+		body: "content: '\\\\f37c';"
+	"content: '\\f2d8';":
+		prefix: "ion-android-contact"
+		body: "content: '\\\\f2d8';"
+	"content: '\\f2d9';":
+		prefix: "ion-android-contacts"
+		body: "content: '\\\\f2d9';"
+	"content: '\\f37d';":
+		prefix: "ion-android-contract"
+		body: "content: '\\\\f37d';"
+	"content: '\\f37e';":
+		prefix: "ion-android-create"
+		body: "content: '\\\\f37e';"
+	"content: '\\f37f';":
+		prefix: "ion-android-delete"
+		body: "content: '\\\\f37f';"
+	"content: '\\f380';":
+		prefix: "ion-android-desktop"
+		body: "content: '\\\\f380';"
+	"content: '\\f381';":
+		prefix: "ion-android-document"
+		body: "content: '\\\\f381';"
+	"content: '\\f383';":
+		prefix: "ion-android-done"
+		body: "content: '\\\\f383';"
+	"content: '\\f382';":
+		prefix: "ion-android-done-all"
+		body: "content: '\\\\f382';"
+	"content: '\\f2dd';":
+		prefix: "ion-android-download"
+		body: "content: '\\\\f2dd';"
+	"content: '\\f384';":
+		prefix: "ion-android-drafts"
+		body: "content: '\\\\f384';"
+	"content: '\\f385';":
+		prefix: "ion-android-exit"
+		body: "content: '\\\\f385';"
+	"content: '\\f386';":
+		prefix: "ion-android-expand"
+		body: "content: '\\\\f386';"
+	"content: '\\f388';":
+		prefix: "ion-android-favorite"
+		body: "content: '\\\\f388';"
+	"content: '\\f387';":
+		prefix: "ion-android-favorite-outline"
+		body: "content: '\\\\f387';"
+	"content: '\\f389';":
+		prefix: "ion-android-film"
+		body: "content: '\\\\f389';"
+	"content: '\\f2e0';":
+		prefix: "ion-android-folder"
+		body: "content: '\\\\f2e0';"
+	"content: '\\f38a';":
+		prefix: "ion-android-folder-open"
+		body: "content: '\\\\f38a';"
+	"content: '\\f38b';":
+		prefix: "ion-android-funnel"
+		body: "content: '\\\\f38b';"
+	"content: '\\f38c';":
+		prefix: "ion-android-globe"
+		body: "content: '\\\\f38c';"
+	"content: '\\f2e3';":
+		prefix: "ion-android-hand"
+		body: "content: '\\\\f2e3';"
+	"content: '\\f38d';":
+		prefix: "ion-android-hangout"
+		body: "content: '\\\\f38d';"
+	"content: '\\f38e';":
+		prefix: "ion-android-happy"
+		body: "content: '\\\\f38e';"
+	"content: '\\f38f';":
+		prefix: "ion-android-home"
+		body: "content: '\\\\f38f';"
+	"content: '\\f2e4';":
+		prefix: "ion-android-image"
+		body: "content: '\\\\f2e4';"
+	"content: '\\f390';":
+		prefix: "ion-android-laptop"
+		body: "content: '\\\\f390';"
+	"content: '\\f391';":
+		prefix: "ion-android-list"
+		body: "content: '\\\\f391';"
+	"content: '\\f2e9';":
+		prefix: "ion-android-locate"
+		body: "content: '\\\\f2e9';"
+	"content: '\\f392';":
+		prefix: "ion-android-lock"
+		body: "content: '\\\\f392';"
+	"content: '\\f2eb';":
+		prefix: "ion-android-mail"
+		body: "content: '\\\\f2eb';"
+	"content: '\\f393';":
+		prefix: "ion-android-map"
+		body: "content: '\\\\f393';"
+	"content: '\\f394';":
+		prefix: "ion-android-menu"
+		body: "content: '\\\\f394';"
+	"content: '\\f2ec';":
+		prefix: "ion-android-microphone"
+		body: "content: '\\\\f2ec';"
+	"content: '\\f395';":
+		prefix: "ion-android-microphone-off"
+		body: "content: '\\\\f395';"
+	"content: '\\f396';":
+		prefix: "ion-android-more-horizontal"
+		body: "content: '\\\\f396';"
+	"content: '\\f397';":
+		prefix: "ion-android-more-vertical"
+		body: "content: '\\\\f397';"
+	"content: '\\f398';":
+		prefix: "ion-android-navigate"
+		body: "content: '\\\\f398';"
+	"content: '\\f39b';":
+		prefix: "ion-android-notifications"
+		body: "content: '\\\\f39b';"
+	"content: '\\f399';":
+		prefix: "ion-android-notifications-none"
+		body: "content: '\\\\f399';"
+	"content: '\\f39a';":
+		prefix: "ion-android-notifications-off"
+		body: "content: '\\\\f39a';"
+	"content: '\\f39c';":
+		prefix: "ion-android-open"
+		body: "content: '\\\\f39c';"
+	"content: '\\f39d';":
+		prefix: "ion-android-options"
+		body: "content: '\\\\f39d';"
+	"content: '\\f39e';":
+		prefix: "ion-android-people"
+		body: "content: '\\\\f39e';"
+	"content: '\\f3a0';":
+		prefix: "ion-android-person"
+		body: "content: '\\\\f3a0';"
+	"content: '\\f39f';":
+		prefix: "ion-android-person-add"
+		body: "content: '\\\\f39f';"
+	"content: '\\f3a1';":
+		prefix: "ion-android-phone-landscape"
+		body: "content: '\\\\f3a1';"
+	"content: '\\f3a2';":
+		prefix: "ion-android-phone-portrait"
+		body: "content: '\\\\f3a2';"
+	"content: '\\f3a3';":
+		prefix: "ion-android-pin"
+		body: "content: '\\\\f3a3';"
+	"content: '\\f3a4';":
+		prefix: "ion-android-plane"
+		body: "content: '\\\\f3a4';"
+	"content: '\\f2f0';":
+		prefix: "ion-android-playstore"
+		body: "content: '\\\\f2f0';"
+	"content: '\\f3a5';":
+		prefix: "ion-android-print"
+		body: "content: '\\\\f3a5';"
+	"content: '\\f3a6';":
+		prefix: "ion-android-radio-button-off"
+		body: "content: '\\\\f3a6';"
+	"content: '\\f3a7';":
+		prefix: "ion-android-radio-button-on"
+		body: "content: '\\\\f3a7';"
+	"content: '\\f3a8';":
+		prefix: "ion-android-refresh"
+		body: "content: '\\\\f3a8';"
+	"content: '\\f2f4';":
+		prefix: "ion-android-remove"
+		body: "content: '\\\\f2f4';"
+	"content: '\\f3a9';":
+		prefix: "ion-android-remove-circle"
+		body: "content: '\\\\f3a9';"
+	"content: '\\f3aa';":
+		prefix: "ion-android-restaurant"
+		body: "content: '\\\\f3aa';"
+	"content: '\\f3ab';":
+		prefix: "ion-android-sad"
+		body: "content: '\\\\f3ab';"
+	"content: '\\f2f5';":
+		prefix: "ion-android-search"
+		body: "content: '\\\\f2f5';"
+	"content: '\\f2f6';":
+		prefix: "ion-android-send"
+		body: "content: '\\\\f2f6';"
+	"content: '\\f2f7';":
+		prefix: "ion-android-settings"
+		body: "content: '\\\\f2f7';"
+	"content: '\\f2f8';":
+		prefix: "ion-android-share"
+		body: "content: '\\\\f2f8';"
+	"content: '\\f3ac';":
+		prefix: "ion-android-share-alt"
+		body: "content: '\\\\f3ac';"
+	"content: '\\f2fc';":
+		prefix: "ion-android-star"
+		body: "content: '\\\\f2fc';"
+	"content: '\\f3ad';":
+		prefix: "ion-android-star-half"
+		body: "content: '\\\\f3ad';"
+	"content: '\\f3ae';":
+		prefix: "ion-android-star-outline"
+		body: "content: '\\\\f3ae';"
+	"content: '\\f2fd';":
+		prefix: "ion-android-stopwatch"
+		body: "content: '\\\\f2fd';"
+	"content: '\\f3af';":
+		prefix: "ion-android-subway"
+		body: "content: '\\\\f3af';"
+	"content: '\\f3b0';":
+		prefix: "ion-android-sunny"
+		body: "content: '\\\\f3b0';"
+	"content: '\\f3b1';":
+		prefix: "ion-android-sync"
+		body: "content: '\\\\f3b1';"
+	"content: '\\f3b2';":
+		prefix: "ion-android-textsms"
+		body: "content: '\\\\f3b2';"
+	"content: '\\f3b3';":
+		prefix: "ion-android-time"
+		body: "content: '\\\\f3b3';"
+	"content: '\\f3b4';":
+		prefix: "ion-android-train"
+		body: "content: '\\\\f3b4';"
+	"content: '\\f3b5';":
+		prefix: "ion-android-unlock"
+		body: "content: '\\\\f3b5';"
+	"content: '\\f3b6';":
+		prefix: "ion-android-upload"
+		body: "content: '\\\\f3b6';"
+	"content: '\\f3b7';":
+		prefix: "ion-android-volume-down"
+		body: "content: '\\\\f3b7';"
+	"content: '\\f3b8';":
+		prefix: "ion-android-volume-mute"
+		body: "content: '\\\\f3b8';"
+	"content: '\\f3b9';":
+		prefix: "ion-android-volume-off"
+		body: "content: '\\\\f3b9';"
+	"content: '\\f3ba';":
+		prefix: "ion-android-volume-up"
+		body: "content: '\\\\f3ba';"
+	"content: '\\f3bb';":
+		prefix: "ion-android-walk"
+		body: "content: '\\\\f3bb';"
+	"content: '\\f3bc';":
+		prefix: "ion-android-warning"
+		body: "content: '\\\\f3bc';"
+	"content: '\\f3bd';":
+		prefix: "ion-android-watch"
+		body: "content: '\\\\f3bd';"
+	"content: '\\f305';":
+		prefix: "ion-android-wifi"
+		body: "content: '\\\\f305';"
+	"content: '\\f313';":
+		prefix: "ion-aperture"
+		body: "content: '\\\\f313';"
+	"content: '\\f102';":
+		prefix: "ion-archive"
+		body: "content: '\\\\f102';"
+	"content: '\\f103';":
+		prefix: "ion-arrow-down-a"
+		body: "content: '\\\\f103';"
+	"content: '\\f104';":
+		prefix: "ion-arrow-down-b"
+		body: "content: '\\\\f104';"
+	"content: '\\f105';":
+		prefix: "ion-arrow-down-c"
+		body: "content: '\\\\f105';"
+	"content: '\\f25e';":
+		prefix: "ion-arrow-expand"
+		body: "content: '\\\\f25e';"
+	"content: '\\f25f';":
+		prefix: "ion-arrow-graph-down-left"
+		body: "content: '\\\\f25f';"
+	"content: '\\f260';":
+		prefix: "ion-arrow-graph-down-right"
+		body: "content: '\\\\f260';"
+	"content: '\\f261';":
+		prefix: "ion-arrow-graph-up-left"
+		body: "content: '\\\\f261';"
+	"content: '\\f262';":
+		prefix: "ion-arrow-graph-up-right"
+		body: "content: '\\\\f262';"
+	"content: '\\f106';":
+		prefix: "ion-arrow-left-a"
+		body: "content: '\\\\f106';"
+	"content: '\\f107';":
+		prefix: "ion-arrow-left-b"
+		body: "content: '\\\\f107';"
+	"content: '\\f108';":
+		prefix: "ion-arrow-left-c"
+		body: "content: '\\\\f108';"
+	"content: '\\f263';":
+		prefix: "ion-arrow-move"
+		body: "content: '\\\\f263';"
+	"content: '\\f264';":
+		prefix: "ion-arrow-resize"
+		body: "content: '\\\\f264';"
+	"content: '\\f265';":
+		prefix: "ion-arrow-return-left"
+		body: "content: '\\\\f265';"
+	"content: '\\f266';":
+		prefix: "ion-arrow-return-right"
+		body: "content: '\\\\f266';"
+	"content: '\\f109';":
+		prefix: "ion-arrow-right-a"
+		body: "content: '\\\\f109';"
+	"content: '\\f10a';":
+		prefix: "ion-arrow-right-b"
+		body: "content: '\\\\f10a';"
+	"content: '\\f10b';":
+		prefix: "ion-arrow-right-c"
+		body: "content: '\\\\f10b';"
+	"content: '\\f267';":
+		prefix: "ion-arrow-shrink"
+		body: "content: '\\\\f267';"
+	"content: '\\f268';":
+		prefix: "ion-arrow-swap"
+		body: "content: '\\\\f268';"
+	"content: '\\f10c';":
+		prefix: "ion-arrow-up-a"
+		body: "content: '\\\\f10c';"
+	"content: '\\f10d';":
+		prefix: "ion-arrow-up-b"
+		body: "content: '\\\\f10d';"
+	"content: '\\f10e';":
+		prefix: "ion-arrow-up-c"
+		body: "content: '\\\\f10e';"
+	"content: '\\f314';":
+		prefix: "ion-asterisk"
+		body: "content: '\\\\f314';"
+	"content: '\\f10f';":
+		prefix: "ion-at"
+		body: "content: '\\\\f10f';"
+	"content: '\\f3bf';":
+		prefix: "ion-backspace"
+		body: "content: '\\\\f3bf';"
+	"content: '\\f3be';":
+		prefix: "ion-backspace-outline"
+		body: "content: '\\\\f3be';"
+	"content: '\\f110';":
+		prefix: "ion-bag"
+		body: "content: '\\\\f110';"
+	"content: '\\f111';":
+		prefix: "ion-battery-charging"
+		body: "content: '\\\\f111';"
+	"content: '\\f112';":
+		prefix: "ion-battery-empty"
+		body: "content: '\\\\f112';"
+	"content: '\\f113';":
+		prefix: "ion-battery-full"
+		body: "content: '\\\\f113';"
+	"content: '\\f114';":
+		prefix: "ion-battery-half"
+		body: "content: '\\\\f114';"
+	"content: '\\f115';":
+		prefix: "ion-battery-low"
+		body: "content: '\\\\f115';"
+	"content: '\\f269';":
+		prefix: "ion-beaker"
+		body: "content: '\\\\f269';"
+	"content: '\\f26a';":
+		prefix: "ion-beer"
+		body: "content: '\\\\f26a';"
+	"content: '\\f116';":
+		prefix: "ion-bluetooth"
+		body: "content: '\\\\f116';"
+	"content: '\\f315';":
+		prefix: "ion-bonfire"
+		body: "content: '\\\\f315';"
+	"content: '\\f26b';":
+		prefix: "ion-bookmark"
+		body: "content: '\\\\f26b';"
+	"content: '\\f3c0';":
+		prefix: "ion-bowtie"
+		body: "content: '\\\\f3c0';"
+	"content: '\\f26c';":
+		prefix: "ion-briefcase"
+		body: "content: '\\\\f26c';"
+	"content: '\\f2be';":
+		prefix: "ion-bug"
+		body: "content: '\\\\f2be';"
+	"content: '\\f26d';":
+		prefix: "ion-calculator"
+		body: "content: '\\\\f26d';"
+	"content: '\\f117';":
+		prefix: "ion-calendar"
+		body: "content: '\\\\f117';"
+	"content: '\\f118';":
+		prefix: "ion-camera"
+		body: "content: '\\\\f118';"
+	"content: '\\f119';":
+		prefix: "ion-card"
+		body: "content: '\\\\f119';"
+	"content: '\\f316';":
+		prefix: "ion-cash"
+		body: "content: '\\\\f316';"
+	"content: '\\f11b';":
+		prefix: "ion-chatbox"
+		body: "content: '\\\\f11b';"
+	"content: '\\f11a';":
+		prefix: "ion-chatbox-working"
+		body: "content: '\\\\f11a';"
+	"content: '\\f11c';":
+		prefix: "ion-chatboxes"
+		body: "content: '\\\\f11c';"
+	"content: '\\f11e';":
+		prefix: "ion-chatbubble"
+		body: "content: '\\\\f11e';"
+	"content: '\\f11d';":
+		prefix: "ion-chatbubble-working"
+		body: "content: '\\\\f11d';"
+	"content: '\\f11f';":
+		prefix: "ion-chatbubbles"
+		body: "content: '\\\\f11f';"
+	"content: '\\f122';":
+		prefix: "ion-checkmark"
+		body: "content: '\\\\f122';"
+	"content: '\\f120';":
+		prefix: "ion-checkmark-circled"
+		body: "content: '\\\\f120';"
+	"content: '\\f121';":
+		prefix: "ion-checkmark-round"
+		body: "content: '\\\\f121';"
+	"content: '\\f123';":
+		prefix: "ion-chevron-down"
+		body: "content: '\\\\f123';"
+	"content: '\\f124';":
+		prefix: "ion-chevron-left"
+		body: "content: '\\\\f124';"
+	"content: '\\f125';":
+		prefix: "ion-chevron-right"
+		body: "content: '\\\\f125';"
+	"content: '\\f126';":
+		prefix: "ion-chevron-up"
+		body: "content: '\\\\f126';"
+	"content: '\\f127';":
+		prefix: "ion-clipboard"
+		body: "content: '\\\\f127';"
+	"content: '\\f26e';":
+		prefix: "ion-clock"
+		body: "content: '\\\\f26e';"
+	"content: '\\f12a';":
+		prefix: "ion-close"
+		body: "content: '\\\\f12a';"
+	"content: '\\f128';":
+		prefix: "ion-close-circled"
+		body: "content: '\\\\f128';"
+	"content: '\\f129';":
+		prefix: "ion-close-round"
+		body: "content: '\\\\f129';"
+	"content: '\\f317';":
+		prefix: "ion-closed-captioning"
+		body: "content: '\\\\f317';"
+	"content: '\\f12b';":
+		prefix: "ion-cloud"
+		body: "content: '\\\\f12b';"
+	"content: '\\f271';":
+		prefix: "ion-code"
+		body: "content: '\\\\f271';"
+	"content: '\\f26f';":
+		prefix: "ion-code-download"
+		body: "content: '\\\\f26f';"
+	"content: '\\f270';":
+		prefix: "ion-code-working"
+		body: "content: '\\\\f270';"
+	"content: '\\f272';":
+		prefix: "ion-coffee"
+		body: "content: '\\\\f272';"
+	"content: '\\f273';":
+		prefix: "ion-compass"
+		body: "content: '\\\\f273';"
+	"content: '\\f12c';":
+		prefix: "ion-compose"
+		body: "content: '\\\\f12c';"
+	"content: '\\f274';":
+		prefix: "ion-connection-bars"
+		body: "content: '\\\\f274';"
+	"content: '\\f275';":
+		prefix: "ion-contrast"
+		body: "content: '\\\\f275';"
+	"content: '\\f3c1';":
+		prefix: "ion-crop"
+		body: "content: '\\\\f3c1';"
+	"content: '\\f318';":
+		prefix: "ion-cube"
+		body: "content: '\\\\f318';"
+	"content: '\\f12d';":
+		prefix: "ion-disc"
+		body: "content: '\\\\f12d';"
+	"content: '\\f12f';":
+		prefix: "ion-document"
+		body: "content: '\\\\f12f';"
+	"content: '\\f12e';":
+		prefix: "ion-document-text"
+		body: "content: '\\\\f12e';"
+	"content: '\\f130';":
+		prefix: "ion-drag"
+		body: "content: '\\\\f130';"
+	"content: '\\f276';":
+		prefix: "ion-earth"
+		body: "content: '\\\\f276';"
+	"content: '\\f3c2';":
+		prefix: "ion-easel"
+		body: "content: '\\\\f3c2';"
+	"content: '\\f2bf';":
+		prefix: "ion-edit"
+		body: "content: '\\\\f2bf';"
+	"content: '\\f277';":
+		prefix: "ion-egg"
+		body: "content: '\\\\f277';"
+	"content: '\\f131';":
+		prefix: "ion-eject"
+		body: "content: '\\\\f131';"
+	"content: '\\f132';":
+		prefix: "ion-email"
+		body: "content: '\\\\f132';"
+	"content: '\\f3c3';":
+		prefix: "ion-email-unread"
+		body: "content: '\\\\f3c3';"
+	"content: '\\f3c5';":
+		prefix: "ion-erlenmeyer-flask"
+		body: "content: '\\\\f3c5';"
+	"content: '\\f3c4';":
+		prefix: "ion-erlenmeyer-flask-bubbles"
+		body: "content: '\\\\f3c4';"
+	"content: '\\f133';":
+		prefix: "ion-eye"
+		body: "content: '\\\\f133';"
+	"content: '\\f306';":
+		prefix: "ion-eye-disabled"
+		body: "content: '\\\\f306';"
+	"content: '\\f278';":
+		prefix: "ion-female"
+		body: "content: '\\\\f278';"
+	"content: '\\f134';":
+		prefix: "ion-filing"
+		body: "content: '\\\\f134';"
+	"content: '\\f135';":
+		prefix: "ion-film-marker"
+		body: "content: '\\\\f135';"
+	"content: '\\f319';":
+		prefix: "ion-fireball"
+		body: "content: '\\\\f319';"
+	"content: '\\f279';":
+		prefix: "ion-flag"
+		body: "content: '\\\\f279';"
+	"content: '\\f31a';":
+		prefix: "ion-flame"
+		body: "content: '\\\\f31a';"
+	"content: '\\f137';":
+		prefix: "ion-flash"
+		body: "content: '\\\\f137';"
+	"content: '\\f136';":
+		prefix: "ion-flash-off"
+		body: "content: '\\\\f136';"
+	"content: '\\f139';":
+		prefix: "ion-folder"
+		body: "content: '\\\\f139';"
+	"content: '\\f27a';":
+		prefix: "ion-fork"
+		body: "content: '\\\\f27a';"
+	"content: '\\f2c0';":
+		prefix: "ion-fork-repo"
+		body: "content: '\\\\f2c0';"
+	"content: '\\f13a';":
+		prefix: "ion-forward"
+		body: "content: '\\\\f13a';"
+	"content: '\\f31b';":
+		prefix: "ion-funnel"
+		body: "content: '\\\\f31b';"
+	"content: '\\f13d';":
+		prefix: "ion-gear-a"
+		body: "content: '\\\\f13d';"
+	"content: '\\f13e';":
+		prefix: "ion-gear-b"
+		body: "content: '\\\\f13e';"
+	"content: '\\f13f';":
+		prefix: "ion-grid"
+		body: "content: '\\\\f13f';"
+	"content: '\\f27b';":
+		prefix: "ion-hammer"
+		body: "content: '\\\\f27b';"
+	"content: '\\f31c';":
+		prefix: "ion-happy"
+		body: "content: '\\\\f31c';"
+	"content: '\\f3c6';":
+		prefix: "ion-happy-outline"
+		body: "content: '\\\\f3c6';"
+	"content: '\\f140';":
+		prefix: "ion-headphone"
+		body: "content: '\\\\f140';"
+	"content: '\\f141';":
+		prefix: "ion-heart"
+		body: "content: '\\\\f141';"
+	"content: '\\f31d';":
+		prefix: "ion-heart-broken"
+		body: "content: '\\\\f31d';"
+	"content: '\\f143';":
+		prefix: "ion-help"
+		body: "content: '\\\\f143';"
+	"content: '\\f27c';":
+		prefix: "ion-help-buoy"
+		body: "content: '\\\\f27c';"
+	"content: '\\f142';":
+		prefix: "ion-help-circled"
+		body: "content: '\\\\f142';"
+	"content: '\\f144';":
+		prefix: "ion-home"
+		body: "content: '\\\\f144';"
+	"content: '\\f27d';":
+		prefix: "ion-icecream"
+		body: "content: '\\\\f27d';"
+	"content: '\\f147';":
+		prefix: "ion-image"
+		body: "content: '\\\\f147';"
+	"content: '\\f148';":
+		prefix: "ion-images"
+		body: "content: '\\\\f148';"
+	"content: '\\f14a';":
+		prefix: "ion-information"
+		body: "content: '\\\\f14a';"
+	"content: '\\f149';":
+		prefix: "ion-information-circled"
+		body: "content: '\\\\f149';"
+	"content: '\\f14b';":
+		prefix: "ion-ionic"
+		body: "content: '\\\\f14b';"
+	"content: '\\f3c8';":
+		prefix: "ion-ios-alarm"
+		body: "content: '\\\\f3c8';"
+	"content: '\\f3c7';":
+		prefix: "ion-ios-alarm-outline"
+		body: "content: '\\\\f3c7';"
+	"content: '\\f3ca';":
+		prefix: "ion-ios-albums"
+		body: "content: '\\\\f3ca';"
+	"content: '\\f3c9';":
+		prefix: "ion-ios-albums-outline"
+		body: "content: '\\\\f3c9';"
+	"content: '\\f3cc';":
+		prefix: "ion-ios-americanfootball"
+		body: "content: '\\\\f3cc';"
+	"content: '\\f3cb';":
+		prefix: "ion-ios-americanfootball-outline"
+		body: "content: '\\\\f3cb';"
+	"content: '\\f3ce';":
+		prefix: "ion-ios-analytics"
+		body: "content: '\\\\f3ce';"
+	"content: '\\f3cd';":
+		prefix: "ion-ios-analytics-outline"
+		body: "content: '\\\\f3cd';"
+	"content: '\\f3cf';":
+		prefix: "ion-ios-arrow-back"
+		body: "content: '\\\\f3cf';"
+	"content: '\\f3d0';":
+		prefix: "ion-ios-arrow-down"
+		body: "content: '\\\\f3d0';"
+	"content: '\\f3d1';":
+		prefix: "ion-ios-arrow-forward"
+		body: "content: '\\\\f3d1';"
+	"content: '\\f3d2';":
+		prefix: "ion-ios-arrow-left"
+		body: "content: '\\\\f3d2';"
+	"content: '\\f3d3';":
+		prefix: "ion-ios-arrow-right"
+		body: "content: '\\\\f3d3';"
+	"content: '\\f3d4';":
+		prefix: "ion-ios-arrow-thin-down"
+		body: "content: '\\\\f3d4';"
+	"content: '\\f3d5';":
+		prefix: "ion-ios-arrow-thin-left"
+		body: "content: '\\\\f3d5';"
+	"content: '\\f3d6';":
+		prefix: "ion-ios-arrow-thin-right"
+		body: "content: '\\\\f3d6';"
+	"content: '\\f3d7';":
+		prefix: "ion-ios-arrow-thin-up"
+		body: "content: '\\\\f3d7';"
+	"content: '\\f3d8';":
+		prefix: "ion-ios-arrow-up"
+		body: "content: '\\\\f3d8';"
+	"content: '\\f3da';":
+		prefix: "ion-ios-at"
+		body: "content: '\\\\f3da';"
+	"content: '\\f3d9';":
+		prefix: "ion-ios-at-outline"
+		body: "content: '\\\\f3d9';"
+	"content: '\\f3dc';":
+		prefix: "ion-ios-barcode"
+		body: "content: '\\\\f3dc';"
+	"content: '\\f3db';":
+		prefix: "ion-ios-barcode-outline"
+		body: "content: '\\\\f3db';"
+	"content: '\\f3de';":
+		prefix: "ion-ios-baseball"
+		body: "content: '\\\\f3de';"
+	"content: '\\f3dd';":
+		prefix: "ion-ios-baseball-outline"
+		body: "content: '\\\\f3dd';"
+	"content: '\\f3e0';":
+		prefix: "ion-ios-basketball"
+		body: "content: '\\\\f3e0';"
+	"content: '\\f3df';":
+		prefix: "ion-ios-basketball-outline"
+		body: "content: '\\\\f3df';"
+	"content: '\\f3e2';":
+		prefix: "ion-ios-bell"
+		body: "content: '\\\\f3e2';"
+	"content: '\\f3e1';":
+		prefix: "ion-ios-bell-outline"
+		body: "content: '\\\\f3e1';"
+	"content: '\\f3e4';":
+		prefix: "ion-ios-body"
+		body: "content: '\\\\f3e4';"
+	"content: '\\f3e3';":
+		prefix: "ion-ios-body-outline"
+		body: "content: '\\\\f3e3';"
+	"content: '\\f3e6';":
+		prefix: "ion-ios-bolt"
+		body: "content: '\\\\f3e6';"
+	"content: '\\f3e5';":
+		prefix: "ion-ios-bolt-outline"
+		body: "content: '\\\\f3e5';"
+	"content: '\\f3e8';":
+		prefix: "ion-ios-book"
+		body: "content: '\\\\f3e8';"
+	"content: '\\f3e7';":
+		prefix: "ion-ios-book-outline"
+		body: "content: '\\\\f3e7';"
+	"content: '\\f3ea';":
+		prefix: "ion-ios-bookmarks"
+		body: "content: '\\\\f3ea';"
+	"content: '\\f3e9';":
+		prefix: "ion-ios-bookmarks-outline"
+		body: "content: '\\\\f3e9';"
+	"content: '\\f3ec';":
+		prefix: "ion-ios-box"
+		body: "content: '\\\\f3ec';"
+	"content: '\\f3eb';":
+		prefix: "ion-ios-box-outline"
+		body: "content: '\\\\f3eb';"
+	"content: '\\f3ee';":
+		prefix: "ion-ios-briefcase"
+		body: "content: '\\\\f3ee';"
+	"content: '\\f3ed';":
+		prefix: "ion-ios-briefcase-outline"
+		body: "content: '\\\\f3ed';"
+	"content: '\\f3f0';":
+		prefix: "ion-ios-browsers"
+		body: "content: '\\\\f3f0';"
+	"content: '\\f3ef';":
+		prefix: "ion-ios-browsers-outline"
+		body: "content: '\\\\f3ef';"
+	"content: '\\f3f2';":
+		prefix: "ion-ios-calculator"
+		body: "content: '\\\\f3f2';"
+	"content: '\\f3f1';":
+		prefix: "ion-ios-calculator-outline"
+		body: "content: '\\\\f3f1';"
+	"content: '\\f3f4';":
+		prefix: "ion-ios-calendar"
+		body: "content: '\\\\f3f4';"
+	"content: '\\f3f3';":
+		prefix: "ion-ios-calendar-outline"
+		body: "content: '\\\\f3f3';"
+	"content: '\\f3f6';":
+		prefix: "ion-ios-camera"
+		body: "content: '\\\\f3f6';"
+	"content: '\\f3f5';":
+		prefix: "ion-ios-camera-outline"
+		body: "content: '\\\\f3f5';"
+	"content: '\\f3f8';":
+		prefix: "ion-ios-cart"
+		body: "content: '\\\\f3f8';"
+	"content: '\\f3f7';":
+		prefix: "ion-ios-cart-outline"
+		body: "content: '\\\\f3f7';"
+	"content: '\\f3fa';":
+		prefix: "ion-ios-chatboxes"
+		body: "content: '\\\\f3fa';"
+	"content: '\\f3f9';":
+		prefix: "ion-ios-chatboxes-outline"
+		body: "content: '\\\\f3f9';"
+	"content: '\\f3fc';":
+		prefix: "ion-ios-chatbubble"
+		body: "content: '\\\\f3fc';"
+	"content: '\\f3fb';":
+		prefix: "ion-ios-chatbubble-outline"
+		body: "content: '\\\\f3fb';"
+	"content: '\\f3ff';":
+		prefix: "ion-ios-checkmark"
+		body: "content: '\\\\f3ff';"
+	"content: '\\f3fd';":
+		prefix: "ion-ios-checkmark-empty"
+		body: "content: '\\\\f3fd';"
+	"content: '\\f3fe';":
+		prefix: "ion-ios-checkmark-outline"
+		body: "content: '\\\\f3fe';"
+	"content: '\\f400';":
+		prefix: "ion-ios-circle-filled"
+		body: "content: '\\\\f400';"
+	"content: '\\f401';":
+		prefix: "ion-ios-circle-outline"
+		body: "content: '\\\\f401';"
+	"content: '\\f403';":
+		prefix: "ion-ios-clock"
+		body: "content: '\\\\f403';"
+	"content: '\\f402';":
+		prefix: "ion-ios-clock-outline"
+		body: "content: '\\\\f402';"
+	"content: '\\f406';":
+		prefix: "ion-ios-close"
+		body: "content: '\\\\f406';"
+	"content: '\\f404';":
+		prefix: "ion-ios-close-empty"
+		body: "content: '\\\\f404';"
+	"content: '\\f405';":
+		prefix: "ion-ios-close-outline"
+		body: "content: '\\\\f405';"
+	"content: '\\f40c';":
+		prefix: "ion-ios-cloud"
+		body: "content: '\\\\f40c';"
+	"content: '\\f408';":
+		prefix: "ion-ios-cloud-download"
+		body: "content: '\\\\f408';"
+	"content: '\\f407';":
+		prefix: "ion-ios-cloud-download-outline"
+		body: "content: '\\\\f407';"
+	"content: '\\f409';":
+		prefix: "ion-ios-cloud-outline"
+		body: "content: '\\\\f409';"
+	"content: '\\f40b';":
+		prefix: "ion-ios-cloud-upload"
+		body: "content: '\\\\f40b';"
+	"content: '\\f40a';":
+		prefix: "ion-ios-cloud-upload-outline"
+		body: "content: '\\\\f40a';"
+	"content: '\\f410';":
+		prefix: "ion-ios-cloudy"
+		body: "content: '\\\\f410';"
+	"content: '\\f40e';":
+		prefix: "ion-ios-cloudy-night"
+		body: "content: '\\\\f40e';"
+	"content: '\\f40d';":
+		prefix: "ion-ios-cloudy-night-outline"
+		body: "content: '\\\\f40d';"
+	"content: '\\f40f';":
+		prefix: "ion-ios-cloudy-outline"
+		body: "content: '\\\\f40f';"
+	"content: '\\f412';":
+		prefix: "ion-ios-cog"
+		body: "content: '\\\\f412';"
+	"content: '\\f411';":
+		prefix: "ion-ios-cog-outline"
+		body: "content: '\\\\f411';"
+	"content: '\\f414';":
+		prefix: "ion-ios-color-filter"
+		body: "content: '\\\\f414';"
+	"content: '\\f413';":
+		prefix: "ion-ios-color-filter-outline"
+		body: "content: '\\\\f413';"
+	"content: '\\f416';":
+		prefix: "ion-ios-color-wand"
+		body: "content: '\\\\f416';"
+	"content: '\\f415';":
+		prefix: "ion-ios-color-wand-outline"
+		body: "content: '\\\\f415';"
+	"content: '\\f418';":
+		prefix: "ion-ios-compose"
+		body: "content: '\\\\f418';"
+	"content: '\\f417';":
+		prefix: "ion-ios-compose-outline"
+		body: "content: '\\\\f417';"
+	"content: '\\f41a';":
+		prefix: "ion-ios-contact"
+		body: "content: '\\\\f41a';"
+	"content: '\\f419';":
+		prefix: "ion-ios-contact-outline"
+		body: "content: '\\\\f419';"
+	"content: '\\f41c';":
+		prefix: "ion-ios-copy"
+		body: "content: '\\\\f41c';"
+	"content: '\\f41b';":
+		prefix: "ion-ios-copy-outline"
+		body: "content: '\\\\f41b';"
+	"content: '\\f41e';":
+		prefix: "ion-ios-crop"
+		body: "content: '\\\\f41e';"
+	"content: '\\f41d';":
+		prefix: "ion-ios-crop-strong"
+		body: "content: '\\\\f41d';"
+	"content: '\\f420';":
+		prefix: "ion-ios-download"
+		body: "content: '\\\\f420';"
+	"content: '\\f41f';":
+		prefix: "ion-ios-download-outline"
+		body: "content: '\\\\f41f';"
+	"content: '\\f421';":
+		prefix: "ion-ios-drag"
+		body: "content: '\\\\f421';"
+	"content: '\\f423';":
+		prefix: "ion-ios-email"
+		body: "content: '\\\\f423';"
+	"content: '\\f422';":
+		prefix: "ion-ios-email-outline"
+		body: "content: '\\\\f422';"
+	"content: '\\f425';":
+		prefix: "ion-ios-eye"
+		body: "content: '\\\\f425';"
+	"content: '\\f424';":
+		prefix: "ion-ios-eye-outline"
+		body: "content: '\\\\f424';"
+	"content: '\\f427';":
+		prefix: "ion-ios-fastforward"
+		body: "content: '\\\\f427';"
+	"content: '\\f426';":
+		prefix: "ion-ios-fastforward-outline"
+		body: "content: '\\\\f426';"
+	"content: '\\f429';":
+		prefix: "ion-ios-filing"
+		body: "content: '\\\\f429';"
+	"content: '\\f428';":
+		prefix: "ion-ios-filing-outline"
+		body: "content: '\\\\f428';"
+	"content: '\\f42b';":
+		prefix: "ion-ios-film"
+		body: "content: '\\\\f42b';"
+	"content: '\\f42a';":
+		prefix: "ion-ios-film-outline"
+		body: "content: '\\\\f42a';"
+	"content: '\\f42d';":
+		prefix: "ion-ios-flag"
+		body: "content: '\\\\f42d';"
+	"content: '\\f42c';":
+		prefix: "ion-ios-flag-outline"
+		body: "content: '\\\\f42c';"
+	"content: '\\f42f';":
+		prefix: "ion-ios-flame"
+		body: "content: '\\\\f42f';"
+	"content: '\\f42e';":
+		prefix: "ion-ios-flame-outline"
+		body: "content: '\\\\f42e';"
+	"content: '\\f431';":
+		prefix: "ion-ios-flask"
+		body: "content: '\\\\f431';"
+	"content: '\\f430';":
+		prefix: "ion-ios-flask-outline"
+		body: "content: '\\\\f430';"
+	"content: '\\f433';":
+		prefix: "ion-ios-flower"
+		body: "content: '\\\\f433';"
+	"content: '\\f432';":
+		prefix: "ion-ios-flower-outline"
+		body: "content: '\\\\f432';"
+	"content: '\\f435';":
+		prefix: "ion-ios-folder"
+		body: "content: '\\\\f435';"
+	"content: '\\f434';":
+		prefix: "ion-ios-folder-outline"
+		body: "content: '\\\\f434';"
+	"content: '\\f437';":
+		prefix: "ion-ios-football"
+		body: "content: '\\\\f437';"
+	"content: '\\f436';":
+		prefix: "ion-ios-football-outline"
+		body: "content: '\\\\f436';"
+	"content: '\\f439';":
+		prefix: "ion-ios-game-controller-a"
+		body: "content: '\\\\f439';"
+	"content: '\\f438';":
+		prefix: "ion-ios-game-controller-a-outline"
+		body: "content: '\\\\f438';"
+	"content: '\\f43b';":
+		prefix: "ion-ios-game-controller-b"
+		body: "content: '\\\\f43b';"
+	"content: '\\f43a';":
+		prefix: "ion-ios-game-controller-b-outline"
+		body: "content: '\\\\f43a';"
+	"content: '\\f43d';":
+		prefix: "ion-ios-gear"
+		body: "content: '\\\\f43d';"
+	"content: '\\f43c';":
+		prefix: "ion-ios-gear-outline"
+		body: "content: '\\\\f43c';"
+	"content: '\\f43f';":
+		prefix: "ion-ios-glasses"
+		body: "content: '\\\\f43f';"
+	"content: '\\f43e';":
+		prefix: "ion-ios-glasses-outline"
+		body: "content: '\\\\f43e';"
+	"content: '\\f441';":
+		prefix: "ion-ios-grid-view"
+		body: "content: '\\\\f441';"
+	"content: '\\f440';":
+		prefix: "ion-ios-grid-view-outline"
+		body: "content: '\\\\f440';"
+	"content: '\\f443';":
+		prefix: "ion-ios-heart"
+		body: "content: '\\\\f443';"
+	"content: '\\f442';":
+		prefix: "ion-ios-heart-outline"
+		body: "content: '\\\\f442';"
+	"content: '\\f446';":
+		prefix: "ion-ios-help"
+		body: "content: '\\\\f446';"
+	"content: '\\f444';":
+		prefix: "ion-ios-help-empty"
+		body: "content: '\\\\f444';"
+	"content: '\\f445';":
+		prefix: "ion-ios-help-outline"
+		body: "content: '\\\\f445';"
+	"content: '\\f448';":
+		prefix: "ion-ios-home"
+		body: "content: '\\\\f448';"
+	"content: '\\f447';":
+		prefix: "ion-ios-home-outline"
+		body: "content: '\\\\f447';"
+	"content: '\\f44a';":
+		prefix: "ion-ios-infinite"
+		body: "content: '\\\\f44a';"
+	"content: '\\f449';":
+		prefix: "ion-ios-infinite-outline"
+		body: "content: '\\\\f449';"
+	"content: '\\f44d';":
+		prefix: "ion-ios-information"
+		body: "content: '\\\\f44d';"
+	"content: '\\f44b';":
+		prefix: "ion-ios-information-empty"
+		body: "content: '\\\\f44b';"
+	"content: '\\f44c';":
+		prefix: "ion-ios-information-outline"
+		body: "content: '\\\\f44c';"
+	"content: '\\f44e';":
+		prefix: "ion-ios-ionic-outline"
+		body: "content: '\\\\f44e';"
+	"content: '\\f450';":
+		prefix: "ion-ios-keypad"
+		body: "content: '\\\\f450';"
+	"content: '\\f44f';":
+		prefix: "ion-ios-keypad-outline"
+		body: "content: '\\\\f44f';"
+	"content: '\\f452';":
+		prefix: "ion-ios-lightbulb"
+		body: "content: '\\\\f452';"
+	"content: '\\f451';":
+		prefix: "ion-ios-lightbulb-outline"
+		body: "content: '\\\\f451';"
+	"content: '\\f454';":
+		prefix: "ion-ios-list"
+		body: "content: '\\\\f454';"
+	"content: '\\f453';":
+		prefix: "ion-ios-list-outline"
+		body: "content: '\\\\f453';"
+	"content: '\\f456';":
+		prefix: "ion-ios-location"
+		body: "content: '\\\\f456';"
+	"content: '\\f455';":
+		prefix: "ion-ios-location-outline"
+		body: "content: '\\\\f455';"
+	"content: '\\f458';":
+		prefix: "ion-ios-locked"
+		body: "content: '\\\\f458';"
+	"content: '\\f457';":
+		prefix: "ion-ios-locked-outline"
+		body: "content: '\\\\f457';"
+	"content: '\\f45a';":
+		prefix: "ion-ios-loop"
+		body: "content: '\\\\f45a';"
+	"content: '\\f459';":
+		prefix: "ion-ios-loop-strong"
+		body: "content: '\\\\f459';"
+	"content: '\\f45c';":
+		prefix: "ion-ios-medical"
+		body: "content: '\\\\f45c';"
+	"content: '\\f45b';":
+		prefix: "ion-ios-medical-outline"
+		body: "content: '\\\\f45b';"
+	"content: '\\f45e';":
+		prefix: "ion-ios-medkit"
+		body: "content: '\\\\f45e';"
+	"content: '\\f45d';":
+		prefix: "ion-ios-medkit-outline"
+		body: "content: '\\\\f45d';"
+	"content: '\\f461';":
+		prefix: "ion-ios-mic"
+		body: "content: '\\\\f461';"
+	"content: '\\f45f';":
+		prefix: "ion-ios-mic-off"
+		body: "content: '\\\\f45f';"
+	"content: '\\f460';":
+		prefix: "ion-ios-mic-outline"
+		body: "content: '\\\\f460';"
+	"content: '\\f464';":
+		prefix: "ion-ios-minus"
+		body: "content: '\\\\f464';"
+	"content: '\\f462';":
+		prefix: "ion-ios-minus-empty"
+		body: "content: '\\\\f462';"
+	"content: '\\f463';":
+		prefix: "ion-ios-minus-outline"
+		body: "content: '\\\\f463';"
+	"content: '\\f466';":
+		prefix: "ion-ios-monitor"
+		body: "content: '\\\\f466';"
+	"content: '\\f465';":
+		prefix: "ion-ios-monitor-outline"
+		body: "content: '\\\\f465';"
+	"content: '\\f468';":
+		prefix: "ion-ios-moon"
+		body: "content: '\\\\f468';"
+	"content: '\\f467';":
+		prefix: "ion-ios-moon-outline"
+		body: "content: '\\\\f467';"
+	"content: '\\f46a';":
+		prefix: "ion-ios-more"
+		body: "content: '\\\\f46a';"
+	"content: '\\f469';":
+		prefix: "ion-ios-more-outline"
+		body: "content: '\\\\f469';"
+	"content: '\\f46b';":
+		prefix: "ion-ios-musical-note"
+		body: "content: '\\\\f46b';"
+	"content: '\\f46c';":
+		prefix: "ion-ios-musical-notes"
+		body: "content: '\\\\f46c';"
+	"content: '\\f46e';":
+		prefix: "ion-ios-navigate"
+		body: "content: '\\\\f46e';"
+	"content: '\\f46d';":
+		prefix: "ion-ios-navigate-outline"
+		body: "content: '\\\\f46d';"
+	"content: '\\f470';":
+		prefix: "ion-ios-nutrition"
+		body: "content: '\\\\f470';"
+	"content: '\\f46f';":
+		prefix: "ion-ios-nutrition-outline"
+		body: "content: '\\\\f46f';"
+	"content: '\\f472';":
+		prefix: "ion-ios-paper"
+		body: "content: '\\\\f472';"
+	"content: '\\f471';":
+		prefix: "ion-ios-paper-outline"
+		body: "content: '\\\\f471';"
+	"content: '\\f474';":
+		prefix: "ion-ios-paperplane"
+		body: "content: '\\\\f474';"
+	"content: '\\f473';":
+		prefix: "ion-ios-paperplane-outline"
+		body: "content: '\\\\f473';"
+	"content: '\\f476';":
+		prefix: "ion-ios-partlysunny"
+		body: "content: '\\\\f476';"
+	"content: '\\f475';":
+		prefix: "ion-ios-partlysunny-outline"
+		body: "content: '\\\\f475';"
+	"content: '\\f478';":
+		prefix: "ion-ios-pause"
+		body: "content: '\\\\f478';"
+	"content: '\\f477';":
+		prefix: "ion-ios-pause-outline"
+		body: "content: '\\\\f477';"
+	"content: '\\f47a';":
+		prefix: "ion-ios-paw"
+		body: "content: '\\\\f47a';"
+	"content: '\\f479';":
+		prefix: "ion-ios-paw-outline"
+		body: "content: '\\\\f479';"
+	"content: '\\f47c';":
+		prefix: "ion-ios-people"
+		body: "content: '\\\\f47c';"
+	"content: '\\f47b';":
+		prefix: "ion-ios-people-outline"
+		body: "content: '\\\\f47b';"
+	"content: '\\f47e';":
+		prefix: "ion-ios-person"
+		body: "content: '\\\\f47e';"
+	"content: '\\f47d';":
+		prefix: "ion-ios-person-outline"
+		body: "content: '\\\\f47d';"
+	"content: '\\f480';":
+		prefix: "ion-ios-personadd"
+		body: "content: '\\\\f480';"
+	"content: '\\f47f';":
+		prefix: "ion-ios-personadd-outline"
+		body: "content: '\\\\f47f';"
+	"content: '\\f482';":
+		prefix: "ion-ios-photos"
+		body: "content: '\\\\f482';"
+	"content: '\\f481';":
+		prefix: "ion-ios-photos-outline"
+		body: "content: '\\\\f481';"
+	"content: '\\f484';":
+		prefix: "ion-ios-pie"
+		body: "content: '\\\\f484';"
+	"content: '\\f483';":
+		prefix: "ion-ios-pie-outline"
+		body: "content: '\\\\f483';"
+	"content: '\\f486';":
+		prefix: "ion-ios-pint"
+		body: "content: '\\\\f486';"
+	"content: '\\f485';":
+		prefix: "ion-ios-pint-outline"
+		body: "content: '\\\\f485';"
+	"content: '\\f488';":
+		prefix: "ion-ios-play"
+		body: "content: '\\\\f488';"
+	"content: '\\f487';":
+		prefix: "ion-ios-play-outline"
+		body: "content: '\\\\f487';"
+	"content: '\\f48b';":
+		prefix: "ion-ios-plus"
+		body: "content: '\\\\f48b';"
+	"content: '\\f489';":
+		prefix: "ion-ios-plus-empty"
+		body: "content: '\\\\f489';"
+	"content: '\\f48a';":
+		prefix: "ion-ios-plus-outline"
+		body: "content: '\\\\f48a';"
+	"content: '\\f48d';":
+		prefix: "ion-ios-pricetag"
+		body: "content: '\\\\f48d';"
+	"content: '\\f48c';":
+		prefix: "ion-ios-pricetag-outline"
+		body: "content: '\\\\f48c';"
+	"content: '\\f48f';":
+		prefix: "ion-ios-pricetags"
+		body: "content: '\\\\f48f';"
+	"content: '\\f48e';":
+		prefix: "ion-ios-pricetags-outline"
+		body: "content: '\\\\f48e';"
+	"content: '\\f491';":
+		prefix: "ion-ios-printer"
+		body: "content: '\\\\f491';"
+	"content: '\\f490';":
+		prefix: "ion-ios-printer-outline"
+		body: "content: '\\\\f490';"
+	"content: '\\f493';":
+		prefix: "ion-ios-pulse"
+		body: "content: '\\\\f493';"
+	"content: '\\f492';":
+		prefix: "ion-ios-pulse-strong"
+		body: "content: '\\\\f492';"
+	"content: '\\f495';":
+		prefix: "ion-ios-rainy"
+		body: "content: '\\\\f495';"
+	"content: '\\f494';":
+		prefix: "ion-ios-rainy-outline"
+		body: "content: '\\\\f494';"
+	"content: '\\f497';":
+		prefix: "ion-ios-recording"
+		body: "content: '\\\\f497';"
+	"content: '\\f496';":
+		prefix: "ion-ios-recording-outline"
+		body: "content: '\\\\f496';"
+	"content: '\\f499';":
+		prefix: "ion-ios-redo"
+		body: "content: '\\\\f499';"
+	"content: '\\f498';":
+		prefix: "ion-ios-redo-outline"
+		body: "content: '\\\\f498';"
+	"content: '\\f49c';":
+		prefix: "ion-ios-refresh"
+		body: "content: '\\\\f49c';"
+	"content: '\\f49a';":
+		prefix: "ion-ios-refresh-empty"
+		body: "content: '\\\\f49a';"
+	"content: '\\f49b';":
+		prefix: "ion-ios-refresh-outline"
+		body: "content: '\\\\f49b';"
+	"content: '\\f49d';":
+		prefix: "ion-ios-reload"
+		body: "content: '\\\\f49d';"
+	"content: '\\f49f';":
+		prefix: "ion-ios-reverse-camera"
+		body: "content: '\\\\f49f';"
+	"content: '\\f49e';":
+		prefix: "ion-ios-reverse-camera-outline"
+		body: "content: '\\\\f49e';"
+	"content: '\\f4a1';":
+		prefix: "ion-ios-rewind"
+		body: "content: '\\\\f4a1';"
+	"content: '\\f4a0';":
+		prefix: "ion-ios-rewind-outline"
+		body: "content: '\\\\f4a0';"
+	"content: '\\f4a3';":
+		prefix: "ion-ios-rose"
+		body: "content: '\\\\f4a3';"
+	"content: '\\f4a2';":
+		prefix: "ion-ios-rose-outline"
+		body: "content: '\\\\f4a2';"
+	"content: '\\f4a5';":
+		prefix: "ion-ios-search"
+		body: "content: '\\\\f4a5';"
+	"content: '\\f4a4';":
+		prefix: "ion-ios-search-strong"
+		body: "content: '\\\\f4a4';"
+	"content: '\\f4a7';":
+		prefix: "ion-ios-settings"
+		body: "content: '\\\\f4a7';"
+	"content: '\\f4a6';":
+		prefix: "ion-ios-settings-strong"
+		body: "content: '\\\\f4a6';"
+	"content: '\\f4a9';":
+		prefix: "ion-ios-shuffle"
+		body: "content: '\\\\f4a9';"
+	"content: '\\f4a8';":
+		prefix: "ion-ios-shuffle-strong"
+		body: "content: '\\\\f4a8';"
+	"content: '\\f4ab';":
+		prefix: "ion-ios-skipbackward"
+		body: "content: '\\\\f4ab';"
+	"content: '\\f4aa';":
+		prefix: "ion-ios-skipbackward-outline"
+		body: "content: '\\\\f4aa';"
+	"content: '\\f4ad';":
+		prefix: "ion-ios-skipforward"
+		body: "content: '\\\\f4ad';"
+	"content: '\\f4ac';":
+		prefix: "ion-ios-skipforward-outline"
+		body: "content: '\\\\f4ac';"
+	"content: '\\f4ae';":
+		prefix: "ion-ios-snowy"
+		body: "content: '\\\\f4ae';"
+	"content: '\\f4b0';":
+		prefix: "ion-ios-speedometer"
+		body: "content: '\\\\f4b0';"
+	"content: '\\f4af';":
+		prefix: "ion-ios-speedometer-outline"
+		body: "content: '\\\\f4af';"
+	"content: '\\f4b3';":
+		prefix: "ion-ios-star"
+		body: "content: '\\\\f4b3';"
+	"content: '\\f4b1';":
+		prefix: "ion-ios-star-half"
+		body: "content: '\\\\f4b1';"
+	"content: '\\f4b2';":
+		prefix: "ion-ios-star-outline"
+		body: "content: '\\\\f4b2';"
+	"content: '\\f4b5';":
+		prefix: "ion-ios-stopwatch"
+		body: "content: '\\\\f4b5';"
+	"content: '\\f4b4';":
+		prefix: "ion-ios-stopwatch-outline"
+		body: "content: '\\\\f4b4';"
+	"content: '\\f4b7';":
+		prefix: "ion-ios-sunny"
+		body: "content: '\\\\f4b7';"
+	"content: '\\f4b6';":
+		prefix: "ion-ios-sunny-outline"
+		body: "content: '\\\\f4b6';"
+	"content: '\\f4b9';":
+		prefix: "ion-ios-telephone"
+		body: "content: '\\\\f4b9';"
+	"content: '\\f4b8';":
+		prefix: "ion-ios-telephone-outline"
+		body: "content: '\\\\f4b8';"
+	"content: '\\f4bb';":
+		prefix: "ion-ios-tennisball"
+		body: "content: '\\\\f4bb';"
+	"content: '\\f4ba';":
+		prefix: "ion-ios-tennisball-outline"
+		body: "content: '\\\\f4ba';"
+	"content: '\\f4bd';":
+		prefix: "ion-ios-thunderstorm"
+		body: "content: '\\\\f4bd';"
+	"content: '\\f4bc';":
+		prefix: "ion-ios-thunderstorm-outline"
+		body: "content: '\\\\f4bc';"
+	"content: '\\f4bf';":
+		prefix: "ion-ios-time"
+		body: "content: '\\\\f4bf';"
+	"content: '\\f4be';":
+		prefix: "ion-ios-time-outline"
+		body: "content: '\\\\f4be';"
+	"content: '\\f4c1';":
+		prefix: "ion-ios-timer"
+		body: "content: '\\\\f4c1';"
+	"content: '\\f4c0';":
+		prefix: "ion-ios-timer-outline"
+		body: "content: '\\\\f4c0';"
+	"content: '\\f4c3';":
+		prefix: "ion-ios-toggle"
+		body: "content: '\\\\f4c3';"
+	"content: '\\f4c2';":
+		prefix: "ion-ios-toggle-outline"
+		body: "content: '\\\\f4c2';"
+	"content: '\\f4c5';":
+		prefix: "ion-ios-trash"
+		body: "content: '\\\\f4c5';"
+	"content: '\\f4c4';":
+		prefix: "ion-ios-trash-outline"
+		body: "content: '\\\\f4c4';"
+	"content: '\\f4c7';":
+		prefix: "ion-ios-undo"
+		body: "content: '\\\\f4c7';"
+	"content: '\\f4c6';":
+		prefix: "ion-ios-undo-outline"
+		body: "content: '\\\\f4c6';"
+	"content: '\\f4c9';":
+		prefix: "ion-ios-unlocked"
+		body: "content: '\\\\f4c9';"
+	"content: '\\f4c8';":
+		prefix: "ion-ios-unlocked-outline"
+		body: "content: '\\\\f4c8';"
+	"content: '\\f4cb';":
+		prefix: "ion-ios-upload"
+		body: "content: '\\\\f4cb';"
+	"content: '\\f4ca';":
+		prefix: "ion-ios-upload-outline"
+		body: "content: '\\\\f4ca';"
+	"content: '\\f4cd';":
+		prefix: "ion-ios-videocam"
+		body: "content: '\\\\f4cd';"
+	"content: '\\f4cc';":
+		prefix: "ion-ios-videocam-outline"
+		body: "content: '\\\\f4cc';"
+	"content: '\\f4ce';":
+		prefix: "ion-ios-volume-high"
+		body: "content: '\\\\f4ce';"
+	"content: '\\f4cf';":
+		prefix: "ion-ios-volume-low"
+		body: "content: '\\\\f4cf';"
+	"content: '\\f4d1';":
+		prefix: "ion-ios-wineglass"
+		body: "content: '\\\\f4d1';"
+	"content: '\\f4d0';":
+		prefix: "ion-ios-wineglass-outline"
+		body: "content: '\\\\f4d0';"
+	"content: '\\f4d3';":
+		prefix: "ion-ios-world"
+		body: "content: '\\\\f4d3';"
+	"content: '\\f4d2';":
+		prefix: "ion-ios-world-outline"
+		body: "content: '\\\\f4d2';"
+	"content: '\\f1f9';":
+		prefix: "ion-ipad"
+		body: "content: '\\\\f1f9';"
+	"content: '\\f1fa';":
+		prefix: "ion-iphone"
+		body: "content: '\\\\f1fa';"
+	"content: '\\f1fb';":
+		prefix: "ion-ipod"
+		body: "content: '\\\\f1fb';"
+	"content: '\\f295';":
+		prefix: "ion-jet"
+		body: "content: '\\\\f295';"
+	"content: '\\f296';":
+		prefix: "ion-key"
+		body: "content: '\\\\f296';"
+	"content: '\\f297';":
+		prefix: "ion-knife"
+		body: "content: '\\\\f297';"
+	"content: '\\f1fc';":
+		prefix: "ion-laptop"
+		body: "content: '\\\\f1fc';"
+	"content: '\\f1fd';":
+		prefix: "ion-leaf"
+		body: "content: '\\\\f1fd';"
+	"content: '\\f298';":
+		prefix: "ion-levels"
+		body: "content: '\\\\f298';"
+	"content: '\\f299';":
+		prefix: "ion-lightbulb"
+		body: "content: '\\\\f299';"
+	"content: '\\f1fe';":
+		prefix: "ion-link"
+		body: "content: '\\\\f1fe';"
+	"content: '\\f29a';":
+		prefix: "ion-load-a"
+		body: "content: '\\\\f29a';"
+	"content: '\\f29b';":
+		prefix: "ion-load-b"
+		body: "content: '\\\\f29b';"
+	"content: '\\f29c';":
+		prefix: "ion-load-c"
+		body: "content: '\\\\f29c';"
+	"content: '\\f29d';":
+		prefix: "ion-load-d"
+		body: "content: '\\\\f29d';"
+	"content: '\\f1ff';":
+		prefix: "ion-location"
+		body: "content: '\\\\f1ff';"
+	"content: '\\f4d4';":
+		prefix: "ion-lock-combination"
+		body: "content: '\\\\f4d4';"
+	"content: '\\f200';":
+		prefix: "ion-locked"
+		body: "content: '\\\\f200';"
+	"content: '\\f29e';":
+		prefix: "ion-log-in"
+		body: "content: '\\\\f29e';"
+	"content: '\\f29f';":
+		prefix: "ion-log-out"
+		body: "content: '\\\\f29f';"
+	"content: '\\f201';":
+		prefix: "ion-loop"
+		body: "content: '\\\\f201';"
+	"content: '\\f2a0';":
+		prefix: "ion-magnet"
+		body: "content: '\\\\f2a0';"
+	"content: '\\f2a1';":
+		prefix: "ion-male"
+		body: "content: '\\\\f2a1';"
+	"content: '\\f202';":
+		prefix: "ion-man"
+		body: "content: '\\\\f202';"
+	"content: '\\f203';":
+		prefix: "ion-map"
+		body: "content: '\\\\f203';"
+	"content: '\\f2a2';":
+		prefix: "ion-medkit"
+		body: "content: '\\\\f2a2';"
+	"content: '\\f33f';":
+		prefix: "ion-merge"
+		body: "content: '\\\\f33f';"
+	"content: '\\f204';":
+		prefix: "ion-mic-a"
+		body: "content: '\\\\f204';"
+	"content: '\\f205';":
+		prefix: "ion-mic-b"
+		body: "content: '\\\\f205';"
+	"content: '\\f206';":
+		prefix: "ion-mic-c"
+		body: "content: '\\\\f206';"
+	"content: '\\f209';":
+		prefix: "ion-minus"
+		body: "content: '\\\\f209';"
+	"content: '\\f207';":
+		prefix: "ion-minus-circled"
+		body: "content: '\\\\f207';"
+	"content: '\\f208';":
+		prefix: "ion-minus-round"
+		body: "content: '\\\\f208';"
+	"content: '\\f2c1';":
+		prefix: "ion-model-s"
+		body: "content: '\\\\f2c1';"
+	"content: '\\f20a';":
+		prefix: "ion-monitor"
+		body: "content: '\\\\f20a';"
+	"content: '\\f20b';":
+		prefix: "ion-more"
+		body: "content: '\\\\f20b';"
+	"content: '\\f340';":
+		prefix: "ion-mouse"
+		body: "content: '\\\\f340';"
+	"content: '\\f20c';":
+		prefix: "ion-music-note"
+		body: "content: '\\\\f20c';"
+	"content: '\\f20e';":
+		prefix: "ion-navicon"
+		body: "content: '\\\\f20e';"
+	"content: '\\f20d';":
+		prefix: "ion-navicon-round"
+		body: "content: '\\\\f20d';"
+	"content: '\\f2a3';":
+		prefix: "ion-navigate"
+		body: "content: '\\\\f2a3';"
+	"content: '\\f341';":
+		prefix: "ion-network"
+		body: "content: '\\\\f341';"
+	"content: '\\f2c2';":
+		prefix: "ion-no-smoking"
+		body: "content: '\\\\f2c2';"
+	"content: '\\f2a4';":
+		prefix: "ion-nuclear"
+		body: "content: '\\\\f2a4';"
+	"content: '\\f342';":
+		prefix: "ion-outlet"
+		body: "content: '\\\\f342';"
+	"content: '\\f4d5';":
+		prefix: "ion-paintbrush"
+		body: "content: '\\\\f4d5';"
+	"content: '\\f4d6';":
+		prefix: "ion-paintbucket"
+		body: "content: '\\\\f4d6';"
+	"content: '\\f2c3';":
+		prefix: "ion-paper-airplane"
+		body: "content: '\\\\f2c3';"
+	"content: '\\f20f';":
+		prefix: "ion-paperclip"
+		body: "content: '\\\\f20f';"
+	"content: '\\f210';":
+		prefix: "ion-pause"
+		body: "content: '\\\\f210';"
+	"content: '\\f213';":
+		prefix: "ion-person"
+		body: "content: '\\\\f213';"
+	"content: '\\f211';":
+		prefix: "ion-person-add"
+		body: "content: '\\\\f211';"
+	"content: '\\f212';":
+		prefix: "ion-person-stalker"
+		body: "content: '\\\\f212';"
+	"content: '\\f2a5';":
+		prefix: "ion-pie-graph"
+		body: "content: '\\\\f2a5';"
+	"content: '\\f2a6';":
+		prefix: "ion-pin"
+		body: "content: '\\\\f2a6';"
+	"content: '\\f2a7';":
+		prefix: "ion-pinpoint"
+		body: "content: '\\\\f2a7';"
+	"content: '\\f2a8';":
+		prefix: "ion-pizza"
+		body: "content: '\\\\f2a8';"
+	"content: '\\f214';":
+		prefix: "ion-plane"
+		body: "content: '\\\\f214';"
+	"content: '\\f343';":
+		prefix: "ion-planet"
+		body: "content: '\\\\f343';"
+	"content: '\\f215';":
+		prefix: "ion-play"
+		body: "content: '\\\\f215';"
+	"content: '\\f30a';":
+		prefix: "ion-playstation"
+		body: "content: '\\\\f30a';"
+	"content: '\\f218';":
+		prefix: "ion-plus"
+		body: "content: '\\\\f218';"
+	"content: '\\f216';":
+		prefix: "ion-plus-circled"
+		body: "content: '\\\\f216';"
+	"content: '\\f217';":
+		prefix: "ion-plus-round"
+		body: "content: '\\\\f217';"
+	"content: '\\f344';":
+		prefix: "ion-podium"
+		body: "content: '\\\\f344';"
+	"content: '\\f219';":
+		prefix: "ion-pound"
+		body: "content: '\\\\f219';"
+	"content: '\\f2a9';":
+		prefix: "ion-power"
+		body: "content: '\\\\f2a9';"
+	"content: '\\f2aa';":
+		prefix: "ion-pricetag"
+		body: "content: '\\\\f2aa';"
+	"content: '\\f2ab';":
+		prefix: "ion-pricetags"
+		body: "content: '\\\\f2ab';"
+	"content: '\\f21a';":
+		prefix: "ion-printer"
+		body: "content: '\\\\f21a';"
+	"content: '\\f345';":
+		prefix: "ion-pull-request"
+		body: "content: '\\\\f345';"
+	"content: '\\f346';":
+		prefix: "ion-qr-scanner"
+		body: "content: '\\\\f346';"
+	"content: '\\f347';":
+		prefix: "ion-quote"
+		body: "content: '\\\\f347';"
+	"content: '\\f2ac';":
+		prefix: "ion-radio-waves"
+		body: "content: '\\\\f2ac';"
+	"content: '\\f21b';":
+		prefix: "ion-record"
+		body: "content: '\\\\f21b';"
+	"content: '\\f21c';":
+		prefix: "ion-refresh"
+		body: "content: '\\\\f21c';"
+	"content: '\\f21e';":
+		prefix: "ion-reply"
+		body: "content: '\\\\f21e';"
+	"content: '\\f21d';":
+		prefix: "ion-reply-all"
+		body: "content: '\\\\f21d';"
+	"content: '\\f348';":
+		prefix: "ion-ribbon-a"
+		body: "content: '\\\\f348';"
+	"content: '\\f349';":
+		prefix: "ion-ribbon-b"
+		body: "content: '\\\\f349';"
+	"content: '\\f34a';":
+		prefix: "ion-sad"
+		body: "content: '\\\\f34a';"
+	"content: '\\f4d7';":
+		prefix: "ion-sad-outline"
+		body: "content: '\\\\f4d7';"
+	"content: '\\f34b';":
+		prefix: "ion-scissors"
+		body: "content: '\\\\f34b';"
+	"content: '\\f21f';":
+		prefix: "ion-search"
+		body: "content: '\\\\f21f';"
+	"content: '\\f2ad';":
+		prefix: "ion-settings"
+		body: "content: '\\\\f2ad';"
+	"content: '\\f220';":
+		prefix: "ion-share"
+		body: "content: '\\\\f220';"
+	"content: '\\f221';":
+		prefix: "ion-shuffle"
+		body: "content: '\\\\f221';"
+	"content: '\\f222';":
+		prefix: "ion-skip-backward"
+		body: "content: '\\\\f222';"
+	"content: '\\f223';":
+		prefix: "ion-skip-forward"
+		body: "content: '\\\\f223';"
+	"content: '\\f225';":
+		prefix: "ion-social-android"
+		body: "content: '\\\\f225';"
+	"content: '\\f224';":
+		prefix: "ion-social-android-outline"
+		body: "content: '\\\\f224';"
+	"content: '\\f4d9';":
+		prefix: "ion-social-angular"
+		body: "content: '\\\\f4d9';"
+	"content: '\\f4d8';":
+		prefix: "ion-social-angular-outline"
+		body: "content: '\\\\f4d8';"
+	"content: '\\f227';":
+		prefix: "ion-social-apple"
+		body: "content: '\\\\f227';"
+	"content: '\\f226';":
+		prefix: "ion-social-apple-outline"
+		body: "content: '\\\\f226';"
+	"content: '\\f2af';":
+		prefix: "ion-social-bitcoin"
+		body: "content: '\\\\f2af';"
+	"content: '\\f2ae';":
+		prefix: "ion-social-bitcoin-outline"
+		body: "content: '\\\\f2ae';"
+	"content: '\\f229';":
+		prefix: "ion-social-buffer"
+		body: "content: '\\\\f229';"
+	"content: '\\f228';":
+		prefix: "ion-social-buffer-outline"
+		body: "content: '\\\\f228';"
+	"content: '\\f4db';":
+		prefix: "ion-social-chrome"
+		body: "content: '\\\\f4db';"
+	"content: '\\f4da';":
+		prefix: "ion-social-chrome-outline"
+		body: "content: '\\\\f4da';"
+	"content: '\\f4dd';":
+		prefix: "ion-social-codepen"
+		body: "content: '\\\\f4dd';"
+	"content: '\\f4dc';":
+		prefix: "ion-social-codepen-outline"
+		body: "content: '\\\\f4dc';"
+	"content: '\\f4df';":
+		prefix: "ion-social-css3"
+		body: "content: '\\\\f4df';"
+	"content: '\\f4de';":
+		prefix: "ion-social-css3-outline"
+		body: "content: '\\\\f4de';"
+	"content: '\\f22b';":
+		prefix: "ion-social-designernews"
+		body: "content: '\\\\f22b';"
+	"content: '\\f22a';":
+		prefix: "ion-social-designernews-outline"
+		body: "content: '\\\\f22a';"
+	"content: '\\f22d';":
+		prefix: "ion-social-dribbble"
+		body: "content: '\\\\f22d';"
+	"content: '\\f22c';":
+		prefix: "ion-social-dribbble-outline"
+		body: "content: '\\\\f22c';"
+	"content: '\\f22f';":
+		prefix: "ion-social-dropbox"
+		body: "content: '\\\\f22f';"
+	"content: '\\f22e';":
+		prefix: "ion-social-dropbox-outline"
+		body: "content: '\\\\f22e';"
+	"content: '\\f4e1';":
+		prefix: "ion-social-euro"
+		body: "content: '\\\\f4e1';"
+	"content: '\\f4e0';":
+		prefix: "ion-social-euro-outline"
+		body: "content: '\\\\f4e0';"
+	"content: '\\f231';":
+		prefix: "ion-social-facebook"
+		body: "content: '\\\\f231';"
+	"content: '\\f230';":
+		prefix: "ion-social-facebook-outline"
+		body: "content: '\\\\f230';"
+	"content: '\\f34d';":
+		prefix: "ion-social-foursquare"
+		body: "content: '\\\\f34d';"
+	"content: '\\f34c';":
+		prefix: "ion-social-foursquare-outline"
+		body: "content: '\\\\f34c';"
+	"content: '\\f2c4';":
+		prefix: "ion-social-freebsd-devil"
+		body: "content: '\\\\f2c4';"
+	"content: '\\f233';":
+		prefix: "ion-social-github"
+		body: "content: '\\\\f233';"
+	"content: '\\f232';":
+		prefix: "ion-social-github-outline"
+		body: "content: '\\\\f232';"
+	"content: '\\f34f';":
+		prefix: "ion-social-google"
+		body: "content: '\\\\f34f';"
+	"content: '\\f34e';":
+		prefix: "ion-social-google-outline"
+		body: "content: '\\\\f34e';"
+	"content: '\\f235';":
+		prefix: "ion-social-googleplus"
+		body: "content: '\\\\f235';"
+	"content: '\\f234';":
+		prefix: "ion-social-googleplus-outline"
+		body: "content: '\\\\f234';"
+	"content: '\\f237';":
+		prefix: "ion-social-hackernews"
+		body: "content: '\\\\f237';"
+	"content: '\\f236';":
+		prefix: "ion-social-hackernews-outline"
+		body: "content: '\\\\f236';"
+	"content: '\\f4e3';":
+		prefix: "ion-social-html5"
+		body: "content: '\\\\f4e3';"
+	"content: '\\f4e2';":
+		prefix: "ion-social-html5-outline"
+		body: "content: '\\\\f4e2';"
+	"content: '\\f351';":
+		prefix: "ion-social-instagram"
+		body: "content: '\\\\f351';"
+	"content: '\\f350';":
+		prefix: "ion-social-instagram-outline"
+		body: "content: '\\\\f350';"
+	"content: '\\f4e5';":
+		prefix: "ion-social-javascript"
+		body: "content: '\\\\f4e5';"
+	"content: '\\f4e4';":
+		prefix: "ion-social-javascript-outline"
+		body: "content: '\\\\f4e4';"
+	"content: '\\f239';":
+		prefix: "ion-social-linkedin"
+		body: "content: '\\\\f239';"
+	"content: '\\f238';":
+		prefix: "ion-social-linkedin-outline"
+		body: "content: '\\\\f238';"
+	"content: '\\f4e6';":
+		prefix: "ion-social-markdown"
+		body: "content: '\\\\f4e6';"
+	"content: '\\f4e7';":
+		prefix: "ion-social-nodejs"
+		body: "content: '\\\\f4e7';"
+	"content: '\\f4e8';":
+		prefix: "ion-social-octocat"
+		body: "content: '\\\\f4e8';"
+	"content: '\\f2b1';":
+		prefix: "ion-social-pinterest"
+		body: "content: '\\\\f2b1';"
+	"content: '\\f2b0';":
+		prefix: "ion-social-pinterest-outline"
+		body: "content: '\\\\f2b0';"
+	"content: '\\f4e9';":
+		prefix: "ion-social-python"
+		body: "content: '\\\\f4e9';"
+	"content: '\\f23b';":
+		prefix: "ion-social-reddit"
+		body: "content: '\\\\f23b';"
+	"content: '\\f23a';":
+		prefix: "ion-social-reddit-outline"
+		body: "content: '\\\\f23a';"
+	"content: '\\f23d';":
+		prefix: "ion-social-rss"
+		body: "content: '\\\\f23d';"
+	"content: '\\f23c';":
+		prefix: "ion-social-rss-outline"
+		body: "content: '\\\\f23c';"
+	"content: '\\f4ea';":
+		prefix: "ion-social-sass"
+		body: "content: '\\\\f4ea';"
+	"content: '\\f23f';":
+		prefix: "ion-social-skype"
+		body: "content: '\\\\f23f';"
+	"content: '\\f23e';":
+		prefix: "ion-social-skype-outline"
+		body: "content: '\\\\f23e';"
+	"content: '\\f4ec';":
+		prefix: "ion-social-snapchat"
+		body: "content: '\\\\f4ec';"
+	"content: '\\f4eb';":
+		prefix: "ion-social-snapchat-outline"
+		body: "content: '\\\\f4eb';"
+	"content: '\\f241';":
+		prefix: "ion-social-tumblr"
+		body: "content: '\\\\f241';"
+	"content: '\\f240';":
+		prefix: "ion-social-tumblr-outline"
+		body: "content: '\\\\f240';"
+	"content: '\\f2c5';":
+		prefix: "ion-social-tux"
+		body: "content: '\\\\f2c5';"
+	"content: '\\f4ee';":
+		prefix: "ion-social-twitch"
+		body: "content: '\\\\f4ee';"
+	"content: '\\f4ed';":
+		prefix: "ion-social-twitch-outline"
+		body: "content: '\\\\f4ed';"
+	"content: '\\f243';":
+		prefix: "ion-social-twitter"
+		body: "content: '\\\\f243';"
+	"content: '\\f242';":
+		prefix: "ion-social-twitter-outline"
+		body: "content: '\\\\f242';"
+	"content: '\\f353';":
+		prefix: "ion-social-usd"
+		body: "content: '\\\\f353';"
+	"content: '\\f352';":
+		prefix: "ion-social-usd-outline"
+		body: "content: '\\\\f352';"
+	"content: '\\f245';":
+		prefix: "ion-social-vimeo"
+		body: "content: '\\\\f245';"
+	"content: '\\f244';":
+		prefix: "ion-social-vimeo-outline"
+		body: "content: '\\\\f244';"
+	"content: '\\f4f0';":
+		prefix: "ion-social-whatsapp"
+		body: "content: '\\\\f4f0';"
+	"content: '\\f4ef';":
+		prefix: "ion-social-whatsapp-outline"
+		body: "content: '\\\\f4ef';"
+	"content: '\\f247';":
+		prefix: "ion-social-windows"
+		body: "content: '\\\\f247';"
+	"content: '\\f246';":
+		prefix: "ion-social-windows-outline"
+		body: "content: '\\\\f246';"
+	"content: '\\f249';":
+		prefix: "ion-social-wordpress"
+		body: "content: '\\\\f249';"
+	"content: '\\f248';":
+		prefix: "ion-social-wordpress-outline"
+		body: "content: '\\\\f248';"
+	"content: '\\f24b';":
+		prefix: "ion-social-yahoo"
+		body: "content: '\\\\f24b';"
+	"content: '\\f24a';":
+		prefix: "ion-social-yahoo-outline"
+		body: "content: '\\\\f24a';"
+	"content: '\\f4f2';":
+		prefix: "ion-social-yen"
+		body: "content: '\\\\f4f2';"
+	"content: '\\f4f1';":
+		prefix: "ion-social-yen-outline"
+		body: "content: '\\\\f4f1';"
+	"content: '\\f24d';":
+		prefix: "ion-social-youtube"
+		body: "content: '\\\\f24d';"
+	"content: '\\f24c';":
+		prefix: "ion-social-youtube-outline"
+		body: "content: '\\\\f24c';"
+	"content: '\\f4f4';":
+		prefix: "ion-soup-can"
+		body: "content: '\\\\f4f4';"
+	"content: '\\f4f3';":
+		prefix: "ion-soup-can-outline"
+		body: "content: '\\\\f4f3';"
+	"content: '\\f2b2';":
+		prefix: "ion-speakerphone"
+		body: "content: '\\\\f2b2';"
+	"content: '\\f2b3';":
+		prefix: "ion-speedometer"
+		body: "content: '\\\\f2b3';"
+	"content: '\\f2b4';":
+		prefix: "ion-spoon"
+		body: "content: '\\\\f2b4';"
+	"content: '\\f24e';":
+		prefix: "ion-star"
+		body: "content: '\\\\f24e';"
+	"content: '\\f2b5';":
+		prefix: "ion-stats-bars"
+		body: "content: '\\\\f2b5';"
+	"content: '\\f30b';":
+		prefix: "ion-steam"
+		body: "content: '\\\\f30b';"
+	"content: '\\f24f';":
+		prefix: "ion-stop"
+		body: "content: '\\\\f24f';"
+	"content: '\\f2b6';":
+		prefix: "ion-thermometer"
+		body: "content: '\\\\f2b6';"
+	"content: '\\f250';":
+		prefix: "ion-thumbsdown"
+		body: "content: '\\\\f250';"
+	"content: '\\f251';":
+		prefix: "ion-thumbsup"
+		body: "content: '\\\\f251';"
+	"content: '\\f355';":
+		prefix: "ion-toggle"
+		body: "content: '\\\\f355';"
+	"content: '\\f354';":
+		prefix: "ion-toggle-filled"
+		body: "content: '\\\\f354';"
+	"content: '\\f4f5';":
+		prefix: "ion-transgender"
+		body: "content: '\\\\f4f5';"
+	"content: '\\f252';":
+		prefix: "ion-trash-a"
+		body: "content: '\\\\f252';"
+	"content: '\\f253';":
+		prefix: "ion-trash-b"
+		body: "content: '\\\\f253';"
+	"content: '\\f356';":
+		prefix: "ion-trophy"
+		body: "content: '\\\\f356';"
+	"content: '\\f4f7';":
+		prefix: "ion-tshirt"
+		body: "content: '\\\\f4f7';"
+	"content: '\\f4f6';":
+		prefix: "ion-tshirt-outline"
+		body: "content: '\\\\f4f6';"
+	"content: '\\f2b7';":
+		prefix: "ion-umbrella"
+		body: "content: '\\\\f2b7';"
+	"content: '\\f357';":
+		prefix: "ion-university"
+		body: "content: '\\\\f357';"
+	"content: '\\f254';":
+		prefix: "ion-unlocked"
+		body: "content: '\\\\f254';"
+	"content: '\\f255';":
+		prefix: "ion-upload"
+		body: "content: '\\\\f255';"
+	"content: '\\f2b8';":
+		prefix: "ion-usb"
+		body: "content: '\\\\f2b8';"
+	"content: '\\f256';":
+		prefix: "ion-videocamera"
+		body: "content: '\\\\f256';"
+	"content: '\\f257';":
+		prefix: "ion-volume-high"
+		body: "content: '\\\\f257';"
+	"content: '\\f258';":
+		prefix: "ion-volume-low"
+		body: "content: '\\\\f258';"
+	"content: '\\f259';":
+		prefix: "ion-volume-medium"
+		body: "content: '\\\\f259';"
+	"content: '\\f25a';":
+		prefix: "ion-volume-mute"
+		body: "content: '\\\\f25a';"
+	"content: '\\f358';":
+		prefix: "ion-wand"
+		body: "content: '\\\\f358';"
+	"content: '\\f25b';":
+		prefix: "ion-waterdrop"
+		body: "content: '\\\\f25b';"
+	"content: '\\f25c';":
+		prefix: "ion-wifi"
+		body: "content: '\\\\f25c';"
+	"content: '\\f2b9';":
+		prefix: "ion-wineglass"
+		body: "content: '\\\\f2b9';"
+	"content: '\\f25d';":
+		prefix: "ion-woman"
+		body: "content: '\\\\f25d';"
+	"content: '\\f2ba';":
+		prefix: "ion-wrench"
+		body: "content: '\\\\f2ba';"
+	"content: '\\f30c';":
+		prefix: "ion-xbox"
+		body: "content: '\\\\f30c';"

@@ -1,0 +1,124 @@
+".source.css,.source.sass":
+	"content: '\\0038';":
+		prefix: "cc-blank"
+		body: "content: '\\\\0038';"
+	"content: '\\0062';":
+		prefix: "cc-by"
+		body: "content: '\\\\0062';"
+	"content: '\\004E';":
+		prefix: "cc-by-nc"
+		body: "content: '\\\\004E';"
+	"content: '\\0045';":
+		prefix: "cc-by-nc-eu"
+		body: "content: '\\\\0045';"
+	"content: '\\004A';":
+		prefix: "cc-by-nc-jp"
+		body: "content: '\\\\004A';"
+	"content: '\\0052';":
+		prefix: "cc-by-nc-nd"
+		body: "content: '\\\\0052';"
+	"content: '\\0046';":
+		prefix: "cc-by-nc-nd-eu"
+		body: "content: '\\\\0046';"
+	"content: '\\004B';":
+		prefix: "cc-by-nc-nd-jp"
+		body: "content: '\\\\004B';"
+	"content: '\\0036';":
+		prefix: "cc-by-nc-sa"
+		body: "content: '\\\\0036';"
+	"content: '\\0047';":
+		prefix: "cc-by-nc-sa-eu"
+		body: "content: '\\\\0047';"
+	"content: '\\004C';":
+		prefix: "cc-by-nc-sa-jp"
+		body: "content: '\\\\004C';"
+	"content: '\\0044';":
+		prefix: "cc-by-nd"
+		body: "content: '\\\\0044';"
+	"content: '\\0053';":
+		prefix: "cc-by-sa"
+		body: "content: '\\\\0053';"
+	"content: '\\0034';":
+		prefix: "cc-by-sa-nd"
+		body: "content: '\\\\0034';"
+	"content: '\\0063';":
+		prefix: "cc-cc"
+		body: "content: '\\\\0063';"
+	"content: '\\0038';":
+		prefix: "cc-eight"
+		body: "content: '\\\\0038';"
+	"content: '\\0035';":
+		prefix: "cc-five"
+		body: "content: '\\\\0035';"
+	"content: '\\0034';":
+		prefix: "cc-four"
+		body: "content: '\\\\0034';"
+	"content: '\\0043';":
+		prefix: "cc-logo"
+		body: "content: '\\\\0043';"
+	"content: '\\006E';":
+		prefix: "cc-nc"
+		body: "content: '\\\\006E';"
+	"content: '\\0065';":
+		prefix: "cc-nc-eu"
+		body: "content: '\\\\0065';"
+	"content: '\\006A';":
+		prefix: "cc-nc-jp"
+		body: "content: '\\\\006A';"
+	"content: '\\0064';":
+		prefix: "cc-nd"
+		body: "content: '\\\\0064';"
+	"content: '\\0039';":
+		prefix: "cc-nine"
+		body: "content: '\\\\0039';"
+	"content: '\\0031';":
+		prefix: "cc-one"
+		body: "content: '\\\\0031';"
+	"content: '\\0070';":
+		prefix: "cc-pd"
+		body: "content: '\\\\0070';"
+	"content: '\\0071';":
+		prefix: "cc-pd-alt"
+		body: "content: '\\\\0071';"
+	"content: '\\0039';":
+		prefix: "cc-public"
+		body: "content: '\\\\0039';"
+	"content: '\\004F';":
+		prefix: "cc-publicdomain"
+		body: "content: '\\\\004F';"
+	"content: '\\0072';":
+		prefix: "cc-remix"
+		body: "content: '\\\\0072';"
+	"content: '\\0061';":
+		prefix: "cc-sa"
+		body: "content: '\\\\0061';"
+	"content: '\\006D';":
+		prefix: "cc-sampling"
+		body: "content: '\\\\006D';"
+	"content: '\\0037';":
+		prefix: "cc-seven"
+		body: "content: '\\\\0037';"
+	"content: '\\0073';":
+		prefix: "cc-share"
+		body: "content: '\\\\0073';"
+	"content: '\\0036';":
+		prefix: "cc-six"
+		body: "content: '\\\\0036';"
+	"content: '\\0032';":
+		prefix: "cc-small-by"
+		body: "content: '\\\\0032';"
+	"content: '\\0031';":
+		prefix: "cc-srr"
+		body: "content: '\\\\0031';"
+	"content: '\\0033';":
+		prefix: "cc-three"
+		body: "content: '\\\\0033';"
+	"content: '\\0032';":
+		prefix: "cc-two"
+		body: "content: '\\\\0032';"
+	"content: '\\0030';":
+		prefix: "cc-zero"
+		body: "content: '\\\\0030';"
+	"content: '\\0030';":
+		prefix: "cc-zero-public"
+		body: "content: '\\\\0030';"
