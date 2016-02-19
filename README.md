@@ -42,7 +42,6 @@ Prefix         | Icon Font                           | Version | cdnjs | jsDeliv
 `glyphicon`    | [Bootstrap Glyphicons][glyphicon]   | 3.3.6   | 🚫    | 🚫
 `icono`        | [Icono][icono]                      | 1.3.0   | ✅    | 🚫
 `ion`          | [Ionicons][ion]                     | 2.0.1   | 🚫    | 🚫
-`line`         | [Elegant Theme Line Icons][line]    | –       | 🚫    | 🚫
 `mfg`          | [MFG Labs Iconset][mfg]             | –       | 🚫    | 🚫
 `octicon`      | [GitHub Octicons][octicon]          | 3.5.0   | 🚫    | 🚫
 `oi`           | [Open Iconic][oi]                   | 1.1.0   | 🚫    | ✅
@@ -54,6 +53,8 @@ Prefix         | Icon Font                           | Version | cdnjs | jsDeliv
 `ui`           | [Semantic UI Icons][ui]             | 2.0.7   | ✅    | ✅
 `wi`           | [Weather Icons][wi]                 | 2.0.10  | ✅    | 🚫
 `zmdi`         | [Material Design Iconic Font][zmdi] | 2.2.0   | ✅    | 🚫
+
+Several previously supported fonts have been removed and are now available in a [separate package](https://github.com/idleberg/atom-icon-fonts-legacy).
 
 Examples:
 
