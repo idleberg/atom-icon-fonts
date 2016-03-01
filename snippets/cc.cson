@@ -1,4 +1,4 @@
-".text.html":
+".source.js, .text.html":
 	"cc-by":
 		prefix: "cc-by"
 		body: "<${1:i} class=\"cc cc-by$2\"></${1:i}>"

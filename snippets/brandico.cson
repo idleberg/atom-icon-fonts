@@ -1,4 +1,4 @@
-".text.html":
+".source.js, .text.html":
 	"brandico-amex":
 		prefix: "brandico-amex"
 		body: "<${1:i} class=\"icon-amex$2\"></${1:i}>"

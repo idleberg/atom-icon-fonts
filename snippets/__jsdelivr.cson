@@ -1,4 +1,4 @@
-".text.html":
+".source.js, .text.html":
 	"jsdelivr-cc":
 		prefix: "jsdelivr-cc"
 		body: "<link href=\"https://cdn.jsdelivr.net/cc-icons/${1:1.2.1}/css/cc-icons${2:.min}.css\" rel=\"stylesheet\">"

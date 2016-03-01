@@ -1,4 +1,4 @@
-".text.html":
+".source.js, .text.html":
 	"geomicon-bookmark":
 		prefix: "geomicon-bookmark"
 		body: "<${1:span} class=\"js-geomicon\" data-icon=\"bookmark\"></${1:span}>"

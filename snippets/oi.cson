@@ -1,4 +1,4 @@
-".text.html":
+".source.js, .text.html":
 	"oi-account-login":
 		prefix: "oi-account-login"
 		body: "<${1:span} class=\"oi\" data-glyph=\"account-login\" title=\"account-login\" aria-hidden=\"true$2\"></${1:span}>"

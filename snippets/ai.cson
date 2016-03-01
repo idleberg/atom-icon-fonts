@@ -1,4 +1,4 @@
-".text.html":
+".source.js, .text.html":
 	"ai-achievement":
 		prefix: "ai-achievement"
 		body: "<${1:span} class=\"ai-achievement$2\"></${1:span}>"

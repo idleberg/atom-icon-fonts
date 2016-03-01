@@ -1,4 +1,4 @@
-".text.html":
+".source.js, .text.html":
 	"wi-alien":
 		prefix: "wi-alien"
 		body: "<${1:i} class=\"wi wi-alien$2\"></${1:i}>"

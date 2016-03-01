@@ -1,4 +1,4 @@
-".text.html":
+".source.js, .text.html":
 	"ui-search-icon":
 		prefix: "ui-search-icon"
 		body: "<${1:i} class=\"search icon$2\"></${1:i}>"
