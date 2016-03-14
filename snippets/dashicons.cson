@@ -422,6 +422,9 @@
 	"dashicons-info":
 		prefix: "dashicons-info"
 		body: "<${1:span} class=\"dashicons dashicons-info$2\"></${1:span}>"
+	"dashicons-laptop":
+		prefix: "dashicons-laptop"
+		body: "<${1:span} class=\"dashicons dashicons-laptop$2\"></${1:span}>"
 	"dashicons-layout":
 		prefix: "dashicons-layout"
 		body: "<${1:span} class=\"dashicons dashicons-layout$2\"></${1:span}>"
@@ -491,6 +494,9 @@
 	"dashicons-money":
 		prefix: "dashicons-money"
 		body: "<${1:span} class=\"dashicons dashicons-money$2\"></${1:span}>"
+	"dashicons-move":
+		prefix: "dashicons-move"
+		body: "<${1:span} class=\"dashicons dashicons-move$2\"></${1:span}>"
 	"dashicons-nametag":
 		prefix: "dashicons-nametag"
 		body: "<${1:span} class=\"dashicons dashicons-nametag$2\"></${1:span}>"
@@ -506,6 +512,9 @@
 	"dashicons-palmtree":
 		prefix: "dashicons-palmtree"
 		body: "<${1:span} class=\"dashicons dashicons-palmtree$2\"></${1:span}>"
+	"dashicons-paperclip":
+		prefix: "dashicons-paperclip"
+		body: "<${1:span} class=\"dashicons dashicons-paperclip$2\"></${1:span}>"
 	"dashicons-performance":
 		prefix: "dashicons-performance"
 		body: "<${1:span} class=\"dashicons dashicons-performance$2\"></${1:span}>"

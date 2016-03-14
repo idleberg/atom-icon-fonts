@@ -425,6 +425,9 @@
 	"content: '\\f348';":
 		prefix: "dashicons-info"
 		body: "content: '\\\\f348';"
+	"content: '\\f471';":
+		prefix: "dashicons-laptop"
+		body: "content: '\\\\f471';"
 	"content: '\\f538';":
 		prefix: "dashicons-layout"
 		body: "content: '\\\\f538';"
@@ -494,6 +497,9 @@
 	"content: '\\f526';":
 		prefix: "dashicons-money"
 		body: "content: '\\\\f526';"
+	"content: '\\f545';":
+		prefix: "dashicons-move"
+		body: "content: '\\\\f545';"
 	"content: '\\f484';":
 		prefix: "dashicons-nametag"
 		body: "content: '\\\\f484';"
@@ -509,6 +515,9 @@
 	"content: '\\f527';":
 		prefix: "dashicons-palmtree"
 		body: "content: '\\\\f527';"
+	"content: '\\f546';":
+		prefix: "dashicons-paperclip"
+		body: "content: '\\\\f546';"
 	"content: '\\f311';":
 		prefix: "dashicons-performance"
 		body: "content: '\\\\f311';"
