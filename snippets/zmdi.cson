@@ -1,4 +1,4 @@
-".source.js, .text.html":
+".text.html":
 	"zmdi-3d-rotation":
 		prefix: "zmdi-3d-rotation"
 		body: "<${1:i} class=\"zmdi zmdi-3d-rotation$2\"></${1:i}>"

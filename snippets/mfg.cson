@@ -1,4 +1,4 @@
-".source.js, .text.html":
+".text.html":
 	"mfg-anchor":
 		prefix: "mfg-anchor"
 		body: "<${1:i} class=\"icon-anchor$2\"></${1:i}>"

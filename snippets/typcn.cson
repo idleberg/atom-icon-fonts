@@ -1,4 +1,4 @@
-".source.js, .text.html":
+".text.html":
 	"typcn-adjust-brightness":
 		prefix: "typcn-adjust-brightness"
 		body: "<${1:span} class=\"typcn typcn-adjust-brightness$2\"></${1:span}>"

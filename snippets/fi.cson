@@ -1,4 +1,4 @@
-".source.js, .text.html":
+".text.html":
 	"fi-address-book":
 		prefix: "fi-address-book"
 		body: "<${1:i} class=\"fi-address-book$2\"></${1:i}>"

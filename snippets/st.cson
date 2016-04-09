@@ -1,4 +1,4 @@
-".source.js, .text.html":
+".text.html":
 	"st-icon-addthis":
 		prefix: "st-icon-addthis"
 		body: "<${1:span} class=\"st-icon-addthis$2\"></${1:span}>"

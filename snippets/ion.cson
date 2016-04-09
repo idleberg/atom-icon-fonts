@@ -1,4 +1,4 @@
-".source.js, .text.html":
+".text.html":
 	"ion-alert":
 		prefix: "ion-alert"
 		body: "<${i} class=\"ion-alert$2\"></${1:i}>"

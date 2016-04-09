@@ -1,4 +1,4 @@
-".source.js, .text.html":
+".text.html":
 	"icono-arrow":
 		prefix: "icono-arrow"
 		body: "<${1:i} class=\"icono-arrow\"></${1:i}>"

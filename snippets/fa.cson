@@ -1,4 +1,4 @@
-".source.js, .text.html":
+".text.html":
 	"fa-500px":
 		prefix: "fa-500px"
 		body: "<${1:i} class=\"fa fa-500px$2\"></${1:i}>"

@@ -1,4 +1,4 @@
-".source.js, .text.html":
+".text.html":
 	"octicon-alert":
 		prefix: "octicon-alert"
 		body: "<${1:span} class=\"octicon octicon-alert$2\"></${1:span}>"

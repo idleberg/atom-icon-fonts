@@ -1,4 +1,4 @@
-".source.js, .text.html":
+".text.html":
 	"pf-amazon":
 		prefix: "pf-amazon"
 		body: "<${1:span} class=\"pf pf-amazon$2\"></${1:span}>"

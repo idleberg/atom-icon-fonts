@@ -1,4 +1,4 @@
-".source.js, .text.html":
+".text.html":
 	"devicons-git":
 		prefix: "devicons-git"
 		body: "<${1:i} class=\"devicons devicons-git$2\"></${1:i}>"

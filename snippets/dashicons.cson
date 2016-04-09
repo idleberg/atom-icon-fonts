@@ -1,4 +1,4 @@
-".source.js, .text.html":
+".text.html":
 	"dashicons-admin-appearance":
 		prefix: "dashicons-admin-appearance"
 		body: "<${1:span} class=\"dashicons dashicons-admin-appearance$2\"></${1:span}>"

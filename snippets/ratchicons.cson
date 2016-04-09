@@ -1,4 +1,4 @@
-".source.js, .text.html":
+".text.html":
 	"ratchicon-back":
 		prefix: "ratchicon-back"
 		body: "<${1:span} class=\"icon icon-back$2\"></${1:span}>"
