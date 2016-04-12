@@ -27,8 +27,8 @@
 		prefix: "fa-ambulance"
 		body: "content: '\\\\f0f9';"
 	"content: '\\f2a3';":
-    prefix: "american-sign-language-interpreting"
-    body: "content: '\\\\f2a3';"
+	    prefix: "fa-american-sign-language-interpreting"
+	    body: "content: '\\\\f2a3';"
 	"content: '\\f13d';":
 		prefix: "fa-anchor"
 		body: "content: '\\\\f13d';"
@@ -120,11 +120,11 @@
 		prefix: "fa-arrows-v"
 		body: "content: '\\\\f07d';"
 	"content: '\\f2a3';":
-    prefix: "asl-interpreting"
-    body: "content: '\\\\f2a3';"
+	    prefix: "fa-asl-interpreting"
+	    body: "content: '\\\\f2a3';"
 	"content: '\\f2a2';":
-    prefix: "assistive-listening-systems"
-    body: "content: '\\\\f2a2';"
+	    prefix: "fa-assistive-listening-systems"
+	    body: "content: '\\\\f2a2';"
 	"content: '\\f069';":
 		prefix: "fa-asterisk"
 		body: "content: '\\\\f069';"
@@ -132,8 +132,8 @@
 		prefix: "fa-at"
 		body: "content: '\\\\f1fa';"
 	"content: '\\f29e';":
-    prefix: "audio-description"
-    body: "content: '\\\\f29e';"
+	    prefix: "fa-audio-description"
+	    body: "content: '\\\\f29e';"
 	"content: '\\f1b9';":
 		prefix: "fa-automobile"
 		body: "content: '\\\\f1b9';"
