@@ -1,724 +1,724 @@
 ".source.css,.source.sass":
-	"content: '\\f100';":
+	"dashicons-admin-appearance":
 		prefix: "dashicons-admin-appearance"
-		body: "content: '\\\\f100';"
-	"content: '\\f148';":
+		body: "content: '\\f100';"
+	"dashicons-admin-collapse":
 		prefix: "dashicons-admin-collapse"
-		body: "content: '\\\\f148';"
-	"content: '\\f101';":
+		body: "content: '\\f148';"
+	"dashicons-admin-comments":
 		prefix: "dashicons-admin-comments"
-		body: "content: '\\\\f101';"
-	"content: '\\f540';":
+		body: "content: '\\f101';"
+	"dashicons-admin-customizer":
 		prefix: "dashicons-admin-customizer"
-		body: "content: '\\\\f540';"
-	"content: '\\f111';":
+		body: "content: '\\f540';"
+	"dashicons-admin-generic":
 		prefix: "dashicons-admin-generic"
-		body: "content: '\\\\f111';"
-	"content: '\\f102';":
+		body: "content: '\\f111';"
+	"dashicons-admin-home":
 		prefix: "dashicons-admin-home"
-		body: "content: '\\\\f102';"
-	"content: '\\f103';":
+		body: "content: '\\f102';"
+	"dashicons-admin-links":
 		prefix: "dashicons-admin-links"
-		body: "content: '\\\\f103';"
-	"content: '\\f104';":
+		body: "content: '\\f103';"
+	"dashicons-admin-media":
 		prefix: "dashicons-admin-media"
-		body: "content: '\\\\f104';"
-	"content: '\\f541';":
+		body: "content: '\\f104';"
+	"dashicons-admin-multisite":
 		prefix: "dashicons-admin-multisite"
-		body: "content: '\\\\f541';"
-	"content: '\\f112';":
+		body: "content: '\\f541';"
+	"dashicons-admin-network":
 		prefix: "dashicons-admin-network"
-		body: "content: '\\\\f112';"
-	"content: '\\f105';":
+		body: "content: '\\f112';"
+	"dashicons-admin-page":
 		prefix: "dashicons-admin-page"
-		body: "content: '\\\\f105';"
-	"content: '\\f106';":
+		body: "content: '\\f105';"
+	"dashicons-admin-plugins":
 		prefix: "dashicons-admin-plugins"
-		body: "content: '\\\\f106';"
-	"content: '\\f109';":
+		body: "content: '\\f106';"
+	"dashicons-admin-post":
 		prefix: "dashicons-admin-post"
-		body: "content: '\\\\f109';"
-	"content: '\\f108';":
+		body: "content: '\\f109';"
+	"dashicons-admin-settings":
 		prefix: "dashicons-admin-settings"
-		body: "content: '\\\\f108';"
-	"content: '\\f319';":
+		body: "content: '\\f108';"
+	"dashicons-admin-site":
 		prefix: "dashicons-admin-site"
-		body: "content: '\\\\f319';"
-	"content: '\\f107';":
+		body: "content: '\\f319';"
+	"dashicons-admin-tools":
 		prefix: "dashicons-admin-tools"
-		body: "content: '\\\\f107';"
-	"content: '\\f110';":
+		body: "content: '\\f107';"
+	"dashicons-admin-users":
 		prefix: "dashicons-admin-users"
-		body: "content: '\\\\f110';"
-	"content: '\\f514';":
+		body: "content: '\\f110';"
+	"dashicons-album":
 		prefix: "dashicons-album"
-		body: "content: '\\\\f514';"
-	"content: '\\f134';":
+		body: "content: '\\f514';"
+	"dashicons-align-center":
 		prefix: "dashicons-align-center"
-		body: "content: '\\\\f134';"
-	"content: '\\f135';":
+		body: "content: '\\f134';"
+	"dashicons-align-left":
 		prefix: "dashicons-align-left"
-		body: "content: '\\\\f135';"
-	"content: '\\f138';":
+		body: "content: '\\f135';"
+	"dashicons-align-none":
 		prefix: "dashicons-align-none"
-		body: "content: '\\\\f138';"
-	"content: '\\f136';":
+		body: "content: '\\f138';"
+	"dashicons-align-right":
 		prefix: "dashicons-align-right"
-		body: "content: '\\\\f136';"
-	"content: '\\f183';":
+		body: "content: '\\f136';"
+	"dashicons-analytics":
 		prefix: "dashicons-analytics"
-		body: "content: '\\\\f183';"
-	"content: '\\f480';":
+		body: "content: '\\f183';"
+	"dashicons-archive":
 		prefix: "dashicons-archive"
-		body: "content: '\\\\f480';"
-	"content: '\\f140';":
+		body: "content: '\\f480';"
+	"dashicons-arrow-down":
 		prefix: "dashicons-arrow-down"
-		body: "content: '\\\\f140';"
-	"content: '\\f346';":
+		body: "content: '\\f140';"
+	"dashicons-arrow-down-alt":
 		prefix: "dashicons-arrow-down-alt"
-		body: "content: '\\\\f346';"
-	"content: '\\f347';":
+		body: "content: '\\f346';"
+	"dashicons-arrow-down-alt2":
 		prefix: "dashicons-arrow-down-alt2"
-		body: "content: '\\\\f347';"
-	"content: '\\f141';":
+		body: "content: '\\f347';"
+	"dashicons-arrow-left":
 		prefix: "dashicons-arrow-left"
-		body: "content: '\\\\f141';"
-	"content: '\\f340';":
+		body: "content: '\\f141';"
+	"dashicons-arrow-left-alt":
 		prefix: "dashicons-arrow-left-alt"
-		body: "content: '\\\\f340';"
-	"content: '\\f341';":
+		body: "content: '\\f340';"
+	"dashicons-arrow-left-alt2":
 		prefix: "dashicons-arrow-left-alt2"
-		body: "content: '\\\\f341';"
-	"content: '\\f139';":
+		body: "content: '\\f341';"
+	"dashicons-arrow-right":
 		prefix: "dashicons-arrow-right"
-		body: "content: '\\\\f139';"
-	"content: '\\f344';":
+		body: "content: '\\f139';"
+	"dashicons-arrow-right-alt":
 		prefix: "dashicons-arrow-right-alt"
-		body: "content: '\\\\f344';"
-	"content: '\\f345';":
+		body: "content: '\\f344';"
+	"dashicons-arrow-right-alt2":
 		prefix: "dashicons-arrow-right-alt2"
-		body: "content: '\\\\f345';"
-	"content: '\\f142';":
+		body: "content: '\\f345';"
+	"dashicons-arrow-up":
 		prefix: "dashicons-arrow-up"
-		body: "content: '\\\\f142';"
-	"content: '\\f342';":
+		body: "content: '\\f142';"
+	"dashicons-arrow-up-alt":
 		prefix: "dashicons-arrow-up-alt"
-		body: "content: '\\\\f342';"
-	"content: '\\f343';":
+		body: "content: '\\f342';"
+	"dashicons-arrow-up-alt2":
 		prefix: "dashicons-arrow-up-alt2"
-		body: "content: '\\\\f343';"
-	"content: '\\f309';":
+		body: "content: '\\f343';"
+	"dashicons-art":
 		prefix: "dashicons-art"
-		body: "content: '\\\\f309';"
-	"content: '\\f313';":
+		body: "content: '\\f309';"
+	"dashicons-awards":
 		prefix: "dashicons-awards"
-		body: "content: '\\\\f313';"
-	"content: '\\f321';":
+		body: "content: '\\f313';"
+	"dashicons-backup":
 		prefix: "dashicons-backup"
-		body: "content: '\\\\f321';"
-	"content: '\\f330';":
+		body: "content: '\\f321';"
+	"dashicons-book":
 		prefix: "dashicons-book"
-		body: "content: '\\\\f330';"
-	"content: '\\f331';":
+		body: "content: '\\f330';"
+	"dashicons-book-alt":
 		prefix: "dashicons-book-alt"
-		body: "content: '\\\\f331';"
-	"content: '\\f512';":
+		body: "content: '\\f331';"
+	"dashicons-building":
 		prefix: "dashicons-building"
-		body: "content: '\\\\f512';"
-	"content: '\\f338';":
+		body: "content: '\\f512';"
+	"dashicons-businessman":
 		prefix: "dashicons-businessman"
-		body: "content: '\\\\f338';"
-	"content: '\\f145';":
+		body: "content: '\\f338';"
+	"dashicons-calendar":
 		prefix: "dashicons-calendar"
-		body: "content: '\\\\f145';"
-	"content: '\\f508';":
+		body: "content: '\\f145';"
+	"dashicons-calendar-alt":
 		prefix: "dashicons-calendar-alt"
-		body: "content: '\\\\f508';"
-	"content: '\\f306';":
+		body: "content: '\\f508';"
+	"dashicons-camera":
 		prefix: "dashicons-camera"
-		body: "content: '\\\\f306';"
-	"content: '\\f511';":
+		body: "content: '\\f306';"
+	"dashicons-carrot":
 		prefix: "dashicons-carrot"
-		body: "content: '\\\\f511';"
-	"content: '\\f174';":
+		body: "content: '\\f511';"
+	"dashicons-cart":
 		prefix: "dashicons-cart"
-		body: "content: '\\\\f174';"
-	"content: '\\f318';":
+		body: "content: '\\f174';"
+	"dashicons-category":
 		prefix: "dashicons-category"
-		body: "content: '\\\\f318';"
-	"content: '\\f239';":
+		body: "content: '\\f318';"
+	"dashicons-chart-area":
 		prefix: "dashicons-chart-area"
-		body: "content: '\\\\f239';"
-	"content: '\\f185';":
+		body: "content: '\\f239';"
+	"dashicons-chart-bar":
 		prefix: "dashicons-chart-bar"
-		body: "content: '\\\\f185';"
-	"content: '\\f238';":
+		body: "content: '\\f185';"
+	"dashicons-chart-line":
 		prefix: "dashicons-chart-line"
-		body: "content: '\\\\f238';"
-	"content: '\\f184';":
+		body: "content: '\\f238';"
+	"dashicons-chart-pie":
 		prefix: "dashicons-chart-pie"
-		body: "content: '\\\\f184';"
-	"content: '\\f481';":
+		body: "content: '\\f184';"
+	"dashicons-clipboard":
 		prefix: "dashicons-clipboard"
-		body: "content: '\\\\f481';"
-	"content: '\\f469';":
+		body: "content: '\\f481';"
+	"dashicons-clock":
 		prefix: "dashicons-clock"
-		body: "content: '\\\\f469';"
-	"content: '\\f176';":
+		body: "content: '\\f469';"
+	"dashicons-cloud":
 		prefix: "dashicons-cloud"
-		body: "content: '\\\\f176';"
-	"content: '\\f518';":
+		body: "content: '\\f176';"
+	"dashicons-controls-back":
 		prefix: "dashicons-controls-back"
-		body: "content: '\\\\f518';"
-	"content: '\\f519';":
+		body: "content: '\\f518';"
+	"dashicons-controls-forward":
 		prefix: "dashicons-controls-forward"
-		body: "content: '\\\\f519';"
-	"content: '\\f523';":
+		body: "content: '\\f519';"
+	"dashicons-controls-pause":
 		prefix: "dashicons-controls-pause"
-		body: "content: '\\\\f523';"
-	"content: '\\f522';":
+		body: "content: '\\f523';"
+	"dashicons-controls-play":
 		prefix: "dashicons-controls-play"
-		body: "content: '\\\\f522';"
-	"content: '\\f515';":
+		body: "content: '\\f522';"
+	"dashicons-controls-repeat":
 		prefix: "dashicons-controls-repeat"
-		body: "content: '\\\\f515';"
-	"content: '\\f516';":
+		body: "content: '\\f515';"
+	"dashicons-controls-skipback":
 		prefix: "dashicons-controls-skipback"
-		body: "content: '\\\\f516';"
-	"content: '\\f517';":
+		body: "content: '\\f516';"
+	"dashicons-controls-skipforward":
 		prefix: "dashicons-controls-skipforward"
-		body: "content: '\\\\f517';"
-	"content: '\\f520';":
+		body: "content: '\\f517';"
+	"dashicons-controls-volumeoff":
 		prefix: "dashicons-controls-volumeoff"
-		body: "content: '\\\\f520';"
-	"content: '\\f521';":
+		body: "content: '\\f520';"
+	"dashicons-controls-volumeon":
 		prefix: "dashicons-controls-volumeon"
-		body: "content: '\\\\f521';"
-	"content: '\\f226';":
+		body: "content: '\\f521';"
+	"dashicons-dashboard":
 		prefix: "dashicons-dashboard"
-		body: "content: '\\\\f226';"
-	"content: '\\f472';":
+		body: "content: '\\f226';"
+	"dashicons-desktop":
 		prefix: "dashicons-desktop"
-		body: "content: '\\\\f472';"
-	"content: '\\f153';":
+		body: "content: '\\f472';"
+	"dashicons-dismiss":
 		prefix: "dashicons-dismiss"
-		body: "content: '\\\\f153';"
-	"content: '\\f316';":
+		body: "content: '\\f153';"
+	"dashicons-download":
 		prefix: "dashicons-download"
-		body: "content: '\\\\f316';"
-	"content: '\\f464';":
+		body: "content: '\\f316';"
+	"dashicons-edit":
 		prefix: "dashicons-edit"
-		body: "content: '\\\\f464';"
-	"content: '\\f207';":
+		body: "content: '\\f464';"
+	"dashicons-editor-aligncenter":
 		prefix: "dashicons-editor-aligncenter"
-		body: "content: '\\\\f207';"
-	"content: '\\f206';":
+		body: "content: '\\f207';"
+	"dashicons-editor-alignleft":
 		prefix: "dashicons-editor-alignleft"
-		body: "content: '\\\\f206';"
-	"content: '\\f208';":
+		body: "content: '\\f206';"
+	"dashicons-editor-alignright":
 		prefix: "dashicons-editor-alignright"
-		body: "content: '\\\\f208';"
-	"content: '\\f200';":
+		body: "content: '\\f208';"
+	"dashicons-editor-bold":
 		prefix: "dashicons-editor-bold"
-		body: "content: '\\\\f200';"
-	"content: '\\f474';":
+		body: "content: '\\f200';"
+	"dashicons-editor-break":
 		prefix: "dashicons-editor-break"
-		body: "content: '\\\\f474';"
-	"content: '\\f475';":
+		body: "content: '\\f474';"
+	"dashicons-editor-code":
 		prefix: "dashicons-editor-code"
-		body: "content: '\\\\f475';"
-	"content: '\\f506';":
+		body: "content: '\\f475';"
+	"dashicons-editor-contract":
 		prefix: "dashicons-editor-contract"
-		body: "content: '\\\\f506';"
-	"content: '\\f220';":
+		body: "content: '\\f506';"
+	"dashicons-editor-customchar":
 		prefix: "dashicons-editor-customchar"
-		body: "content: '\\\\f220';"
-	"content: '\\f211';":
+		body: "content: '\\f220';"
+	"dashicons-editor-distractionfree":
 		prefix: "dashicons-editor-distractionfree"
-		body: "content: '\\\\f211';"
-	"content: '\\f211';":
+		body: "content: '\\f211';"
+	"dashicons-editor-expand":
 		prefix: "dashicons-editor-expand"
-		body: "content: '\\\\f211';"
-	"content: '\\f223';":
+		body: "content: '\\f211';"
+	"dashicons-editor-help":
 		prefix: "dashicons-editor-help"
-		body: "content: '\\\\f223';"
-	"content: '\\f222';":
+		body: "content: '\\f223';"
+	"dashicons-editor-indent":
 		prefix: "dashicons-editor-indent"
-		body: "content: '\\\\f222';"
-	"content: '\\f209';":
+		body: "content: '\\f222';"
+	"dashicons-editor-insertmore":
 		prefix: "dashicons-editor-insertmore"
-		body: "content: '\\\\f209';"
-	"content: '\\f201';":
+		body: "content: '\\f209';"
+	"dashicons-editor-italic":
 		prefix: "dashicons-editor-italic"
-		body: "content: '\\\\f201';"
-	"content: '\\f214';":
+		body: "content: '\\f201';"
+	"dashicons-editor-justify":
 		prefix: "dashicons-editor-justify"
-		body: "content: '\\\\f214';"
-	"content: '\\f212';":
+		body: "content: '\\f214';"
+	"dashicons-editor-kitchensink":
 		prefix: "dashicons-editor-kitchensink"
-		body: "content: '\\\\f212';"
-	"content: '\\f204';":
+		body: "content: '\\f212';"
+	"dashicons-editor-ol":
 		prefix: "dashicons-editor-ol"
-		body: "content: '\\\\f204';"
-	"content: '\\f221';":
+		body: "content: '\\f204';"
+	"dashicons-editor-outdent":
 		prefix: "dashicons-editor-outdent"
-		body: "content: '\\\\f221';"
-	"content: '\\f476';":
+		body: "content: '\\f221';"
+	"dashicons-editor-paragraph":
 		prefix: "dashicons-editor-paragraph"
-		body: "content: '\\\\f476';"
-	"content: '\\f217';":
+		body: "content: '\\f476';"
+	"dashicons-editor-paste-text":
 		prefix: "dashicons-editor-paste-text"
-		body: "content: '\\\\f217';"
-	"content: '\\f216';":
+		body: "content: '\\f217';"
+	"dashicons-editor-paste-word":
 		prefix: "dashicons-editor-paste-word"
-		body: "content: '\\\\f216';"
-	"content: '\\f205';":
+		body: "content: '\\f216';"
+	"dashicons-editor-quote":
 		prefix: "dashicons-editor-quote"
-		body: "content: '\\\\f205';"
-	"content: '\\f218';":
+		body: "content: '\\f205';"
+	"dashicons-editor-removeformatting":
 		prefix: "dashicons-editor-removeformatting"
-		body: "content: '\\\\f218';"
-	"content: '\\f320';":
+		body: "content: '\\f218';"
+	"dashicons-editor-rtl":
 		prefix: "dashicons-editor-rtl"
-		body: "content: '\\\\f320';"
-	"content: '\\f210';":
+		body: "content: '\\f320';"
+	"dashicons-editor-spellcheck":
 		prefix: "dashicons-editor-spellcheck"
-		body: "content: '\\\\f210';"
-	"content: '\\f224';":
+		body: "content: '\\f210';"
+	"dashicons-editor-strikethrough":
 		prefix: "dashicons-editor-strikethrough"
-		body: "content: '\\\\f224';"
-	"content: '\\f535';":
+		body: "content: '\\f224';"
+	"dashicons-editor-table":
 		prefix: "dashicons-editor-table"
-		body: "content: '\\\\f535';"
-	"content: '\\f215';":
+		body: "content: '\\f535';"
+	"dashicons-editor-textcolor":
 		prefix: "dashicons-editor-textcolor"
-		body: "content: '\\\\f215';"
-	"content: '\\f203';":
+		body: "content: '\\f215';"
+	"dashicons-editor-ul":
 		prefix: "dashicons-editor-ul"
-		body: "content: '\\\\f203';"
-	"content: '\\f213';":
+		body: "content: '\\f203';"
+	"dashicons-editor-underline":
 		prefix: "dashicons-editor-underline"
-		body: "content: '\\\\f213';"
-	"content: '\\f225';":
+		body: "content: '\\f213';"
+	"dashicons-editor-unlink":
 		prefix: "dashicons-editor-unlink"
-		body: "content: '\\\\f225';"
-	"content: '\\f219';":
+		body: "content: '\\f225';"
+	"dashicons-editor-video":
 		prefix: "dashicons-editor-video"
-		body: "content: '\\\\f219';"
-	"content: '\\f465';":
+		body: "content: '\\f219';"
+	"dashicons-email":
 		prefix: "dashicons-email"
-		body: "content: '\\\\f465';"
-	"content: '\\f466';":
+		body: "content: '\\f465';"
+	"dashicons-email-alt":
 		prefix: "dashicons-email-alt"
-		body: "content: '\\\\f466';"
-	"content: '\\f164';":
+		body: "content: '\\f466';"
+	"dashicons-excerpt-view":
 		prefix: "dashicons-excerpt-view"
-		body: "content: '\\\\f164';"
-	"content: '\\f164';":
+		body: "content: '\\f164';"
+	"dashicons-exerpt-view":
 		prefix: "dashicons-exerpt-view"
-		body: "content: '\\\\f164';"
-	"content: '\\f504';":
+		body: "content: '\\f164';"
+	"dashicons-external":
 		prefix: "dashicons-external"
-		body: "content: '\\\\f504';"
-	"content: '\\f304';":
+		body: "content: '\\f504';"
+	"dashicons-facebook":
 		prefix: "dashicons-facebook"
-		body: "content: '\\\\f304';"
-	"content: '\\f305';":
+		body: "content: '\\f304';"
+	"dashicons-facebook-alt":
 		prefix: "dashicons-facebook-alt"
-		body: "content: '\\\\f305';"
-	"content: '\\f175';":
+		body: "content: '\\f305';"
+	"dashicons-feedback":
 		prefix: "dashicons-feedback"
-		body: "content: '\\\\f175';"
-	"content: '\\f536';":
+		body: "content: '\\f175';"
+	"dashicons-filter":
 		prefix: "dashicons-filter"
-		body: "content: '\\\\f536';"
-	"content: '\\f227';":
+		body: "content: '\\f536';"
+	"dashicons-flag":
 		prefix: "dashicons-flag"
-		body: "content: '\\\\f227';"
-	"content: '\\f123';":
+		body: "content: '\\f227';"
+	"dashicons-format-aside":
 		prefix: "dashicons-format-aside"
-		body: "content: '\\\\f123';"
-	"content: '\\f127';":
+		body: "content: '\\f123';"
+	"dashicons-format-audio":
 		prefix: "dashicons-format-audio"
-		body: "content: '\\\\f127';"
-	"content: '\\f125';":
+		body: "content: '\\f127';"
+	"dashicons-format-chat":
 		prefix: "dashicons-format-chat"
-		body: "content: '\\\\f125';"
-	"content: '\\f161';":
+		body: "content: '\\f125';"
+	"dashicons-format-gallery":
 		prefix: "dashicons-format-gallery"
-		body: "content: '\\\\f161';"
-	"content: '\\f128';":
+		body: "content: '\\f161';"
+	"dashicons-format-image":
 		prefix: "dashicons-format-image"
-		body: "content: '\\\\f128';"
-	"content: '\\f103';":
+		body: "content: '\\f128';"
+	"dashicons-format-links":
 		prefix: "dashicons-format-links"
-		body: "content: '\\\\f103';"
-	"content: '\\f122';":
+		body: "content: '\\f103';"
+	"dashicons-format-quote":
 		prefix: "dashicons-format-quote"
-		body: "content: '\\\\f122';"
-	"content: '\\f109';":
+		body: "content: '\\f122';"
+	"dashicons-format-standard":
 		prefix: "dashicons-format-standard"
-		body: "content: '\\\\f109';"
-	"content: '\\f130';":
+		body: "content: '\\f109';"
+	"dashicons-format-status":
 		prefix: "dashicons-format-status"
-		body: "content: '\\\\f130';"
-	"content: '\\f126';":
+		body: "content: '\\f130';"
+	"dashicons-format-video":
 		prefix: "dashicons-format-video"
-		body: "content: '\\\\f126';"
-	"content: '\\f314';":
+		body: "content: '\\f126';"
+	"dashicons-forms":
 		prefix: "dashicons-forms"
-		body: "content: '\\\\f314';"
-	"content: '\\f462';":
+		body: "content: '\\f314';"
+	"dashicons-googleplus":
 		prefix: "dashicons-googleplus"
-		body: "content: '\\\\f462';"
-	"content: '\\f509';":
+		body: "content: '\\f462';"
+	"dashicons-grid-view":
 		prefix: "dashicons-grid-view"
-		body: "content: '\\\\f509';"
-	"content: '\\f307';":
+		body: "content: '\\f509';"
+	"dashicons-groups":
 		prefix: "dashicons-groups"
-		body: "content: '\\\\f307';"
-	"content: '\\f308';":
+		body: "content: '\\f307';"
+	"dashicons-hammer":
 		prefix: "dashicons-hammer"
-		body: "content: '\\\\f308';"
-	"content: '\\f487';":
+		body: "content: '\\f308';"
+	"dashicons-heart":
 		prefix: "dashicons-heart"
-		body: "content: '\\\\f487';"
-	"content: '\\f530';":
+		body: "content: '\\f487';"
+	"dashicons-hidden":
 		prefix: "dashicons-hidden"
-		body: "content: '\\\\f530';"
-	"content: '\\f336';":
+		body: "content: '\\f530';"
+	"dashicons-id":
 		prefix: "dashicons-id"
-		body: "content: '\\\\f336';"
-	"content: '\\f337';":
+		body: "content: '\\f336';"
+	"dashicons-id-alt":
 		prefix: "dashicons-id-alt"
-		body: "content: '\\\\f337';"
-	"content: '\\f165';":
+		body: "content: '\\f337';"
+	"dashicons-image-crop":
 		prefix: "dashicons-image-crop"
-		body: "content: '\\\\f165';"
-	"content: '\\f533';":
+		body: "content: '\\f165';"
+	"dashicons-image-filter":
 		prefix: "dashicons-image-filter"
-		body: "content: '\\\\f533';"
-	"content: '\\f169';":
+		body: "content: '\\f533';"
+	"dashicons-image-flip-horizontal":
 		prefix: "dashicons-image-flip-horizontal"
-		body: "content: '\\\\f169';"
-	"content: '\\f168';":
+		body: "content: '\\f169';"
+	"dashicons-image-flip-vertical":
 		prefix: "dashicons-image-flip-vertical"
-		body: "content: '\\\\f168';"
-	"content: '\\f531';":
+		body: "content: '\\f168';"
+	"dashicons-image-rotate":
 		prefix: "dashicons-image-rotate"
-		body: "content: '\\\\f531';"
-	"content: '\\f166';":
+		body: "content: '\\f531';"
+	"dashicons-image-rotate-left":
 		prefix: "dashicons-image-rotate-left"
-		body: "content: '\\\\f166';"
-	"content: '\\f167';":
+		body: "content: '\\f166';"
+	"dashicons-image-rotate-right":
 		prefix: "dashicons-image-rotate-right"
-		body: "content: '\\\\f167';"
-	"content: '\\f232';":
+		body: "content: '\\f167';"
+	"dashicons-images-alt":
 		prefix: "dashicons-images-alt"
-		body: "content: '\\\\f232';"
-	"content: '\\f233';":
+		body: "content: '\\f232';"
+	"dashicons-images-alt2":
 		prefix: "dashicons-images-alt2"
-		body: "content: '\\\\f233';"
-	"content: '\\f510';":
+		body: "content: '\\f233';"
+	"dashicons-index-card":
 		prefix: "dashicons-index-card"
-		body: "content: '\\\\f510';"
-	"content: '\\f348';":
+		body: "content: '\\f510';"
+	"dashicons-info":
 		prefix: "dashicons-info"
-		body: "content: '\\\\f348';"
-	"content: '\\f471';":
+		body: "content: '\\f348';"
+	"dashicons-laptop":
 		prefix: "dashicons-laptop"
-		body: "content: '\\\\f471';"
-	"content: '\\f538';":
+		body: "content: '\\f547';"
+	"dashicons-layout":
 		prefix: "dashicons-layout"
-		body: "content: '\\\\f538';"
-	"content: '\\f229';":
+		body: "content: '\\f538';"
+	"dashicons-leftright":
 		prefix: "dashicons-leftright"
-		body: "content: '\\\\f229';"
-	"content: '\\f339';":
+		body: "content: '\\f229';"
+	"dashicons-lightbulb":
 		prefix: "dashicons-lightbulb"
-		body: "content: '\\\\f339';"
-	"content: '\\f163';":
+		body: "content: '\\f339';"
+	"dashicons-list-view":
 		prefix: "dashicons-list-view"
-		body: "content: '\\\\f163';"
-	"content: '\\f230';":
+		body: "content: '\\f163';"
+	"dashicons-location":
 		prefix: "dashicons-location"
-		body: "content: '\\\\f230';"
-	"content: '\\f231';":
+		body: "content: '\\f230';"
+	"dashicons-location-alt":
 		prefix: "dashicons-location-alt"
-		body: "content: '\\\\f231';"
-	"content: '\\f160';":
+		body: "content: '\\f231';"
+	"dashicons-lock":
 		prefix: "dashicons-lock"
-		body: "content: '\\\\f160';"
-	"content: '\\f159';":
+		body: "content: '\\f160';"
+	"dashicons-marker":
 		prefix: "dashicons-marker"
-		body: "content: '\\\\f159';"
-	"content: '\\f501';":
+		body: "content: '\\f159';"
+	"dashicons-media-archive":
 		prefix: "dashicons-media-archive"
-		body: "content: '\\\\f501';"
-	"content: '\\f500';":
+		body: "content: '\\f501';"
+	"dashicons-media-audio":
 		prefix: "dashicons-media-audio"
-		body: "content: '\\\\f500';"
-	"content: '\\f499';":
+		body: "content: '\\f500';"
+	"dashicons-media-code":
 		prefix: "dashicons-media-code"
-		body: "content: '\\\\f499';"
-	"content: '\\f498';":
+		body: "content: '\\f499';"
+	"dashicons-media-default":
 		prefix: "dashicons-media-default"
-		body: "content: '\\\\f498';"
-	"content: '\\f497';":
+		body: "content: '\\f498';"
+	"dashicons-media-document":
 		prefix: "dashicons-media-document"
-		body: "content: '\\\\f497';"
-	"content: '\\f496';":
+		body: "content: '\\f497';"
+	"dashicons-media-interactive":
 		prefix: "dashicons-media-interactive"
-		body: "content: '\\\\f496';"
-	"content: '\\f495';":
+		body: "content: '\\f496';"
+	"dashicons-media-spreadsheet":
 		prefix: "dashicons-media-spreadsheet"
-		body: "content: '\\\\f495';"
-	"content: '\\f491';":
+		body: "content: '\\f495';"
+	"dashicons-media-text":
 		prefix: "dashicons-media-text"
-		body: "content: '\\\\f491';"
-	"content: '\\f490';":
+		body: "content: '\\f491';"
+	"dashicons-media-video":
 		prefix: "dashicons-media-video"
-		body: "content: '\\\\f490';"
-	"content: '\\f488';":
+		body: "content: '\\f490';"
+	"dashicons-megaphone":
 		prefix: "dashicons-megaphone"
-		body: "content: '\\\\f488';"
-	"content: '\\f333';":
+		body: "content: '\\f488';"
+	"dashicons-menu":
 		prefix: "dashicons-menu"
-		body: "content: '\\\\f333';"
-	"content: '\\f482';":
+		body: "content: '\\f333';"
+	"dashicons-microphone":
 		prefix: "dashicons-microphone"
-		body: "content: '\\\\f482';"
-	"content: '\\f310';":
+		body: "content: '\\f482';"
+	"dashicons-migrate":
 		prefix: "dashicons-migrate"
-		body: "content: '\\\\f310';"
-	"content: '\\f460';":
+		body: "content: '\\f310';"
+	"dashicons-minus":
 		prefix: "dashicons-minus"
-		body: "content: '\\\\f460';"
-	"content: '\\f526';":
+		body: "content: '\\f460';"
+	"dashicons-money":
 		prefix: "dashicons-money"
-		body: "content: '\\\\f526';"
-	"content: '\\f545';":
+		body: "content: '\\f526';"
+	"dashicons-move":
 		prefix: "dashicons-move"
-		body: "content: '\\\\f545';"
-	"content: '\\f484';":
+		body: "content: '\\f545';"
+	"dashicons-nametag":
 		prefix: "dashicons-nametag"
-		body: "content: '\\\\f484';"
-	"content: '\\f325';":
+		body: "content: '\\f484';"
+	"dashicons-networking":
 		prefix: "dashicons-networking"
-		body: "content: '\\\\f325';"
-	"content: '\\f158';":
+		body: "content: '\\f325';"
+	"dashicons-no":
 		prefix: "dashicons-no"
-		body: "content: '\\\\f158';"
-	"content: '\\f335';":
+		body: "content: '\\f158';"
+	"dashicons-no-alt":
 		prefix: "dashicons-no-alt"
-		body: "content: '\\\\f335';"
-	"content: '\\f527';":
+		body: "content: '\\f335';"
+	"dashicons-palmtree":
 		prefix: "dashicons-palmtree"
-		body: "content: '\\\\f527';"
-	"content: '\\f546';":
+		body: "content: '\\f527';"
+	"dashicons-paperclip":
 		prefix: "dashicons-paperclip"
-		body: "content: '\\\\f546';"
-	"content: '\\f311';":
+		body: "content: '\\f546';"
+	"dashicons-performance":
 		prefix: "dashicons-performance"
-		body: "content: '\\\\f311';"
-	"content: '\\f525';":
+		body: "content: '\\f311';"
+	"dashicons-phone":
 		prefix: "dashicons-phone"
-		body: "content: '\\\\f525';"
-	"content: '\\f492';":
+		body: "content: '\\f525';"
+	"dashicons-playlist-audio":
 		prefix: "dashicons-playlist-audio"
-		body: "content: '\\\\f492';"
-	"content: '\\f493';":
+		body: "content: '\\f492';"
+	"dashicons-playlist-video":
 		prefix: "dashicons-playlist-video"
-		body: "content: '\\\\f493';"
-	"content: '\\f132';":
+		body: "content: '\\f493';"
+	"dashicons-plus":
 		prefix: "dashicons-plus"
-		body: "content: '\\\\f132';"
-	"content: '\\f502';":
+		body: "content: '\\f132';"
+	"dashicons-plus-alt":
 		prefix: "dashicons-plus-alt"
-		body: "content: '\\\\f502';"
-	"content: '\\f543';":
+		body: "content: '\\f502';"
+	"dashicons-plus-alt2":
 		prefix: "dashicons-plus-alt2"
-		body: "content: '\\\\f543';"
-	"content: '\\f322';":
+		body: "content: '\\f543';"
+	"dashicons-portfolio":
 		prefix: "dashicons-portfolio"
-		body: "content: '\\\\f322';"
-	"content: '\\f173';":
+		body: "content: '\\f322';"
+	"dashicons-post-status":
 		prefix: "dashicons-post-status"
-		body: "content: '\\\\f173';"
-	"content: '\\f182';":
+		body: "content: '\\f173';"
+	"dashicons-post-trash":
 		prefix: "dashicons-post-trash"
-		body: "content: '\\\\f182';"
-	"content: '\\f157';":
+		body: "content: '\\f182';"
+	"dashicons-pressthis":
 		prefix: "dashicons-pressthis"
-		body: "content: '\\\\f157';"
-	"content: '\\f312';":
+		body: "content: '\\f157';"
+	"dashicons-products":
 		prefix: "dashicons-products"
-		body: "content: '\\\\f312';"
-	"content: '\\f503';":
+		body: "content: '\\f312';"
+	"dashicons-randomize":
 		prefix: "dashicons-randomize"
-		body: "content: '\\\\f503';"
-	"content: '\\f172';":
+		body: "content: '\\f503';"
+	"dashicons-redo":
 		prefix: "dashicons-redo"
-		body: "content: '\\\\f172';"
-	"content: '\\f303';":
+		body: "content: '\\f172';"
+	"dashicons-rss":
 		prefix: "dashicons-rss"
-		body: "content: '\\\\f303';"
-	"content: '\\f489';":
+		body: "content: '\\f303';"
+	"dashicons-schedule":
 		prefix: "dashicons-schedule"
-		body: "content: '\\\\f489';"
-	"content: '\\f180';":
+		body: "content: '\\f489';"
+	"dashicons-screenoptions":
 		prefix: "dashicons-screenoptions"
-		body: "content: '\\\\f180';"
-	"content: '\\f179';":
+		body: "content: '\\f180';"
+	"dashicons-search":
 		prefix: "dashicons-search"
-		body: "content: '\\\\f179';"
-	"content: '\\f237';":
+		body: "content: '\\f179';"
+	"dashicons-share":
 		prefix: "dashicons-share"
-		body: "content: '\\\\f237';"
-	"content: '\\f240';":
+		body: "content: '\\f237';"
+	"dashicons-share-alt":
 		prefix: "dashicons-share-alt"
-		body: "content: '\\\\f240';"
-	"content: '\\f242';":
+		body: "content: '\\f240';"
+	"dashicons-share-alt2":
 		prefix: "dashicons-share-alt2"
-		body: "content: '\\\\f242';"
-	"content: '\\f237';":
+		body: "content: '\\f242';"
+	"dashicons-share1":
 		prefix: "dashicons-share1"
-		body: "content: '\\\\f237';"
-	"content: '\\f332';":
+		body: "content: '\\f237';"
+	"dashicons-shield":
 		prefix: "dashicons-shield"
-		body: "content: '\\\\f332';"
-	"content: '\\f334';":
+		body: "content: '\\f332';"
+	"dashicons-shield-alt":
 		prefix: "dashicons-shield-alt"
-		body: "content: '\\\\f334';"
-	"content: '\\f181';":
+		body: "content: '\\f334';"
+	"dashicons-slides":
 		prefix: "dashicons-slides"
-		body: "content: '\\\\f181';"
-	"content: '\\f470';":
+		body: "content: '\\f181';"
+	"dashicons-smartphone":
 		prefix: "dashicons-smartphone"
-		body: "content: '\\\\f470';"
-	"content: '\\f328';":
+		body: "content: '\\f470';"
+	"dashicons-smiley":
 		prefix: "dashicons-smiley"
-		body: "content: '\\\\f328';"
-	"content: '\\f156';":
+		body: "content: '\\f328';"
+	"dashicons-sort":
 		prefix: "dashicons-sort"
-		body: "content: '\\\\f156';"
-	"content: '\\f468';":
+		body: "content: '\\f156';"
+	"dashicons-sos":
 		prefix: "dashicons-sos"
-		body: "content: '\\\\f468';"
-	"content: '\\f154';":
+		body: "content: '\\f468';"
+	"dashicons-star-empty":
 		prefix: "dashicons-star-empty"
-		body: "content: '\\\\f154';"
-	"content: '\\f155';":
+		body: "content: '\\f154';"
+	"dashicons-star-filled":
 		prefix: "dashicons-star-filled"
-		body: "content: '\\\\f155';"
-	"content: '\\f459';":
+		body: "content: '\\f155';"
+	"dashicons-star-half":
 		prefix: "dashicons-star-half"
-		body: "content: '\\\\f459';"
-	"content: '\\f537';":
+		body: "content: '\\f459';"
+	"dashicons-sticky":
 		prefix: "dashicons-sticky"
-		body: "content: '\\\\f537';"
-	"content: '\\f513';":
+		body: "content: '\\f537';"
+	"dashicons-store":
 		prefix: "dashicons-store"
-		body: "content: '\\\\f513';"
-	"content: '\\f471';":
+		body: "content: '\\f513';"
+	"dashicons-tablet":
 		prefix: "dashicons-tablet"
-		body: "content: '\\\\f471';"
-	"content: '\\f323';":
+		body: "content: '\\f471';"
+	"dashicons-tag":
 		prefix: "dashicons-tag"
-		body: "content: '\\\\f323';"
-	"content: '\\f479';":
+		body: "content: '\\f323';"
+	"dashicons-tagcloud":
 		prefix: "dashicons-tagcloud"
-		body: "content: '\\\\f479';"
-	"content: '\\f473';":
+		body: "content: '\\f479';"
+	"dashicons-testimonial":
 		prefix: "dashicons-testimonial"
-		body: "content: '\\\\f473';"
-	"content: '\\f478';":
+		body: "content: '\\f473';"
+	"dashicons-text":
 		prefix: "dashicons-text"
-		body: "content: '\\\\f478';"
-	"content: '\\f542';":
+		body: "content: '\\f478';"
+	"dashicons-thumbs-down":
 		prefix: "dashicons-thumbs-down"
-		body: "content: '\\\\f542';"
-	"content: '\\f529';":
+		body: "content: '\\f542';"
+	"dashicons-thumbs-up":
 		prefix: "dashicons-thumbs-up"
-		body: "content: '\\\\f529';"
-	"content: '\\f486';":
+		body: "content: '\\f529';"
+	"dashicons-tickets":
 		prefix: "dashicons-tickets"
-		body: "content: '\\\\f486';"
-	"content: '\\f524';":
+		body: "content: '\\f486';"
+	"dashicons-tickets-alt":
 		prefix: "dashicons-tickets-alt"
-		body: "content: '\\\\f524';"
-	"content: '\\f326';":
+		body: "content: '\\f524';"
+	"dashicons-translation":
 		prefix: "dashicons-translation"
-		body: "content: '\\\\f326';"
-	"content: '\\f182';":
+		body: "content: '\\f326';"
+	"dashicons-trash":
 		prefix: "dashicons-trash"
-		body: "content: '\\\\f182';"
-	"content: '\\f301';":
+		body: "content: '\\f182';"
+	"dashicons-twitter":
 		prefix: "dashicons-twitter"
-		body: "content: '\\\\f301';"
-	"content: '\\f171';":
+		body: "content: '\\f301';"
+	"dashicons-undo":
 		prefix: "dashicons-undo"
-		body: "content: '\\\\f171';"
-	"content: '\\f483';":
+		body: "content: '\\f171';"
+	"dashicons-universal-access":
 		prefix: "dashicons-universal-access"
-		body: "content: '\\\\f483';"
-	"content: '\\f507';":
+		body: "content: '\\f483';"
+	"dashicons-universal-access-alt":
 		prefix: "dashicons-universal-access-alt"
-		body: "content: '\\\\f507';"
-	"content: '\\f528';":
+		body: "content: '\\f507';"
+	"dashicons-unlock":
 		prefix: "dashicons-unlock"
-		body: "content: '\\\\f528';"
-	"content: '\\f463';":
+		body: "content: '\\f528';"
+	"dashicons-update":
 		prefix: "dashicons-update"
-		body: "content: '\\\\f463';"
-	"content: '\\f317';":
+		body: "content: '\\f463';"
+	"dashicons-upload":
 		prefix: "dashicons-upload"
-		body: "content: '\\\\f317';"
-	"content: '\\f178';":
+		body: "content: '\\f317';"
+	"dashicons-vault":
 		prefix: "dashicons-vault"
-		body: "content: '\\\\f178';"
-	"content: '\\f234';":
+		body: "content: '\\f178';"
+	"dashicons-video-alt":
 		prefix: "dashicons-video-alt"
-		body: "content: '\\\\f234';"
-	"content: '\\f235';":
+		body: "content: '\\f234';"
+	"dashicons-video-alt2":
 		prefix: "dashicons-video-alt2"
-		body: "content: '\\\\f235';"
-	"content: '\\f236';":
+		body: "content: '\\f235';"
+	"dashicons-video-alt3":
 		prefix: "dashicons-video-alt3"
-		body: "content: '\\\\f236';"
-	"content: '\\f177';":
+		body: "content: '\\f236';"
+	"dashicons-visibility":
 		prefix: "dashicons-visibility"
-		body: "content: '\\\\f177';"
-	"content: '\\f534';":
+		body: "content: '\\f177';"
+	"dashicons-warning":
 		prefix: "dashicons-warning"
-		body: "content: '\\\\f534';"
-	"content: '\\f133';":
+		body: "content: '\\f534';"
+	"dashicons-welcome-add-page":
 		prefix: "dashicons-welcome-add-page"
-		body: "content: '\\\\f133';"
-	"content: '\\f117';":
+		body: "content: '\\f133';"
+	"dashicons-welcome-comments":
 		prefix: "dashicons-welcome-comments"
-		body: "content: '\\\\f117';"
-	"content: '\\f119';":
+		body: "content: '\\f117';"
+	"dashicons-welcome-edit-page":
 		prefix: "dashicons-welcome-edit-page"
-		body: "content: '\\\\f119';"
-	"content: '\\f118';":
+		body: "content: '\\f119';"
+	"dashicons-welcome-learn-more":
 		prefix: "dashicons-welcome-learn-more"
-		body: "content: '\\\\f118';"
-	"content: '\\f115';":
+		body: "content: '\\f118';"
+	"dashicons-welcome-view-site":
 		prefix: "dashicons-welcome-view-site"
-		body: "content: '\\\\f115';"
-	"content: '\\f116';":
+		body: "content: '\\f115';"
+	"dashicons-welcome-widgets-menus":
 		prefix: "dashicons-welcome-widgets-menus"
-		body: "content: '\\\\f116';"
-	"content: '\\f119';":
+		body: "content: '\\f116';"
+	"dashicons-welcome-write-blog":
 		prefix: "dashicons-welcome-write-blog"
-		body: "content: '\\\\f119';"
-	"content: '\\f120';":
+		body: "content: '\\f119';"
+	"dashicons-wordpress":
 		prefix: "dashicons-wordpress"
-		body: "content: '\\\\f120';"
-	"content: '\\f324';":
+		body: "content: '\\f120';"
+	"dashicons-wordpress-alt":
 		prefix: "dashicons-wordpress-alt"
-		body: "content: '\\\\f324';"
-	"content: '\\f147';":
+		body: "content: '\\f324';"
+	"dashicons-yes":
 		prefix: "dashicons-yes"
-		body: "content: '\\\\f147';"
+		body: "content: '\\f147';"

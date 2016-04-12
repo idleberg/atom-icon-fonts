@@ -1,136 +1,136 @@
 ".source.css,.source.sass":
-	"content: '\\f326';":
+	"brandico-amex":
 		prefix: "brandico-amex"
-		body: "content: '\\\\f326';"
-	"content: '\\f32b';":
+		body: "content: '\\f326';"
+	"brandico-bandcamp":
 		prefix: "brandico-bandcamp"
-		body: "content: '\\\\f32b';"
-	"content: '\\f314';":
+		body: "content: '\\f32b';"
+	"brandico-blogger":
 		prefix: "brandico-blogger"
-		body: "content: '\\\\f314';"
-	"content: '\\f315';":
+		body: "content: '\\f314';"
+	"brandico-blogger-rect":
 		prefix: "brandico-blogger-rect"
-		body: "content: '\\\\f315';"
-	"content: '\\f321';":
+		body: "content: '\\f315';"
+	"brandico-box":
 		prefix: "brandico-box"
-		body: "content: '\\\\f321';"
-	"content: '\\f322';":
+		body: "content: '\\f321';"
+	"brandico-box-rect":
 		prefix: "brandico-box-rect"
-		body: "content: '\\\\f322';"
-	"content: '\\f32c';":
+		body: "content: '\\f322';"
+	"brandico-codepen":
 		prefix: "brandico-codepen"
-		body: "content: '\\\\f32c';"
-	"content: '\\f316';":
+		body: "content: '\\f32c';"
+	"brandico-deviantart":
 		prefix: "brandico-deviantart"
-		body: "content: '\\\\f316';"
-	"content: '\\f320';":
+		body: "content: '\\f316';"
+	"brandico-diigo":
 		prefix: "brandico-diigo"
-		body: "content: '\\\\f320';"
-	"content: '\\f327';":
+		body: "content: '\\f320';"
+	"brandico-discover":
 		prefix: "brandico-discover"
-		body: "content: '\\\\f327';"
-	"content: '\\f300';":
+		body: "content: '\\f327';"
+	"brandico-facebook":
 		prefix: "brandico-facebook"
-		body: "content: '\\\\f300';"
-	"content: '\\f301';":
+		body: "content: '\\f300';"
+	"brandico-facebook-rect":
 		prefix: "brandico-facebook-rect"
-		body: "content: '\\\\f301';"
-	"content: '\\f312';":
+		body: "content: '\\f301';"
+	"brandico-friendfeed":
 		prefix: "brandico-friendfeed"
-		body: "content: '\\\\f312';"
-	"content: '\\f313';":
+		body: "content: '\\f312';"
+	"brandico-friendfeed-rect":
 		prefix: "brandico-friendfeed-rect"
-		body: "content: '\\\\f313';"
-	"content: '\\f308';":
+		body: "content: '\\f313';"
+	"brandico-github":
 		prefix: "brandico-github"
-		body: "content: '\\\\f308';"
-	"content: '\\f307';":
+		body: "content: '\\f308';"
+	"brandico-github-text":
 		prefix: "brandico-github-text"
-		body: "content: '\\\\f307';"
-	"content: '\\f309';":
+		body: "content: '\\f307';"
+	"brandico-googleplus-rect":
 		prefix: "brandico-googleplus-rect"
-		body: "content: '\\\\f309';"
-	"content: '\\f32a';":
+		body: "content: '\\f309';"
+	"brandico-houzz":
 		prefix: "brandico-houzz"
-		body: "content: '\\\\f32a';"
-	"content: '\\f304';":
+		body: "content: '\\f32a';"
+	"brandico-icq":
 		prefix: "brandico-icq"
-		body: "content: '\\\\f304';"
-	"content: '\\f31e';":
+		body: "content: '\\f304';"
+	"brandico-instagram":
 		prefix: "brandico-instagram"
-		body: "content: '\\\\f31e';"
-	"content: '\\f31f';":
+		body: "content: '\\f31e';"
+	"brandico-instagram-filled":
 		prefix: "brandico-instagram-filled"
-		body: "content: '\\\\f31f';"
-	"content: '\\f317';":
+		body: "content: '\\f31f';"
+	"brandico-jabber":
 		prefix: "brandico-jabber"
-		body: "content: '\\\\f317';"
-	"content: '\\f318';":
+		body: "content: '\\f317';"
+	"brandico-lastfm":
 		prefix: "brandico-lastfm"
-		body: "content: '\\\\f318';"
-	"content: '\\f319';":
+		body: "content: '\\f318';"
+	"brandico-lastfm-rect":
 		prefix: "brandico-lastfm-rect"
-		body: "content: '\\\\f319';"
-	"content: '\\f31a';":
+		body: "content: '\\f319';"
+	"brandico-linkedin":
 		prefix: "brandico-linkedin"
-		body: "content: '\\\\f31a';"
-	"content: '\\f31b';":
+		body: "content: '\\f31a';"
+	"brandico-linkedin-rect":
 		prefix: "brandico-linkedin-rect"
-		body: "content: '\\\\f31b';"
-	"content: '\\f329';":
+		body: "content: '\\f31b';"
+	"brandico-mastercard":
 		prefix: "brandico-mastercard"
-		body: "content: '\\\\f329';"
-	"content: '\\f30c';":
+		body: "content: '\\f329';"
+	"brandico-odnoklassniki":
 		prefix: "brandico-odnoklassniki"
-		body: "content: '\\\\f30c';"
-	"content: '\\f30d';":
+		body: "content: '\\f30c';"
+	"brandico-odnoklassniki-rect":
 		prefix: "brandico-odnoklassniki-rect"
-		body: "content: '\\\\f30d';"
-	"content: '\\f31c';":
+		body: "content: '\\f30d';"
+	"brandico-picasa":
 		prefix: "brandico-picasa"
-		body: "content: '\\\\f31c';"
-	"content: '\\f30b';":
+		body: "content: '\\f31c';"
+	"brandico-skype":
 		prefix: "brandico-skype"
-		body: "content: '\\\\f30b';"
-	"content: '\\f323';":
+		body: "content: '\\f30b';"
+	"brandico-tudou":
 		prefix: "brandico-tudou"
-		body: "content: '\\\\f323';"
-	"content: '\\f311';":
+		body: "content: '\\f323';"
+	"brandico-tumblr":
 		prefix: "brandico-tumblr"
-		body: "content: '\\\\f311';"
-	"content: '\\f310';":
+		body: "content: '\\f311';"
+	"brandico-tumblr-rect":
 		prefix: "brandico-tumblr-rect"
-		body: "content: '\\\\f310';"
-	"content: '\\f302';":
+		body: "content: '\\f310';"
+	"brandico-twitter":
 		prefix: "brandico-twitter"
-		body: "content: '\\\\f302';"
-	"content: '\\f303';":
+		body: "content: '\\f302';"
+	"brandico-twitter-bird":
 		prefix: "brandico-twitter-bird"
-		body: "content: '\\\\f303';"
-	"content: '\\f30f';":
+		body: "content: '\\f303';"
+	"brandico-vimeo":
 		prefix: "brandico-vimeo"
-		body: "content: '\\\\f30f';"
-	"content: '\\f30e';":
+		body: "content: '\\f30f';"
+	"brandico-vimeo-rect":
 		prefix: "brandico-vimeo-rect"
-		body: "content: '\\\\f30e';"
-	"content: '\\f328';":
+		body: "content: '\\f30e';"
+	"brandico-visa":
 		prefix: "brandico-visa"
-		body: "content: '\\\\f328';"
-	"content: '\\f30a';":
+		body: "content: '\\f328';"
+	"brandico-vkontakte-rect":
 		prefix: "brandico-vkontakte-rect"
-		body: "content: '\\\\f30a';"
-	"content: '\\f325';":
+		body: "content: '\\f30a';"
+	"brandico-win8":
 		prefix: "brandico-win8"
-		body: "content: '\\\\f325';"
-	"content: '\\f31d';":
+		body: "content: '\\f325';"
+	"brandico-wordpress":
 		prefix: "brandico-wordpress"
-		body: "content: '\\\\f31d';"
-	"content: '\\f305';":
+		body: "content: '\\f31d';"
+	"brandico-yandex":
 		prefix: "brandico-yandex"
-		body: "content: '\\\\f305';"
-	"content: '\\f306';":
+		body: "content: '\\f305';"
+	"brandico-yandex-rect":
 		prefix: "brandico-yandex-rect"
-		body: "content: '\\\\f306';"
-	"content: '\\f324';":
+		body: "content: '\\f306';"
+	"brandico-youku":
 		prefix: "brandico-youku"
-		body: "content: '\\\\f324';"
+		body: "content: '\\f324';"

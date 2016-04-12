@@ -1,670 +1,670 @@
 ".source.css,.source.sass":
-	"content: '\\e000';":
+	"oi-account-login":
 		prefix: "oi-account-login"
-		body: "content: '\\\\e000';"
-	"content: '\\e001';":
+		body: "content: '\\e000';"
+	"oi-account-logout":
 		prefix: "oi-account-logout"
-		body: "content: '\\\\e001';"
-	"content: '\\e002';":
+		body: "content: '\\e001';"
+	"oi-action-redo":
 		prefix: "oi-action-redo"
-		body: "content: '\\\\e002';"
-	"content: '\\e003';":
+		body: "content: '\\e002';"
+	"oi-action-undo":
 		prefix: "oi-action-undo"
-		body: "content: '\\\\e003';"
-	"content: '\\e004';":
+		body: "content: '\\e003';"
+	"oi-align-center":
 		prefix: "oi-align-center"
-		body: "content: '\\\\e004';"
-	"content: '\\e005';":
+		body: "content: '\\e004';"
+	"oi-align-left":
 		prefix: "oi-align-left"
-		body: "content: '\\\\e005';"
-	"content: '\\e006';":
+		body: "content: '\\e005';"
+	"oi-align-right":
 		prefix: "oi-align-right"
-		body: "content: '\\\\e006';"
-	"content: '\\e007';":
+		body: "content: '\\e006';"
+	"oi-aperture":
 		prefix: "oi-aperture"
-		body: "content: '\\\\e007';"
-	"content: '\\e008';":
+		body: "content: '\\e007';"
+	"oi-arrow-bottom":
 		prefix: "oi-arrow-bottom"
-		body: "content: '\\\\e008';"
-	"content: '\\e009';":
+		body: "content: '\\e008';"
+	"oi-arrow-circle-bottom":
 		prefix: "oi-arrow-circle-bottom"
-		body: "content: '\\\\e009';"
-	"content: '\\e00a';":
+		body: "content: '\\e009';"
+	"oi-arrow-circle-left":
 		prefix: "oi-arrow-circle-left"
-		body: "content: '\\\\e00a';"
-	"content: '\\e00b';":
+		body: "content: '\\e00a';"
+	"oi-arrow-circle-right":
 		prefix: "oi-arrow-circle-right"
-		body: "content: '\\\\e00b';"
-	"content: '\\e00c';":
+		body: "content: '\\e00b';"
+	"oi-arrow-circle-top":
 		prefix: "oi-arrow-circle-top"
-		body: "content: '\\\\e00c';"
-	"content: '\\e00d';":
+		body: "content: '\\e00c';"
+	"oi-arrow-left":
 		prefix: "oi-arrow-left"
-		body: "content: '\\\\e00d';"
-	"content: '\\e00e';":
+		body: "content: '\\e00d';"
+	"oi-arrow-right":
 		prefix: "oi-arrow-right"
-		body: "content: '\\\\e00e';"
-	"content: '\\e00f';":
+		body: "content: '\\e00e';"
+	"oi-arrow-thick-bottom":
 		prefix: "oi-arrow-thick-bottom"
-		body: "content: '\\\\e00f';"
-	"content: '\\e010';":
+		body: "content: '\\e00f';"
+	"oi-arrow-thick-left":
 		prefix: "oi-arrow-thick-left"
-		body: "content: '\\\\e010';"
-	"content: '\\e011';":
+		body: "content: '\\e010';"
+	"oi-arrow-thick-right":
 		prefix: "oi-arrow-thick-right"
-		body: "content: '\\\\e011';"
-	"content: '\\e012';":
+		body: "content: '\\e011';"
+	"oi-arrow-thick-top":
 		prefix: "oi-arrow-thick-top"
-		body: "content: '\\\\e012';"
-	"content: '\\e013';":
+		body: "content: '\\e012';"
+	"oi-arrow-top":
 		prefix: "oi-arrow-top"
-		body: "content: '\\\\e013';"
-	"content: '\\e015';":
+		body: "content: '\\e013';"
+	"oi-audio":
 		prefix: "oi-audio"
-		body: "content: '\\\\e015';"
-	"content: '\\e014';":
+		body: "content: '\\e015';"
+	"oi-audio-spectrum":
 		prefix: "oi-audio-spectrum"
-		body: "content: '\\\\e014';"
-	"content: '\\e016';":
+		body: "content: '\\e014';"
+	"oi-badge":
 		prefix: "oi-badge"
-		body: "content: '\\\\e016';"
-	"content: '\\e017';":
+		body: "content: '\\e016';"
+	"oi-ban":
 		prefix: "oi-ban"
-		body: "content: '\\\\e017';"
-	"content: '\\e018';":
+		body: "content: '\\e017';"
+	"oi-bar-chart":
 		prefix: "oi-bar-chart"
-		body: "content: '\\\\e018';"
-	"content: '\\e019';":
+		body: "content: '\\e018';"
+	"oi-basket":
 		prefix: "oi-basket"
-		body: "content: '\\\\e019';"
-	"content: '\\e01a';":
+		body: "content: '\\e019';"
+	"oi-battery-empty":
 		prefix: "oi-battery-empty"
-		body: "content: '\\\\e01a';"
-	"content: '\\e01b';":
+		body: "content: '\\e01a';"
+	"oi-battery-full":
 		prefix: "oi-battery-full"
-		body: "content: '\\\\e01b';"
-	"content: '\\e01c';":
+		body: "content: '\\e01b';"
+	"oi-beaker":
 		prefix: "oi-beaker"
-		body: "content: '\\\\e01c';"
-	"content: '\\e01d';":
+		body: "content: '\\e01c';"
+	"oi-bell":
 		prefix: "oi-bell"
-		body: "content: '\\\\e01d';"
-	"content: '\\e01e';":
+		body: "content: '\\e01d';"
+	"oi-bluetooth":
 		prefix: "oi-bluetooth"
-		body: "content: '\\\\e01e';"
-	"content: '\\e01f';":
+		body: "content: '\\e01e';"
+	"oi-bold":
 		prefix: "oi-bold"
-		body: "content: '\\\\e01f';"
-	"content: '\\e020';":
+		body: "content: '\\e01f';"
+	"oi-bolt":
 		prefix: "oi-bolt"
-		body: "content: '\\\\e020';"
-	"content: '\\e021';":
+		body: "content: '\\e020';"
+	"oi-book":
 		prefix: "oi-book"
-		body: "content: '\\\\e021';"
-	"content: '\\e022';":
+		body: "content: '\\e021';"
+	"oi-bookmark":
 		prefix: "oi-bookmark"
-		body: "content: '\\\\e022';"
-	"content: '\\e023';":
+		body: "content: '\\e022';"
+	"oi-box":
 		prefix: "oi-box"
-		body: "content: '\\\\e023';"
-	"content: '\\e024';":
+		body: "content: '\\e023';"
+	"oi-briefcase":
 		prefix: "oi-briefcase"
-		body: "content: '\\\\e024';"
-	"content: '\\e025';":
+		body: "content: '\\e024';"
+	"oi-british-pound":
 		prefix: "oi-british-pound"
-		body: "content: '\\\\e025';"
-	"content: '\\e026';":
+		body: "content: '\\e025';"
+	"oi-browser":
 		prefix: "oi-browser"
-		body: "content: '\\\\e026';"
-	"content: '\\e027';":
+		body: "content: '\\e026';"
+	"oi-brush":
 		prefix: "oi-brush"
-		body: "content: '\\\\e027';"
-	"content: '\\e028';":
+		body: "content: '\\e027';"
+	"oi-bug":
 		prefix: "oi-bug"
-		body: "content: '\\\\e028';"
-	"content: '\\e029';":
+		body: "content: '\\e028';"
+	"oi-bullhorn":
 		prefix: "oi-bullhorn"
-		body: "content: '\\\\e029';"
-	"content: '\\e02a';":
+		body: "content: '\\e029';"
+	"oi-calculator":
 		prefix: "oi-calculator"
-		body: "content: '\\\\e02a';"
-	"content: '\\e02b';":
+		body: "content: '\\e02a';"
+	"oi-calendar":
 		prefix: "oi-calendar"
-		body: "content: '\\\\e02b';"
-	"content: '\\e02c';":
+		body: "content: '\\e02b';"
+	"oi-camera-slr":
 		prefix: "oi-camera-slr"
-		body: "content: '\\\\e02c';"
-	"content: '\\e02d';":
+		body: "content: '\\e02c';"
+	"oi-caret-bottom":
 		prefix: "oi-caret-bottom"
-		body: "content: '\\\\e02d';"
-	"content: '\\e02e';":
+		body: "content: '\\e02d';"
+	"oi-caret-left":
 		prefix: "oi-caret-left"
-		body: "content: '\\\\e02e';"
-	"content: '\\e02f';":
+		body: "content: '\\e02e';"
+	"oi-caret-right":
 		prefix: "oi-caret-right"
-		body: "content: '\\\\e02f';"
-	"content: '\\e030';":
+		body: "content: '\\e02f';"
+	"oi-caret-top":
 		prefix: "oi-caret-top"
-		body: "content: '\\\\e030';"
-	"content: '\\e031';":
+		body: "content: '\\e030';"
+	"oi-cart":
 		prefix: "oi-cart"
-		body: "content: '\\\\e031';"
-	"content: '\\e032';":
+		body: "content: '\\e031';"
+	"oi-chat":
 		prefix: "oi-chat"
-		body: "content: '\\\\e032';"
-	"content: '\\e033';":
+		body: "content: '\\e032';"
+	"oi-check":
 		prefix: "oi-check"
-		body: "content: '\\\\e033';"
-	"content: '\\e034';":
+		body: "content: '\\e033';"
+	"oi-chevron-bottom":
 		prefix: "oi-chevron-bottom"
-		body: "content: '\\\\e034';"
-	"content: '\\e035';":
+		body: "content: '\\e034';"
+	"oi-chevron-left":
 		prefix: "oi-chevron-left"
-		body: "content: '\\\\e035';"
-	"content: '\\e036';":
+		body: "content: '\\e035';"
+	"oi-chevron-right":
 		prefix: "oi-chevron-right"
-		body: "content: '\\\\e036';"
-	"content: '\\e037';":
+		body: "content: '\\e036';"
+	"oi-chevron-top":
 		prefix: "oi-chevron-top"
-		body: "content: '\\\\e037';"
-	"content: '\\e038';":
+		body: "content: '\\e037';"
+	"oi-circle-check":
 		prefix: "oi-circle-check"
-		body: "content: '\\\\e038';"
-	"content: '\\e039';":
+		body: "content: '\\e038';"
+	"oi-circle-x":
 		prefix: "oi-circle-x"
-		body: "content: '\\\\e039';"
-	"content: '\\e03a';":
+		body: "content: '\\e039';"
+	"oi-clipboard":
 		prefix: "oi-clipboard"
-		body: "content: '\\\\e03a';"
-	"content: '\\e03b';":
+		body: "content: '\\e03a';"
+	"oi-clock":
 		prefix: "oi-clock"
-		body: "content: '\\\\e03b';"
-	"content: '\\e03e';":
+		body: "content: '\\e03b';"
+	"oi-cloud":
 		prefix: "oi-cloud"
-		body: "content: '\\\\e03e';"
-	"content: '\\e03c';":
+		body: "content: '\\e03e';"
+	"oi-cloud-download":
 		prefix: "oi-cloud-download"
-		body: "content: '\\\\e03c';"
-	"content: '\\e03d';":
+		body: "content: '\\e03c';"
+	"oi-cloud-upload":
 		prefix: "oi-cloud-upload"
-		body: "content: '\\\\e03d';"
-	"content: '\\e03f';":
+		body: "content: '\\e03d';"
+	"oi-cloudy":
 		prefix: "oi-cloudy"
-		body: "content: '\\\\e03f';"
-	"content: '\\e040';":
+		body: "content: '\\e03f';"
+	"oi-code":
 		prefix: "oi-code"
-		body: "content: '\\\\e040';"
-	"content: '\\e041';":
+		body: "content: '\\e040';"
+	"oi-cog":
 		prefix: "oi-cog"
-		body: "content: '\\\\e041';"
-	"content: '\\e042';":
+		body: "content: '\\e041';"
+	"oi-collapse-down":
 		prefix: "oi-collapse-down"
-		body: "content: '\\\\e042';"
-	"content: '\\e043';":
+		body: "content: '\\e042';"
+	"oi-collapse-left":
 		prefix: "oi-collapse-left"
-		body: "content: '\\\\e043';"
-	"content: '\\e044';":
+		body: "content: '\\e043';"
+	"oi-collapse-right":
 		prefix: "oi-collapse-right"
-		body: "content: '\\\\e044';"
-	"content: '\\e045';":
+		body: "content: '\\e044';"
+	"oi-collapse-up":
 		prefix: "oi-collapse-up"
-		body: "content: '\\\\e045';"
-	"content: '\\e046';":
+		body: "content: '\\e045';"
+	"oi-command":
 		prefix: "oi-command"
-		body: "content: '\\\\e046';"
-	"content: '\\e047';":
+		body: "content: '\\e046';"
+	"oi-comment-square":
 		prefix: "oi-comment-square"
-		body: "content: '\\\\e047';"
-	"content: '\\e048';":
+		body: "content: '\\e047';"
+	"oi-compass":
 		prefix: "oi-compass"
-		body: "content: '\\\\e048';"
-	"content: '\\e049';":
+		body: "content: '\\e048';"
+	"oi-contrast":
 		prefix: "oi-contrast"
-		body: "content: '\\\\e049';"
-	"content: '\\e04a';":
+		body: "content: '\\e049';"
+	"oi-copywriting":
 		prefix: "oi-copywriting"
-		body: "content: '\\\\e04a';"
-	"content: '\\e04b';":
+		body: "content: '\\e04a';"
+	"oi-credit-card":
 		prefix: "oi-credit-card"
-		body: "content: '\\\\e04b';"
-	"content: '\\e04c';":
+		body: "content: '\\e04b';"
+	"oi-crop":
 		prefix: "oi-crop"
-		body: "content: '\\\\e04c';"
-	"content: '\\e04d';":
+		body: "content: '\\e04c';"
+	"oi-dashboard":
 		prefix: "oi-dashboard"
-		body: "content: '\\\\e04d';"
-	"content: '\\e04e';":
+		body: "content: '\\e04d';"
+	"oi-data-transfer-download":
 		prefix: "oi-data-transfer-download"
-		body: "content: '\\\\e04e';"
-	"content: '\\e04f';":
+		body: "content: '\\e04e';"
+	"oi-data-transfer-upload":
 		prefix: "oi-data-transfer-upload"
-		body: "content: '\\\\e04f';"
-	"content: '\\e050';":
+		body: "content: '\\e04f';"
+	"oi-delete":
 		prefix: "oi-delete"
-		body: "content: '\\\\e050';"
-	"content: '\\e051';":
+		body: "content: '\\e050';"
+	"oi-dial":
 		prefix: "oi-dial"
-		body: "content: '\\\\e051';"
-	"content: '\\e052';":
+		body: "content: '\\e051';"
+	"oi-document":
 		prefix: "oi-document"
-		body: "content: '\\\\e052';"
-	"content: '\\e053';":
+		body: "content: '\\e052';"
+	"oi-dollar":
 		prefix: "oi-dollar"
-		body: "content: '\\\\e053';"
-	"content: '\\e054';":
+		body: "content: '\\e053';"
+	"oi-double-quote-sans-left":
 		prefix: "oi-double-quote-sans-left"
-		body: "content: '\\\\e054';"
-	"content: '\\e055';":
+		body: "content: '\\e054';"
+	"oi-double-quote-sans-right":
 		prefix: "oi-double-quote-sans-right"
-		body: "content: '\\\\e055';"
-	"content: '\\e056';":
+		body: "content: '\\e055';"
+	"oi-double-quote-serif-left":
 		prefix: "oi-double-quote-serif-left"
-		body: "content: '\\\\e056';"
-	"content: '\\e057';":
+		body: "content: '\\e056';"
+	"oi-double-quote-serif-right":
 		prefix: "oi-double-quote-serif-right"
-		body: "content: '\\\\e057';"
-	"content: '\\e058';":
+		body: "content: '\\e057';"
+	"oi-droplet":
 		prefix: "oi-droplet"
-		body: "content: '\\\\e058';"
-	"content: '\\e059';":
+		body: "content: '\\e058';"
+	"oi-eject":
 		prefix: "oi-eject"
-		body: "content: '\\\\e059';"
-	"content: '\\e05a';":
+		body: "content: '\\e059';"
+	"oi-elevator":
 		prefix: "oi-elevator"
-		body: "content: '\\\\e05a';"
-	"content: '\\e05b';":
+		body: "content: '\\e05a';"
+	"oi-ellipses":
 		prefix: "oi-ellipses"
-		body: "content: '\\\\e05b';"
-	"content: '\\e05c';":
+		body: "content: '\\e05b';"
+	"oi-envelope-closed":
 		prefix: "oi-envelope-closed"
-		body: "content: '\\\\e05c';"
-	"content: '\\e05d';":
+		body: "content: '\\e05c';"
+	"oi-envelope-open":
 		prefix: "oi-envelope-open"
-		body: "content: '\\\\e05d';"
-	"content: '\\e05e';":
+		body: "content: '\\e05d';"
+	"oi-euro":
 		prefix: "oi-euro"
-		body: "content: '\\\\e05e';"
-	"content: '\\e05f';":
+		body: "content: '\\e05e';"
+	"oi-excerpt":
 		prefix: "oi-excerpt"
-		body: "content: '\\\\e05f';"
-	"content: '\\e060';":
+		body: "content: '\\e05f';"
+	"oi-expand-down":
 		prefix: "oi-expand-down"
-		body: "content: '\\\\e060';"
-	"content: '\\e061';":
+		body: "content: '\\e060';"
+	"oi-expand-left":
 		prefix: "oi-expand-left"
-		body: "content: '\\\\e061';"
-	"content: '\\e062';":
+		body: "content: '\\e061';"
+	"oi-expand-right":
 		prefix: "oi-expand-right"
-		body: "content: '\\\\e062';"
-	"content: '\\e063';":
+		body: "content: '\\e062';"
+	"oi-expand-up":
 		prefix: "oi-expand-up"
-		body: "content: '\\\\e063';"
-	"content: '\\e064';":
+		body: "content: '\\e063';"
+	"oi-external-link":
 		prefix: "oi-external-link"
-		body: "content: '\\\\e064';"
-	"content: '\\e065';":
+		body: "content: '\\e064';"
+	"oi-eye":
 		prefix: "oi-eye"
-		body: "content: '\\\\e065';"
-	"content: '\\e066';":
+		body: "content: '\\e065';"
+	"oi-eyedropper":
 		prefix: "oi-eyedropper"
-		body: "content: '\\\\e066';"
-	"content: '\\e067';":
+		body: "content: '\\e066';"
+	"oi-file":
 		prefix: "oi-file"
-		body: "content: '\\\\e067';"
-	"content: '\\e068';":
+		body: "content: '\\e067';"
+	"oi-fire":
 		prefix: "oi-fire"
-		body: "content: '\\\\e068';"
-	"content: '\\e069';":
+		body: "content: '\\e068';"
+	"oi-flag":
 		prefix: "oi-flag"
-		body: "content: '\\\\e069';"
-	"content: '\\e06a';":
+		body: "content: '\\e069';"
+	"oi-flash":
 		prefix: "oi-flash"
-		body: "content: '\\\\e06a';"
-	"content: '\\e06b';":
+		body: "content: '\\e06a';"
+	"oi-folder":
 		prefix: "oi-folder"
-		body: "content: '\\\\e06b';"
-	"content: '\\e06c';":
+		body: "content: '\\e06b';"
+	"oi-fork":
 		prefix: "oi-fork"
-		body: "content: '\\\\e06c';"
-	"content: '\\e06d';":
+		body: "content: '\\e06c';"
+	"oi-fullscreen-enter":
 		prefix: "oi-fullscreen-enter"
-		body: "content: '\\\\e06d';"
-	"content: '\\e06e';":
+		body: "content: '\\e06d';"
+	"oi-fullscreen-exit":
 		prefix: "oi-fullscreen-exit"
-		body: "content: '\\\\e06e';"
-	"content: '\\e06f';":
+		body: "content: '\\e06e';"
+	"oi-globe":
 		prefix: "oi-globe"
-		body: "content: '\\\\e06f';"
-	"content: '\\e070';":
+		body: "content: '\\e06f';"
+	"oi-graph":
 		prefix: "oi-graph"
-		body: "content: '\\\\e070';"
-	"content: '\\e071';":
+		body: "content: '\\e070';"
+	"oi-grid-four-up":
 		prefix: "oi-grid-four-up"
-		body: "content: '\\\\e071';"
-	"content: '\\e072';":
+		body: "content: '\\e071';"
+	"oi-grid-three-up":
 		prefix: "oi-grid-three-up"
-		body: "content: '\\\\e072';"
-	"content: '\\e073';":
+		body: "content: '\\e072';"
+	"oi-grid-two-up":
 		prefix: "oi-grid-two-up"
-		body: "content: '\\\\e073';"
-	"content: '\\e074';":
+		body: "content: '\\e073';"
+	"oi-hard-drive":
 		prefix: "oi-hard-drive"
-		body: "content: '\\\\e074';"
-	"content: '\\e075';":
+		body: "content: '\\e074';"
+	"oi-header":
 		prefix: "oi-header"
-		body: "content: '\\\\e075';"
-	"content: '\\e076';":
+		body: "content: '\\e075';"
+	"oi-headphones":
 		prefix: "oi-headphones"
-		body: "content: '\\\\e076';"
-	"content: '\\e077';":
+		body: "content: '\\e076';"
+	"oi-heart":
 		prefix: "oi-heart"
-		body: "content: '\\\\e077';"
-	"content: '\\e078';":
+		body: "content: '\\e077';"
+	"oi-home":
 		prefix: "oi-home"
-		body: "content: '\\\\e078';"
-	"content: '\\e079';":
+		body: "content: '\\e078';"
+	"oi-image":
 		prefix: "oi-image"
-		body: "content: '\\\\e079';"
-	"content: '\\e07a';":
+		body: "content: '\\e079';"
+	"oi-inbox":
 		prefix: "oi-inbox"
-		body: "content: '\\\\e07a';"
-	"content: '\\e07b';":
+		body: "content: '\\e07a';"
+	"oi-infinity":
 		prefix: "oi-infinity"
-		body: "content: '\\\\e07b';"
-	"content: '\\e07c';":
+		body: "content: '\\e07b';"
+	"oi-info":
 		prefix: "oi-info"
-		body: "content: '\\\\e07c';"
-	"content: '\\e07d';":
+		body: "content: '\\e07c';"
+	"oi-italic":
 		prefix: "oi-italic"
-		body: "content: '\\\\e07d';"
-	"content: '\\e07e';":
+		body: "content: '\\e07d';"
+	"oi-justify-center":
 		prefix: "oi-justify-center"
-		body: "content: '\\\\e07e';"
-	"content: '\\e07f';":
+		body: "content: '\\e07e';"
+	"oi-justify-left":
 		prefix: "oi-justify-left"
-		body: "content: '\\\\e07f';"
-	"content: '\\e080';":
+		body: "content: '\\e07f';"
+	"oi-justify-right":
 		prefix: "oi-justify-right"
-		body: "content: '\\\\e080';"
-	"content: '\\e081';":
+		body: "content: '\\e080';"
+	"oi-key":
 		prefix: "oi-key"
-		body: "content: '\\\\e081';"
-	"content: '\\e082';":
+		body: "content: '\\e081';"
+	"oi-laptop":
 		prefix: "oi-laptop"
-		body: "content: '\\\\e082';"
-	"content: '\\e083';":
+		body: "content: '\\e082';"
+	"oi-layers":
 		prefix: "oi-layers"
-		body: "content: '\\\\e083';"
-	"content: '\\e084';":
+		body: "content: '\\e083';"
+	"oi-lightbulb":
 		prefix: "oi-lightbulb"
-		body: "content: '\\\\e084';"
-	"content: '\\e085';":
+		body: "content: '\\e084';"
+	"oi-link-broken":
 		prefix: "oi-link-broken"
-		body: "content: '\\\\e085';"
-	"content: '\\e086';":
+		body: "content: '\\e085';"
+	"oi-link-intact":
 		prefix: "oi-link-intact"
-		body: "content: '\\\\e086';"
-	"content: '\\e088';":
+		body: "content: '\\e086';"
+	"oi-list":
 		prefix: "oi-list"
-		body: "content: '\\\\e088';"
-	"content: '\\e087';":
+		body: "content: '\\e088';"
+	"oi-list-rich":
 		prefix: "oi-list-rich"
-		body: "content: '\\\\e087';"
-	"content: '\\e089';":
+		body: "content: '\\e087';"
+	"oi-location":
 		prefix: "oi-location"
-		body: "content: '\\\\e089';"
-	"content: '\\e08a';":
+		body: "content: '\\e089';"
+	"oi-lock-locked":
 		prefix: "oi-lock-locked"
-		body: "content: '\\\\e08a';"
-	"content: '\\e08b';":
+		body: "content: '\\e08a';"
+	"oi-lock-unlocked":
 		prefix: "oi-lock-unlocked"
-		body: "content: '\\\\e08b';"
-	"content: '\\e08e';":
+		body: "content: '\\e08b';"
+	"oi-loop":
 		prefix: "oi-loop"
-		body: "content: '\\\\e08e';"
-	"content: '\\e08c';":
+		body: "content: '\\e08e';"
+	"oi-loop-circular":
 		prefix: "oi-loop-circular"
-		body: "content: '\\\\e08c';"
-	"content: '\\e08d';":
+		body: "content: '\\e08c';"
+	"oi-loop-square":
 		prefix: "oi-loop-square"
-		body: "content: '\\\\e08d';"
-	"content: '\\e08f';":
+		body: "content: '\\e08d';"
+	"oi-magnifying-glass":
 		prefix: "oi-magnifying-glass"
-		body: "content: '\\\\e08f';"
-	"content: '\\e091';":
+		body: "content: '\\e08f';"
+	"oi-map":
 		prefix: "oi-map"
-		body: "content: '\\\\e091';"
-	"content: '\\e090';":
+		body: "content: '\\e091';"
+	"oi-map-marker":
 		prefix: "oi-map-marker"
-		body: "content: '\\\\e090';"
-	"content: '\\e092';":
+		body: "content: '\\e090';"
+	"oi-media-pause":
 		prefix: "oi-media-pause"
-		body: "content: '\\\\e092';"
-	"content: '\\e093';":
+		body: "content: '\\e092';"
+	"oi-media-play":
 		prefix: "oi-media-play"
-		body: "content: '\\\\e093';"
-	"content: '\\e094';":
+		body: "content: '\\e093';"
+	"oi-media-record":
 		prefix: "oi-media-record"
-		body: "content: '\\\\e094';"
-	"content: '\\e095';":
+		body: "content: '\\e094';"
+	"oi-media-skip-backward":
 		prefix: "oi-media-skip-backward"
-		body: "content: '\\\\e095';"
-	"content: '\\e096';":
+		body: "content: '\\e095';"
+	"oi-media-skip-forward":
 		prefix: "oi-media-skip-forward"
-		body: "content: '\\\\e096';"
-	"content: '\\e097';":
+		body: "content: '\\e096';"
+	"oi-media-step-backward":
 		prefix: "oi-media-step-backward"
-		body: "content: '\\\\e097';"
-	"content: '\\e098';":
+		body: "content: '\\e097';"
+	"oi-media-step-forward":
 		prefix: "oi-media-step-forward"
-		body: "content: '\\\\e098';"
-	"content: '\\e099';":
+		body: "content: '\\e098';"
+	"oi-media-stop":
 		prefix: "oi-media-stop"
-		body: "content: '\\\\e099';"
-	"content: '\\e09a';":
+		body: "content: '\\e099';"
+	"oi-medical-cross":
 		prefix: "oi-medical-cross"
-		body: "content: '\\\\e09a';"
-	"content: '\\e09b';":
+		body: "content: '\\e09a';"
+	"oi-menu":
 		prefix: "oi-menu"
-		body: "content: '\\\\e09b';"
-	"content: '\\e09c';":
+		body: "content: '\\e09b';"
+	"oi-microphone":
 		prefix: "oi-microphone"
-		body: "content: '\\\\e09c';"
-	"content: '\\e09d';":
+		body: "content: '\\e09c';"
+	"oi-minus":
 		prefix: "oi-minus"
-		body: "content: '\\\\e09d';"
-	"content: '\\e09e';":
+		body: "content: '\\e09d';"
+	"oi-monitor":
 		prefix: "oi-monitor"
-		body: "content: '\\\\e09e';"
-	"content: '\\e09f';":
+		body: "content: '\\e09e';"
+	"oi-moon":
 		prefix: "oi-moon"
-		body: "content: '\\\\e09f';"
-	"content: '\\e0a0';":
+		body: "content: '\\e09f';"
+	"oi-move":
 		prefix: "oi-move"
-		body: "content: '\\\\e0a0';"
-	"content: '\\e0a1';":
+		body: "content: '\\e0a0';"
+	"oi-musical-note":
 		prefix: "oi-musical-note"
-		body: "content: '\\\\e0a1';"
-	"content: '\\e0a2';":
+		body: "content: '\\e0a1';"
+	"oi-paperclip":
 		prefix: "oi-paperclip"
-		body: "content: '\\\\e0a2';"
-	"content: '\\e0a3';":
+		body: "content: '\\e0a2';"
+	"oi-pencil":
 		prefix: "oi-pencil"
-		body: "content: '\\\\e0a3';"
-	"content: '\\e0a4';":
+		body: "content: '\\e0a3';"
+	"oi-people":
 		prefix: "oi-people"
-		body: "content: '\\\\e0a4';"
-	"content: '\\e0a5';":
+		body: "content: '\\e0a4';"
+	"oi-person":
 		prefix: "oi-person"
-		body: "content: '\\\\e0a5';"
-	"content: '\\e0a6';":
+		body: "content: '\\e0a5';"
+	"oi-phone":
 		prefix: "oi-phone"
-		body: "content: '\\\\e0a6';"
-	"content: '\\e0a7';":
+		body: "content: '\\e0a6';"
+	"oi-pie-chart":
 		prefix: "oi-pie-chart"
-		body: "content: '\\\\e0a7';"
-	"content: '\\e0a8';":
+		body: "content: '\\e0a7';"
+	"oi-pin":
 		prefix: "oi-pin"
-		body: "content: '\\\\e0a8';"
-	"content: '\\e0a9';":
+		body: "content: '\\e0a8';"
+	"oi-play-circle":
 		prefix: "oi-play-circle"
-		body: "content: '\\\\e0a9';"
-	"content: '\\e0aa';":
+		body: "content: '\\e0a9';"
+	"oi-plus":
 		prefix: "oi-plus"
-		body: "content: '\\\\e0aa';"
-	"content: '\\e0ab';":
+		body: "content: '\\e0aa';"
+	"oi-power-standby":
 		prefix: "oi-power-standby"
-		body: "content: '\\\\e0ab';"
-	"content: '\\e0ac';":
+		body: "content: '\\e0ab';"
+	"oi-print":
 		prefix: "oi-print"
-		body: "content: '\\\\e0ac';"
-	"content: '\\e0ad';":
+		body: "content: '\\e0ac';"
+	"oi-project":
 		prefix: "oi-project"
-		body: "content: '\\\\e0ad';"
-	"content: '\\e0ae';":
+		body: "content: '\\e0ad';"
+	"oi-pulse":
 		prefix: "oi-pulse"
-		body: "content: '\\\\e0ae';"
-	"content: '\\e0af';":
+		body: "content: '\\e0ae';"
+	"oi-puzzle-piece":
 		prefix: "oi-puzzle-piece"
-		body: "content: '\\\\e0af';"
-	"content: '\\e0b0';":
+		body: "content: '\\e0af';"
+	"oi-question-mark":
 		prefix: "oi-question-mark"
-		body: "content: '\\\\e0b0';"
-	"content: '\\e0b1';":
+		body: "content: '\\e0b0';"
+	"oi-rain":
 		prefix: "oi-rain"
-		body: "content: '\\\\e0b1';"
-	"content: '\\e0b2';":
+		body: "content: '\\e0b1';"
+	"oi-random":
 		prefix: "oi-random"
-		body: "content: '\\\\e0b2';"
-	"content: '\\e0b3';":
+		body: "content: '\\e0b2';"
+	"oi-reload":
 		prefix: "oi-reload"
-		body: "content: '\\\\e0b3';"
-	"content: '\\e0b4';":
+		body: "content: '\\e0b3';"
+	"oi-resize-both":
 		prefix: "oi-resize-both"
-		body: "content: '\\\\e0b4';"
-	"content: '\\e0b5';":
+		body: "content: '\\e0b4';"
+	"oi-resize-height":
 		prefix: "oi-resize-height"
-		body: "content: '\\\\e0b5';"
-	"content: '\\e0b6';":
+		body: "content: '\\e0b5';"
+	"oi-resize-width":
 		prefix: "oi-resize-width"
-		body: "content: '\\\\e0b6';"
-	"content: '\\e0b8';":
+		body: "content: '\\e0b6';"
+	"oi-rss":
 		prefix: "oi-rss"
-		body: "content: '\\\\e0b8';"
-	"content: '\\e0b7';":
+		body: "content: '\\e0b8';"
+	"oi-rss-alt":
 		prefix: "oi-rss-alt"
-		body: "content: '\\\\e0b7';"
-	"content: '\\e0b9';":
+		body: "content: '\\e0b7';"
+	"oi-script":
 		prefix: "oi-script"
-		body: "content: '\\\\e0b9';"
-	"content: '\\e0bb';":
+		body: "content: '\\e0b9';"
+	"oi-share":
 		prefix: "oi-share"
-		body: "content: '\\\\e0bb';"
-	"content: '\\e0ba';":
+		body: "content: '\\e0bb';"
+	"oi-share-boxed":
 		prefix: "oi-share-boxed"
-		body: "content: '\\\\e0ba';"
-	"content: '\\e0bc';":
+		body: "content: '\\e0ba';"
+	"oi-shield":
 		prefix: "oi-shield"
-		body: "content: '\\\\e0bc';"
-	"content: '\\e0bd';":
+		body: "content: '\\e0bc';"
+	"oi-signal":
 		prefix: "oi-signal"
-		body: "content: '\\\\e0bd';"
-	"content: '\\e0be';":
+		body: "content: '\\e0bd';"
+	"oi-signpost":
 		prefix: "oi-signpost"
-		body: "content: '\\\\e0be';"
-	"content: '\\e0bf';":
+		body: "content: '\\e0be';"
+	"oi-sort-ascending":
 		prefix: "oi-sort-ascending"
-		body: "content: '\\\\e0bf';"
-	"content: '\\e0c0';":
+		body: "content: '\\e0bf';"
+	"oi-sort-descending":
 		prefix: "oi-sort-descending"
-		body: "content: '\\\\e0c0';"
-	"content: '\\e0c1';":
+		body: "content: '\\e0c0';"
+	"oi-spreadsheet":
 		prefix: "oi-spreadsheet"
-		body: "content: '\\\\e0c1';"
-	"content: '\\e0c2';":
+		body: "content: '\\e0c1';"
+	"oi-star":
 		prefix: "oi-star"
-		body: "content: '\\\\e0c2';"
-	"content: '\\e0c3';":
+		body: "content: '\\e0c2';"
+	"oi-sun":
 		prefix: "oi-sun"
-		body: "content: '\\\\e0c3';"
-	"content: '\\e0c4';":
+		body: "content: '\\e0c3';"
+	"oi-tablet":
 		prefix: "oi-tablet"
-		body: "content: '\\\\e0c4';"
-	"content: '\\e0c5';":
+		body: "content: '\\e0c4';"
+	"oi-tag":
 		prefix: "oi-tag"
-		body: "content: '\\\\e0c5';"
-	"content: '\\e0c6';":
+		body: "content: '\\e0c5';"
+	"oi-tags":
 		prefix: "oi-tags"
-		body: "content: '\\\\e0c6';"
-	"content: '\\e0c7';":
+		body: "content: '\\e0c6';"
+	"oi-target":
 		prefix: "oi-target"
-		body: "content: '\\\\e0c7';"
-	"content: '\\e0c8';":
+		body: "content: '\\e0c7';"
+	"oi-task":
 		prefix: "oi-task"
-		body: "content: '\\\\e0c8';"
-	"content: '\\e0c9';":
+		body: "content: '\\e0c8';"
+	"oi-terminal":
 		prefix: "oi-terminal"
-		body: "content: '\\\\e0c9';"
-	"content: '\\e0ca';":
+		body: "content: '\\e0c9';"
+	"oi-text":
 		prefix: "oi-text"
-		body: "content: '\\\\e0ca';"
-	"content: '\\e0cb';":
+		body: "content: '\\e0ca';"
+	"oi-thumb-down":
 		prefix: "oi-thumb-down"
-		body: "content: '\\\\e0cb';"
-	"content: '\\e0cc';":
+		body: "content: '\\e0cb';"
+	"oi-thumb-up":
 		prefix: "oi-thumb-up"
-		body: "content: '\\\\e0cc';"
-	"content: '\\e0cd';":
+		body: "content: '\\e0cc';"
+	"oi-timer":
 		prefix: "oi-timer"
-		body: "content: '\\\\e0cd';"
-	"content: '\\e0ce';":
+		body: "content: '\\e0cd';"
+	"oi-transfer":
 		prefix: "oi-transfer"
-		body: "content: '\\\\e0ce';"
-	"content: '\\e0cf';":
+		body: "content: '\\e0ce';"
+	"oi-trash":
 		prefix: "oi-trash"
-		body: "content: '\\\\e0cf';"
-	"content: '\\e0d0';":
+		body: "content: '\\e0cf';"
+	"oi-underline":
 		prefix: "oi-underline"
-		body: "content: '\\\\e0d0';"
-	"content: '\\e0d1';":
+		body: "content: '\\e0d0';"
+	"oi-vertical-align-bottom":
 		prefix: "oi-vertical-align-bottom"
-		body: "content: '\\\\e0d1';"
-	"content: '\\e0d2';":
+		body: "content: '\\e0d1';"
+	"oi-vertical-align-center":
 		prefix: "oi-vertical-align-center"
-		body: "content: '\\\\e0d2';"
-	"content: '\\e0d3';":
+		body: "content: '\\e0d2';"
+	"oi-vertical-align-top":
 		prefix: "oi-vertical-align-top"
-		body: "content: '\\\\e0d3';"
-	"content: '\\e0d4';":
+		body: "content: '\\e0d3';"
+	"oi-video":
 		prefix: "oi-video"
-		body: "content: '\\\\e0d4';"
-	"content: '\\e0d5';":
+		body: "content: '\\e0d4';"
+	"oi-volume-high":
 		prefix: "oi-volume-high"
-		body: "content: '\\\\e0d5';"
-	"content: '\\e0d6';":
+		body: "content: '\\e0d5';"
+	"oi-volume-low":
 		prefix: "oi-volume-low"
-		body: "content: '\\\\e0d6';"
-	"content: '\\e0d7';":
+		body: "content: '\\e0d6';"
+	"oi-volume-off":
 		prefix: "oi-volume-off"
-		body: "content: '\\\\e0d7';"
-	"content: '\\e0d8';":
+		body: "content: '\\e0d7';"
+	"oi-warning":
 		prefix: "oi-warning"
-		body: "content: '\\\\e0d8';"
-	"content: '\\e0d9';":
+		body: "content: '\\e0d8';"
+	"oi-wifi":
 		prefix: "oi-wifi"
-		body: "content: '\\\\e0d9';"
-	"content: '\\e0da';":
+		body: "content: '\\e0d9';"
+	"oi-wrench":
 		prefix: "oi-wrench"
-		body: "content: '\\\\e0da';"
-	"content: '\\e0db';":
+		body: "content: '\\e0da';"
+	"oi-x":
 		prefix: "oi-x"
-		body: "content: '\\\\e0db';"
-	"content: '\\e0dc';":
+		body: "content: '\\e0db';"
+	"oi-yen":
 		prefix: "oi-yen"
-		body: "content: '\\\\e0dc';"
-	"content: '\\e0dd';":
+		body: "content: '\\e0dc';"
+	"oi-zoom-in":
 		prefix: "oi-zoom-in"
-		body: "content: '\\\\e0dd';"
-	"content: '\\e0de';":
+		body: "content: '\\e0dd';"
+	"oi-zoom-out":
 		prefix: "oi-zoom-out"
-		body: "content: '\\\\e0de';"
+		body: "content: '\\e0de';"
