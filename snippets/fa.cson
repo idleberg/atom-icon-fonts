@@ -119,9 +119,9 @@
 	"fa-arrows":
 		prefix: "fa-arrows"
 		body: "<${1:i} class=\"fa fa-arrows$2\"></${1:i}>"
-	"fa-asl-interpreting (alias)":
-		prefix: "fa-asl-interpreting (alias)"
-		body: "<${1:i} class=\"fa fa-asl-interpreting (alias)$2\"></${1:i}>"
+	"fa-asl-interpreting":
+		prefix: "fa-asl-interpreting"
+		body: "<${1:i} class=\"fa fa-asl-interpreting$2\"></${1:i}>"
 	"fa-assistive-listening-systems":
 		prefix: "fa-assistive-listening-systems"
 		body: "<${1:i} class=\"fa fa-assistive-listening-systems$2\"></${1:i}>"
@@ -569,9 +569,9 @@
 	"fa-deaf":
 		prefix: "fa-deaf"
 		body: "<${1:i} class=\"fa fa-deaf$2\"></${1:i}>"
-	"fa-deafness (alias)":
-		prefix: "fa-deafness (alias)"
-		body: "<${1:i} class=\"fa fa-deafness (alias)$2\"></${1:i}>"
+	"fa-deafness":
+		prefix: "fa-deafness"
+		body: "<${1:i} class=\"fa fa-deafness$2\"></${1:i}>"
 	"fa-dedent":
 		prefix: "fa-dedent"
 		body: "<${1:i} class=\"fa fa-dedent$2\"></${1:i}>"
@@ -962,9 +962,9 @@
 	"fa-hand-stop-o":
 		prefix: "fa-hand-stop-o"
 		body: "<${1:i} class=\"fa fa-hand-stop-o$2\"></${1:i}>"
-	"fa-hard-of-hearing (alias)":
-		prefix: "fa-hard-of-hearing (alias)"
-		body: "<${1:i} class=\"fa fa-hard-of-hearing (alias)$2\"></${1:i}>"
+	"fa-hard-of-hearing":
+		prefix: "fa-hard-of-hearing"
+		body: "<${1:i} class=\"fa fa-hard-of-hearing$2\"></${1:i}>"
 	"fa-hashtag":
 		prefix: "fa-hashtag"
 		body: "<${1:i} class=\"fa fa-hashtag$2\"></${1:i}>"
@@ -1628,9 +1628,9 @@
 	"fa-signal":
 		prefix: "fa-signal"
 		body: "<${1:i} class=\"fa fa-signal$2\"></${1:i}>"
-	"fa-signing (alias)":
-		prefix: "fa-signing (alias)"
-		body: "<${1:i} class=\"fa fa-signing (alias)$2\"></${1:i}>"
+	"fa-signing":
+		prefix: "fa-signing"
+		body: "<${1:i} class=\"fa fa-signing$2\"></${1:i}>"
 	"fa-simplybuilt":
 		prefix: "fa-simplybuilt"
 		body: "<${1:i} class=\"fa fa-simplybuilt$2\"></${1:i}>"
