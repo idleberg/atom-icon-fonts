@@ -1,574 +1,574 @@
 ".source.css,.source.sass":
 	"devicons-android":
 		prefix: "devicons-android"
-		body: "content: '\\e60e';"
+		body: "content: '\\\\e60e';"
 	"devicons-angular":
 		prefix: "devicons-angular"
-		body: "content: '\\e653';"
+		body: "content: '\\\\e653';"
 	"devicons-appcelerator":
 		prefix: "devicons-appcelerator"
-		body: "content: '\\e6ab';"
+		body: "content: '\\\\e6ab';"
 	"devicons-apple":
 		prefix: "devicons-apple"
-		body: "content: '\\e611';"
+		body: "content: '\\\\e611';"
 	"devicons-appstore":
 		prefix: "devicons-appstore"
-		body: "content: '\\e613';"
+		body: "content: '\\\\e613';"
 	"devicons-aptana":
 		prefix: "devicons-aptana"
-		body: "content: '\\e699';"
+		body: "content: '\\\\e699';"
 	"devicons-asterisk":
 		prefix: "devicons-asterisk"
-		body: "content: '\\e6ac';"
+		body: "content: '\\\\e6ac';"
 	"devicons-atlassian":
 		prefix: "devicons-atlassian"
-		body: "content: '\\e65b';"
+		body: "content: '\\\\e65b';"
 	"devicons-atom":
 		prefix: "devicons-atom"
-		body: "content: '\\e664';"
+		body: "content: '\\\\e664';"
 	"devicons-aws":
 		prefix: "devicons-aws"
-		body: "content: '\\e6ad';"
+		body: "content: '\\\\e6ad';"
 	"devicons-backbone":
 		prefix: "devicons-backbone"
-		body: "content: '\\e652';"
+		body: "content: '\\\\e652';"
 	"devicons-bing_small":
 		prefix: "devicons-bing_small"
-		body: "content: '\\e600';"
+		body: "content: '\\\\e600';"
 	"devicons-bintray":
 		prefix: "devicons-bintray"
-		body: "content: '\\e694';"
+		body: "content: '\\\\e694';"
 	"devicons-bitbucket":
 		prefix: "devicons-bitbucket"
-		body: "content: '\\e603';"
+		body: "content: '\\\\e603';"
 	"devicons-blackberry":
 		prefix: "devicons-blackberry"
-		body: "content: '\\e623';"
+		body: "content: '\\\\e623';"
 	"devicons-bootstrap":
 		prefix: "devicons-bootstrap"
-		body: "content: '\\e647';"
+		body: "content: '\\\\e647';"
 	"devicons-bower":
 		prefix: "devicons-bower"
-		body: "content: '\\e64d';"
+		body: "content: '\\\\e64d';"
 	"devicons-brackets":
 		prefix: "devicons-brackets"
-		body: "content: '\\e69d';"
+		body: "content: '\\\\e69d';"
 	"devicons-bugsense":
 		prefix: "devicons-bugsense"
-		body: "content: '\\e68d';"
+		body: "content: '\\\\e68d';"
 	"devicons-celluloid":
 		prefix: "devicons-celluloid"
-		body: "content: '\\e66b';"
+		body: "content: '\\\\e66b';"
 	"devicons-chrome":
 		prefix: "devicons-chrome"
-		body: "content: '\\e643';"
+		body: "content: '\\\\e643';"
 	"devicons-cisco":
 		prefix: "devicons-cisco"
-		body: "content: '\\e665';"
+		body: "content: '\\\\e665';"
 	"devicons-clojure":
 		prefix: "devicons-clojure"
-		body: "content: '\\e668';"
+		body: "content: '\\\\e668';"
 	"devicons-clojure_alt":
 		prefix: "devicons-clojure_alt"
-		body: "content: '\\e66a';"
+		body: "content: '\\\\e66a';"
 	"devicons-cloud9":
 		prefix: "devicons-cloud9"
-		body: "content: '\\e69f';"
+		body: "content: '\\\\e69f';"
 	"devicons-coda":
 		prefix: "devicons-coda"
-		body: "content: '\\e693';"
+		body: "content: '\\\\e693';"
 	"devicons-code":
 		prefix: "devicons-code"
-		body: "content: '\\e696';"
+		body: "content: '\\\\e696';"
 	"devicons-code_badge":
 		prefix: "devicons-code_badge"
-		body: "content: '\\e6a3';"
+		body: "content: '\\\\e6a3';"
 	"devicons-codeigniter":
 		prefix: "devicons-codeigniter"
-		body: "content: '\\e680';"
+		body: "content: '\\\\e680';"
 	"devicons-codepen":
 		prefix: "devicons-codepen"
-		body: "content: '\\e616';"
+		body: "content: '\\\\e616';"
 	"devicons-codrops":
 		prefix: "devicons-codrops"
-		body: "content: '\\e62f';"
+		body: "content: '\\\\e62f';"
 	"devicons-coffeescript":
 		prefix: "devicons-coffeescript"
-		body: "content: '\\e651';"
+		body: "content: '\\\\e651';"
 	"devicons-compass":
 		prefix: "devicons-compass"
-		body: "content: '\\e661';"
+		body: "content: '\\\\e661';"
 	"devicons-composer":
 		prefix: "devicons-composer"
-		body: "content: '\\e683';"
+		body: "content: '\\\\e683';"
 	"devicons-creativecommons":
 		prefix: "devicons-creativecommons"
-		body: "content: '\\e689';"
+		body: "content: '\\\\e689';"
 	"devicons-creativecommons_badge":
 		prefix: "devicons-creativecommons_badge"
-		body: "content: '\\e68a';"
+		body: "content: '\\\\e68a';"
 	"devicons-css3":
 		prefix: "devicons-css3"
-		body: "content: '\\e649';"
+		body: "content: '\\\\e649';"
 	"devicons-css3_full":
 		prefix: "devicons-css3_full"
-		body: "content: '\\e64a';"
+		body: "content: '\\\\e64a';"
 	"devicons-css_tricks":
 		prefix: "devicons-css_tricks"
-		body: "content: '\\e601';"
+		body: "content: '\\\\e601';"
 	"devicons-cssdeck":
 		prefix: "devicons-cssdeck"
-		body: "content: '\\e62a';"
+		body: "content: '\\\\e62a';"
 	"devicons-dart":
 		prefix: "devicons-dart"
-		body: "content: '\\e698';"
+		body: "content: '\\\\e698';"
 	"devicons-database":
 		prefix: "devicons-database"
-		body: "content: '\\e606';"
+		body: "content: '\\\\e606';"
 	"devicons-debian":
 		prefix: "devicons-debian"
-		body: "content: '\\e67d';"
+		body: "content: '\\\\e67d';"
 	"devicons-digital-ocean":
 		prefix: "devicons-digital-ocean"
-		body: "content: '\\e6ae';"
+		body: "content: '\\\\e6ae';"
 	"devicons-django":
 		prefix: "devicons-django"
-		body: "content: '\\e61d';"
+		body: "content: '\\\\e61d';"
 	"devicons-dlang":
 		prefix: "devicons-dlang"
-		body: "content: '\\e6af';"
+		body: "content: '\\\\e6af';"
 	"devicons-docker":
 		prefix: "devicons-docker"
-		body: "content: '\\e6b0';"
+		body: "content: '\\\\e6b0';"
 	"devicons-doctrine":
 		prefix: "devicons-doctrine"
-		body: "content: '\\e674';"
+		body: "content: '\\\\e674';"
 	"devicons-dojo":
 		prefix: "devicons-dojo"
-		body: "content: '\\e61c';"
+		body: "content: '\\\\e61c';"
 	"devicons-dotnet":
 		prefix: "devicons-dotnet"
-		body: "content: '\\e67f';"
+		body: "content: '\\\\e67f';"
 	"devicons-dreamweaver":
 		prefix: "devicons-dreamweaver"
-		body: "content: '\\e69c';"
+		body: "content: '\\\\e69c';"
 	"devicons-dropbox":
 		prefix: "devicons-dropbox"
-		body: "content: '\\e607';"
+		body: "content: '\\\\e607';"
 	"devicons-drupal":
 		prefix: "devicons-drupal"
-		body: "content: '\\e642';"
+		body: "content: '\\\\e642';"
 	"devicons-eclipse":
 		prefix: "devicons-eclipse"
-		body: "content: '\\e69e';"
+		body: "content: '\\\\e69e';"
 	"devicons-ember":
 		prefix: "devicons-ember"
-		body: "content: '\\e61b';"
+		body: "content: '\\\\e61b';"
 	"devicons-envato":
 		prefix: "devicons-envato"
-		body: "content: '\\e65d';"
+		body: "content: '\\\\e65d';"
 	"devicons-erlang":
 		prefix: "devicons-erlang"
-		body: "content: '\\e6b1';"
+		body: "content: '\\\\e6b1';"
 	"devicons-extjs":
 		prefix: "devicons-extjs"
-		body: "content: '\\e68e';"
+		body: "content: '\\\\e68e';"
 	"devicons-firebase":
 		prefix: "devicons-firebase"
-		body: "content: '\\e687';"
+		body: "content: '\\\\e687';"
 	"devicons-firefox":
 		prefix: "devicons-firefox"
-		body: "content: '\\e645';"
+		body: "content: '\\\\e645';"
 	"devicons-fsharp":
 		prefix: "devicons-fsharp"
-		body: "content: '\\e6a7';"
+		body: "content: '\\\\e6a7';"
 	"devicons-ghost":
 		prefix: "devicons-ghost"
-		body: "content: '\\e61f';"
+		body: "content: '\\\\e61f';"
 	"devicons-ghost_small":
 		prefix: "devicons-ghost_small"
-		body: "content: '\\e614';"
+		body: "content: '\\\\e614';"
 	"devicons-git":
 		prefix: "devicons-git"
-		body: "content: '\\e602';"
+		body: "content: '\\\\e602';"
 	"devicons-git_branch":
 		prefix: "devicons-git_branch"
-		body: "content: '\\e625';"
+		body: "content: '\\\\e625';"
 	"devicons-git_commit":
 		prefix: "devicons-git_commit"
-		body: "content: '\\e629';"
+		body: "content: '\\\\e629';"
 	"devicons-git_compare":
 		prefix: "devicons-git_compare"
-		body: "content: '\\e628';"
+		body: "content: '\\\\e628';"
 	"devicons-git_merge":
 		prefix: "devicons-git_merge"
-		body: "content: '\\e627';"
+		body: "content: '\\\\e627';"
 	"devicons-git_pull_request":
 		prefix: "devicons-git_pull_request"
-		body: "content: '\\e626';"
+		body: "content: '\\\\e626';"
 	"devicons-github":
 		prefix: "devicons-github"
-		body: "content: '\\e60a';"
+		body: "content: '\\\\e60a';"
 	"devicons-github_alt":
 		prefix: "devicons-github_alt"
-		body: "content: '\\e608';"
+		body: "content: '\\\\e608';"
 	"devicons-github_badge":
 		prefix: "devicons-github_badge"
-		body: "content: '\\e609';"
+		body: "content: '\\\\e609';"
 	"devicons-github_full":
 		prefix: "devicons-github_full"
-		body: "content: '\\e617';"
+		body: "content: '\\\\e617';"
 	"devicons-gnu":
 		prefix: "devicons-gnu"
-		body: "content: '\\e679';"
+		body: "content: '\\\\e679';"
 	"devicons-go":
 		prefix: "devicons-go"
-		body: "content: '\\e624';"
+		body: "content: '\\\\e624';"
 	"devicons-google-cloud-platform":
 		prefix: "devicons-google-cloud-platform"
-		body: "content: '\\e6b2';"
+		body: "content: '\\\\e6b2';"
 	"devicons-google_analytics":
 		prefix: "devicons-google_analytics"
-		body: "content: '\\e660';"
+		body: "content: '\\\\e660';"
 	"devicons-google_drive":
 		prefix: "devicons-google_drive"
-		body: "content: '\\e631';"
+		body: "content: '\\\\e631';"
 	"devicons-grails":
 		prefix: "devicons-grails"
-		body: "content: '\\e6b3';"
+		body: "content: '\\\\e6b3';"
 	"devicons-groovy":
 		prefix: "devicons-groovy"
-		body: "content: '\\e675';"
+		body: "content: '\\\\e675';"
 	"devicons-grunt":
 		prefix: "devicons-grunt"
-		body: "content: '\\e64c';"
+		body: "content: '\\\\e64c';"
 	"devicons-gulp":
 		prefix: "devicons-gulp"
-		body: "content: '\\e663';"
+		body: "content: '\\\\e663';"
 	"devicons-hackernews":
 		prefix: "devicons-hackernews"
-		body: "content: '\\e61a';"
+		body: "content: '\\\\e61a';"
 	"devicons-haskell":
 		prefix: "devicons-haskell"
-		body: "content: '\\e677';"
+		body: "content: '\\\\e677';"
 	"devicons-heroku":
 		prefix: "devicons-heroku"
-		body: "content: '\\e67b';"
+		body: "content: '\\\\e67b';"
 	"devicons-html5":
 		prefix: "devicons-html5"
-		body: "content: '\\e636';"
+		body: "content: '\\\\e636';"
 	"devicons-html5_3d_effects":
 		prefix: "devicons-html5_3d_effects"
-		body: "content: '\\e635';"
+		body: "content: '\\\\e635';"
 	"devicons-html5_connectivity":
 		prefix: "devicons-html5_connectivity"
-		body: "content: '\\e634';"
+		body: "content: '\\\\e634';"
 	"devicons-html5_device_access":
 		prefix: "devicons-html5_device_access"
-		body: "content: '\\e633';"
+		body: "content: '\\\\e633';"
 	"devicons-html5_multimedia":
 		prefix: "devicons-html5_multimedia"
-		body: "content: '\\e632';"
+		body: "content: '\\\\e632';"
 	"devicons-ie":
 		prefix: "devicons-ie"
-		body: "content: '\\e644';"
+		body: "content: '\\\\e644';"
 	"devicons-illustrator":
 		prefix: "devicons-illustrator"
-		body: "content: '\\e6b4';"
+		body: "content: '\\\\e6b4';"
 	"devicons-intellij":
 		prefix: "devicons-intellij"
-		body: "content: '\\e6b5';"
+		body: "content: '\\\\e6b5';"
 	"devicons-ionic":
 		prefix: "devicons-ionic"
-		body: "content: '\\e6a9';"
+		body: "content: '\\\\e6a9';"
 	"devicons-java":
 		prefix: "devicons-java"
-		body: "content: '\\e638';"
+		body: "content: '\\\\e638';"
 	"devicons-javascript":
 		prefix: "devicons-javascript"
-		body: "content: '\\e64e';"
+		body: "content: '\\\\e64e';"
 	"devicons-javascript_badge":
 		prefix: "devicons-javascript_badge"
-		body: "content: '\\e681';"
+		body: "content: '\\\\e681';"
 	"devicons-javascript_shield":
 		prefix: "devicons-javascript_shield"
-		body: "content: '\\e64f';"
+		body: "content: '\\\\e64f';"
 	"devicons-jekyll_small":
 		prefix: "devicons-jekyll_small"
-		body: "content: '\\e60d';"
+		body: "content: '\\\\e60d';"
 	"devicons-jenkins":
 		prefix: "devicons-jenkins"
-		body: "content: '\\e667';"
+		body: "content: '\\\\e667';"
 	"devicons-jira":
 		prefix: "devicons-jira"
-		body: "content: '\\e65c';"
+		body: "content: '\\\\e65c';"
 	"devicons-joomla":
 		prefix: "devicons-joomla"
-		body: "content: '\\e641';"
+		body: "content: '\\\\e641';"
 	"devicons-jquery":
 		prefix: "devicons-jquery"
-		body: "content: '\\e650';"
+		body: "content: '\\\\e650';"
 	"devicons-jquery_ui":
 		prefix: "devicons-jquery_ui"
-		body: "content: '\\e654';"
+		body: "content: '\\\\e654';"
 	"devicons-komodo":
 		prefix: "devicons-komodo"
-		body: "content: '\\e692';"
+		body: "content: '\\\\e692';"
 	"devicons-krakenjs":
 		prefix: "devicons-krakenjs"
-		body: "content: '\\e685';"
+		body: "content: '\\\\e685';"
 	"devicons-krakenjs_badge":
 		prefix: "devicons-krakenjs_badge"
-		body: "content: '\\e684';"
+		body: "content: '\\\\e684';"
 	"devicons-laravel":
 		prefix: "devicons-laravel"
-		body: "content: '\\e63f';"
+		body: "content: '\\\\e63f';"
 	"devicons-less":
 		prefix: "devicons-less"
-		body: "content: '\\e658';"
+		body: "content: '\\\\e658';"
 	"devicons-linux":
 		prefix: "devicons-linux"
-		body: "content: '\\e612';"
+		body: "content: '\\\\e612';"
 	"devicons-magento":
 		prefix: "devicons-magento"
-		body: "content: '\\e640';"
+		body: "content: '\\\\e640';"
 	"devicons-mailchimp":
 		prefix: "devicons-mailchimp"
-		body: "content: '\\e69a';"
+		body: "content: '\\\\e69a';"
 	"devicons-markdown":
 		prefix: "devicons-markdown"
-		body: "content: '\\e63e';"
+		body: "content: '\\\\e63e';"
 	"devicons-materializecss":
 		prefix: "devicons-materializecss"
-		body: "content: '\\e6b6';"
+		body: "content: '\\\\e6b6';"
 	"devicons-meteor":
 		prefix: "devicons-meteor"
-		body: "content: '\\e6a5';"
+		body: "content: '\\\\e6a5';"
 	"devicons-meteorfull":
 		prefix: "devicons-meteorfull"
-		body: "content: '\\e6a6';"
+		body: "content: '\\\\e6a6';"
 	"devicons-mitlicence":
 		prefix: "devicons-mitlicence"
-		body: "content: '\\e68b';"
+		body: "content: '\\\\e68b';"
 	"devicons-modernizr":
 		prefix: "devicons-modernizr"
-		body: "content: '\\e620';"
+		body: "content: '\\\\e620';"
 	"devicons-mongodb":
 		prefix: "devicons-mongodb"
-		body: "content: '\\e6a4';"
+		body: "content: '\\\\e6a4';"
 	"devicons-mootools":
 		prefix: "devicons-mootools"
-		body: "content: '\\e690';"
+		body: "content: '\\\\e690';"
 	"devicons-mootools_badge":
 		prefix: "devicons-mootools_badge"
-		body: "content: '\\e68f';"
+		body: "content: '\\\\e68f';"
 	"devicons-mozilla":
 		prefix: "devicons-mozilla"
-		body: "content: '\\e686';"
+		body: "content: '\\\\e686';"
 	"devicons-msql_server":
 		prefix: "devicons-msql_server"
-		body: "content: '\\e67c';"
+		body: "content: '\\\\e67c';"
 	"devicons-mysql":
 		prefix: "devicons-mysql"
-		body: "content: '\\e604';"
+		body: "content: '\\\\e604';"
 	"devicons-nancy":
 		prefix: "devicons-nancy"
-		body: "content: '\\e666';"
+		body: "content: '\\\\e666';"
 	"devicons-netbeans":
 		prefix: "devicons-netbeans"
-		body: "content: '\\e69b';"
+		body: "content: '\\\\e69b';"
 	"devicons-netmagazine":
 		prefix: "devicons-netmagazine"
-		body: "content: '\\e62e';"
+		body: "content: '\\\\e62e';"
 	"devicons-nginx":
 		prefix: "devicons-nginx"
-		body: "content: '\\e676';"
+		body: "content: '\\\\e676';"
 	"devicons-nodejs":
 		prefix: "devicons-nodejs"
-		body: "content: '\\e619';"
+		body: "content: '\\\\e619';"
 	"devicons-nodejs_small":
 		prefix: "devicons-nodejs_small"
-		body: "content: '\\e618';"
+		body: "content: '\\\\e618';"
 	"devicons-npm":
 		prefix: "devicons-npm"
-		body: "content: '\\e61e';"
+		body: "content: '\\\\e61e';"
 	"devicons-onedrive":
 		prefix: "devicons-onedrive"
-		body: "content: '\\e662';"
+		body: "content: '\\\\e662';"
 	"devicons-openshift":
 		prefix: "devicons-openshift"
-		body: "content: '\\e6b7';"
+		body: "content: '\\\\e6b7';"
 	"devicons-opensource":
 		prefix: "devicons-opensource"
-		body: "content: '\\e671';"
+		body: "content: '\\\\e671';"
 	"devicons-opera":
 		prefix: "devicons-opera"
-		body: "content: '\\e646';"
+		body: "content: '\\\\e646';"
 	"devicons-perl":
 		prefix: "devicons-perl"
-		body: "content: '\\e669';"
+		body: "content: '\\\\e669';"
 	"devicons-phonegap":
 		prefix: "devicons-phonegap"
-		body: "content: '\\e630';"
+		body: "content: '\\\\e630';"
 	"devicons-photoshop":
 		prefix: "devicons-photoshop"
-		body: "content: '\\e6b8';"
+		body: "content: '\\\\e6b8';"
 	"devicons-php":
 		prefix: "devicons-php"
-		body: "content: '\\e63d';"
+		body: "content: '\\\\e63d';"
 	"devicons-postgresql":
 		prefix: "devicons-postgresql"
-		body: "content: '\\e66e';"
+		body: "content: '\\\\e66e';"
 	"devicons-prolog":
 		prefix: "devicons-prolog"
-		body: "content: '\\e6a1';"
+		body: "content: '\\\\e6a1';"
 	"devicons-python":
 		prefix: "devicons-python"
-		body: "content: '\\e63c';"
+		body: "content: '\\\\e63c';"
 	"devicons-rackspace":
 		prefix: "devicons-rackspace"
-		body: "content: '\\e6b9';"
+		body: "content: '\\\\e6b9';"
 	"devicons-raphael":
 		prefix: "devicons-raphael"
-		body: "content: '\\e65f';"
+		body: "content: '\\\\e65f';"
 	"devicons-raspberry_pi":
 		prefix: "devicons-raspberry_pi"
-		body: "content: '\\e622';"
+		body: "content: '\\\\e622';"
 	"devicons-react":
 		prefix: "devicons-react"
-		body: "content: '\\e6ba';"
+		body: "content: '\\\\e6ba';"
 	"devicons-redhat":
 		prefix: "devicons-redhat"
-		body: "content: '\\e6bb';"
+		body: "content: '\\\\e6bb';"
 	"devicons-redis":
 		prefix: "devicons-redis"
-		body: "content: '\\e66d';"
+		body: "content: '\\\\e66d';"
 	"devicons-requirejs":
 		prefix: "devicons-requirejs"
-		body: "content: '\\e670';"
+		body: "content: '\\\\e670';"
 	"devicons-responsive":
 		prefix: "devicons-responsive"
-		body: "content: '\\e697';"
+		body: "content: '\\\\e697';"
 	"devicons-ruby":
 		prefix: "devicons-ruby"
-		body: "content: '\\e639';"
+		body: "content: '\\\\e639';"
 	"devicons-ruby_on_rails":
 		prefix: "devicons-ruby_on_rails"
-		body: "content: '\\e63b';"
+		body: "content: '\\\\e63b';"
 	"devicons-ruby_rough":
 		prefix: "devicons-ruby_rough"
-		body: "content: '\\e691';"
+		body: "content: '\\\\e691';"
 	"devicons-rust":
 		prefix: "devicons-rust"
-		body: "content: '\\e6a8';"
+		body: "content: '\\\\e6a8';"
 	"devicons-safari":
 		prefix: "devicons-safari"
-		body: "content: '\\e648';"
+		body: "content: '\\\\e648';"
 	"devicons-sass":
 		prefix: "devicons-sass"
-		body: "content: '\\e64b';"
+		body: "content: '\\\\e64b';"
 	"devicons-scala":
 		prefix: "devicons-scala"
-		body: "content: '\\e637';"
+		body: "content: '\\\\e637';"
 	"devicons-scriptcs":
 		prefix: "devicons-scriptcs"
-		body: "content: '\\e6bc';"
+		body: "content: '\\\\e6bc';"
 	"devicons-scrum":
 		prefix: "devicons-scrum"
-		body: "content: '\\e6a0';"
+		body: "content: '\\\\e6a0';"
 	"devicons-senchatouch":
 		prefix: "devicons-senchatouch"
-		body: "content: '\\e68c';"
+		body: "content: '\\\\e68c';"
 	"devicons-sizzlejs":
 		prefix: "devicons-sizzlejs"
-		body: "content: '\\e688';"
+		body: "content: '\\\\e688';"
 	"devicons-smashing_magazine":
 		prefix: "devicons-smashing_magazine"
-		body: "content: '\\e62d';"
+		body: "content: '\\\\e62d';"
 	"devicons-snap_svg":
 		prefix: "devicons-snap_svg"
-		body: "content: '\\e65e';"
+		body: "content: '\\\\e65e';"
 	"devicons-sqllite":
 		prefix: "devicons-sqllite"
-		body: "content: '\\e6c4';"
+		body: "content: '\\\\e6c4';"
 	"devicons-stackoverflow":
 		prefix: "devicons-stackoverflow"
-		body: "content: '\\e610';"
+		body: "content: '\\\\e610';"
 	"devicons-streamline":
 		prefix: "devicons-streamline"
-		body: "content: '\\e605';"
+		body: "content: '\\\\e605';"
 	"devicons-stylus":
 		prefix: "devicons-stylus"
-		body: "content: '\\e659';"
+		body: "content: '\\\\e659';"
 	"devicons-sublime":
 		prefix: "devicons-sublime"
-		body: "content: '\\e6aa';"
+		body: "content: '\\\\e6aa';"
 	"devicons-swift":
 		prefix: "devicons-swift"
-		body: "content: '\\e655';"
+		body: "content: '\\\\e655';"
 	"devicons-symfony":
 		prefix: "devicons-symfony"
-		body: "content: '\\e656';"
+		body: "content: '\\\\e656';"
 	"devicons-symfony_badge":
 		prefix: "devicons-symfony_badge"
-		body: "content: '\\e657';"
+		body: "content: '\\\\e657';"
 	"devicons-techcrunch":
 		prefix: "devicons-techcrunch"
-		body: "content: '\\e62c';"
+		body: "content: '\\\\e62c';"
 	"devicons-terminal":
 		prefix: "devicons-terminal"
-		body: "content: '\\e695';"
+		body: "content: '\\\\e695';"
 	"devicons-terminal_badge":
 		prefix: "devicons-terminal_badge"
-		body: "content: '\\e6a2';"
+		body: "content: '\\\\e6a2';"
 	"devicons-travis":
 		prefix: "devicons-travis"
-		body: "content: '\\e67e';"
+		body: "content: '\\\\e67e';"
 	"devicons-trello":
 		prefix: "devicons-trello"
-		body: "content: '\\e65a';"
+		body: "content: '\\\\e65a';"
 	"devicons-typo3":
 		prefix: "devicons-typo3"
-		body: "content: '\\e672';"
+		body: "content: '\\\\e672';"
 	"devicons-ubuntu":
 		prefix: "devicons-ubuntu"
-		body: "content: '\\e63a';"
+		body: "content: '\\\\e63a';"
 	"devicons-uikit":
 		prefix: "devicons-uikit"
-		body: "content: '\\e673';"
+		body: "content: '\\\\e673';"
 	"devicons-unity_small":
 		prefix: "devicons-unity_small"
-		body: "content: '\\e621';"
+		body: "content: '\\\\e621';"
 	"devicons-vim":
 		prefix: "devicons-vim"
-		body: "content: '\\e6c5';"
+		body: "content: '\\\\e6c5';"
 	"devicons-visualstudio":
 		prefix: "devicons-visualstudio"
-		body: "content: '\\e60c';"
+		body: "content: '\\\\e60c';"
 	"devicons-w3c":
 		prefix: "devicons-w3c"
-		body: "content: '\\e66c';"
+		body: "content: '\\\\e66c';"
 	"devicons-webplatform":
 		prefix: "devicons-webplatform"
-		body: "content: '\\e66f';"
+		body: "content: '\\\\e66f';"
 	"devicons-windows":
 		prefix: "devicons-windows"
-		body: "content: '\\e60f';"
+		body: "content: '\\\\e60f';"
 	"devicons-wordpress":
 		prefix: "devicons-wordpress"
-		body: "content: '\\e60b';"
+		body: "content: '\\\\e60b';"
 	"devicons-yahoo":
 		prefix: "devicons-yahoo"
-		body: "content: '\\e615';"
+		body: "content: '\\\\e615';"
 	"devicons-yahoo_small":
 		prefix: "devicons-yahoo_small"
-		body: "content: '\\e62b';"
+		body: "content: '\\\\e62b';"
 	"devicons-yeoman":
 		prefix: "devicons-yeoman"
-		body: "content: '\\e67a';"
+		body: "content: '\\\\e67a';"
 	"devicons-yii":
 		prefix: "devicons-yii"
-		body: "content: '\\e682';"
+		body: "content: '\\\\e682';"
 	"devicons-zend":
 		prefix: "devicons-zend"
-		body: "content: '\\e678';"
+		body: "content: '\\\\e678';"
