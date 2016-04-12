@@ -1,2164 +1,2164 @@
-".source.css,.source.sass":
-	"content: '\\f26e';":
+".text.html":
+	"fa-500px":
 		prefix: "fa-500px"
-		body: "content: '\\\\f26e';"
-	"content: '\\f042';":
+		body: "<${1:i} class=\"fa fa-500px$2\"></${1:i}>"
+	"fa-adjust":
 		prefix: "fa-adjust"
-		body: "content: '\\\\f042';"
-	"content: '\\f170';":
+		body: "<${1:i} class=\"fa fa-adjust$2\"></${1:i}>"
+	"fa-adn":
 		prefix: "fa-adn"
-		body: "content: '\\\\f170';"
-	"content: '\\f037';":
+		body: "<${1:i} class=\"fa fa-adn$2\"></${1:i}>"
+	"fa-align-center":
 		prefix: "fa-align-center"
-		body: "content: '\\\\f037';"
-	"content: '\\f039';":
+		body: "<${1:i} class=\"fa fa-align-center$2\"></${1:i}>"
+	"fa-align-justify":
 		prefix: "fa-align-justify"
-		body: "content: '\\\\f039';"
-	"content: '\\f036';":
+		body: "<${1:i} class=\"fa fa-align-justify$2\"></${1:i}>"
+	"fa-align-left":
 		prefix: "fa-align-left"
-		body: "content: '\\\\f036';"
-	"content: '\\f038';":
+		body: "<${1:i} class=\"fa fa-align-left$2\"></${1:i}>"
+	"fa-align-right":
 		prefix: "fa-align-right"
-		body: "content: '\\\\f038';"
-	"content: '\\f270';":
+		body: "<${1:i} class=\"fa fa-align-right$2\"></${1:i}>"
+	"fa-amazon":
 		prefix: "fa-amazon"
-		body: "content: '\\\\f270';"
-	"content: '\\f0f9';":
+		body: "<${1:i} class=\"fa fa-amazon$2\"></${1:i}>"
+	"fa-ambulance":
 		prefix: "fa-ambulance"
-		body: "content: '\\\\f0f9';"
-	"content: '\\f2a3';":
+		body: "<${1:i} class=\"fa fa-ambulance$2\"></${1:i}>"
+	"fa-american-sign-language-interpreting":
 		prefix: "fa-american-sign-language-interpreting"
-		body: "content: '\\\\f2a3';"
-	"content: '\\f13d';":
+		body: "<${1:i} class=\"fa fa-american-sign-language-interpreting$2\"></${1:i}>"
+	"fa-anchor":
 		prefix: "fa-anchor"
-		body: "content: '\\\\f13d';"
-	"content: '\\f17b';":
+		body: "<${1:i} class=\"fa fa-anchor$2\"></${1:i}>"
+	"fa-android":
 		prefix: "fa-android"
-		body: "content: '\\\\f17b';"
-	"content: '\\f209';":
+		body: "<${1:i} class=\"fa fa-android$2\"></${1:i}>"
+	"fa-angellist":
 		prefix: "fa-angellist"
-		body: "content: '\\\\f209';"
-	"content: '\\f103';":
+		body: "<${1:i} class=\"fa fa-angellist$2\"></${1:i}>"
+	"fa-angle-double-down":
 		prefix: "fa-angle-double-down"
-		body: "content: '\\\\f103';"
-	"content: '\\f100';":
+		body: "<${1:i} class=\"fa fa-angle-double-down$2\"></${1:i}>"
+	"fa-angle-double-left":
 		prefix: "fa-angle-double-left"
-		body: "content: '\\\\f100';"
-	"content: '\\f101';":
+		body: "<${1:i} class=\"fa fa-angle-double-left$2\"></${1:i}>"
+	"fa-angle-double-right":
 		prefix: "fa-angle-double-right"
-		body: "content: '\\\\f101';"
-	"content: '\\f102';":
+		body: "<${1:i} class=\"fa fa-angle-double-right$2\"></${1:i}>"
+	"fa-angle-double-up":
 		prefix: "fa-angle-double-up"
-		body: "content: '\\\\f102';"
-	"content: '\\f107';":
+		body: "<${1:i} class=\"fa fa-angle-double-up$2\"></${1:i}>"
+	"fa-angle-down":
 		prefix: "fa-angle-down"
-		body: "content: '\\\\f107';"
-	"content: '\\f104';":
+		body: "<${1:i} class=\"fa fa-angle-down$2\"></${1:i}>"
+	"fa-angle-left":
 		prefix: "fa-angle-left"
-		body: "content: '\\\\f104';"
-	"content: '\\f105';":
+		body: "<${1:i} class=\"fa fa-angle-left$2\"></${1:i}>"
+	"fa-angle-right":
 		prefix: "fa-angle-right"
-		body: "content: '\\\\f105';"
-	"content: '\\f106';":
+		body: "<${1:i} class=\"fa fa-angle-right$2\"></${1:i}>"
+	"fa-angle-up":
 		prefix: "fa-angle-up"
-		body: "content: '\\\\f106';"
-	"content: '\\f179';":
+		body: "<${1:i} class=\"fa fa-angle-up$2\"></${1:i}>"
+	"fa-apple":
 		prefix: "fa-apple"
-		body: "content: '\\\\f179';"
-	"content: '\\f187';":
+		body: "<${1:i} class=\"fa fa-apple$2\"></${1:i}>"
+	"fa-archive":
 		prefix: "fa-archive"
-		body: "content: '\\\\f187';"
-	"content: '\\f1fe';":
+		body: "<${1:i} class=\"fa fa-archive$2\"></${1:i}>"
+	"fa-area-chart":
 		prefix: "fa-area-chart"
-		body: "content: '\\\\f1fe';"
-	"content: '\\f0ab';":
+		body: "<${1:i} class=\"fa fa-area-chart$2\"></${1:i}>"
+	"fa-arrow-circle-down":
 		prefix: "fa-arrow-circle-down"
-		body: "content: '\\\\f0ab';"
-	"content: '\\f0a8';":
+		body: "<${1:i} class=\"fa fa-arrow-circle-down$2\"></${1:i}>"
+	"fa-arrow-circle-left":
 		prefix: "fa-arrow-circle-left"
-		body: "content: '\\\\f0a8';"
-	"content: '\\f01a';":
+		body: "<${1:i} class=\"fa fa-arrow-circle-left$2\"></${1:i}>"
+	"fa-arrow-circle-o-down":
 		prefix: "fa-arrow-circle-o-down"
-		body: "content: '\\\\f01a';"
-	"content: '\\f190';":
+		body: "<${1:i} class=\"fa fa-arrow-circle-o-down$2\"></${1:i}>"
+	"fa-arrow-circle-o-left":
 		prefix: "fa-arrow-circle-o-left"
-		body: "content: '\\\\f190';"
-	"content: '\\f18e';":
+		body: "<${1:i} class=\"fa fa-arrow-circle-o-left$2\"></${1:i}>"
+	"fa-arrow-circle-o-right":
 		prefix: "fa-arrow-circle-o-right"
-		body: "content: '\\\\f18e';"
-	"content: '\\f01b';":
+		body: "<${1:i} class=\"fa fa-arrow-circle-o-right$2\"></${1:i}>"
+	"fa-arrow-circle-o-up":
 		prefix: "fa-arrow-circle-o-up"
-		body: "content: '\\\\f01b';"
-	"content: '\\f0a9';":
+		body: "<${1:i} class=\"fa fa-arrow-circle-o-up$2\"></${1:i}>"
+	"fa-arrow-circle-right":
 		prefix: "fa-arrow-circle-right"
-		body: "content: '\\\\f0a9';"
-	"content: '\\f0aa';":
+		body: "<${1:i} class=\"fa fa-arrow-circle-right$2\"></${1:i}>"
+	"fa-arrow-circle-up":
 		prefix: "fa-arrow-circle-up"
-		body: "content: '\\\\f0aa';"
-	"content: '\\f063';":
+		body: "<${1:i} class=\"fa fa-arrow-circle-up$2\"></${1:i}>"
+	"fa-arrow-down":
 		prefix: "fa-arrow-down"
-		body: "content: '\\\\f063';"
-	"content: '\\f060';":
+		body: "<${1:i} class=\"fa fa-arrow-down$2\"></${1:i}>"
+	"fa-arrow-left":
 		prefix: "fa-arrow-left"
-		body: "content: '\\\\f060';"
-	"content: '\\f061';":
+		body: "<${1:i} class=\"fa fa-arrow-left$2\"></${1:i}>"
+	"fa-arrow-right":
 		prefix: "fa-arrow-right"
-		body: "content: '\\\\f061';"
-	"content: '\\f062';":
+		body: "<${1:i} class=\"fa fa-arrow-right$2\"></${1:i}>"
+	"fa-arrow-up":
 		prefix: "fa-arrow-up"
-		body: "content: '\\\\f062';"
-	"content: '\\f047';":
+		body: "<${1:i} class=\"fa fa-arrow-up$2\"></${1:i}>"
+	"fa-arrows":
 		prefix: "fa-arrows"
-		body: "content: '\\\\f047';"
-	"content: '\\f0b2';":
+		body: "<${1:i} class=\"fa fa-arrows$2\"></${1:i}>"
+	"fa-arrows-alt":
 		prefix: "fa-arrows-alt"
-		body: "content: '\\\\f0b2';"
-	"content: '\\f07e';":
+		body: "<${1:i} class=\"fa fa-arrows-alt$2\"></${1:i}>"
+	"fa-arrows-h":
 		prefix: "fa-arrows-h"
-		body: "content: '\\\\f07e';"
-	"content: '\\f07d';":
+		body: "<${1:i} class=\"fa fa-arrows-h$2\"></${1:i}>"
+	"fa-arrows-v":
 		prefix: "fa-arrows-v"
-		body: "content: '\\\\f07d';"
-	"content: '\\f2a3';":
+		body: "<${1:i} class=\"fa fa-arrows-v$2\"></${1:i}>"
+	"fa-asl-interpreting":
 		prefix: "fa-asl-interpreting"
-		body: "content: '\\\\f2a3';"
-	"content: '\\f2a2';":
+		body: "<${1:i} class=\"fa fa-asl-interpreting$2\"></${1:i}>"
+	"fa-assistive-listening-systems":
 		prefix: "fa-assistive-listening-systems"
-		body: "content: '\\\\f2a2';"
-	"content: '\\f069';":
+		body: "<${1:i} class=\"fa fa-assistive-listening-systems$2\"></${1:i}>"
+	"fa-asterisk":
 		prefix: "fa-asterisk"
-		body: "content: '\\\\f069';"
-	"content: '\\f1fa';":
+		body: "<${1:i} class=\"fa fa-asterisk$2\"></${1:i}>"
+	"fa-at":
 		prefix: "fa-at"
-		body: "content: '\\\\f1fa';"
-	"content: '\\f29e';":
+		body: "<${1:i} class=\"fa fa-at$2\"></${1:i}>"
+	"fa-audio-description":
 		prefix: "fa-audio-description"
-		body: "content: '\\\\f29e';"
-	"content: '\\f1b9';":
+		body: "<${1:i} class=\"fa fa-audio-description$2\"></${1:i}>"
+	"fa-automobile":
 		prefix: "fa-automobile"
-		body: "content: '\\\\f1b9';"
-	"content: '\\f04a';":
+		body: "<${1:i} class=\"fa fa-automobile$2\"></${1:i}>"
+	"fa-backward":
 		prefix: "fa-backward"
-		body: "content: '\\\\f04a';"
-	"content: '\\f24e';":
+		body: "<${1:i} class=\"fa fa-backward$2\"></${1:i}>"
+	"fa-balance-scale":
 		prefix: "fa-balance-scale"
-		body: "content: '\\\\f24e';"
-	"content: '\\f05e';":
+		body: "<${1:i} class=\"fa fa-balance-scale$2\"></${1:i}>"
+	"fa-ban":
 		prefix: "fa-ban"
-		body: "content: '\\\\f05e';"
-	"content: '\\f19c';":
+		body: "<${1:i} class=\"fa fa-ban$2\"></${1:i}>"
+	"fa-bank":
 		prefix: "fa-bank"
-		body: "content: '\\\\f19c';"
-	"content: '\\f080';":
+		body: "<${1:i} class=\"fa fa-bank$2\"></${1:i}>"
+	"fa-bar-chart":
 		prefix: "fa-bar-chart"
-		body: "content: '\\\\f080';"
-	"content: '\\f080';":
+		body: "<${1:i} class=\"fa fa-bar-chart$2\"></${1:i}>"
+	"fa-bar-chart-o":
 		prefix: "fa-bar-chart-o"
-		body: "content: '\\\\f080';"
-	"content: '\\f02a';":
+		body: "<${1:i} class=\"fa fa-bar-chart-o$2\"></${1:i}>"
+	"fa-barcode":
 		prefix: "fa-barcode"
-		body: "content: '\\\\f02a';"
-	"content: '\\f0c9';":
+		body: "<${1:i} class=\"fa fa-barcode$2\"></${1:i}>"
+	"fa-bars":
 		prefix: "fa-bars"
-		body: "content: '\\\\f0c9';"
-	"content: '\\f244';":
+		body: "<${1:i} class=\"fa fa-bars$2\"></${1:i}>"
+	"fa-battery-0":
 		prefix: "fa-battery-0"
-		body: "content: '\\\\f244';"
-	"content: '\\f243';":
+		body: "<${1:i} class=\"fa fa-battery-0$2\"></${1:i}>"
+	"fa-battery-1":
 		prefix: "fa-battery-1"
-		body: "content: '\\\\f243';"
-	"content: '\\f242';":
+		body: "<${1:i} class=\"fa fa-battery-1$2\"></${1:i}>"
+	"fa-battery-2":
 		prefix: "fa-battery-2"
-		body: "content: '\\\\f242';"
-	"content: '\\f241';":
+		body: "<${1:i} class=\"fa fa-battery-2$2\"></${1:i}>"
+	"fa-battery-3":
 		prefix: "fa-battery-3"
-		body: "content: '\\\\f241';"
-	"content: '\\f240';":
+		body: "<${1:i} class=\"fa fa-battery-3$2\"></${1:i}>"
+	"fa-battery-4":
 		prefix: "fa-battery-4"
-		body: "content: '\\\\f240';"
-	"content: '\\f244';":
+		body: "<${1:i} class=\"fa fa-battery-4$2\"></${1:i}>"
+	"fa-battery-empty":
 		prefix: "fa-battery-empty"
-		body: "content: '\\\\f244';"
-	"content: '\\f240';":
+		body: "<${1:i} class=\"fa fa-battery-empty$2\"></${1:i}>"
+	"fa-battery-full":
 		prefix: "fa-battery-full"
-		body: "content: '\\\\f240';"
-	"content: '\\f242';":
+		body: "<${1:i} class=\"fa fa-battery-full$2\"></${1:i}>"
+	"fa-battery-half":
 		prefix: "fa-battery-half"
-		body: "content: '\\\\f242';"
-	"content: '\\f243';":
+		body: "<${1:i} class=\"fa fa-battery-half$2\"></${1:i}>"
+	"fa-battery-quarter":
 		prefix: "fa-battery-quarter"
-		body: "content: '\\\\f243';"
-	"content: '\\f241';":
+		body: "<${1:i} class=\"fa fa-battery-quarter$2\"></${1:i}>"
+	"fa-battery-three-quarters":
 		prefix: "fa-battery-three-quarters"
-		body: "content: '\\\\f241';"
-	"content: '\\f236';":
+		body: "<${1:i} class=\"fa fa-battery-three-quarters$2\"></${1:i}>"
+	"fa-bed":
 		prefix: "fa-bed"
-		body: "content: '\\\\f236';"
-	"content: '\\f0fc';":
+		body: "<${1:i} class=\"fa fa-bed$2\"></${1:i}>"
+	"fa-beer":
 		prefix: "fa-beer"
-		body: "content: '\\\\f0fc';"
-	"content: '\\f1b4';":
+		body: "<${1:i} class=\"fa fa-beer$2\"></${1:i}>"
+	"fa-behance":
 		prefix: "fa-behance"
-		body: "content: '\\\\f1b4';"
-	"content: '\\f1b5';":
+		body: "<${1:i} class=\"fa fa-behance$2\"></${1:i}>"
+	"fa-behance-square":
 		prefix: "fa-behance-square"
-		body: "content: '\\\\f1b5';"
-	"content: '\\f0f3';":
+		body: "<${1:i} class=\"fa fa-behance-square$2\"></${1:i}>"
+	"fa-bell":
 		prefix: "fa-bell"
-		body: "content: '\\\\f0f3';"
-	"content: '\\f0a2';":
+		body: "<${1:i} class=\"fa fa-bell$2\"></${1:i}>"
+	"fa-bell-o":
 		prefix: "fa-bell-o"
-		body: "content: '\\\\f0a2';"
-	"content: '\\f1f6';":
+		body: "<${1:i} class=\"fa fa-bell-o$2\"></${1:i}>"
+	"fa-bell-slash":
 		prefix: "fa-bell-slash"
-		body: "content: '\\\\f1f6';"
-	"content: '\\f1f7';":
+		body: "<${1:i} class=\"fa fa-bell-slash$2\"></${1:i}>"
+	"fa-bell-slash-o":
 		prefix: "fa-bell-slash-o"
-		body: "content: '\\\\f1f7';"
-	"content: '\\f206';":
+		body: "<${1:i} class=\"fa fa-bell-slash-o$2\"></${1:i}>"
+	"fa-bicycle":
 		prefix: "fa-bicycle"
-		body: "content: '\\\\f206';"
-	"content: '\\f1e5';":
+		body: "<${1:i} class=\"fa fa-bicycle$2\"></${1:i}>"
+	"fa-binoculars":
 		prefix: "fa-binoculars"
-		body: "content: '\\\\f1e5';"
-	"content: '\\f1fd';":
+		body: "<${1:i} class=\"fa fa-binoculars$2\"></${1:i}>"
+	"fa-birthday-cake":
 		prefix: "fa-birthday-cake"
-		body: "content: '\\\\f1fd';"
-	"content: '\\f171';":
+		body: "<${1:i} class=\"fa fa-birthday-cake$2\"></${1:i}>"
+	"fa-bitbucket":
 		prefix: "fa-bitbucket"
-		body: "content: '\\\\f171';"
-	"content: '\\f172';":
+		body: "<${1:i} class=\"fa fa-bitbucket$2\"></${1:i}>"
+	"fa-bitbucket-square":
 		prefix: "fa-bitbucket-square"
-		body: "content: '\\\\f172';"
-	"content: '\\f15a';":
+		body: "<${1:i} class=\"fa fa-bitbucket-square$2\"></${1:i}>"
+	"fa-bitcoin":
 		prefix: "fa-bitcoin"
-		body: "content: '\\\\f15a';"
-	"content: '\\f27e';":
+		body: "<${1:i} class=\"fa fa-bitcoin$2\"></${1:i}>"
+	"fa-black-tie":
 		prefix: "fa-black-tie"
-		body: "content: '\\\\f27e';"
-	"content: '\\f29d';":
+		body: "<${1:i} class=\"fa fa-black-tie$2\"></${1:i}>"
+	"fa-blind":
 		prefix: "fa-blind"
-		body: "content: '\\\\f29d';"
-	"content: '\\f293';":
+		body: "<${1:i} class=\"fa fa-blind$2\"></${1:i}>"
+	"fa-bluetooth":
 		prefix: "fa-bluetooth"
-		body: "content: '\\\\f293';"
-	"content: '\\f294';":
+		body: "<${1:i} class=\"fa fa-bluetooth$2\"></${1:i}>"
+	"fa-bluetooth-b":
 		prefix: "fa-bluetooth-b"
-		body: "content: '\\\\f294';"
-	"content: '\\f032';":
+		body: "<${1:i} class=\"fa fa-bluetooth-b$2\"></${1:i}>"
+	"fa-bold":
 		prefix: "fa-bold"
-		body: "content: '\\\\f032';"
-	"content: '\\f0e7';":
+		body: "<${1:i} class=\"fa fa-bold$2\"></${1:i}>"
+	"fa-bolt":
 		prefix: "fa-bolt"
-		body: "content: '\\\\f0e7';"
-	"content: '\\f1e2';":
+		body: "<${1:i} class=\"fa fa-bolt$2\"></${1:i}>"
+	"fa-bomb":
 		prefix: "fa-bomb"
-		body: "content: '\\\\f1e2';"
-	"content: '\\f02d';":
+		body: "<${1:i} class=\"fa fa-bomb$2\"></${1:i}>"
+	"fa-book":
 		prefix: "fa-book"
-		body: "content: '\\\\f02d';"
-	"content: '\\f02e';":
+		body: "<${1:i} class=\"fa fa-book$2\"></${1:i}>"
+	"fa-bookmark":
 		prefix: "fa-bookmark"
-		body: "content: '\\\\f02e';"
-	"content: '\\f097';":
+		body: "<${1:i} class=\"fa fa-bookmark$2\"></${1:i}>"
+	"fa-bookmark-o":
 		prefix: "fa-bookmark-o"
-		body: "content: '\\\\f097';"
-	"content: '\\f2a1';":
+		body: "<${1:i} class=\"fa fa-bookmark-o$2\"></${1:i}>"
+	"fa-braille":
 		prefix: "fa-braille"
-		body: "content: '\\\\f2a1';"
-	"content: '\\f0b1';":
+		body: "<${1:i} class=\"fa fa-braille$2\"></${1:i}>"
+	"fa-briefcase":
 		prefix: "fa-briefcase"
-		body: "content: '\\\\f0b1';"
-	"content: '\\f15a';":
+		body: "<${1:i} class=\"fa fa-briefcase$2\"></${1:i}>"
+	"fa-btc":
 		prefix: "fa-btc"
-		body: "content: '\\\\f15a';"
-	"content: '\\f188';":
+		body: "<${1:i} class=\"fa fa-btc$2\"></${1:i}>"
+	"fa-bug":
 		prefix: "fa-bug"
-		body: "content: '\\\\f188';"
-	"content: '\\f1ad';":
+		body: "<${1:i} class=\"fa fa-bug$2\"></${1:i}>"
+	"fa-building":
 		prefix: "fa-building"
-		body: "content: '\\\\f1ad';"
-	"content: '\\f0f7';":
+		body: "<${1:i} class=\"fa fa-building$2\"></${1:i}>"
+	"fa-building-o":
 		prefix: "fa-building-o"
-		body: "content: '\\\\f0f7';"
-	"content: '\\f0a1';":
+		body: "<${1:i} class=\"fa fa-building-o$2\"></${1:i}>"
+	"fa-bullhorn":
 		prefix: "fa-bullhorn"
-		body: "content: '\\\\f0a1';"
-	"content: '\\f140';":
+		body: "<${1:i} class=\"fa fa-bullhorn$2\"></${1:i}>"
+	"fa-bullseye":
 		prefix: "fa-bullseye"
-		body: "content: '\\\\f140';"
-	"content: '\\f207';":
+		body: "<${1:i} class=\"fa fa-bullseye$2\"></${1:i}>"
+	"fa-bus":
 		prefix: "fa-bus"
-		body: "content: '\\\\f207';"
-	"content: '\\f20d';":
+		body: "<${1:i} class=\"fa fa-bus$2\"></${1:i}>"
+	"fa-buysellads":
 		prefix: "fa-buysellads"
-		body: "content: '\\\\f20d';"
-	"content: '\\f1ba';":
+		body: "<${1:i} class=\"fa fa-buysellads$2\"></${1:i}>"
+	"fa-cab":
 		prefix: "fa-cab"
-		body: "content: '\\\\f1ba';"
-	"content: '\\f1ec';":
+		body: "<${1:i} class=\"fa fa-cab$2\"></${1:i}>"
+	"fa-calculator":
 		prefix: "fa-calculator"
-		body: "content: '\\\\f1ec';"
-	"content: '\\f073';":
+		body: "<${1:i} class=\"fa fa-calculator$2\"></${1:i}>"
+	"fa-calendar":
 		prefix: "fa-calendar"
-		body: "content: '\\\\f073';"
-	"content: '\\f274';":
+		body: "<${1:i} class=\"fa fa-calendar$2\"></${1:i}>"
+	"fa-calendar-check-o":
 		prefix: "fa-calendar-check-o"
-		body: "content: '\\\\f274';"
-	"content: '\\f272';":
+		body: "<${1:i} class=\"fa fa-calendar-check-o$2\"></${1:i}>"
+	"fa-calendar-minus-o":
 		prefix: "fa-calendar-minus-o"
-		body: "content: '\\\\f272';"
-	"content: '\\f133';":
+		body: "<${1:i} class=\"fa fa-calendar-minus-o$2\"></${1:i}>"
+	"fa-calendar-o":
 		prefix: "fa-calendar-o"
-		body: "content: '\\\\f133';"
-	"content: '\\f271';":
+		body: "<${1:i} class=\"fa fa-calendar-o$2\"></${1:i}>"
+	"fa-calendar-plus-o":
 		prefix: "fa-calendar-plus-o"
-		body: "content: '\\\\f271';"
-	"content: '\\f273';":
+		body: "<${1:i} class=\"fa fa-calendar-plus-o$2\"></${1:i}>"
+	"fa-calendar-times-o":
 		prefix: "fa-calendar-times-o"
-		body: "content: '\\\\f273';"
-	"content: '\\f030';":
+		body: "<${1:i} class=\"fa fa-calendar-times-o$2\"></${1:i}>"
+	"fa-camera":
 		prefix: "fa-camera"
-		body: "content: '\\\\f030';"
-	"content: '\\f083';":
+		body: "<${1:i} class=\"fa fa-camera$2\"></${1:i}>"
+	"fa-camera-retro":
 		prefix: "fa-camera-retro"
-		body: "content: '\\\\f083';"
-	"content: '\\f1b9';":
+		body: "<${1:i} class=\"fa fa-camera-retro$2\"></${1:i}>"
+	"fa-car":
 		prefix: "fa-car"
-		body: "content: '\\\\f1b9';"
-	"content: '\\f0d7';":
+		body: "<${1:i} class=\"fa fa-car$2\"></${1:i}>"
+	"fa-caret-down":
 		prefix: "fa-caret-down"
-		body: "content: '\\\\f0d7';"
-	"content: '\\f0d9';":
+		body: "<${1:i} class=\"fa fa-caret-down$2\"></${1:i}>"
+	"fa-caret-left":
 		prefix: "fa-caret-left"
-		body: "content: '\\\\f0d9';"
-	"content: '\\f0da';":
+		body: "<${1:i} class=\"fa fa-caret-left$2\"></${1:i}>"
+	"fa-caret-right":
 		prefix: "fa-caret-right"
-		body: "content: '\\\\f0da';"
-	"content: '\\f150';":
+		body: "<${1:i} class=\"fa fa-caret-right$2\"></${1:i}>"
+	"fa-caret-square-o-down":
 		prefix: "fa-caret-square-o-down"
-		body: "content: '\\\\f150';"
-	"content: '\\f191';":
+		body: "<${1:i} class=\"fa fa-caret-square-o-down$2\"></${1:i}>"
+	"fa-caret-square-o-left":
 		prefix: "fa-caret-square-o-left"
-		body: "content: '\\\\f191';"
-	"content: '\\f152';":
+		body: "<${1:i} class=\"fa fa-caret-square-o-left$2\"></${1:i}>"
+	"fa-caret-square-o-right":
 		prefix: "fa-caret-square-o-right"
-		body: "content: '\\\\f152';"
-	"content: '\\f151';":
+		body: "<${1:i} class=\"fa fa-caret-square-o-right$2\"></${1:i}>"
+	"fa-caret-square-o-up":
 		prefix: "fa-caret-square-o-up"
-		body: "content: '\\\\f151';"
-	"content: '\\f0d8';":
+		body: "<${1:i} class=\"fa fa-caret-square-o-up$2\"></${1:i}>"
+	"fa-caret-up":
 		prefix: "fa-caret-up"
-		body: "content: '\\\\f0d8';"
-	"content: '\\f218';":
+		body: "<${1:i} class=\"fa fa-caret-up$2\"></${1:i}>"
+	"fa-cart-arrow-down":
 		prefix: "fa-cart-arrow-down"
-		body: "content: '\\\\f218';"
-	"content: '\\f217';":
+		body: "<${1:i} class=\"fa fa-cart-arrow-down$2\"></${1:i}>"
+	"fa-cart-plus":
 		prefix: "fa-cart-plus"
-		body: "content: '\\\\f217';"
-	"content: '\\f20a';":
+		body: "<${1:i} class=\"fa fa-cart-plus$2\"></${1:i}>"
+	"fa-cc":
 		prefix: "fa-cc"
-		body: "content: '\\\\f20a';"
-	"content: '\\f1f3';":
+		body: "<${1:i} class=\"fa fa-cc$2\"></${1:i}>"
+	"fa-cc-amex":
 		prefix: "fa-cc-amex"
-		body: "content: '\\\\f1f3';"
-	"content: '\\f24c';":
+		body: "<${1:i} class=\"fa fa-cc-amex$2\"></${1:i}>"
+	"fa-cc-diners-club":
 		prefix: "fa-cc-diners-club"
-		body: "content: '\\\\f24c';"
-	"content: '\\f1f2';":
+		body: "<${1:i} class=\"fa fa-cc-diners-club$2\"></${1:i}>"
+	"fa-cc-discover":
 		prefix: "fa-cc-discover"
-		body: "content: '\\\\f1f2';"
-	"content: '\\f24b';":
+		body: "<${1:i} class=\"fa fa-cc-discover$2\"></${1:i}>"
+	"fa-cc-jcb":
 		prefix: "fa-cc-jcb"
-		body: "content: '\\\\f24b';"
-	"content: '\\f1f1';":
+		body: "<${1:i} class=\"fa fa-cc-jcb$2\"></${1:i}>"
+	"fa-cc-mastercard":
 		prefix: "fa-cc-mastercard"
-		body: "content: '\\\\f1f1';"
-	"content: '\\f1f4';":
+		body: "<${1:i} class=\"fa fa-cc-mastercard$2\"></${1:i}>"
+	"fa-cc-paypal":
 		prefix: "fa-cc-paypal"
-		body: "content: '\\\\f1f4';"
-	"content: '\\f1f5';":
+		body: "<${1:i} class=\"fa fa-cc-paypal$2\"></${1:i}>"
+	"fa-cc-stripe":
 		prefix: "fa-cc-stripe"
-		body: "content: '\\\\f1f5';"
-	"content: '\\f1f0';":
+		body: "<${1:i} class=\"fa fa-cc-stripe$2\"></${1:i}>"
+	"fa-cc-visa":
 		prefix: "fa-cc-visa"
-		body: "content: '\\\\f1f0';"
-	"content: '\\f0a3';":
+		body: "<${1:i} class=\"fa fa-cc-visa$2\"></${1:i}>"
+	"fa-certificate":
 		prefix: "fa-certificate"
-		body: "content: '\\\\f0a3';"
-	"content: '\\f0c1';":
+		body: "<${1:i} class=\"fa fa-certificate$2\"></${1:i}>"
+	"fa-chain":
 		prefix: "fa-chain"
-		body: "content: '\\\\f0c1';"
-	"content: '\\f127';":
+		body: "<${1:i} class=\"fa fa-chain$2\"></${1:i}>"
+	"fa-chain-broken":
 		prefix: "fa-chain-broken"
-		body: "content: '\\\\f127';"
-	"content: '\\f00c';":
+		body: "<${1:i} class=\"fa fa-chain-broken$2\"></${1:i}>"
+	"fa-check":
 		prefix: "fa-check"
-		body: "content: '\\\\f00c';"
-	"content: '\\f058';":
+		body: "<${1:i} class=\"fa fa-check$2\"></${1:i}>"
+	"fa-check-circle":
 		prefix: "fa-check-circle"
-		body: "content: '\\\\f058';"
-	"content: '\\f05d';":
+		body: "<${1:i} class=\"fa fa-check-circle$2\"></${1:i}>"
+	"fa-check-circle-o":
 		prefix: "fa-check-circle-o"
-		body: "content: '\\\\f05d';"
-	"content: '\\f14a';":
+		body: "<${1:i} class=\"fa fa-check-circle-o$2\"></${1:i}>"
+	"fa-check-square":
 		prefix: "fa-check-square"
-		body: "content: '\\\\f14a';"
-	"content: '\\f046';":
+		body: "<${1:i} class=\"fa fa-check-square$2\"></${1:i}>"
+	"fa-check-square-o":
 		prefix: "fa-check-square-o"
-		body: "content: '\\\\f046';"
-	"content: '\\f13a';":
+		body: "<${1:i} class=\"fa fa-check-square-o$2\"></${1:i}>"
+	"fa-chevron-circle-down":
 		prefix: "fa-chevron-circle-down"
-		body: "content: '\\\\f13a';"
-	"content: '\\f137';":
+		body: "<${1:i} class=\"fa fa-chevron-circle-down$2\"></${1:i}>"
+	"fa-chevron-circle-left":
 		prefix: "fa-chevron-circle-left"
-		body: "content: '\\\\f137';"
-	"content: '\\f138';":
+		body: "<${1:i} class=\"fa fa-chevron-circle-left$2\"></${1:i}>"
+	"fa-chevron-circle-right":
 		prefix: "fa-chevron-circle-right"
-		body: "content: '\\\\f138';"
-	"content: '\\f139';":
+		body: "<${1:i} class=\"fa fa-chevron-circle-right$2\"></${1:i}>"
+	"fa-chevron-circle-up":
 		prefix: "fa-chevron-circle-up"
-		body: "content: '\\\\f139';"
-	"content: '\\f078';":
+		body: "<${1:i} class=\"fa fa-chevron-circle-up$2\"></${1:i}>"
+	"fa-chevron-down":
 		prefix: "fa-chevron-down"
-		body: "content: '\\\\f078';"
-	"content: '\\f053';":
+		body: "<${1:i} class=\"fa fa-chevron-down$2\"></${1:i}>"
+	"fa-chevron-left":
 		prefix: "fa-chevron-left"
-		body: "content: '\\\\f053';"
-	"content: '\\f054';":
+		body: "<${1:i} class=\"fa fa-chevron-left$2\"></${1:i}>"
+	"fa-chevron-right":
 		prefix: "fa-chevron-right"
-		body: "content: '\\\\f054';"
-	"content: '\\f077';":
+		body: "<${1:i} class=\"fa fa-chevron-right$2\"></${1:i}>"
+	"fa-chevron-up":
 		prefix: "fa-chevron-up"
-		body: "content: '\\\\f077';"
-	"content: '\\f1ae';":
+		body: "<${1:i} class=\"fa fa-chevron-up$2\"></${1:i}>"
+	"fa-child":
 		prefix: "fa-child"
-		body: "content: '\\\\f1ae';"
-	"content: '\\f268';":
+		body: "<${1:i} class=\"fa fa-child$2\"></${1:i}>"
+	"fa-chrome":
 		prefix: "fa-chrome"
-		body: "content: '\\\\f268';"
-	"content: '\\f111';":
+		body: "<${1:i} class=\"fa fa-chrome$2\"></${1:i}>"
+	"fa-circle":
 		prefix: "fa-circle"
-		body: "content: '\\\\f111';"
-	"content: '\\f10c';":
+		body: "<${1:i} class=\"fa fa-circle$2\"></${1:i}>"
+	"fa-circle-o":
 		prefix: "fa-circle-o"
-		body: "content: '\\\\f10c';"
-	"content: '\\f1ce';":
+		body: "<${1:i} class=\"fa fa-circle-o$2\"></${1:i}>"
+	"fa-circle-o-notch":
 		prefix: "fa-circle-o-notch"
-		body: "content: '\\\\f1ce';"
-	"content: '\\f1db';":
+		body: "<${1:i} class=\"fa fa-circle-o-notch$2\"></${1:i}>"
+	"fa-circle-thin":
 		prefix: "fa-circle-thin"
-		body: "content: '\\\\f1db';"
-	"content: '\\f0ea';":
+		body: "<${1:i} class=\"fa fa-circle-thin$2\"></${1:i}>"
+	"fa-clipboard":
 		prefix: "fa-clipboard"
-		body: "content: '\\\\f0ea';"
-	"content: '\\f017';":
+		body: "<${1:i} class=\"fa fa-clipboard$2\"></${1:i}>"
+	"fa-clock-o":
 		prefix: "fa-clock-o"
-		body: "content: '\\\\f017';"
-	"content: '\\f24d';":
+		body: "<${1:i} class=\"fa fa-clock-o$2\"></${1:i}>"
+	"fa-clone":
 		prefix: "fa-clone"
-		body: "content: '\\\\f24d';"
-	"content: '\\f00d';":
+		body: "<${1:i} class=\"fa fa-clone$2\"></${1:i}>"
+	"fa-close":
 		prefix: "fa-close"
-		body: "content: '\\\\f00d';"
-	"content: '\\f0c2';":
+		body: "<${1:i} class=\"fa fa-close$2\"></${1:i}>"
+	"fa-cloud":
 		prefix: "fa-cloud"
-		body: "content: '\\\\f0c2';"
-	"content: '\\f0ed';":
+		body: "<${1:i} class=\"fa fa-cloud$2\"></${1:i}>"
+	"fa-cloud-download":
 		prefix: "fa-cloud-download"
-		body: "content: '\\\\f0ed';"
-	"content: '\\f0ee';":
+		body: "<${1:i} class=\"fa fa-cloud-download$2\"></${1:i}>"
+	"fa-cloud-upload":
 		prefix: "fa-cloud-upload"
-		body: "content: '\\\\f0ee';"
-	"content: '\\f157';":
+		body: "<${1:i} class=\"fa fa-cloud-upload$2\"></${1:i}>"
+	"fa-cny":
 		prefix: "fa-cny"
-		body: "content: '\\\\f157';"
-	"content: '\\f121';":
+		body: "<${1:i} class=\"fa fa-cny$2\"></${1:i}>"
+	"fa-code":
 		prefix: "fa-code"
-		body: "content: '\\\\f121';"
-	"content: '\\f126';":
+		body: "<${1:i} class=\"fa fa-code$2\"></${1:i}>"
+	"fa-code-fork":
 		prefix: "fa-code-fork"
-		body: "content: '\\\\f126';"
-	"content: '\\f1cb';":
+		body: "<${1:i} class=\"fa fa-code-fork$2\"></${1:i}>"
+	"fa-codepen":
 		prefix: "fa-codepen"
-		body: "content: '\\\\f1cb';"
-	"content: '\\f284';":
+		body: "<${1:i} class=\"fa fa-codepen$2\"></${1:i}>"
+	"fa-codiepie":
 		prefix: "fa-codiepie"
-		body: "content: '\\\\f284';"
-	"content: '\\f0f4';":
+		body: "<${1:i} class=\"fa fa-codiepie$2\"></${1:i}>"
+	"fa-coffee":
 		prefix: "fa-coffee"
-		body: "content: '\\\\f0f4';"
-	"content: '\\f013';":
+		body: "<${1:i} class=\"fa fa-coffee$2\"></${1:i}>"
+	"fa-cog":
 		prefix: "fa-cog"
-		body: "content: '\\\\f013';"
-	"content: '\\f085';":
+		body: "<${1:i} class=\"fa fa-cog$2\"></${1:i}>"
+	"fa-cogs":
 		prefix: "fa-cogs"
-		body: "content: '\\\\f085';"
-	"content: '\\f0db';":
+		body: "<${1:i} class=\"fa fa-cogs$2\"></${1:i}>"
+	"fa-columns":
 		prefix: "fa-columns"
-		body: "content: '\\\\f0db';"
-	"content: '\\f075';":
+		body: "<${1:i} class=\"fa fa-columns$2\"></${1:i}>"
+	"fa-comment":
 		prefix: "fa-comment"
-		body: "content: '\\\\f075';"
-	"content: '\\f0e5';":
+		body: "<${1:i} class=\"fa fa-comment$2\"></${1:i}>"
+	"fa-comment-o":
 		prefix: "fa-comment-o"
-		body: "content: '\\\\f0e5';"
-	"content: '\\f27a';":
+		body: "<${1:i} class=\"fa fa-comment-o$2\"></${1:i}>"
+	"fa-commenting":
 		prefix: "fa-commenting"
-		body: "content: '\\\\f27a';"
-	"content: '\\f27b';":
+		body: "<${1:i} class=\"fa fa-commenting$2\"></${1:i}>"
+	"fa-commenting-o":
 		prefix: "fa-commenting-o"
-		body: "content: '\\\\f27b';"
-	"content: '\\f086';":
+		body: "<${1:i} class=\"fa fa-commenting-o$2\"></${1:i}>"
+	"fa-comments":
 		prefix: "fa-comments"
-		body: "content: '\\\\f086';"
-	"content: '\\f0e6';":
+		body: "<${1:i} class=\"fa fa-comments$2\"></${1:i}>"
+	"fa-comments-o":
 		prefix: "fa-comments-o"
-		body: "content: '\\\\f0e6';"
-	"content: '\\f14e';":
+		body: "<${1:i} class=\"fa fa-comments-o$2\"></${1:i}>"
+	"fa-compass":
 		prefix: "fa-compass"
-		body: "content: '\\\\f14e';"
-	"content: '\\f066';":
+		body: "<${1:i} class=\"fa fa-compass$2\"></${1:i}>"
+	"fa-compress":
 		prefix: "fa-compress"
-		body: "content: '\\\\f066';"
-	"content: '\\f20e';":
+		body: "<${1:i} class=\"fa fa-compress$2\"></${1:i}>"
+	"fa-connectdevelop":
 		prefix: "fa-connectdevelop"
-		body: "content: '\\\\f20e';"
-	"content: '\\f26d';":
+		body: "<${1:i} class=\"fa fa-connectdevelop$2\"></${1:i}>"
+	"fa-contao":
 		prefix: "fa-contao"
-		body: "content: '\\\\f26d';"
-	"content: '\\f0c5';":
+		body: "<${1:i} class=\"fa fa-contao$2\"></${1:i}>"
+	"fa-copy":
 		prefix: "fa-copy"
-		body: "content: '\\\\f0c5';"
-	"content: '\\f1f9';":
+		body: "<${1:i} class=\"fa fa-copy$2\"></${1:i}>"
+	"fa-copyright":
 		prefix: "fa-copyright"
-		body: "content: '\\\\f1f9';"
-	"content: '\\f25e';":
+		body: "<${1:i} class=\"fa fa-copyright$2\"></${1:i}>"
+	"fa-creative-commons":
 		prefix: "fa-creative-commons"
-		body: "content: '\\\\f25e';"
-	"content: '\\f09d';":
+		body: "<${1:i} class=\"fa fa-creative-commons$2\"></${1:i}>"
+	"fa-credit-card":
 		prefix: "fa-credit-card"
-		body: "content: '\\\\f09d';"
-	"content: '\\f283';":
+		body: "<${1:i} class=\"fa fa-credit-card$2\"></${1:i}>"
+	"fa-credit-card-alt":
 		prefix: "fa-credit-card-alt"
-		body: "content: '\\\\f283';"
-	"content: '\\f125';":
+		body: "<${1:i} class=\"fa fa-credit-card-alt$2\"></${1:i}>"
+	"fa-crop":
 		prefix: "fa-crop"
-		body: "content: '\\\\f125';"
-	"content: '\\f05b';":
+		body: "<${1:i} class=\"fa fa-crop$2\"></${1:i}>"
+	"fa-crosshairs":
 		prefix: "fa-crosshairs"
-		body: "content: '\\\\f05b';"
-	"content: '\\f13c';":
+		body: "<${1:i} class=\"fa fa-crosshairs$2\"></${1:i}>"
+	"fa-css3":
 		prefix: "fa-css3"
-		body: "content: '\\\\f13c';"
-	"content: '\\f1b2';":
+		body: "<${1:i} class=\"fa fa-css3$2\"></${1:i}>"
+	"fa-cube":
 		prefix: "fa-cube"
-		body: "content: '\\\\f1b2';"
-	"content: '\\f1b3';":
+		body: "<${1:i} class=\"fa fa-cube$2\"></${1:i}>"
+	"fa-cubes":
 		prefix: "fa-cubes"
-		body: "content: '\\\\f1b3';"
-	"content: '\\f0c4';":
+		body: "<${1:i} class=\"fa fa-cubes$2\"></${1:i}>"
+	"fa-cut":
 		prefix: "fa-cut"
-		body: "content: '\\\\f0c4';"
-	"content: '\\f0f5';":
+		body: "<${1:i} class=\"fa fa-cut$2\"></${1:i}>"
+	"fa-cutlery":
 		prefix: "fa-cutlery"
-		body: "content: '\\\\f0f5';"
-	"content: '\\f0e4';":
+		body: "<${1:i} class=\"fa fa-cutlery$2\"></${1:i}>"
+	"fa-dashboard":
 		prefix: "fa-dashboard"
-		body: "content: '\\\\f0e4';"
-	"content: '\\f210';":
+		body: "<${1:i} class=\"fa fa-dashboard$2\"></${1:i}>"
+	"fa-dashcube":
 		prefix: "fa-dashcube"
-		body: "content: '\\\\f210';"
-	"content: '\\f1c0';":
+		body: "<${1:i} class=\"fa fa-dashcube$2\"></${1:i}>"
+	"fa-database":
 		prefix: "fa-database"
-		body: "content: '\\\\f1c0';"
-	"content: '\\f2a4';":
+		body: "<${1:i} class=\"fa fa-database$2\"></${1:i}>"
+	"fa-deaf":
 		prefix: "fa-deaf"
-		body: "content: '\\\\f2a4';"
-	"content: '\\f2a4';":
+		body: "<${1:i} class=\"fa fa-deaf$2\"></${1:i}>"
+	"fa-deafness":
 		prefix: "fa-deafness"
-		body: "content: '\\\\f2a4';"
-	"content: '\\f03b';":
+		body: "<${1:i} class=\"fa fa-deafness$2\"></${1:i}>"
+	"fa-dedent":
 		prefix: "fa-dedent"
-		body: "content: '\\\\f03b';"
-	"content: '\\f1a5';":
+		body: "<${1:i} class=\"fa fa-dedent$2\"></${1:i}>"
+	"fa-delicious":
 		prefix: "fa-delicious"
-		body: "content: '\\\\f1a5';"
-	"content: '\\f108';":
+		body: "<${1:i} class=\"fa fa-delicious$2\"></${1:i}>"
+	"fa-desktop":
 		prefix: "fa-desktop"
-		body: "content: '\\\\f108';"
-	"content: '\\f1bd';":
+		body: "<${1:i} class=\"fa fa-desktop$2\"></${1:i}>"
+	"fa-deviantart":
 		prefix: "fa-deviantart"
-		body: "content: '\\\\f1bd';"
-	"content: '\\f219';":
+		body: "<${1:i} class=\"fa fa-deviantart$2\"></${1:i}>"
+	"fa-diamond":
 		prefix: "fa-diamond"
-		body: "content: '\\\\f219';"
-	"content: '\\f1a6';":
+		body: "<${1:i} class=\"fa fa-diamond$2\"></${1:i}>"
+	"fa-digg":
 		prefix: "fa-digg"
-		body: "content: '\\\\f1a6';"
-	"content: '\\f155';":
+		body: "<${1:i} class=\"fa fa-digg$2\"></${1:i}>"
+	"fa-dollar":
 		prefix: "fa-dollar"
-		body: "content: '\\\\f155';"
-	"content: '\\f192';":
+		body: "<${1:i} class=\"fa fa-dollar$2\"></${1:i}>"
+	"fa-dot-circle-o":
 		prefix: "fa-dot-circle-o"
-		body: "content: '\\\\f192';"
-	"content: '\\f019';":
+		body: "<${1:i} class=\"fa fa-dot-circle-o$2\"></${1:i}>"
+	"fa-download":
 		prefix: "fa-download"
-		body: "content: '\\\\f019';"
-	"content: '\\f17d';":
+		body: "<${1:i} class=\"fa fa-download$2\"></${1:i}>"
+	"fa-dribbble":
 		prefix: "fa-dribbble"
-		body: "content: '\\\\f17d';"
-	"content: '\\f16b';":
+		body: "<${1:i} class=\"fa fa-dribbble$2\"></${1:i}>"
+	"fa-dropbox":
 		prefix: "fa-dropbox"
-		body: "content: '\\\\f16b';"
-	"content: '\\f1a9';":
+		body: "<${1:i} class=\"fa fa-dropbox$2\"></${1:i}>"
+	"fa-drupal":
 		prefix: "fa-drupal"
-		body: "content: '\\\\f1a9';"
-	"content: '\\f282';":
+		body: "<${1:i} class=\"fa fa-drupal$2\"></${1:i}>"
+	"fa-edge":
 		prefix: "fa-edge"
-		body: "content: '\\\\f282';"
-	"content: '\\f044';":
+		body: "<${1:i} class=\"fa fa-edge$2\"></${1:i}>"
+	"fa-edit":
 		prefix: "fa-edit"
-		body: "content: '\\\\f044';"
-	"content: '\\f052';":
+		body: "<${1:i} class=\"fa fa-edit$2\"></${1:i}>"
+	"fa-eject":
 		prefix: "fa-eject"
-		body: "content: '\\\\f052';"
-	"content: '\\f141';":
+		body: "<${1:i} class=\"fa fa-eject$2\"></${1:i}>"
+	"fa-ellipsis-h":
 		prefix: "fa-ellipsis-h"
-		body: "content: '\\\\f141';"
-	"content: '\\f142';":
+		body: "<${1:i} class=\"fa fa-ellipsis-h$2\"></${1:i}>"
+	"fa-ellipsis-v":
 		prefix: "fa-ellipsis-v"
-		body: "content: '\\\\f142';"
-	"content: '\\f1d1';":
+		body: "<${1:i} class=\"fa fa-ellipsis-v$2\"></${1:i}>"
+	"fa-empire":
 		prefix: "fa-empire"
-		body: "content: '\\\\f1d1';"
-	"content: '\\f0e0';":
+		body: "<${1:i} class=\"fa fa-empire$2\"></${1:i}>"
+	"fa-envelope":
 		prefix: "fa-envelope"
-		body: "content: '\\\\f0e0';"
-	"content: '\\f003';":
+		body: "<${1:i} class=\"fa fa-envelope$2\"></${1:i}>"
+	"fa-envelope-o":
 		prefix: "fa-envelope-o"
-		body: "content: '\\\\f003';"
-	"content: '\\f199';":
+		body: "<${1:i} class=\"fa fa-envelope-o$2\"></${1:i}>"
+	"fa-envelope-square":
 		prefix: "fa-envelope-square"
-		body: "content: '\\\\f199';"
-	"content: '\\f299';":
+		body: "<${1:i} class=\"fa fa-envelope-square$2\"></${1:i}>"
+	"fa-envira":
 		prefix: "fa-envira"
-		body: "content: '\\\\f299';"
-	"content: '\\f12d';":
+		body: "<${1:i} class=\"fa fa-envira$2\"></${1:i}>"
+	"fa-eraser":
 		prefix: "fa-eraser"
-		body: "content: '\\\\f12d';"
-	"content: '\\f153';":
+		body: "<${1:i} class=\"fa fa-eraser$2\"></${1:i}>"
+	"fa-eur":
 		prefix: "fa-eur"
-		body: "content: '\\\\f153';"
-	"content: '\\f153';":
+		body: "<${1:i} class=\"fa fa-eur$2\"></${1:i}>"
+	"fa-euro":
 		prefix: "fa-euro"
-		body: "content: '\\\\f153';"
-	"content: '\\f0ec';":
+		body: "<${1:i} class=\"fa fa-euro$2\"></${1:i}>"
+	"fa-exchange":
 		prefix: "fa-exchange"
-		body: "content: '\\\\f0ec';"
-	"content: '\\f12a';":
+		body: "<${1:i} class=\"fa fa-exchange$2\"></${1:i}>"
+	"fa-exclamation":
 		prefix: "fa-exclamation"
-		body: "content: '\\\\f12a';"
-	"content: '\\f06a';":
+		body: "<${1:i} class=\"fa fa-exclamation$2\"></${1:i}>"
+	"fa-exclamation-circle":
 		prefix: "fa-exclamation-circle"
-		body: "content: '\\\\f06a';"
-	"content: '\\f071';":
+		body: "<${1:i} class=\"fa fa-exclamation-circle$2\"></${1:i}>"
+	"fa-exclamation-triangle":
 		prefix: "fa-exclamation-triangle"
-		body: "content: '\\\\f071';"
-	"content: '\\f065';":
+		body: "<${1:i} class=\"fa fa-exclamation-triangle$2\"></${1:i}>"
+	"fa-expand":
 		prefix: "fa-expand"
-		body: "content: '\\\\f065';"
-	"content: '\\f23e';":
+		body: "<${1:i} class=\"fa fa-expand$2\"></${1:i}>"
+	"fa-expeditedssl":
 		prefix: "fa-expeditedssl"
-		body: "content: '\\\\f23e';"
-	"content: '\\f08e';":
+		body: "<${1:i} class=\"fa fa-expeditedssl$2\"></${1:i}>"
+	"fa-external-link":
 		prefix: "fa-external-link"
-		body: "content: '\\\\f08e';"
-	"content: '\\f14c';":
+		body: "<${1:i} class=\"fa fa-external-link$2\"></${1:i}>"
+	"fa-external-link-square":
 		prefix: "fa-external-link-square"
-		body: "content: '\\\\f14c';"
-	"content: '\\f06e';":
+		body: "<${1:i} class=\"fa fa-external-link-square$2\"></${1:i}>"
+	"fa-eye":
 		prefix: "fa-eye"
-		body: "content: '\\\\f06e';"
-	"content: '\\f070';":
+		body: "<${1:i} class=\"fa fa-eye$2\"></${1:i}>"
+	"fa-eye-slash":
 		prefix: "fa-eye-slash"
-		body: "content: '\\\\f070';"
-	"content: '\\f1fb';":
+		body: "<${1:i} class=\"fa fa-eye-slash$2\"></${1:i}>"
+	"fa-eyedropper":
 		prefix: "fa-eyedropper"
-		body: "content: '\\\\f1fb';"
-	"content: '\\f09a';":
+		body: "<${1:i} class=\"fa fa-eyedropper$2\"></${1:i}>"
+	"fa-facebook":
 		prefix: "fa-facebook"
-		body: "content: '\\\\f09a';"
-	"content: '\\f09a';":
+		body: "<${1:i} class=\"fa fa-facebook$2\"></${1:i}>"
+	"fa-facebook-f":
 		prefix: "fa-facebook-f"
-		body: "content: '\\\\f09a';"
-	"content: '\\f230';":
+		body: "<${1:i} class=\"fa fa-facebook-f$2\"></${1:i}>"
+	"fa-facebook-official":
 		prefix: "fa-facebook-official"
-		body: "content: '\\\\f230';"
-	"content: '\\f082';":
+		body: "<${1:i} class=\"fa fa-facebook-official$2\"></${1:i}>"
+	"fa-facebook-square":
 		prefix: "fa-facebook-square"
-		body: "content: '\\\\f082';"
-	"content: '\\f049';":
+		body: "<${1:i} class=\"fa fa-facebook-square$2\"></${1:i}>"
+	"fa-fast-backward":
 		prefix: "fa-fast-backward"
-		body: "content: '\\\\f049';"
-	"content: '\\f050';":
+		body: "<${1:i} class=\"fa fa-fast-backward$2\"></${1:i}>"
+	"fa-fast-forward":
 		prefix: "fa-fast-forward"
-		body: "content: '\\\\f050';"
-	"content: '\\f1ac';":
+		body: "<${1:i} class=\"fa fa-fast-forward$2\"></${1:i}>"
+	"fa-fax":
 		prefix: "fa-fax"
-		body: "content: '\\\\f1ac';"
-	"content: '\\f09e';":
+		body: "<${1:i} class=\"fa fa-fax$2\"></${1:i}>"
+	"fa-feed":
 		prefix: "fa-feed"
-		body: "content: '\\\\f09e';"
-	"content: '\\f182';":
+		body: "<${1:i} class=\"fa fa-feed$2\"></${1:i}>"
+	"fa-female":
 		prefix: "fa-female"
-		body: "content: '\\\\f182';"
-	"content: '\\f0fb';":
+		body: "<${1:i} class=\"fa fa-female$2\"></${1:i}>"
+	"fa-fighter-jet":
 		prefix: "fa-fighter-jet"
-		body: "content: '\\\\f0fb';"
-	"content: '\\f15b';":
+		body: "<${1:i} class=\"fa fa-fighter-jet$2\"></${1:i}>"
+	"fa-file":
 		prefix: "fa-file"
-		body: "content: '\\\\f15b';"
-	"content: '\\f1c6';":
+		body: "<${1:i} class=\"fa fa-file$2\"></${1:i}>"
+	"fa-file-archive-o":
 		prefix: "fa-file-archive-o"
-		body: "content: '\\\\f1c6';"
-	"content: '\\f1c7';":
+		body: "<${1:i} class=\"fa fa-file-archive-o$2\"></${1:i}>"
+	"fa-file-audio-o":
 		prefix: "fa-file-audio-o"
-		body: "content: '\\\\f1c7';"
-	"content: '\\f1c9';":
+		body: "<${1:i} class=\"fa fa-file-audio-o$2\"></${1:i}>"
+	"fa-file-code-o":
 		prefix: "fa-file-code-o"
-		body: "content: '\\\\f1c9';"
-	"content: '\\f1c3';":
+		body: "<${1:i} class=\"fa fa-file-code-o$2\"></${1:i}>"
+	"fa-file-excel-o":
 		prefix: "fa-file-excel-o"
-		body: "content: '\\\\f1c3';"
-	"content: '\\f1c5';":
+		body: "<${1:i} class=\"fa fa-file-excel-o$2\"></${1:i}>"
+	"fa-file-image-o":
 		prefix: "fa-file-image-o"
-		body: "content: '\\\\f1c5';"
-	"content: '\\f1c8';":
+		body: "<${1:i} class=\"fa fa-file-image-o$2\"></${1:i}>"
+	"fa-file-movie-o":
 		prefix: "fa-file-movie-o"
-		body: "content: '\\\\f1c8';"
-	"content: '\\f016';":
+		body: "<${1:i} class=\"fa fa-file-movie-o$2\"></${1:i}>"
+	"fa-file-o":
 		prefix: "fa-file-o"
-		body: "content: '\\\\f016';"
-	"content: '\\f1c1';":
+		body: "<${1:i} class=\"fa fa-file-o$2\"></${1:i}>"
+	"fa-file-pdf-o":
 		prefix: "fa-file-pdf-o"
-		body: "content: '\\\\f1c1';"
-	"content: '\\f1c5';":
+		body: "<${1:i} class=\"fa fa-file-pdf-o$2\"></${1:i}>"
+	"fa-file-photo-o":
 		prefix: "fa-file-photo-o"
-		body: "content: '\\\\f1c5';"
-	"content: '\\f1c5';":
+		body: "<${1:i} class=\"fa fa-file-photo-o$2\"></${1:i}>"
+	"fa-file-picture-o":
 		prefix: "fa-file-picture-o"
-		body: "content: '\\\\f1c5';"
-	"content: '\\f1c4';":
+		body: "<${1:i} class=\"fa fa-file-picture-o$2\"></${1:i}>"
+	"fa-file-powerpoint-o":
 		prefix: "fa-file-powerpoint-o"
-		body: "content: '\\\\f1c4';"
-	"content: '\\f1c7';":
+		body: "<${1:i} class=\"fa fa-file-powerpoint-o$2\"></${1:i}>"
+	"fa-file-sound-o":
 		prefix: "fa-file-sound-o"
-		body: "content: '\\\\f1c7';"
-	"content: '\\f15c';":
+		body: "<${1:i} class=\"fa fa-file-sound-o$2\"></${1:i}>"
+	"fa-file-text":
 		prefix: "fa-file-text"
-		body: "content: '\\\\f15c';"
-	"content: '\\f0f6';":
+		body: "<${1:i} class=\"fa fa-file-text$2\"></${1:i}>"
+	"fa-file-text-o":
 		prefix: "fa-file-text-o"
-		body: "content: '\\\\f0f6';"
-	"content: '\\f1c8';":
+		body: "<${1:i} class=\"fa fa-file-text-o$2\"></${1:i}>"
+	"fa-file-video-o":
 		prefix: "fa-file-video-o"
-		body: "content: '\\\\f1c8';"
-	"content: '\\f1c2';":
+		body: "<${1:i} class=\"fa fa-file-video-o$2\"></${1:i}>"
+	"fa-file-word-o":
 		prefix: "fa-file-word-o"
-		body: "content: '\\\\f1c2';"
-	"content: '\\f1c6';":
+		body: "<${1:i} class=\"fa fa-file-word-o$2\"></${1:i}>"
+	"fa-file-zip-o":
 		prefix: "fa-file-zip-o"
-		body: "content: '\\\\f1c6';"
-	"content: '\\f0c5';":
+		body: "<${1:i} class=\"fa fa-file-zip-o$2\"></${1:i}>"
+	"fa-files-o":
 		prefix: "fa-files-o"
-		body: "content: '\\\\f0c5';"
-	"content: '\\f008';":
+		body: "<${1:i} class=\"fa fa-files-o$2\"></${1:i}>"
+	"fa-film":
 		prefix: "fa-film"
-		body: "content: '\\\\f008';"
-	"content: '\\f0b0';":
+		body: "<${1:i} class=\"fa fa-film$2\"></${1:i}>"
+	"fa-filter":
 		prefix: "fa-filter"
-		body: "content: '\\\\f0b0';"
-	"content: '\\f06d';":
+		body: "<${1:i} class=\"fa fa-filter$2\"></${1:i}>"
+	"fa-fire":
 		prefix: "fa-fire"
-		body: "content: '\\\\f06d';"
-	"content: '\\f134';":
+		body: "<${1:i} class=\"fa fa-fire$2\"></${1:i}>"
+	"fa-fire-extinguisher":
 		prefix: "fa-fire-extinguisher"
-		body: "content: '\\\\f134';"
-	"content: '\\f269';":
+		body: "<${1:i} class=\"fa fa-fire-extinguisher$2\"></${1:i}>"
+	"fa-firefox":
 		prefix: "fa-firefox"
-		body: "content: '\\\\f269';"
-	"content: '\\f024';":
+		body: "<${1:i} class=\"fa fa-firefox$2\"></${1:i}>"
+	"fa-flag":
 		prefix: "fa-flag"
-		body: "content: '\\\\f024';"
-	"content: '\\f11e';":
+		body: "<${1:i} class=\"fa fa-flag$2\"></${1:i}>"
+	"fa-flag-checkered":
 		prefix: "fa-flag-checkered"
-		body: "content: '\\\\f11e';"
-	"content: '\\f11d';":
+		body: "<${1:i} class=\"fa fa-flag-checkered$2\"></${1:i}>"
+	"fa-flag-o":
 		prefix: "fa-flag-o"
-		body: "content: '\\\\f11d';"
-	"content: '\\f0e7';":
+		body: "<${1:i} class=\"fa fa-flag-o$2\"></${1:i}>"
+	"fa-flash":
 		prefix: "fa-flash"
-		body: "content: '\\\\f0e7';"
-	"content: '\\f0c3';":
+		body: "<${1:i} class=\"fa fa-flash$2\"></${1:i}>"
+	"fa-flask":
 		prefix: "fa-flask"
-		body: "content: '\\\\f0c3';"
-	"content: '\\f16e';":
+		body: "<${1:i} class=\"fa fa-flask$2\"></${1:i}>"
+	"fa-flickr":
 		prefix: "fa-flickr"
-		body: "content: '\\\\f16e';"
-	"content: '\\f0c7';":
+		body: "<${1:i} class=\"fa fa-flickr$2\"></${1:i}>"
+	"fa-floppy-o":
 		prefix: "fa-floppy-o"
-		body: "content: '\\\\f0c7';"
-	"content: '\\f07b';":
+		body: "<${1:i} class=\"fa fa-floppy-o$2\"></${1:i}>"
+	"fa-folder":
 		prefix: "fa-folder"
-		body: "content: '\\\\f07b';"
-	"content: '\\f114';":
+		body: "<${1:i} class=\"fa fa-folder$2\"></${1:i}>"
+	"fa-folder-o":
 		prefix: "fa-folder-o"
-		body: "content: '\\\\f114';"
-	"content: '\\f07c';":
+		body: "<${1:i} class=\"fa fa-folder-o$2\"></${1:i}>"
+	"fa-folder-open":
 		prefix: "fa-folder-open"
-		body: "content: '\\\\f07c';"
-	"content: '\\f115';":
+		body: "<${1:i} class=\"fa fa-folder-open$2\"></${1:i}>"
+	"fa-folder-open-o":
 		prefix: "fa-folder-open-o"
-		body: "content: '\\\\f115';"
-	"content: '\\f031';":
+		body: "<${1:i} class=\"fa fa-folder-open-o$2\"></${1:i}>"
+	"fa-font":
 		prefix: "fa-font"
-		body: "content: '\\\\f031';"
-	"content: '\\f280';":
+		body: "<${1:i} class=\"fa fa-font$2\"></${1:i}>"
+	"fa-fonticons":
 		prefix: "fa-fonticons"
-		body: "content: '\\\\f280';"
-	"content: '\\f286';":
+		body: "<${1:i} class=\"fa fa-fonticons$2\"></${1:i}>"
+	"fa-fort-awesome":
 		prefix: "fa-fort-awesome"
-		body: "content: '\\\\f286';"
-	"content: '\\f211';":
+		body: "<${1:i} class=\"fa fa-fort-awesome$2\"></${1:i}>"
+	"fa-forumbee":
 		prefix: "fa-forumbee"
-		body: "content: '\\\\f211';"
-	"content: '\\f04e';":
+		body: "<${1:i} class=\"fa fa-forumbee$2\"></${1:i}>"
+	"fa-forward":
 		prefix: "fa-forward"
-		body: "content: '\\\\f04e';"
-	"content: '\\f180';":
+		body: "<${1:i} class=\"fa fa-forward$2\"></${1:i}>"
+	"fa-foursquare":
 		prefix: "fa-foursquare"
-		body: "content: '\\\\f180';"
-	"content: '\\f119';":
+		body: "<${1:i} class=\"fa fa-foursquare$2\"></${1:i}>"
+	"fa-frown-o":
 		prefix: "fa-frown-o"
-		body: "content: '\\\\f119';"
-	"content: '\\f1e3';":
+		body: "<${1:i} class=\"fa fa-frown-o$2\"></${1:i}>"
+	"fa-futbol-o":
 		prefix: "fa-futbol-o"
-		body: "content: '\\\\f1e3';"
-	"content: '\\f11b';":
+		body: "<${1:i} class=\"fa fa-futbol-o$2\"></${1:i}>"
+	"fa-gamepad":
 		prefix: "fa-gamepad"
-		body: "content: '\\\\f11b';"
-	"content: '\\f0e3';":
+		body: "<${1:i} class=\"fa fa-gamepad$2\"></${1:i}>"
+	"fa-gavel":
 		prefix: "fa-gavel"
-		body: "content: '\\\\f0e3';"
-	"content: '\\f154';":
+		body: "<${1:i} class=\"fa fa-gavel$2\"></${1:i}>"
+	"fa-gbp":
 		prefix: "fa-gbp"
-		body: "content: '\\\\f154';"
-	"content: '\\f1d1';":
+		body: "<${1:i} class=\"fa fa-gbp$2\"></${1:i}>"
+	"fa-ge":
 		prefix: "fa-ge"
-		body: "content: '\\\\f1d1';"
-	"content: '\\f013';":
+		body: "<${1:i} class=\"fa fa-ge$2\"></${1:i}>"
+	"fa-gear":
 		prefix: "fa-gear"
-		body: "content: '\\\\f013';"
-	"content: '\\f085';":
+		body: "<${1:i} class=\"fa fa-gear$2\"></${1:i}>"
+	"fa-gears":
 		prefix: "fa-gears"
-		body: "content: '\\\\f085';"
-	"content: '\\f22d';":
+		body: "<${1:i} class=\"fa fa-gears$2\"></${1:i}>"
+	"fa-genderless":
 		prefix: "fa-genderless"
-		body: "content: '\\\\f22d';"
-	"content: '\\f265';":
+		body: "<${1:i} class=\"fa fa-genderless$2\"></${1:i}>"
+	"fa-get-pocket":
 		prefix: "fa-get-pocket"
-		body: "content: '\\\\f265';"
-	"content: '\\f260';":
+		body: "<${1:i} class=\"fa fa-get-pocket$2\"></${1:i}>"
+	"fa-gg":
 		prefix: "fa-gg"
-		body: "content: '\\\\f260';"
-	"content: '\\f261';":
+		body: "<${1:i} class=\"fa fa-gg$2\"></${1:i}>"
+	"fa-gg-circle":
 		prefix: "fa-gg-circle"
-		body: "content: '\\\\f261';"
-	"content: '\\f06b';":
+		body: "<${1:i} class=\"fa fa-gg-circle$2\"></${1:i}>"
+	"fa-gift":
 		prefix: "fa-gift"
-		body: "content: '\\\\f06b';"
-	"content: '\\f1d3';":
+		body: "<${1:i} class=\"fa fa-gift$2\"></${1:i}>"
+	"fa-git":
 		prefix: "fa-git"
-		body: "content: '\\\\f1d3';"
-	"content: '\\f1d2';":
+		body: "<${1:i} class=\"fa fa-git$2\"></${1:i}>"
+	"fa-git-square":
 		prefix: "fa-git-square"
-		body: "content: '\\\\f1d2';"
-	"content: '\\f09b';":
+		body: "<${1:i} class=\"fa fa-git-square$2\"></${1:i}>"
+	"fa-github":
 		prefix: "fa-github"
-		body: "content: '\\\\f09b';"
-	"content: '\\f113';":
+		body: "<${1:i} class=\"fa fa-github$2\"></${1:i}>"
+	"fa-github-alt":
 		prefix: "fa-github-alt"
-		body: "content: '\\\\f113';"
-	"content: '\\f092';":
+		body: "<${1:i} class=\"fa fa-github-alt$2\"></${1:i}>"
+	"fa-github-square":
 		prefix: "fa-github-square"
-		body: "content: '\\\\f092';"
-	"content: '\\f296';":
+		body: "<${1:i} class=\"fa fa-github-square$2\"></${1:i}>"
+	"fa-gitlab":
 		prefix: "fa-gitlab"
-		body: "content: '\\\\f296';"
-	"content: '\\f184';":
+		body: "<${1:i} class=\"fa fa-gitlab$2\"></${1:i}>"
+	"fa-gittip":
 		prefix: "fa-gittip"
-		body: "content: '\\\\f184';"
-	"content: '\\f000';":
+		body: "<${1:i} class=\"fa fa-gittip$2\"></${1:i}>"
+	"fa-glass":
 		prefix: "fa-glass"
-		body: "content: '\\\\f000';"
-	"content: '\\f2a5';":
+		body: "<${1:i} class=\"fa fa-glass$2\"></${1:i}>"
+	"fa-glide":
 		prefix: "fa-glide"
-		body: "content: '\\\\f2a5';"
-	"content: '\\f2a6';":
+		body: "<${1:i} class=\"fa fa-glide$2\"></${1:i}>"
+	"fa-glide-g":
 		prefix: "fa-glide-g"
-		body: "content: '\\\\f2a6';"
-	"content: '\\f0ac';":
+		body: "<${1:i} class=\"fa fa-glide-g$2\"></${1:i}>"
+	"fa-globe":
 		prefix: "fa-globe"
-		body: "content: '\\\\f0ac';"
-	"content: '\\f1a0';":
+		body: "<${1:i} class=\"fa fa-globe$2\"></${1:i}>"
+	"fa-google":
 		prefix: "fa-google"
-		body: "content: '\\\\f1a0';"
-	"content: '\\f0d5';":
+		body: "<${1:i} class=\"fa fa-google$2\"></${1:i}>"
+	"fa-google-plus":
 		prefix: "fa-google-plus"
-		body: "content: '\\\\f0d5';"
-	"content: '\\f0d4';":
+		body: "<${1:i} class=\"fa fa-google-plus$2\"></${1:i}>"
+	"fa-google-plus-square":
 		prefix: "fa-google-plus-square"
-		body: "content: '\\\\f0d4';"
-	"content: '\\f1ee';":
+		body: "<${1:i} class=\"fa fa-google-plus-square$2\"></${1:i}>"
+	"fa-google-wallet":
 		prefix: "fa-google-wallet"
-		body: "content: '\\\\f1ee';"
-	"content: '\\f19d';":
+		body: "<${1:i} class=\"fa fa-google-wallet$2\"></${1:i}>"
+	"fa-graduation-cap":
 		prefix: "fa-graduation-cap"
-		body: "content: '\\\\f19d';"
-	"content: '\\f184';":
+		body: "<${1:i} class=\"fa fa-graduation-cap$2\"></${1:i}>"
+	"fa-gratipay":
 		prefix: "fa-gratipay"
-		body: "content: '\\\\f184';"
-	"content: '\\f0c0';":
+		body: "<${1:i} class=\"fa fa-gratipay$2\"></${1:i}>"
+	"fa-group":
 		prefix: "fa-group"
-		body: "content: '\\\\f0c0';"
-	"content: '\\f0fd';":
+		body: "<${1:i} class=\"fa fa-group$2\"></${1:i}>"
+	"fa-h-square":
 		prefix: "fa-h-square"
-		body: "content: '\\\\f0fd';"
-	"content: '\\f1d4';":
+		body: "<${1:i} class=\"fa fa-h-square$2\"></${1:i}>"
+	"fa-hacker-news":
 		prefix: "fa-hacker-news"
-		body: "content: '\\\\f1d4';"
-	"content: '\\f255';":
+		body: "<${1:i} class=\"fa fa-hacker-news$2\"></${1:i}>"
+	"fa-hand-grab-o":
 		prefix: "fa-hand-grab-o"
-		body: "content: '\\\\f255';"
-	"content: '\\f258';":
+		body: "<${1:i} class=\"fa fa-hand-grab-o$2\"></${1:i}>"
+	"fa-hand-lizard-o":
 		prefix: "fa-hand-lizard-o"
-		body: "content: '\\\\f258';"
-	"content: '\\f0a7';":
+		body: "<${1:i} class=\"fa fa-hand-lizard-o$2\"></${1:i}>"
+	"fa-hand-o-down":
 		prefix: "fa-hand-o-down"
-		body: "content: '\\\\f0a7';"
-	"content: '\\f0a5';":
+		body: "<${1:i} class=\"fa fa-hand-o-down$2\"></${1:i}>"
+	"fa-hand-o-left":
 		prefix: "fa-hand-o-left"
-		body: "content: '\\\\f0a5';"
-	"content: '\\f0a4';":
+		body: "<${1:i} class=\"fa fa-hand-o-left$2\"></${1:i}>"
+	"fa-hand-o-right":
 		prefix: "fa-hand-o-right"
-		body: "content: '\\\\f0a4';"
-	"content: '\\f0a6';":
+		body: "<${1:i} class=\"fa fa-hand-o-right$2\"></${1:i}>"
+	"fa-hand-o-up":
 		prefix: "fa-hand-o-up"
-		body: "content: '\\\\f0a6';"
-	"content: '\\f256';":
+		body: "<${1:i} class=\"fa fa-hand-o-up$2\"></${1:i}>"
+	"fa-hand-paper-o":
 		prefix: "fa-hand-paper-o"
-		body: "content: '\\\\f256';"
-	"content: '\\f25b';":
+		body: "<${1:i} class=\"fa fa-hand-paper-o$2\"></${1:i}>"
+	"fa-hand-peace-o":
 		prefix: "fa-hand-peace-o"
-		body: "content: '\\\\f25b';"
-	"content: '\\f25a';":
+		body: "<${1:i} class=\"fa fa-hand-peace-o$2\"></${1:i}>"
+	"fa-hand-pointer-o":
 		prefix: "fa-hand-pointer-o"
-		body: "content: '\\\\f25a';"
-	"content: '\\f255';":
+		body: "<${1:i} class=\"fa fa-hand-pointer-o$2\"></${1:i}>"
+	"fa-hand-rock-o":
 		prefix: "fa-hand-rock-o"
-		body: "content: '\\\\f255';"
-	"content: '\\f257';":
+		body: "<${1:i} class=\"fa fa-hand-rock-o$2\"></${1:i}>"
+	"fa-hand-scissors-o":
 		prefix: "fa-hand-scissors-o"
-		body: "content: '\\\\f257';"
-	"content: '\\f259';":
+		body: "<${1:i} class=\"fa fa-hand-scissors-o$2\"></${1:i}>"
+	"fa-hand-spock-o":
 		prefix: "fa-hand-spock-o"
-		body: "content: '\\\\f259';"
-	"content: '\\f256';":
+		body: "<${1:i} class=\"fa fa-hand-spock-o$2\"></${1:i}>"
+	"fa-hand-stop-o":
 		prefix: "fa-hand-stop-o"
-		body: "content: '\\\\f256';"
-	"content: '\\f2a4';":
+		body: "<${1:i} class=\"fa fa-hand-stop-o$2\"></${1:i}>"
+	"fa-hard-of-hearing":
 		prefix: "fa-hard-of-hearing"
-		body: "content: '\\\\f2a4';"
-	"content: '\\f292';":
+		body: "<${1:i} class=\"fa fa-hard-of-hearing$2\"></${1:i}>"
+	"fa-hashtag":
 		prefix: "fa-hashtag"
-		body: "content: '\\\\f292';"
-	"content: '\\f0a0';":
+		body: "<${1:i} class=\"fa fa-hashtag$2\"></${1:i}>"
+	"fa-hdd-o":
 		prefix: "fa-hdd-o"
-		body: "content: '\\\\f0a0';"
-	"content: '\\f1dc';":
+		body: "<${1:i} class=\"fa fa-hdd-o$2\"></${1:i}>"
+	"fa-header":
 		prefix: "fa-header"
-		body: "content: '\\\\f1dc';"
-	"content: '\\f025';":
+		body: "<${1:i} class=\"fa fa-header$2\"></${1:i}>"
+	"fa-headphones":
 		prefix: "fa-headphones"
-		body: "content: '\\\\f025';"
-	"content: '\\f004';":
+		body: "<${1:i} class=\"fa fa-headphones$2\"></${1:i}>"
+	"fa-heart":
 		prefix: "fa-heart"
-		body: "content: '\\\\f004';"
-	"content: '\\f08a';":
+		body: "<${1:i} class=\"fa fa-heart$2\"></${1:i}>"
+	"fa-heart-o":
 		prefix: "fa-heart-o"
-		body: "content: '\\\\f08a';"
-	"content: '\\f21e';":
+		body: "<${1:i} class=\"fa fa-heart-o$2\"></${1:i}>"
+	"fa-heartbeat":
 		prefix: "fa-heartbeat"
-		body: "content: '\\\\f21e';"
-	"content: '\\f1da';":
+		body: "<${1:i} class=\"fa fa-heartbeat$2\"></${1:i}>"
+	"fa-history":
 		prefix: "fa-history"
-		body: "content: '\\\\f1da';"
-	"content: '\\f015';":
+		body: "<${1:i} class=\"fa fa-history$2\"></${1:i}>"
+	"fa-home":
 		prefix: "fa-home"
-		body: "content: '\\\\f015';"
-	"content: '\\f0f8';":
+		body: "<${1:i} class=\"fa fa-home$2\"></${1:i}>"
+	"fa-hospital-o":
 		prefix: "fa-hospital-o"
-		body: "content: '\\\\f0f8';"
-	"content: '\\f236';":
+		body: "<${1:i} class=\"fa fa-hospital-o$2\"></${1:i}>"
+	"fa-hotel":
 		prefix: "fa-hotel"
-		body: "content: '\\\\f236';"
-	"content: '\\f254';":
+		body: "<${1:i} class=\"fa fa-hotel$2\"></${1:i}>"
+	"fa-hourglass":
 		prefix: "fa-hourglass"
-		body: "content: '\\\\f254';"
-	"content: '\\f251';":
+		body: "<${1:i} class=\"fa fa-hourglass$2\"></${1:i}>"
+	"fa-hourglass-1":
 		prefix: "fa-hourglass-1"
-		body: "content: '\\\\f251';"
-	"content: '\\f252';":
+		body: "<${1:i} class=\"fa fa-hourglass-1$2\"></${1:i}>"
+	"fa-hourglass-2":
 		prefix: "fa-hourglass-2"
-		body: "content: '\\\\f252';"
-	"content: '\\f253';":
+		body: "<${1:i} class=\"fa fa-hourglass-2$2\"></${1:i}>"
+	"fa-hourglass-3":
 		prefix: "fa-hourglass-3"
-		body: "content: '\\\\f253';"
-	"content: '\\f253';":
+		body: "<${1:i} class=\"fa fa-hourglass-3$2\"></${1:i}>"
+	"fa-hourglass-end":
 		prefix: "fa-hourglass-end"
-		body: "content: '\\\\f253';"
-	"content: '\\f252';":
+		body: "<${1:i} class=\"fa fa-hourglass-end$2\"></${1:i}>"
+	"fa-hourglass-half":
 		prefix: "fa-hourglass-half"
-		body: "content: '\\\\f252';"
-	"content: '\\f250';":
+		body: "<${1:i} class=\"fa fa-hourglass-half$2\"></${1:i}>"
+	"fa-hourglass-o":
 		prefix: "fa-hourglass-o"
-		body: "content: '\\\\f250';"
-	"content: '\\f251';":
+		body: "<${1:i} class=\"fa fa-hourglass-o$2\"></${1:i}>"
+	"fa-hourglass-start":
 		prefix: "fa-hourglass-start"
-		body: "content: '\\\\f251';"
-	"content: '\\f27c';":
+		body: "<${1:i} class=\"fa fa-hourglass-start$2\"></${1:i}>"
+	"fa-houzz":
 		prefix: "fa-houzz"
-		body: "content: '\\\\f27c';"
-	"content: '\\f13b';":
+		body: "<${1:i} class=\"fa fa-houzz$2\"></${1:i}>"
+	"fa-html5":
 		prefix: "fa-html5"
-		body: "content: '\\\\f13b';"
-	"content: '\\f246';":
+		body: "<${1:i} class=\"fa fa-html5$2\"></${1:i}>"
+	"fa-i-cursor":
 		prefix: "fa-i-cursor"
-		body: "content: '\\\\f246';"
-	"content: '\\f20b';":
+		body: "<${1:i} class=\"fa fa-i-cursor$2\"></${1:i}>"
+	"fa-ils":
 		prefix: "fa-ils"
-		body: "content: '\\\\f20b';"
-	"content: '\\f03e';":
+		body: "<${1:i} class=\"fa fa-ils$2\"></${1:i}>"
+	"fa-image":
 		prefix: "fa-image"
-		body: "content: '\\\\f03e';"
-	"content: '\\f01c';":
+		body: "<${1:i} class=\"fa fa-image$2\"></${1:i}>"
+	"fa-inbox":
 		prefix: "fa-inbox"
-		body: "content: '\\\\f01c';"
-	"content: '\\f03c';":
+		body: "<${1:i} class=\"fa fa-inbox$2\"></${1:i}>"
+	"fa-indent":
 		prefix: "fa-indent"
-		body: "content: '\\\\f03c';"
-	"content: '\\f275';":
+		body: "<${1:i} class=\"fa fa-indent$2\"></${1:i}>"
+	"fa-industry":
 		prefix: "fa-industry"
-		body: "content: '\\\\f275';"
-	"content: '\\f129';":
+		body: "<${1:i} class=\"fa fa-industry$2\"></${1:i}>"
+	"fa-info":
 		prefix: "fa-info"
-		body: "content: '\\\\f129';"
-	"content: '\\f05a';":
+		body: "<${1:i} class=\"fa fa-info$2\"></${1:i}>"
+	"fa-info-circle":
 		prefix: "fa-info-circle"
-		body: "content: '\\\\f05a';"
-	"content: '\\f156';":
+		body: "<${1:i} class=\"fa fa-info-circle$2\"></${1:i}>"
+	"fa-inr":
 		prefix: "fa-inr"
-		body: "content: '\\\\f156';"
-	"content: '\\f16d';":
+		body: "<${1:i} class=\"fa fa-inr$2\"></${1:i}>"
+	"fa-instagram":
 		prefix: "fa-instagram"
-		body: "content: '\\\\f16d';"
-	"content: '\\f19c';":
+		body: "<${1:i} class=\"fa fa-instagram$2\"></${1:i}>"
+	"fa-institution":
 		prefix: "fa-institution"
-		body: "content: '\\\\f19c';"
-	"content: '\\f26b';":
+		body: "<${1:i} class=\"fa fa-institution$2\"></${1:i}>"
+	"fa-internet-explorer":
 		prefix: "fa-internet-explorer"
-		body: "content: '\\\\f26b';"
-	"content: '\\f224';":
+		body: "<${1:i} class=\"fa fa-internet-explorer$2\"></${1:i}>"
+	"fa-intersex":
 		prefix: "fa-intersex"
-		body: "content: '\\\\f224';"
-	"content: '\\f208';":
+		body: "<${1:i} class=\"fa fa-intersex$2\"></${1:i}>"
+	"fa-ioxhost":
 		prefix: "fa-ioxhost"
-		body: "content: '\\\\f208';"
-	"content: '\\f033';":
+		body: "<${1:i} class=\"fa fa-ioxhost$2\"></${1:i}>"
+	"fa-italic":
 		prefix: "fa-italic"
-		body: "content: '\\\\f033';"
-	"content: '\\f1aa';":
+		body: "<${1:i} class=\"fa fa-italic$2\"></${1:i}>"
+	"fa-joomla":
 		prefix: "fa-joomla"
-		body: "content: '\\\\f1aa';"
-	"content: '\\f157';":
+		body: "<${1:i} class=\"fa fa-joomla$2\"></${1:i}>"
+	"fa-jpy":
 		prefix: "fa-jpy"
-		body: "content: '\\\\f157';"
-	"content: '\\f1cc';":
+		body: "<${1:i} class=\"fa fa-jpy$2\"></${1:i}>"
+	"fa-jsfiddle":
 		prefix: "fa-jsfiddle"
-		body: "content: '\\\\f1cc';"
-	"content: '\\f084';":
+		body: "<${1:i} class=\"fa fa-jsfiddle$2\"></${1:i}>"
+	"fa-key":
 		prefix: "fa-key"
-		body: "content: '\\\\f084';"
-	"content: '\\f11c';":
+		body: "<${1:i} class=\"fa fa-key$2\"></${1:i}>"
+	"fa-keyboard-o":
 		prefix: "fa-keyboard-o"
-		body: "content: '\\\\f11c';"
-	"content: '\\f159';":
+		body: "<${1:i} class=\"fa fa-keyboard-o$2\"></${1:i}>"
+	"fa-krw":
 		prefix: "fa-krw"
-		body: "content: '\\\\f159';"
-	"content: '\\f1ab';":
+		body: "<${1:i} class=\"fa fa-krw$2\"></${1:i}>"
+	"fa-language":
 		prefix: "fa-language"
-		body: "content: '\\\\f1ab';"
-	"content: '\\f109';":
+		body: "<${1:i} class=\"fa fa-language$2\"></${1:i}>"
+	"fa-laptop":
 		prefix: "fa-laptop"
-		body: "content: '\\\\f109';"
-	"content: '\\f202';":
+		body: "<${1:i} class=\"fa fa-laptop$2\"></${1:i}>"
+	"fa-lastfm":
 		prefix: "fa-lastfm"
-		body: "content: '\\\\f202';"
-	"content: '\\f203';":
+		body: "<${1:i} class=\"fa fa-lastfm$2\"></${1:i}>"
+	"fa-lastfm-square":
 		prefix: "fa-lastfm-square"
-		body: "content: '\\\\f203';"
-	"content: '\\f06c';":
+		body: "<${1:i} class=\"fa fa-lastfm-square$2\"></${1:i}>"
+	"fa-leaf":
 		prefix: "fa-leaf"
-		body: "content: '\\\\f06c';"
-	"content: '\\f212';":
+		body: "<${1:i} class=\"fa fa-leaf$2\"></${1:i}>"
+	"fa-leanpub":
 		prefix: "fa-leanpub"
-		body: "content: '\\\\f212';"
-	"content: '\\f0e3';":
+		body: "<${1:i} class=\"fa fa-leanpub$2\"></${1:i}>"
+	"fa-legal":
 		prefix: "fa-legal"
-		body: "content: '\\\\f0e3';"
-	"content: '\\f094';":
+		body: "<${1:i} class=\"fa fa-legal$2\"></${1:i}>"
+	"fa-lemon-o":
 		prefix: "fa-lemon-o"
-		body: "content: '\\\\f094';"
-	"content: '\\f149';":
+		body: "<${1:i} class=\"fa fa-lemon-o$2\"></${1:i}>"
+	"fa-level-down":
 		prefix: "fa-level-down"
-		body: "content: '\\\\f149';"
-	"content: '\\f148';":
+		body: "<${1:i} class=\"fa fa-level-down$2\"></${1:i}>"
+	"fa-level-up":
 		prefix: "fa-level-up"
-		body: "content: '\\\\f148';"
-	"content: '\\f1cd';":
+		body: "<${1:i} class=\"fa fa-level-up$2\"></${1:i}>"
+	"fa-life-bouy":
 		prefix: "fa-life-bouy"
-		body: "content: '\\\\f1cd';"
-	"content: '\\f1cd';":
+		body: "<${1:i} class=\"fa fa-life-bouy$2\"></${1:i}>"
+	"fa-life-buoy":
 		prefix: "fa-life-buoy"
-		body: "content: '\\\\f1cd';"
-	"content: '\\f1cd';":
+		body: "<${1:i} class=\"fa fa-life-buoy$2\"></${1:i}>"
+	"fa-life-ring":
 		prefix: "fa-life-ring"
-		body: "content: '\\\\f1cd';"
-	"content: '\\f1cd';":
+		body: "<${1:i} class=\"fa fa-life-ring$2\"></${1:i}>"
+	"fa-life-saver":
 		prefix: "fa-life-saver"
-		body: "content: '\\\\f1cd';"
-	"content: '\\f0eb';":
+		body: "<${1:i} class=\"fa fa-life-saver$2\"></${1:i}>"
+	"fa-lightbulb-o":
 		prefix: "fa-lightbulb-o"
-		body: "content: '\\\\f0eb';"
-	"content: '\\f201';":
+		body: "<${1:i} class=\"fa fa-lightbulb-o$2\"></${1:i}>"
+	"fa-line-chart":
 		prefix: "fa-line-chart"
-		body: "content: '\\\\f201';"
-	"content: '\\f0c1';":
+		body: "<${1:i} class=\"fa fa-line-chart$2\"></${1:i}>"
+	"fa-link":
 		prefix: "fa-link"
-		body: "content: '\\\\f0c1';"
-	"content: '\\f0e1';":
+		body: "<${1:i} class=\"fa fa-link$2\"></${1:i}>"
+	"fa-linkedin":
 		prefix: "fa-linkedin"
-		body: "content: '\\\\f0e1';"
-	"content: '\\f08c';":
+		body: "<${1:i} class=\"fa fa-linkedin$2\"></${1:i}>"
+	"fa-linkedin-square":
 		prefix: "fa-linkedin-square"
-		body: "content: '\\\\f08c';"
-	"content: '\\f17c';":
+		body: "<${1:i} class=\"fa fa-linkedin-square$2\"></${1:i}>"
+	"fa-linux":
 		prefix: "fa-linux"
-		body: "content: '\\\\f17c';"
-	"content: '\\f03a';":
+		body: "<${1:i} class=\"fa fa-linux$2\"></${1:i}>"
+	"fa-list":
 		prefix: "fa-list"
-		body: "content: '\\\\f03a';"
-	"content: '\\f022';":
+		body: "<${1:i} class=\"fa fa-list$2\"></${1:i}>"
+	"fa-list-alt":
 		prefix: "fa-list-alt"
-		body: "content: '\\\\f022';"
-	"content: '\\f0cb';":
+		body: "<${1:i} class=\"fa fa-list-alt$2\"></${1:i}>"
+	"fa-list-ol":
 		prefix: "fa-list-ol"
-		body: "content: '\\\\f0cb';"
-	"content: '\\f0ca';":
+		body: "<${1:i} class=\"fa fa-list-ol$2\"></${1:i}>"
+	"fa-list-ul":
 		prefix: "fa-list-ul"
-		body: "content: '\\\\f0ca';"
-	"content: '\\f124';":
+		body: "<${1:i} class=\"fa fa-list-ul$2\"></${1:i}>"
+	"fa-location-arrow":
 		prefix: "fa-location-arrow"
-		body: "content: '\\\\f124';"
-	"content: '\\f023';":
+		body: "<${1:i} class=\"fa fa-location-arrow$2\"></${1:i}>"
+	"fa-lock":
 		prefix: "fa-lock"
-		body: "content: '\\\\f023';"
-	"content: '\\f175';":
+		body: "<${1:i} class=\"fa fa-lock$2\"></${1:i}>"
+	"fa-long-arrow-down":
 		prefix: "fa-long-arrow-down"
-		body: "content: '\\\\f175';"
-	"content: '\\f177';":
+		body: "<${1:i} class=\"fa fa-long-arrow-down$2\"></${1:i}>"
+	"fa-long-arrow-left":
 		prefix: "fa-long-arrow-left"
-		body: "content: '\\\\f177';"
-	"content: '\\f178';":
+		body: "<${1:i} class=\"fa fa-long-arrow-left$2\"></${1:i}>"
+	"fa-long-arrow-right":
 		prefix: "fa-long-arrow-right"
-		body: "content: '\\\\f178';"
-	"content: '\\f176';":
+		body: "<${1:i} class=\"fa fa-long-arrow-right$2\"></${1:i}>"
+	"fa-long-arrow-up":
 		prefix: "fa-long-arrow-up"
-		body: "content: '\\\\f176';"
-	"content: '\\f2a8';":
+		body: "<${1:i} class=\"fa fa-long-arrow-up$2\"></${1:i}>"
+	"fa-low-vision":
 		prefix: "fa-low-vision"
-		body: "content: '\\\\f2a8';"
-	"content: '\\f0d0';":
+		body: "<${1:i} class=\"fa fa-low-vision$2\"></${1:i}>"
+	"fa-magic":
 		prefix: "fa-magic"
-		body: "content: '\\\\f0d0';"
-	"content: '\\f076';":
+		body: "<${1:i} class=\"fa fa-magic$2\"></${1:i}>"
+	"fa-magnet":
 		prefix: "fa-magnet"
-		body: "content: '\\\\f076';"
-	"content: '\\f064';":
+		body: "<${1:i} class=\"fa fa-magnet$2\"></${1:i}>"
+	"fa-mail-forward":
 		prefix: "fa-mail-forward"
-		body: "content: '\\\\f064';"
-	"content: '\\f112';":
+		body: "<${1:i} class=\"fa fa-mail-forward$2\"></${1:i}>"
+	"fa-mail-reply":
 		prefix: "fa-mail-reply"
-		body: "content: '\\\\f112';"
-	"content: '\\f122';":
+		body: "<${1:i} class=\"fa fa-mail-reply$2\"></${1:i}>"
+	"fa-mail-reply-all":
 		prefix: "fa-mail-reply-all"
-		body: "content: '\\\\f122';"
-	"content: '\\f183';":
+		body: "<${1:i} class=\"fa fa-mail-reply-all$2\"></${1:i}>"
+	"fa-male":
 		prefix: "fa-male"
-		body: "content: '\\\\f183';"
-	"content: '\\f279';":
+		body: "<${1:i} class=\"fa fa-male$2\"></${1:i}>"
+	"fa-map":
 		prefix: "fa-map"
-		body: "content: '\\\\f279';"
-	"content: '\\f041';":
+		body: "<${1:i} class=\"fa fa-map$2\"></${1:i}>"
+	"fa-map-marker":
 		prefix: "fa-map-marker"
-		body: "content: '\\\\f041';"
-	"content: '\\f278';":
+		body: "<${1:i} class=\"fa fa-map-marker$2\"></${1:i}>"
+	"fa-map-o":
 		prefix: "fa-map-o"
-		body: "content: '\\\\f278';"
-	"content: '\\f276';":
+		body: "<${1:i} class=\"fa fa-map-o$2\"></${1:i}>"
+	"fa-map-pin":
 		prefix: "fa-map-pin"
-		body: "content: '\\\\f276';"
-	"content: '\\f277';":
+		body: "<${1:i} class=\"fa fa-map-pin$2\"></${1:i}>"
+	"fa-map-signs":
 		prefix: "fa-map-signs"
-		body: "content: '\\\\f277';"
-	"content: '\\f222';":
+		body: "<${1:i} class=\"fa fa-map-signs$2\"></${1:i}>"
+	"fa-mars":
 		prefix: "fa-mars"
-		body: "content: '\\\\f222';"
-	"content: '\\f227';":
+		body: "<${1:i} class=\"fa fa-mars$2\"></${1:i}>"
+	"fa-mars-double":
 		prefix: "fa-mars-double"
-		body: "content: '\\\\f227';"
-	"content: '\\f229';":
+		body: "<${1:i} class=\"fa fa-mars-double$2\"></${1:i}>"
+	"fa-mars-stroke":
 		prefix: "fa-mars-stroke"
-		body: "content: '\\\\f229';"
-	"content: '\\f22b';":
+		body: "<${1:i} class=\"fa fa-mars-stroke$2\"></${1:i}>"
+	"fa-mars-stroke-h":
 		prefix: "fa-mars-stroke-h"
-		body: "content: '\\\\f22b';"
-	"content: '\\f22a';":
+		body: "<${1:i} class=\"fa fa-mars-stroke-h$2\"></${1:i}>"
+	"fa-mars-stroke-v":
 		prefix: "fa-mars-stroke-v"
-		body: "content: '\\\\f22a';"
-	"content: '\\f136';":
+		body: "<${1:i} class=\"fa fa-mars-stroke-v$2\"></${1:i}>"
+	"fa-maxcdn":
 		prefix: "fa-maxcdn"
-		body: "content: '\\\\f136';"
-	"content: '\\f20c';":
+		body: "<${1:i} class=\"fa fa-maxcdn$2\"></${1:i}>"
+	"fa-meanpath":
 		prefix: "fa-meanpath"
-		body: "content: '\\\\f20c';"
-	"content: '\\f23a';":
+		body: "<${1:i} class=\"fa fa-meanpath$2\"></${1:i}>"
+	"fa-medium":
 		prefix: "fa-medium"
-		body: "content: '\\\\f23a';"
-	"content: '\\f0fa';":
+		body: "<${1:i} class=\"fa fa-medium$2\"></${1:i}>"
+	"fa-medkit":
 		prefix: "fa-medkit"
-		body: "content: '\\\\f0fa';"
-	"content: '\\f11a';":
+		body: "<${1:i} class=\"fa fa-medkit$2\"></${1:i}>"
+	"fa-meh-o":
 		prefix: "fa-meh-o"
-		body: "content: '\\\\f11a';"
-	"content: '\\f223';":
+		body: "<${1:i} class=\"fa fa-meh-o$2\"></${1:i}>"
+	"fa-mercury":
 		prefix: "fa-mercury"
-		body: "content: '\\\\f223';"
-	"content: '\\f130';":
+		body: "<${1:i} class=\"fa fa-mercury$2\"></${1:i}>"
+	"fa-microphone":
 		prefix: "fa-microphone"
-		body: "content: '\\\\f130';"
-	"content: '\\f131';":
+		body: "<${1:i} class=\"fa fa-microphone$2\"></${1:i}>"
+	"fa-microphone-slash":
 		prefix: "fa-microphone-slash"
-		body: "content: '\\\\f131';"
-	"content: '\\f068';":
+		body: "<${1:i} class=\"fa fa-microphone-slash$2\"></${1:i}>"
+	"fa-minus":
 		prefix: "fa-minus"
-		body: "content: '\\\\f068';"
-	"content: '\\f056';":
+		body: "<${1:i} class=\"fa fa-minus$2\"></${1:i}>"
+	"fa-minus-circle":
 		prefix: "fa-minus-circle"
-		body: "content: '\\\\f056';"
-	"content: '\\f146';":
+		body: "<${1:i} class=\"fa fa-minus-circle$2\"></${1:i}>"
+	"fa-minus-square":
 		prefix: "fa-minus-square"
-		body: "content: '\\\\f146';"
-	"content: '\\f147';":
+		body: "<${1:i} class=\"fa fa-minus-square$2\"></${1:i}>"
+	"fa-minus-square-o":
 		prefix: "fa-minus-square-o"
-		body: "content: '\\\\f147';"
-	"content: '\\f289';":
+		body: "<${1:i} class=\"fa fa-minus-square-o$2\"></${1:i}>"
+	"fa-mixcloud":
 		prefix: "fa-mixcloud"
-		body: "content: '\\\\f289';"
-	"content: '\\f10b';":
+		body: "<${1:i} class=\"fa fa-mixcloud$2\"></${1:i}>"
+	"fa-mobile":
 		prefix: "fa-mobile"
-		body: "content: '\\\\f10b';"
-	"content: '\\f10b';":
+		body: "<${1:i} class=\"fa fa-mobile$2\"></${1:i}>"
+	"fa-mobile-phone":
 		prefix: "fa-mobile-phone"
-		body: "content: '\\\\f10b';"
-	"content: '\\f285';":
+		body: "<${1:i} class=\"fa fa-mobile-phone$2\"></${1:i}>"
+	"fa-modx":
 		prefix: "fa-modx"
-		body: "content: '\\\\f285';"
-	"content: '\\f0d6';":
+		body: "<${1:i} class=\"fa fa-modx$2\"></${1:i}>"
+	"fa-money":
 		prefix: "fa-money"
-		body: "content: '\\\\f0d6';"
-	"content: '\\f186';":
+		body: "<${1:i} class=\"fa fa-money$2\"></${1:i}>"
+	"fa-moon-o":
 		prefix: "fa-moon-o"
-		body: "content: '\\\\f186';"
-	"content: '\\f19d';":
+		body: "<${1:i} class=\"fa fa-moon-o$2\"></${1:i}>"
+	"fa-mortar-board":
 		prefix: "fa-mortar-board"
-		body: "content: '\\\\f19d';"
-	"content: '\\f21c';":
+		body: "<${1:i} class=\"fa fa-mortar-board$2\"></${1:i}>"
+	"fa-motorcycle":
 		prefix: "fa-motorcycle"
-		body: "content: '\\\\f21c';"
-	"content: '\\f245';":
+		body: "<${1:i} class=\"fa fa-motorcycle$2\"></${1:i}>"
+	"fa-mouse-pointer":
 		prefix: "fa-mouse-pointer"
-		body: "content: '\\\\f245';"
-	"content: '\\f001';":
+		body: "<${1:i} class=\"fa fa-mouse-pointer$2\"></${1:i}>"
+	"fa-music":
 		prefix: "fa-music"
-		body: "content: '\\\\f001';"
-	"content: '\\f0c9';":
+		body: "<${1:i} class=\"fa fa-music$2\"></${1:i}>"
+	"fa-navicon":
 		prefix: "fa-navicon"
-		body: "content: '\\\\f0c9';"
-	"content: '\\f22c';":
+		body: "<${1:i} class=\"fa fa-navicon$2\"></${1:i}>"
+	"fa-neuter":
 		prefix: "fa-neuter"
-		body: "content: '\\\\f22c';"
-	"content: '\\f1ea';":
+		body: "<${1:i} class=\"fa fa-neuter$2\"></${1:i}>"
+	"fa-newspaper-o":
 		prefix: "fa-newspaper-o"
-		body: "content: '\\\\f1ea';"
-	"content: '\\f247';":
+		body: "<${1:i} class=\"fa fa-newspaper-o$2\"></${1:i}>"
+	"fa-object-group":
 		prefix: "fa-object-group"
-		body: "content: '\\\\f247';"
-	"content: '\\f248';":
+		body: "<${1:i} class=\"fa fa-object-group$2\"></${1:i}>"
+	"fa-object-ungroup":
 		prefix: "fa-object-ungroup"
-		body: "content: '\\\\f248';"
-	"content: '\\f263';":
+		body: "<${1:i} class=\"fa fa-object-ungroup$2\"></${1:i}>"
+	"fa-odnoklassniki":
 		prefix: "fa-odnoklassniki"
-		body: "content: '\\\\f263';"
-	"content: '\\f264';":
+		body: "<${1:i} class=\"fa fa-odnoklassniki$2\"></${1:i}>"
+	"fa-odnoklassniki-square":
 		prefix: "fa-odnoklassniki-square"
-		body: "content: '\\\\f264';"
-	"content: '\\f23d';":
+		body: "<${1:i} class=\"fa fa-odnoklassniki-square$2\"></${1:i}>"
+	"fa-opencart":
 		prefix: "fa-opencart"
-		body: "content: '\\\\f23d';"
-	"content: '\\f19b';":
+		body: "<${1:i} class=\"fa fa-opencart$2\"></${1:i}>"
+	"fa-openid":
 		prefix: "fa-openid"
-		body: "content: '\\\\f19b';"
-	"content: '\\f26a';":
+		body: "<${1:i} class=\"fa fa-openid$2\"></${1:i}>"
+	"fa-opera":
 		prefix: "fa-opera"
-		body: "content: '\\\\f26a';"
-	"content: '\\f23c';":
+		body: "<${1:i} class=\"fa fa-opera$2\"></${1:i}>"
+	"fa-optin-monster":
 		prefix: "fa-optin-monster"
-		body: "content: '\\\\f23c';"
-	"content: '\\f03b';":
+		body: "<${1:i} class=\"fa fa-optin-monster$2\"></${1:i}>"
+	"fa-outdent":
 		prefix: "fa-outdent"
-		body: "content: '\\\\f03b';"
-	"content: '\\f18c';":
+		body: "<${1:i} class=\"fa fa-outdent$2\"></${1:i}>"
+	"fa-pagelines":
 		prefix: "fa-pagelines"
-		body: "content: '\\\\f18c';"
-	"content: '\\f1fc';":
+		body: "<${1:i} class=\"fa fa-pagelines$2\"></${1:i}>"
+	"fa-paint-brush":
 		prefix: "fa-paint-brush"
-		body: "content: '\\\\f1fc';"
-	"content: '\\f1d8';":
+		body: "<${1:i} class=\"fa fa-paint-brush$2\"></${1:i}>"
+	"fa-paper-plane":
 		prefix: "fa-paper-plane"
-		body: "content: '\\\\f1d8';"
-	"content: '\\f1d9';":
+		body: "<${1:i} class=\"fa fa-paper-plane$2\"></${1:i}>"
+	"fa-paper-plane-o":
 		prefix: "fa-paper-plane-o"
-		body: "content: '\\\\f1d9';"
-	"content: '\\f0c6';":
+		body: "<${1:i} class=\"fa fa-paper-plane-o$2\"></${1:i}>"
+	"fa-paperclip":
 		prefix: "fa-paperclip"
-		body: "content: '\\\\f0c6';"
-	"content: '\\f1dd';":
+		body: "<${1:i} class=\"fa fa-paperclip$2\"></${1:i}>"
+	"fa-paragraph":
 		prefix: "fa-paragraph"
-		body: "content: '\\\\f1dd';"
-	"content: '\\f0ea';":
+		body: "<${1:i} class=\"fa fa-paragraph$2\"></${1:i}>"
+	"fa-paste":
 		prefix: "fa-paste"
-		body: "content: '\\\\f0ea';"
-	"content: '\\f04c';":
+		body: "<${1:i} class=\"fa fa-paste$2\"></${1:i}>"
+	"fa-pause":
 		prefix: "fa-pause"
-		body: "content: '\\\\f04c';"
-	"content: '\\f28b';":
+		body: "<${1:i} class=\"fa fa-pause$2\"></${1:i}>"
+	"fa-pause-circle":
 		prefix: "fa-pause-circle"
-		body: "content: '\\\\f28b';"
-	"content: '\\f28c';":
+		body: "<${1:i} class=\"fa fa-pause-circle$2\"></${1:i}>"
+	"fa-pause-circle-o":
 		prefix: "fa-pause-circle-o"
-		body: "content: '\\\\f28c';"
-	"content: '\\f1b0';":
+		body: "<${1:i} class=\"fa fa-pause-circle-o$2\"></${1:i}>"
+	"fa-paw":
 		prefix: "fa-paw"
-		body: "content: '\\\\f1b0';"
-	"content: '\\f1ed';":
+		body: "<${1:i} class=\"fa fa-paw$2\"></${1:i}>"
+	"fa-paypal":
 		prefix: "fa-paypal"
-		body: "content: '\\\\f1ed';"
-	"content: '\\f040';":
+		body: "<${1:i} class=\"fa fa-paypal$2\"></${1:i}>"
+	"fa-pencil":
 		prefix: "fa-pencil"
-		body: "content: '\\\\f040';"
-	"content: '\\f14b';":
+		body: "<${1:i} class=\"fa fa-pencil$2\"></${1:i}>"
+	"fa-pencil-square":
 		prefix: "fa-pencil-square"
-		body: "content: '\\\\f14b';"
-	"content: '\\f044';":
+		body: "<${1:i} class=\"fa fa-pencil-square$2\"></${1:i}>"
+	"fa-pencil-square-o":
 		prefix: "fa-pencil-square-o"
-		body: "content: '\\\\f044';"
-	"content: '\\f295';":
+		body: "<${1:i} class=\"fa fa-pencil-square-o$2\"></${1:i}>"
+	"fa-percent":
 		prefix: "fa-percent"
-		body: "content: '\\\\f295';"
-	"content: '\\f095';":
+		body: "<${1:i} class=\"fa fa-percent$2\"></${1:i}>"
+	"fa-phone":
 		prefix: "fa-phone"
-		body: "content: '\\\\f095';"
-	"content: '\\f098';":
+		body: "<${1:i} class=\"fa fa-phone$2\"></${1:i}>"
+	"fa-phone-square":
 		prefix: "fa-phone-square"
-		body: "content: '\\\\f098';"
-	"content: '\\f03e';":
+		body: "<${1:i} class=\"fa fa-phone-square$2\"></${1:i}>"
+	"fa-photo":
 		prefix: "fa-photo"
-		body: "content: '\\\\f03e';"
-	"content: '\\f03e';":
+		body: "<${1:i} class=\"fa fa-photo$2\"></${1:i}>"
+	"fa-picture-o":
 		prefix: "fa-picture-o"
-		body: "content: '\\\\f03e';"
-	"content: '\\f200';":
+		body: "<${1:i} class=\"fa fa-picture-o$2\"></${1:i}>"
+	"fa-pie-chart":
 		prefix: "fa-pie-chart"
-		body: "content: '\\\\f200';"
-	"content: '\\f1a7';":
+		body: "<${1:i} class=\"fa fa-pie-chart$2\"></${1:i}>"
+	"fa-pied-piper":
 		prefix: "fa-pied-piper"
-		body: "content: '\\\\f1a7';"
-	"content: '\\f1a8';":
+		body: "<${1:i} class=\"fa fa-pied-piper$2\"></${1:i}>"
+	"fa-pied-piper-alt":
 		prefix: "fa-pied-piper-alt"
-		body: "content: '\\\\f1a8';"
-	"content: '\\f0d2';":
+		body: "<${1:i} class=\"fa fa-pied-piper-alt$2\"></${1:i}>"
+	"fa-pinterest":
 		prefix: "fa-pinterest"
-		body: "content: '\\\\f0d2';"
-	"content: '\\f231';":
+		body: "<${1:i} class=\"fa fa-pinterest$2\"></${1:i}>"
+	"fa-pinterest-p":
 		prefix: "fa-pinterest-p"
-		body: "content: '\\\\f231';"
-	"content: '\\f0d3';":
+		body: "<${1:i} class=\"fa fa-pinterest-p$2\"></${1:i}>"
+	"fa-pinterest-square":
 		prefix: "fa-pinterest-square"
-		body: "content: '\\\\f0d3';"
-	"content: '\\f072';":
+		body: "<${1:i} class=\"fa fa-pinterest-square$2\"></${1:i}>"
+	"fa-plane":
 		prefix: "fa-plane"
-		body: "content: '\\\\f072';"
-	"content: '\\f04b';":
+		body: "<${1:i} class=\"fa fa-plane$2\"></${1:i}>"
+	"fa-play":
 		prefix: "fa-play"
-		body: "content: '\\\\f04b';"
-	"content: '\\f144';":
+		body: "<${1:i} class=\"fa fa-play$2\"></${1:i}>"
+	"fa-play-circle":
 		prefix: "fa-play-circle"
-		body: "content: '\\\\f144';"
-	"content: '\\f01d';":
+		body: "<${1:i} class=\"fa fa-play-circle$2\"></${1:i}>"
+	"fa-play-circle-o":
 		prefix: "fa-play-circle-o"
-		body: "content: '\\\\f01d';"
-	"content: '\\f1e6';":
+		body: "<${1:i} class=\"fa fa-play-circle-o$2\"></${1:i}>"
+	"fa-plug":
 		prefix: "fa-plug"
-		body: "content: '\\\\f1e6';"
-	"content: '\\f067';":
+		body: "<${1:i} class=\"fa fa-plug$2\"></${1:i}>"
+	"fa-plus":
 		prefix: "fa-plus"
-		body: "content: '\\\\f067';"
-	"content: '\\f055';":
+		body: "<${1:i} class=\"fa fa-plus$2\"></${1:i}>"
+	"fa-plus-circle":
 		prefix: "fa-plus-circle"
-		body: "content: '\\\\f055';"
-	"content: '\\f0fe';":
+		body: "<${1:i} class=\"fa fa-plus-circle$2\"></${1:i}>"
+	"fa-plus-square":
 		prefix: "fa-plus-square"
-		body: "content: '\\\\f0fe';"
-	"content: '\\f196';":
+		body: "<${1:i} class=\"fa fa-plus-square$2\"></${1:i}>"
+	"fa-plus-square-o":
 		prefix: "fa-plus-square-o"
-		body: "content: '\\\\f196';"
-	"content: '\\f011';":
+		body: "<${1:i} class=\"fa fa-plus-square-o$2\"></${1:i}>"
+	"fa-power-off":
 		prefix: "fa-power-off"
-		body: "content: '\\\\f011';"
-	"content: '\\f02f';":
+		body: "<${1:i} class=\"fa fa-power-off$2\"></${1:i}>"
+	"fa-print":
 		prefix: "fa-print"
-		body: "content: '\\\\f02f';"
-	"content: '\\f288';":
+		body: "<${1:i} class=\"fa fa-print$2\"></${1:i}>"
+	"fa-product-hunt":
 		prefix: "fa-product-hunt"
-		body: "content: '\\\\f288';"
-	"content: '\\f12e';":
+		body: "<${1:i} class=\"fa fa-product-hunt$2\"></${1:i}>"
+	"fa-puzzle-piece":
 		prefix: "fa-puzzle-piece"
-		body: "content: '\\\\f12e';"
-	"content: '\\f1d6';":
+		body: "<${1:i} class=\"fa fa-puzzle-piece$2\"></${1:i}>"
+	"fa-qq":
 		prefix: "fa-qq"
-		body: "content: '\\\\f1d6';"
-	"content: '\\f029';":
+		body: "<${1:i} class=\"fa fa-qq$2\"></${1:i}>"
+	"fa-qrcode":
 		prefix: "fa-qrcode"
-		body: "content: '\\\\f029';"
-	"content: '\\f128';":
+		body: "<${1:i} class=\"fa fa-qrcode$2\"></${1:i}>"
+	"fa-question":
 		prefix: "fa-question"
-		body: "content: '\\\\f128';"
-	"content: '\\f059';":
+		body: "<${1:i} class=\"fa fa-question$2\"></${1:i}>"
+	"fa-question-circle":
 		prefix: "fa-question-circle"
-		body: "content: '\\\\f059';"
-	"content: '\\f29c';":
+		body: "<${1:i} class=\"fa fa-question-circle$2\"></${1:i}>"
+	"fa-question-circle-o":
 		prefix: "fa-question-circle-o"
-		body: "content: '\\\\f29c';"
-	"content: '\\f10d';":
+		body: "<${1:i} class=\"fa fa-question-circle-o$2\"></${1:i}>"
+	"fa-quote-left":
 		prefix: "fa-quote-left"
-		body: "content: '\\\\f10d';"
-	"content: '\\f10e';":
+		body: "<${1:i} class=\"fa fa-quote-left$2\"></${1:i}>"
+	"fa-quote-right":
 		prefix: "fa-quote-right"
-		body: "content: '\\\\f10e';"
-	"content: '\\f1d0';":
+		body: "<${1:i} class=\"fa fa-quote-right$2\"></${1:i}>"
+	"fa-ra":
 		prefix: "fa-ra"
-		body: "content: '\\\\f1d0';"
-	"content: '\\f074';":
+		body: "<${1:i} class=\"fa fa-ra$2\"></${1:i}>"
+	"fa-random":
 		prefix: "fa-random"
-		body: "content: '\\\\f074';"
-	"content: '\\f1d0';":
+		body: "<${1:i} class=\"fa fa-random$2\"></${1:i}>"
+	"fa-rebel":
 		prefix: "fa-rebel"
-		body: "content: '\\\\f1d0';"
-	"content: '\\f1b8';":
+		body: "<${1:i} class=\"fa fa-rebel$2\"></${1:i}>"
+	"fa-recycle":
 		prefix: "fa-recycle"
-		body: "content: '\\\\f1b8';"
-	"content: '\\f1a1';":
+		body: "<${1:i} class=\"fa fa-recycle$2\"></${1:i}>"
+	"fa-reddit":
 		prefix: "fa-reddit"
-		body: "content: '\\\\f1a1';"
-	"content: '\\f281';":
+		body: "<${1:i} class=\"fa fa-reddit$2\"></${1:i}>"
+	"fa-reddit-alien":
 		prefix: "fa-reddit-alien"
-		body: "content: '\\\\f281';"
-	"content: '\\f1a2';":
+		body: "<${1:i} class=\"fa fa-reddit-alien$2\"></${1:i}>"
+	"fa-reddit-square":
 		prefix: "fa-reddit-square"
-		body: "content: '\\\\f1a2';"
-	"content: '\\f021';":
+		body: "<${1:i} class=\"fa fa-reddit-square$2\"></${1:i}>"
+	"fa-refresh":
 		prefix: "fa-refresh"
-		body: "content: '\\\\f021';"
-	"content: '\\f25d';":
+		body: "<${1:i} class=\"fa fa-refresh$2\"></${1:i}>"
+	"fa-registered":
 		prefix: "fa-registered"
-		body: "content: '\\\\f25d';"
-	"content: '\\f00d';":
+		body: "<${1:i} class=\"fa fa-registered$2\"></${1:i}>"
+	"fa-remove":
 		prefix: "fa-remove"
-		body: "content: '\\\\f00d';"
-	"content: '\\f18b';":
+		body: "<${1:i} class=\"fa fa-remove$2\"></${1:i}>"
+	"fa-renren":
 		prefix: "fa-renren"
-		body: "content: '\\\\f18b';"
-	"content: '\\f0c9';":
+		body: "<${1:i} class=\"fa fa-renren$2\"></${1:i}>"
+	"fa-reorder":
 		prefix: "fa-reorder"
-		body: "content: '\\\\f0c9';"
-	"content: '\\f01e';":
+		body: "<${1:i} class=\"fa fa-reorder$2\"></${1:i}>"
+	"fa-repeat":
 		prefix: "fa-repeat"
-		body: "content: '\\\\f01e';"
-	"content: '\\f112';":
+		body: "<${1:i} class=\"fa fa-repeat$2\"></${1:i}>"
+	"fa-reply":
 		prefix: "fa-reply"
-		body: "content: '\\\\f112';"
-	"content: '\\f122';":
+		body: "<${1:i} class=\"fa fa-reply$2\"></${1:i}>"
+	"fa-reply-all":
 		prefix: "fa-reply-all"
-		body: "content: '\\\\f122';"
-	"content: '\\f079';":
+		body: "<${1:i} class=\"fa fa-reply-all$2\"></${1:i}>"
+	"fa-retweet":
 		prefix: "fa-retweet"
-		body: "content: '\\\\f079';"
-	"content: '\\f157';":
+		body: "<${1:i} class=\"fa fa-retweet$2\"></${1:i}>"
+	"fa-rmb":
 		prefix: "fa-rmb"
-		body: "content: '\\\\f157';"
-	"content: '\\f018';":
+		body: "<${1:i} class=\"fa fa-rmb$2\"></${1:i}>"
+	"fa-road":
 		prefix: "fa-road"
-		body: "content: '\\\\f018';"
-	"content: '\\f135';":
+		body: "<${1:i} class=\"fa fa-road$2\"></${1:i}>"
+	"fa-rocket":
 		prefix: "fa-rocket"
-		body: "content: '\\\\f135';"
-	"content: '\\f0e2';":
+		body: "<${1:i} class=\"fa fa-rocket$2\"></${1:i}>"
+	"fa-rotate-left":
 		prefix: "fa-rotate-left"
-		body: "content: '\\\\f0e2';"
-	"content: '\\f01e';":
+		body: "<${1:i} class=\"fa fa-rotate-left$2\"></${1:i}>"
+	"fa-rotate-right":
 		prefix: "fa-rotate-right"
-		body: "content: '\\\\f01e';"
-	"content: '\\f158';":
+		body: "<${1:i} class=\"fa fa-rotate-right$2\"></${1:i}>"
+	"fa-rouble":
 		prefix: "fa-rouble"
-		body: "content: '\\\\f158';"
-	"content: '\\f09e';":
+		body: "<${1:i} class=\"fa fa-rouble$2\"></${1:i}>"
+	"fa-rss":
 		prefix: "fa-rss"
-		body: "content: '\\\\f09e';"
-	"content: '\\f143';":
+		body: "<${1:i} class=\"fa fa-rss$2\"></${1:i}>"
+	"fa-rss-square":
 		prefix: "fa-rss-square"
-		body: "content: '\\\\f143';"
-	"content: '\\f158';":
+		body: "<${1:i} class=\"fa fa-rss-square$2\"></${1:i}>"
+	"fa-rub":
 		prefix: "fa-rub"
-		body: "content: '\\\\f158';"
-	"content: '\\f158';":
+		body: "<${1:i} class=\"fa fa-rub$2\"></${1:i}>"
+	"fa-ruble":
 		prefix: "fa-ruble"
-		body: "content: '\\\\f158';"
-	"content: '\\f156';":
+		body: "<${1:i} class=\"fa fa-ruble$2\"></${1:i}>"
+	"fa-rupee":
 		prefix: "fa-rupee"
-		body: "content: '\\\\f156';"
-	"content: '\\f267';":
+		body: "<${1:i} class=\"fa fa-rupee$2\"></${1:i}>"
+	"fa-safari":
 		prefix: "fa-safari"
-		body: "content: '\\\\f267';"
-	"content: '\\f0c7';":
+		body: "<${1:i} class=\"fa fa-safari$2\"></${1:i}>"
+	"fa-save":
 		prefix: "fa-save"
-		body: "content: '\\\\f0c7';"
-	"content: '\\f0c4';":
+		body: "<${1:i} class=\"fa fa-save$2\"></${1:i}>"
+	"fa-scissors":
 		prefix: "fa-scissors"
-		body: "content: '\\\\f0c4';"
-	"content: '\\f28a';":
+		body: "<${1:i} class=\"fa fa-scissors$2\"></${1:i}>"
+	"fa-scribd":
 		prefix: "fa-scribd"
-		body: "content: '\\\\f28a';"
-	"content: '\\f002';":
+		body: "<${1:i} class=\"fa fa-scribd$2\"></${1:i}>"
+	"fa-search":
 		prefix: "fa-search"
-		body: "content: '\\\\f002';"
-	"content: '\\f010';":
+		body: "<${1:i} class=\"fa fa-search$2\"></${1:i}>"
+	"fa-search-minus":
 		prefix: "fa-search-minus"
-		body: "content: '\\\\f010';"
-	"content: '\\f00e';":
+		body: "<${1:i} class=\"fa fa-search-minus$2\"></${1:i}>"
+	"fa-search-plus":
 		prefix: "fa-search-plus"
-		body: "content: '\\\\f00e';"
-	"content: '\\f213';":
+		body: "<${1:i} class=\"fa fa-search-plus$2\"></${1:i}>"
+	"fa-sellsy":
 		prefix: "fa-sellsy"
-		body: "content: '\\\\f213';"
-	"content: '\\f1d8';":
+		body: "<${1:i} class=\"fa fa-sellsy$2\"></${1:i}>"
+	"fa-send":
 		prefix: "fa-send"
-		body: "content: '\\\\f1d8';"
-	"content: '\\f1d9';":
+		body: "<${1:i} class=\"fa fa-send$2\"></${1:i}>"
+	"fa-send-o":
 		prefix: "fa-send-o"
-		body: "content: '\\\\f1d9';"
-	"content: '\\f233';":
+		body: "<${1:i} class=\"fa fa-send-o$2\"></${1:i}>"
+	"fa-server":
 		prefix: "fa-server"
-		body: "content: '\\\\f233';"
-	"content: '\\f064';":
+		body: "<${1:i} class=\"fa fa-server$2\"></${1:i}>"
+	"fa-share":
 		prefix: "fa-share"
-		body: "content: '\\\\f064';"
-	"content: '\\f1e0';":
+		body: "<${1:i} class=\"fa fa-share$2\"></${1:i}>"
+	"fa-share-alt":
 		prefix: "fa-share-alt"
-		body: "content: '\\\\f1e0';"
-	"content: '\\f1e1';":
+		body: "<${1:i} class=\"fa fa-share-alt$2\"></${1:i}>"
+	"fa-share-alt-square":
 		prefix: "fa-share-alt-square"
-		body: "content: '\\\\f1e1';"
-	"content: '\\f14d';":
+		body: "<${1:i} class=\"fa fa-share-alt-square$2\"></${1:i}>"
+	"fa-share-square":
 		prefix: "fa-share-square"
-		body: "content: '\\\\f14d';"
-	"content: '\\f045';":
+		body: "<${1:i} class=\"fa fa-share-square$2\"></${1:i}>"
+	"fa-share-square-o":
 		prefix: "fa-share-square-o"
-		body: "content: '\\\\f045';"
-	"content: '\\f20b';":
+		body: "<${1:i} class=\"fa fa-share-square-o$2\"></${1:i}>"
+	"fa-shekel":
 		prefix: "fa-shekel"
-		body: "content: '\\\\f20b';"
-	"content: '\\f20b';":
+		body: "<${1:i} class=\"fa fa-shekel$2\"></${1:i}>"
+	"fa-sheqel":
 		prefix: "fa-sheqel"
-		body: "content: '\\\\f20b';"
-	"content: '\\f132';":
+		body: "<${1:i} class=\"fa fa-sheqel$2\"></${1:i}>"
+	"fa-shield":
 		prefix: "fa-shield"
-		body: "content: '\\\\f132';"
-	"content: '\\f21a';":
+		body: "<${1:i} class=\"fa fa-shield$2\"></${1:i}>"
+	"fa-ship":
 		prefix: "fa-ship"
-		body: "content: '\\\\f21a';"
-	"content: '\\f214';":
+		body: "<${1:i} class=\"fa fa-ship$2\"></${1:i}>"
+	"fa-shirtsinbulk":
 		prefix: "fa-shirtsinbulk"
-		body: "content: '\\\\f214';"
-	"content: '\\f290';":
+		body: "<${1:i} class=\"fa fa-shirtsinbulk$2\"></${1:i}>"
+	"fa-shopping-bag":
 		prefix: "fa-shopping-bag"
-		body: "content: '\\\\f290';"
-	"content: '\\f291';":
+		body: "<${1:i} class=\"fa fa-shopping-bag$2\"></${1:i}>"
+	"fa-shopping-basket":
 		prefix: "fa-shopping-basket"
-		body: "content: '\\\\f291';"
-	"content: '\\f07a';":
+		body: "<${1:i} class=\"fa fa-shopping-basket$2\"></${1:i}>"
+	"fa-shopping-cart":
 		prefix: "fa-shopping-cart"
-		body: "content: '\\\\f07a';"
-	"content: '\\f090';":
+		body: "<${1:i} class=\"fa fa-shopping-cart$2\"></${1:i}>"
+	"fa-sign-in":
 		prefix: "fa-sign-in"
-		body: "content: '\\\\f090';"
-	"content: '\\f08b';":
-		prefix: "fa-sign-out"
-		body: "content: '\\\\f08b';"
-	"content: '\\f012';":
-		prefix: "fa-signal"
-		body: "content: '\\\\f012';"
-	"content: '\\f215';":
-		prefix: "fa-simplybuilt"
-		body: "content: '\\\\f215';"
-	"content: '\\f2a7';":
+		body: "<${1:i} class=\"fa fa-sign-in$2\"></${1:i}>"
+	"fa-sign-language":
 		prefix: "fa-sign-language"
-		body: "content: '\\\\f2a7';"
-	"content: '\\f2a7';":
+		body: "<${1:i} class=\"fa fa-sign-language$2\"></${1:i}>"
+	"fa-sign-out":
+		prefix: "fa-sign-out"
+		body: "<${1:i} class=\"fa fa-sign-out$2\"></${1:i}>"
+	"fa-signal":
+		prefix: "fa-signal"
+		body: "<${1:i} class=\"fa fa-signal$2\"></${1:i}>"
+	"fa-signing":
 		prefix: "fa-signing"
-		body: "content: '\\\\f2a7';"
-	"content: '\\f0e8';":
+		body: "<${1:i} class=\"fa fa-signing$2\"></${1:i}>"
+	"fa-simplybuilt":
+		prefix: "fa-simplybuilt"
+		body: "<${1:i} class=\"fa fa-simplybuilt$2\"></${1:i}>"
+	"fa-sitemap":
 		prefix: "fa-sitemap"
-		body: "content: '\\\\f0e8';"
-	"content: '\\f216';":
+		body: "<${1:i} class=\"fa fa-sitemap$2\"></${1:i}>"
+	"fa-skyatlas":
 		prefix: "fa-skyatlas"
-		body: "content: '\\\\f216';"
-	"content: '\\f17e';":
+		body: "<${1:i} class=\"fa fa-skyatlas$2\"></${1:i}>"
+	"fa-skype":
 		prefix: "fa-skype"
-		body: "content: '\\\\f17e';"
-	"content: '\\f198';":
+		body: "<${1:i} class=\"fa fa-skype$2\"></${1:i}>"
+	"fa-slack":
 		prefix: "fa-slack"
-		body: "content: '\\\\f198';"
-	"content: '\\f1de';":
+		body: "<${1:i} class=\"fa fa-slack$2\"></${1:i}>"
+	"fa-sliders":
 		prefix: "fa-sliders"
-		body: "content: '\\\\f1de';"
-	"content: '\\f1e7';":
+		body: "<${1:i} class=\"fa fa-sliders$2\"></${1:i}>"
+	"fa-slideshare":
 		prefix: "fa-slideshare"
-		body: "content: '\\\\f1e7';"
-	"content: '\\f118';":
+		body: "<${1:i} class=\"fa fa-slideshare$2\"></${1:i}>"
+	"fa-smile-o":
 		prefix: "fa-smile-o"
-		body: "content: '\\\\f118';"
-	"content: '\\f2ab';":
+		body: "<${1:i} class=\"fa fa-smile-o$2\"></${1:i}>"
+	"fa-snapchat":
 		prefix: "fa-snapchat"
-		body: "content: '\\\\f2ab';"
-	"content: '\\f2ac';":
+		body: "<${1:i} class=\"fa fa-snapchat$2\"></${1:i}>"
+	"fa-snapchat-ghost":
 		prefix: "fa-snapchat-ghost"
-		body: "content: '\\\\f2ac';"
-	"content: '\\f2ad';":
+		body: "<${1:i} class=\"fa fa-snapchat-ghost$2\"></${1:i}>"
+	"fa-snapchat-square":
 		prefix: "fa-snapchat-square"
-		body: "content: '\\\\f2ad';"
-	"content: '\\f1e3';":
+		body: "<${1:i} class=\"fa fa-snapchat-square$2\"></${1:i}>"
+	"fa-soccer-ball-o":
 		prefix: "fa-soccer-ball-o"
-		body: "content: '\\\\f1e3';"
-	"content: '\\f0dc';":
+		body: "<${1:i} class=\"fa fa-soccer-ball-o$2\"></${1:i}>"
+	"fa-sort":
 		prefix: "fa-sort"
-		body: "content: '\\\\f0dc';"
-	"content: '\\f15d';":
+		body: "<${1:i} class=\"fa fa-sort$2\"></${1:i}>"
+	"fa-sort-alpha-asc":
 		prefix: "fa-sort-alpha-asc"
-		body: "content: '\\\\f15d';"
-	"content: '\\f15e';":
+		body: "<${1:i} class=\"fa fa-sort-alpha-asc$2\"></${1:i}>"
+	"fa-sort-alpha-desc":
 		prefix: "fa-sort-alpha-desc"
-		body: "content: '\\\\f15e';"
-	"content: '\\f160';":
+		body: "<${1:i} class=\"fa fa-sort-alpha-desc$2\"></${1:i}>"
+	"fa-sort-amount-asc":
 		prefix: "fa-sort-amount-asc"
-		body: "content: '\\\\f160';"
-	"content: '\\f161';":
+		body: "<${1:i} class=\"fa fa-sort-amount-asc$2\"></${1:i}>"
+	"fa-sort-amount-desc":
 		prefix: "fa-sort-amount-desc"
-		body: "content: '\\\\f161';"
-	"content: '\\f0de';":
+		body: "<${1:i} class=\"fa fa-sort-amount-desc$2\"></${1:i}>"
+	"fa-sort-asc":
 		prefix: "fa-sort-asc"
-		body: "content: '\\\\f0de';"
-	"content: '\\f0dd';":
+		body: "<${1:i} class=\"fa fa-sort-asc$2\"></${1:i}>"
+	"fa-sort-desc":
 		prefix: "fa-sort-desc"
-		body: "content: '\\\\f0dd';"
-	"content: '\\f0dd';":
+		body: "<${1:i} class=\"fa fa-sort-desc$2\"></${1:i}>"
+	"fa-sort-down":
 		prefix: "fa-sort-down"
-		body: "content: '\\\\f0dd';"
-	"content: '\\f162';":
+		body: "<${1:i} class=\"fa fa-sort-down$2\"></${1:i}>"
+	"fa-sort-numeric-asc":
 		prefix: "fa-sort-numeric-asc"
-		body: "content: '\\\\f162';"
-	"content: '\\f163';":
+		body: "<${1:i} class=\"fa fa-sort-numeric-asc$2\"></${1:i}>"
+	"fa-sort-numeric-desc":
 		prefix: "fa-sort-numeric-desc"
-		body: "content: '\\\\f163';"
-	"content: '\\f0de';":
+		body: "<${1:i} class=\"fa fa-sort-numeric-desc$2\"></${1:i}>"
+	"fa-sort-up":
 		prefix: "fa-sort-up"
-		body: "content: '\\\\f0de';"
-	"content: '\\f1be';":
+		body: "<${1:i} class=\"fa fa-sort-up$2\"></${1:i}>"
+	"fa-soundcloud":
 		prefix: "fa-soundcloud"
-		body: "content: '\\\\f1be';"
-	"content: '\\f197';":
+		body: "<${1:i} class=\"fa fa-soundcloud$2\"></${1:i}>"
+	"fa-space-shuttle":
 		prefix: "fa-space-shuttle"
-		body: "content: '\\\\f197';"
-	"content: '\\f110';":
+		body: "<${1:i} class=\"fa fa-space-shuttle$2\"></${1:i}>"
+	"fa-spinner":
 		prefix: "fa-spinner"
-		body: "content: '\\\\f110';"
-	"content: '\\f1b1';":
+		body: "<${1:i} class=\"fa fa-spinner$2\"></${1:i}>"
+	"fa-spoon":
 		prefix: "fa-spoon"
-		body: "content: '\\\\f1b1';"
-	"content: '\\f1bc';":
+		body: "<${1:i} class=\"fa fa-spoon$2\"></${1:i}>"
+	"fa-spotify":
 		prefix: "fa-spotify"
-		body: "content: '\\\\f1bc';"
-	"content: '\\f0c8';":
+		body: "<${1:i} class=\"fa fa-spotify$2\"></${1:i}>"
+	"fa-square":
 		prefix: "fa-square"
-		body: "content: '\\\\f0c8';"
-	"content: '\\f096';":
+		body: "<${1:i} class=\"fa fa-square$2\"></${1:i}>"
+	"fa-square-o":
 		prefix: "fa-square-o"
-		body: "content: '\\\\f096';"
-	"content: '\\f18d';":
+		body: "<${1:i} class=\"fa fa-square-o$2\"></${1:i}>"
+	"fa-stack-exchange":
 		prefix: "fa-stack-exchange"
-		body: "content: '\\\\f18d';"
-	"content: '\\f16c';":
+		body: "<${1:i} class=\"fa fa-stack-exchange$2\"></${1:i}>"
+	"fa-stack-overflow":
 		prefix: "fa-stack-overflow"
-		body: "content: '\\\\f16c';"
-	"content: '\\f005';":
+		body: "<${1:i} class=\"fa fa-stack-overflow$2\"></${1:i}>"
+	"fa-star":
 		prefix: "fa-star"
-		body: "content: '\\\\f005';"
-	"content: '\\f089';":
+		body: "<${1:i} class=\"fa fa-star$2\"></${1:i}>"
+	"fa-star-half":
 		prefix: "fa-star-half"
-		body: "content: '\\\\f089';"
-	"content: '\\f123';":
+		body: "<${1:i} class=\"fa fa-star-half$2\"></${1:i}>"
+	"fa-star-half-empty":
 		prefix: "fa-star-half-empty"
-		body: "content: '\\\\f123';"
-	"content: '\\f123';":
+		body: "<${1:i} class=\"fa fa-star-half-empty$2\"></${1:i}>"
+	"fa-star-half-full":
 		prefix: "fa-star-half-full"
-		body: "content: '\\\\f123';"
-	"content: '\\f123';":
+		body: "<${1:i} class=\"fa fa-star-half-full$2\"></${1:i}>"
+	"fa-star-half-o":
 		prefix: "fa-star-half-o"
-		body: "content: '\\\\f123';"
-	"content: '\\f006';":
+		body: "<${1:i} class=\"fa fa-star-half-o$2\"></${1:i}>"
+	"fa-star-o":
 		prefix: "fa-star-o"
-		body: "content: '\\\\f006';"
-	"content: '\\f1b6';":
+		body: "<${1:i} class=\"fa fa-star-o$2\"></${1:i}>"
+	"fa-steam":
 		prefix: "fa-steam"
-		body: "content: '\\\\f1b6';"
-	"content: '\\f1b7';":
+		body: "<${1:i} class=\"fa fa-steam$2\"></${1:i}>"
+	"fa-steam-square":
 		prefix: "fa-steam-square"
-		body: "content: '\\\\f1b7';"
-	"content: '\\f048';":
+		body: "<${1:i} class=\"fa fa-steam-square$2\"></${1:i}>"
+	"fa-step-backward":
 		prefix: "fa-step-backward"
-		body: "content: '\\\\f048';"
-	"content: '\\f051';":
+		body: "<${1:i} class=\"fa fa-step-backward$2\"></${1:i}>"
+	"fa-step-forward":
 		prefix: "fa-step-forward"
-		body: "content: '\\\\f051';"
-	"content: '\\f0f1';":
+		body: "<${1:i} class=\"fa fa-step-forward$2\"></${1:i}>"
+	"fa-stethoscope":
 		prefix: "fa-stethoscope"
-		body: "content: '\\\\f0f1';"
-	"content: '\\f249';":
+		body: "<${1:i} class=\"fa fa-stethoscope$2\"></${1:i}>"
+	"fa-sticky-note":
 		prefix: "fa-sticky-note"
-		body: "content: '\\\\f249';"
-	"content: '\\f24a';":
+		body: "<${1:i} class=\"fa fa-sticky-note$2\"></${1:i}>"
+	"fa-sticky-note-o":
 		prefix: "fa-sticky-note-o"
-		body: "content: '\\\\f24a';"
-	"content: '\\f04d';":
+		body: "<${1:i} class=\"fa fa-sticky-note-o$2\"></${1:i}>"
+	"fa-stop":
 		prefix: "fa-stop"
-		body: "content: '\\\\f04d';"
-	"content: '\\f28d';":
+		body: "<${1:i} class=\"fa fa-stop$2\"></${1:i}>"
+	"fa-stop-circle":
 		prefix: "fa-stop-circle"
-		body: "content: '\\\\f28d';"
-	"content: '\\f28e';":
+		body: "<${1:i} class=\"fa fa-stop-circle$2\"></${1:i}>"
+	"fa-stop-circle-o":
 		prefix: "fa-stop-circle-o"
-		body: "content: '\\\\f28e';"
-	"content: '\\f21d';":
+		body: "<${1:i} class=\"fa fa-stop-circle-o$2\"></${1:i}>"
+	"fa-street-view":
 		prefix: "fa-street-view"
-		body: "content: '\\\\f21d';"
-	"content: '\\f0cc';":
+		body: "<${1:i} class=\"fa fa-street-view$2\"></${1:i}>"
+	"fa-strikethrough":
 		prefix: "fa-strikethrough"
-		body: "content: '\\\\f0cc';"
-	"content: '\\f1a4';":
+		body: "<${1:i} class=\"fa fa-strikethrough$2\"></${1:i}>"
+	"fa-stumbleupon":
 		prefix: "fa-stumbleupon"
-		body: "content: '\\\\f1a4';"
-	"content: '\\f1a3';":
+		body: "<${1:i} class=\"fa fa-stumbleupon$2\"></${1:i}>"
+	"fa-stumbleupon-circle":
 		prefix: "fa-stumbleupon-circle"
-		body: "content: '\\\\f1a3';"
-	"content: '\\f12c';":
+		body: "<${1:i} class=\"fa fa-stumbleupon-circle$2\"></${1:i}>"
+	"fa-subscript":
 		prefix: "fa-subscript"
-		body: "content: '\\\\f12c';"
-	"content: '\\f239';":
+		body: "<${1:i} class=\"fa fa-subscript$2\"></${1:i}>"
+	"fa-subway":
 		prefix: "fa-subway"
-		body: "content: '\\\\f239';"
-	"content: '\\f0f2';":
+		body: "<${1:i} class=\"fa fa-subway$2\"></${1:i}>"
+	"fa-suitcase":
 		prefix: "fa-suitcase"
-		body: "content: '\\\\f0f2';"
-	"content: '\\f185';":
+		body: "<${1:i} class=\"fa fa-suitcase$2\"></${1:i}>"
+	"fa-sun-o":
 		prefix: "fa-sun-o"
-		body: "content: '\\\\f185';"
-	"content: '\\f12b';":
+		body: "<${1:i} class=\"fa fa-sun-o$2\"></${1:i}>"
+	"fa-superscript":
 		prefix: "fa-superscript"
-		body: "content: '\\\\f12b';"
-	"content: '\\f1cd';":
+		body: "<${1:i} class=\"fa fa-superscript$2\"></${1:i}>"
+	"fa-support":
 		prefix: "fa-support"
-		body: "content: '\\\\f1cd';"
-	"content: '\\f0ce';":
+		body: "<${1:i} class=\"fa fa-support$2\"></${1:i}>"
+	"fa-table":
 		prefix: "fa-table"
-		body: "content: '\\\\f0ce';"
-	"content: '\\f10a';":
+		body: "<${1:i} class=\"fa fa-table$2\"></${1:i}>"
+	"fa-tablet":
 		prefix: "fa-tablet"
-		body: "content: '\\\\f10a';"
-	"content: '\\f0e4';":
+		body: "<${1:i} class=\"fa fa-tablet$2\"></${1:i}>"
+	"fa-tachometer":
 		prefix: "fa-tachometer"
-		body: "content: '\\\\f0e4';"
-	"content: '\\f02b';":
+		body: "<${1:i} class=\"fa fa-tachometer$2\"></${1:i}>"
+	"fa-tag":
 		prefix: "fa-tag"
-		body: "content: '\\\\f02b';"
-	"content: '\\f02c';":
+		body: "<${1:i} class=\"fa fa-tag$2\"></${1:i}>"
+	"fa-tags":
 		prefix: "fa-tags"
-		body: "content: '\\\\f02c';"
-	"content: '\\f0ae';":
+		body: "<${1:i} class=\"fa fa-tags$2\"></${1:i}>"
+	"fa-tasks":
 		prefix: "fa-tasks"
-		body: "content: '\\\\f0ae';"
-	"content: '\\f1ba';":
+		body: "<${1:i} class=\"fa fa-tasks$2\"></${1:i}>"
+	"fa-taxi":
 		prefix: "fa-taxi"
-		body: "content: '\\\\f1ba';"
-	"content: '\\f26c';":
+		body: "<${1:i} class=\"fa fa-taxi$2\"></${1:i}>"
+	"fa-television":
 		prefix: "fa-television"
-		body: "content: '\\\\f26c';"
-	"content: '\\f1d5';":
+		body: "<${1:i} class=\"fa fa-television$2\"></${1:i}>"
+	"fa-tencent-weibo":
 		prefix: "fa-tencent-weibo"
-		body: "content: '\\\\f1d5';"
-	"content: '\\f120';":
+		body: "<${1:i} class=\"fa fa-tencent-weibo$2\"></${1:i}>"
+	"fa-terminal":
 		prefix: "fa-terminal"
-		body: "content: '\\\\f120';"
-	"content: '\\f034';":
+		body: "<${1:i} class=\"fa fa-terminal$2\"></${1:i}>"
+	"fa-text-height":
 		prefix: "fa-text-height"
-		body: "content: '\\\\f034';"
-	"content: '\\f035';":
+		body: "<${1:i} class=\"fa fa-text-height$2\"></${1:i}>"
+	"fa-text-width":
 		prefix: "fa-text-width"
-		body: "content: '\\\\f035';"
-	"content: '\\f00a';":
+		body: "<${1:i} class=\"fa fa-text-width$2\"></${1:i}>"
+	"fa-th":
 		prefix: "fa-th"
-		body: "content: '\\\\f00a';"
-	"content: '\\f009';":
+		body: "<${1:i} class=\"fa fa-th$2\"></${1:i}>"
+	"fa-th-large":
 		prefix: "fa-th-large"
-		body: "content: '\\\\f009';"
-	"content: '\\f00b';":
+		body: "<${1:i} class=\"fa fa-th-large$2\"></${1:i}>"
+	"fa-th-list":
 		prefix: "fa-th-list"
-		body: "content: '\\\\f00b';"
-	"content: '\\f08d';":
+		body: "<${1:i} class=\"fa fa-th-list$2\"></${1:i}>"
+	"fa-thumb-tack":
 		prefix: "fa-thumb-tack"
-		body: "content: '\\\\f08d';"
-	"content: '\\f165';":
+		body: "<${1:i} class=\"fa fa-thumb-tack$2\"></${1:i}>"
+	"fa-thumbs-down":
 		prefix: "fa-thumbs-down"
-		body: "content: '\\\\f165';"
-	"content: '\\f088';":
+		body: "<${1:i} class=\"fa fa-thumbs-down$2\"></${1:i}>"
+	"fa-thumbs-o-down":
 		prefix: "fa-thumbs-o-down"
-		body: "content: '\\\\f088';"
-	"content: '\\f087';":
+		body: "<${1:i} class=\"fa fa-thumbs-o-down$2\"></${1:i}>"
+	"fa-thumbs-o-up":
 		prefix: "fa-thumbs-o-up"
-		body: "content: '\\\\f087';"
-	"content: '\\f164';":
+		body: "<${1:i} class=\"fa fa-thumbs-o-up$2\"></${1:i}>"
+	"fa-thumbs-up":
 		prefix: "fa-thumbs-up"
-		body: "content: '\\\\f164';"
-	"content: '\\f145';":
+		body: "<${1:i} class=\"fa fa-thumbs-up$2\"></${1:i}>"
+	"fa-ticket":
 		prefix: "fa-ticket"
-		body: "content: '\\\\f145';"
-	"content: '\\f00d';":
+		body: "<${1:i} class=\"fa fa-ticket$2\"></${1:i}>"
+	"fa-times":
 		prefix: "fa-times"
-		body: "content: '\\\\f00d';"
-	"content: '\\f057';":
+		body: "<${1:i} class=\"fa fa-times$2\"></${1:i}>"
+	"fa-times-circle":
 		prefix: "fa-times-circle"
-		body: "content: '\\\\f057';"
-	"content: '\\f05c';":
+		body: "<${1:i} class=\"fa fa-times-circle$2\"></${1:i}>"
+	"fa-times-circle-o":
 		prefix: "fa-times-circle-o"
-		body: "content: '\\\\f05c';"
-	"content: '\\f043';":
+		body: "<${1:i} class=\"fa fa-times-circle-o$2\"></${1:i}>"
+	"fa-tint":
 		prefix: "fa-tint"
-		body: "content: '\\\\f043';"
-	"content: '\\f150';":
+		body: "<${1:i} class=\"fa fa-tint$2\"></${1:i}>"
+	"fa-toggle-down":
 		prefix: "fa-toggle-down"
-		body: "content: '\\\\f150';"
-	"content: '\\f191';":
+		body: "<${1:i} class=\"fa fa-toggle-down$2\"></${1:i}>"
+	"fa-toggle-left":
 		prefix: "fa-toggle-left"
-		body: "content: '\\\\f191';"
-	"content: '\\f204';":
+		body: "<${1:i} class=\"fa fa-toggle-left$2\"></${1:i}>"
+	"fa-toggle-off":
 		prefix: "fa-toggle-off"
-		body: "content: '\\\\f204';"
-	"content: '\\f205';":
+		body: "<${1:i} class=\"fa fa-toggle-off$2\"></${1:i}>"
+	"fa-toggle-on":
 		prefix: "fa-toggle-on"
-		body: "content: '\\\\f205';"
-	"content: '\\f152';":
+		body: "<${1:i} class=\"fa fa-toggle-on$2\"></${1:i}>"
+	"fa-toggle-right":
 		prefix: "fa-toggle-right"
-		body: "content: '\\\\f152';"
-	"content: '\\f151';":
+		body: "<${1:i} class=\"fa fa-toggle-right$2\"></${1:i}>"
+	"fa-toggle-up":
 		prefix: "fa-toggle-up"
-		body: "content: '\\\\f151';"
-	"content: '\\f25c';":
+		body: "<${1:i} class=\"fa fa-toggle-up$2\"></${1:i}>"
+	"fa-trademark":
 		prefix: "fa-trademark"
-		body: "content: '\\\\f25c';"
-	"content: '\\f238';":
+		body: "<${1:i} class=\"fa fa-trademark$2\"></${1:i}>"
+	"fa-train":
 		prefix: "fa-train"
-		body: "content: '\\\\f238';"
-	"content: '\\f224';":
+		body: "<${1:i} class=\"fa fa-train$2\"></${1:i}>"
+	"fa-transgender":
 		prefix: "fa-transgender"
-		body: "content: '\\\\f224';"
-	"content: '\\f225';":
+		body: "<${1:i} class=\"fa fa-transgender$2\"></${1:i}>"
+	"fa-transgender-alt":
 		prefix: "fa-transgender-alt"
-		body: "content: '\\\\f225';"
-	"content: '\\f1f8';":
+		body: "<${1:i} class=\"fa fa-transgender-alt$2\"></${1:i}>"
+	"fa-trash":
 		prefix: "fa-trash"
-		body: "content: '\\\\f1f8';"
-	"content: '\\f014';":
+		body: "<${1:i} class=\"fa fa-trash$2\"></${1:i}>"
+	"fa-trash-o":
 		prefix: "fa-trash-o"
-		body: "content: '\\\\f014';"
-	"content: '\\f1bb';":
+		body: "<${1:i} class=\"fa fa-trash-o$2\"></${1:i}>"
+	"fa-tree":
 		prefix: "fa-tree"
-		body: "content: '\\\\f1bb';"
-	"content: '\\f181';":
+		body: "<${1:i} class=\"fa fa-tree$2\"></${1:i}>"
+	"fa-trello":
 		prefix: "fa-trello"
-		body: "content: '\\\\f181';"
-	"content: '\\f262';":
+		body: "<${1:i} class=\"fa fa-trello$2\"></${1:i}>"
+	"fa-tripadvisor":
 		prefix: "fa-tripadvisor"
-		body: "content: '\\\\f262';"
-	"content: '\\f091';":
+		body: "<${1:i} class=\"fa fa-tripadvisor$2\"></${1:i}>"
+	"fa-trophy":
 		prefix: "fa-trophy"
-		body: "content: '\\\\f091';"
-	"content: '\\f0d1';":
+		body: "<${1:i} class=\"fa fa-trophy$2\"></${1:i}>"
+	"fa-truck":
 		prefix: "fa-truck"
-		body: "content: '\\\\f0d1';"
-	"content: '\\f195';":
+		body: "<${1:i} class=\"fa fa-truck$2\"></${1:i}>"
+	"fa-try":
 		prefix: "fa-try"
-		body: "content: '\\\\f195';"
-	"content: '\\f1e4';":
+		body: "<${1:i} class=\"fa fa-try$2\"></${1:i}>"
+	"fa-tty":
 		prefix: "fa-tty"
-		body: "content: '\\\\f1e4';"
-	"content: '\\f173';":
+		body: "<${1:i} class=\"fa fa-tty$2\"></${1:i}>"
+	"fa-tumblr":
 		prefix: "fa-tumblr"
-		body: "content: '\\\\f173';"
-	"content: '\\f174';":
+		body: "<${1:i} class=\"fa fa-tumblr$2\"></${1:i}>"
+	"fa-tumblr-square":
 		prefix: "fa-tumblr-square"
-		body: "content: '\\\\f174';"
-	"content: '\\f195';":
+		body: "<${1:i} class=\"fa fa-tumblr-square$2\"></${1:i}>"
+	"fa-turkish-lira":
 		prefix: "fa-turkish-lira"
-		body: "content: '\\\\f195';"
-	"content: '\\f26c';":
+		body: "<${1:i} class=\"fa fa-turkish-lira$2\"></${1:i}>"
+	"fa-tv":
 		prefix: "fa-tv"
-		body: "content: '\\\\f26c';"
-	"content: '\\f1e8';":
+		body: "<${1:i} class=\"fa fa-tv$2\"></${1:i}>"
+	"fa-twitch":
 		prefix: "fa-twitch"
-		body: "content: '\\\\f1e8';"
-	"content: '\\f099';":
+		body: "<${1:i} class=\"fa fa-twitch$2\"></${1:i}>"
+	"fa-twitter":
 		prefix: "fa-twitter"
-		body: "content: '\\\\f099';"
-	"content: '\\f081';":
+		body: "<${1:i} class=\"fa fa-twitter$2\"></${1:i}>"
+	"fa-twitter-square":
 		prefix: "fa-twitter-square"
-		body: "content: '\\\\f081';"
-	"content: '\\f0e9';":
+		body: "<${1:i} class=\"fa fa-twitter-square$2\"></${1:i}>"
+	"fa-umbrella":
 		prefix: "fa-umbrella"
-		body: "content: '\\\\f0e9';"
-	"content: '\\f0cd';":
+		body: "<${1:i} class=\"fa fa-umbrella$2\"></${1:i}>"
+	"fa-underline":
 		prefix: "fa-underline"
-		body: "content: '\\\\f0cd';"
-	"content: '\\f0e2';":
+		body: "<${1:i} class=\"fa fa-underline$2\"></${1:i}>"
+	"fa-undo":
 		prefix: "fa-undo"
-		body: "content: '\\\\f0e2';"
-	"content: '\\f29a';":
+		body: "<${1:i} class=\"fa fa-undo$2\"></${1:i}>"
+	"fa-universal-access":
 		prefix: "fa-universal-access"
-		body: "content: '\\\\f29a';"
-	"content: '\\f19c';":
+		body: "<${1:i} class=\"fa fa-universal-access$2\"></${1:i}>"
+	"fa-university":
 		prefix: "fa-university"
-		body: "content: '\\\\f19c';"
-	"content: '\\f127';":
+		body: "<${1:i} class=\"fa fa-university$2\"></${1:i}>"
+	"fa-unlink":
 		prefix: "fa-unlink"
-		body: "content: '\\\\f127';"
-	"content: '\\f09c';":
+		body: "<${1:i} class=\"fa fa-unlink$2\"></${1:i}>"
+	"fa-unlock":
 		prefix: "fa-unlock"
-		body: "content: '\\\\f09c';"
-	"content: '\\f13e';":
+		body: "<${1:i} class=\"fa fa-unlock$2\"></${1:i}>"
+	"fa-unlock-alt":
 		prefix: "fa-unlock-alt"
-		body: "content: '\\\\f13e';"
-	"content: '\\f0dc';":
+		body: "<${1:i} class=\"fa fa-unlock-alt$2\"></${1:i}>"
+	"fa-unsorted":
 		prefix: "fa-unsorted"
-		body: "content: '\\\\f0dc';"
-	"content: '\\f093';":
+		body: "<${1:i} class=\"fa fa-unsorted$2\"></${1:i}>"
+	"fa-upload":
 		prefix: "fa-upload"
-		body: "content: '\\\\f093';"
-	"content: '\\f287';":
+		body: "<${1:i} class=\"fa fa-upload$2\"></${1:i}>"
+	"fa-usb":
 		prefix: "fa-usb"
-		body: "content: '\\\\f287';"
-	"content: '\\f155';":
+		body: "<${1:i} class=\"fa fa-usb$2\"></${1:i}>"
+	"fa-usd":
 		prefix: "fa-usd"
-		body: "content: '\\\\f155';"
-	"content: '\\f007';":
+		body: "<${1:i} class=\"fa fa-usd$2\"></${1:i}>"
+	"fa-user":
 		prefix: "fa-user"
-		body: "content: '\\\\f007';"
-	"content: '\\f0f0';":
+		body: "<${1:i} class=\"fa fa-user$2\"></${1:i}>"
+	"fa-user-md":
 		prefix: "fa-user-md"
-		body: "content: '\\\\f0f0';"
-	"content: '\\f234';":
+		body: "<${1:i} class=\"fa fa-user-md$2\"></${1:i}>"
+	"fa-user-plus":
 		prefix: "fa-user-plus"
-		body: "content: '\\\\f234';"
-	"content: '\\f21b';":
+		body: "<${1:i} class=\"fa fa-user-plus$2\"></${1:i}>"
+	"fa-user-secret":
 		prefix: "fa-user-secret"
-		body: "content: '\\\\f21b';"
-	"content: '\\f235';":
+		body: "<${1:i} class=\"fa fa-user-secret$2\"></${1:i}>"
+	"fa-user-times":
 		prefix: "fa-user-times"
-		body: "content: '\\\\f235';"
-	"content: '\\f0c0';":
+		body: "<${1:i} class=\"fa fa-user-times$2\"></${1:i}>"
+	"fa-users":
 		prefix: "fa-users"
-		body: "content: '\\\\f0c0';"
-	"content: '\\f221';":
+		body: "<${1:i} class=\"fa fa-users$2\"></${1:i}>"
+	"fa-venus":
 		prefix: "fa-venus"
-		body: "content: '\\\\f221';"
-	"content: '\\f226';":
+		body: "<${1:i} class=\"fa fa-venus$2\"></${1:i}>"
+	"fa-venus-double":
 		prefix: "fa-venus-double"
-		body: "content: '\\\\f226';"
-	"content: '\\f228';":
+		body: "<${1:i} class=\"fa fa-venus-double$2\"></${1:i}>"
+	"fa-venus-mars":
 		prefix: "fa-venus-mars"
-		body: "content: '\\\\f228';"
-	"content: '\\f237';":
+		body: "<${1:i} class=\"fa fa-venus-mars$2\"></${1:i}>"
+	"fa-viacoin":
 		prefix: "fa-viacoin"
-		body: "content: '\\\\f237';"
-	"content: '\\f2a9';":
+		body: "<${1:i} class=\"fa fa-viacoin$2\"></${1:i}>"
+	"fa-viadeo":
 		prefix: "fa-viadeo"
-		body: "content: '\\\\f2a9';"
-	"content: '\\f2aa';":
+		body: "<${1:i} class=\"fa fa-viadeo$2\"></${1:i}>"
+	"fa-viadeo-square":
 		prefix: "fa-viadeo-square"
-		body: "content: '\\\\f2aa';"
-	"content: '\\f03d';":
+		body: "<${1:i} class=\"fa fa-viadeo-square$2\"></${1:i}>"
+	"fa-video-camera":
 		prefix: "fa-video-camera"
-		body: "content: '\\\\f03d';"
-	"content: '\\f27d';":
+		body: "<${1:i} class=\"fa fa-video-camera$2\"></${1:i}>"
+	"fa-vimeo":
 		prefix: "fa-vimeo"
-		body: "content: '\\\\f27d';"
-	"content: '\\f194';":
+		body: "<${1:i} class=\"fa fa-vimeo$2\"></${1:i}>"
+	"fa-vimeo-square":
 		prefix: "fa-vimeo-square"
-		body: "content: '\\\\f194';"
-	"content: '\\f1ca';":
+		body: "<${1:i} class=\"fa fa-vimeo-square$2\"></${1:i}>"
+	"fa-vine":
 		prefix: "fa-vine"
-		body: "content: '\\\\f1ca';"
-	"content: '\\f189';":
+		body: "<${1:i} class=\"fa fa-vine$2\"></${1:i}>"
+	"fa-vk":
 		prefix: "fa-vk"
-		body: "content: '\\\\f189';"
-	"content: '\\f2a0';":
+		body: "<${1:i} class=\"fa fa-vk$2\"></${1:i}>"
+	"fa-volume-control-phone":
 		prefix: "fa-volume-control-phone"
-		body: "content: '\\\\f2a0';"
-	"content: '\\f027';":
+		body: "<${1:i} class=\"fa fa-volume-control-phone$2\"></${1:i}>"
+	"fa-volume-down":
 		prefix: "fa-volume-down"
-		body: "content: '\\\\f027';"
-	"content: '\\f026';":
+		body: "<${1:i} class=\"fa fa-volume-down$2\"></${1:i}>"
+	"fa-volume-off":
 		prefix: "fa-volume-off"
-		body: "content: '\\\\f026';"
-	"content: '\\f028';":
+		body: "<${1:i} class=\"fa fa-volume-off$2\"></${1:i}>"
+	"fa-volume-up":
 		prefix: "fa-volume-up"
-		body: "content: '\\\\f028';"
-	"content: '\\f071';":
+		body: "<${1:i} class=\"fa fa-volume-up$2\"></${1:i}>"
+	"fa-warning":
 		prefix: "fa-warning"
-		body: "content: '\\\\f071';"
-	"content: '\\f1d7';":
+		body: "<${1:i} class=\"fa fa-warning$2\"></${1:i}>"
+	"fa-wechat":
 		prefix: "fa-wechat"
-		body: "content: '\\\\f1d7';"
-	"content: '\\f18a';":
+		body: "<${1:i} class=\"fa fa-wechat$2\"></${1:i}>"
+	"fa-weibo":
 		prefix: "fa-weibo"
-		body: "content: '\\\\f18a';"
-	"content: '\\f1d7';":
+		body: "<${1:i} class=\"fa fa-weibo$2\"></${1:i}>"
+	"fa-weixin":
 		prefix: "fa-weixin"
-		body: "content: '\\\\f1d7';"
-	"content: '\\f232';":
+		body: "<${1:i} class=\"fa fa-weixin$2\"></${1:i}>"
+	"fa-whatsapp":
 		prefix: "fa-whatsapp"
-		body: "content: '\\\\f232';"
-	"content: '\\f193';":
+		body: "<${1:i} class=\"fa fa-whatsapp$2\"></${1:i}>"
+	"fa-wheelchair":
 		prefix: "fa-wheelchair"
-		body: "content: '\\\\f193';"
-	"content: '\\f29b';":
+		body: "<${1:i} class=\"fa fa-wheelchair$2\"></${1:i}>"
+	"fa-wheelchair-alt":
 		prefix: "fa-wheelchair-alt"
-		body: "content: '\\\\f29b';"
-	"content: '\\f1eb';":
+		body: "<${1:i} class=\"fa fa-wheelchair-alt$2\"></${1:i}>"
+	"fa-wifi":
 		prefix: "fa-wifi"
-		body: "content: '\\\\f1eb';"
-	"content: '\\f266';":
+		body: "<${1:i} class=\"fa fa-wifi$2\"></${1:i}>"
+	"fa-wikipedia-w":
 		prefix: "fa-wikipedia-w"
-		body: "content: '\\\\f266';"
-	"content: '\\f17a';":
+		body: "<${1:i} class=\"fa fa-wikipedia-w$2\"></${1:i}>"
+	"fa-windows":
 		prefix: "fa-windows"
-		body: "content: '\\\\f17a';"
-	"content: '\\f159';":
+		body: "<${1:i} class=\"fa fa-windows$2\"></${1:i}>"
+	"fa-won":
 		prefix: "fa-won"
-		body: "content: '\\\\f159';"
-	"content: '\\f19a';":
+		body: "<${1:i} class=\"fa fa-won$2\"></${1:i}>"
+	"fa-wordpress":
 		prefix: "fa-wordpress"
-		body: "content: '\\\\f19a';"
-	"content: '\\f297';":
+		body: "<${1:i} class=\"fa fa-wordpress$2\"></${1:i}>"
+	"fa-wpbeginner":
 		prefix: "fa-wpbeginner"
-		body: "content: '\\\\f297';"
-	"content: '\\f298';":
+		body: "<${1:i} class=\"fa fa-wpbeginner$2\"></${1:i}>"
+	"fa-wpforms":
 		prefix: "fa-wpforms"
-		body: "content: '\\\\f298';"
-	"content: '\\f0ad';":
+		body: "<${1:i} class=\"fa fa-wpforms$2\"></${1:i}>"
+	"fa-wrench":
 		prefix: "fa-wrench"
-		body: "content: '\\\\f0ad';"
-	"content: '\\f168';":
+		body: "<${1:i} class=\"fa fa-wrench$2\"></${1:i}>"
+	"fa-xing":
 		prefix: "fa-xing"
-		body: "content: '\\\\f168';"
-	"content: '\\f169';":
+		body: "<${1:i} class=\"fa fa-xing$2\"></${1:i}>"
+	"fa-xing-square":
 		prefix: "fa-xing-square"
-		body: "content: '\\\\f169';"
-	"content: '\\f23b';":
+		body: "<${1:i} class=\"fa fa-xing-square$2\"></${1:i}>"
+	"fa-y-combinator":
 		prefix: "fa-y-combinator"
-		body: "content: '\\\\f23b';"
-	"content: '\\f1d4';":
+		body: "<${1:i} class=\"fa fa-y-combinator$2\"></${1:i}>"
+	"fa-y-combinator-square":
 		prefix: "fa-y-combinator-square"
-		body: "content: '\\\\f1d4';"
-	"content: '\\f19e';":
+		body: "<${1:i} class=\"fa fa-y-combinator-square$2\"></${1:i}>"
+	"fa-yahoo":
 		prefix: "fa-yahoo"
-		body: "content: '\\\\f19e';"
-	"content: '\\f23b';":
+		body: "<${1:i} class=\"fa fa-yahoo$2\"></${1:i}>"
+	"fa-yc":
 		prefix: "fa-yc"
-		body: "content: '\\\\f23b';"
-	"content: '\\f1d4';":
+		body: "<${1:i} class=\"fa fa-yc$2\"></${1:i}>"
+	"fa-yc-square":
 		prefix: "fa-yc-square"
-		body: "content: '\\\\f1d4';"
-	"content: '\\f1e9';":
+		body: "<${1:i} class=\"fa fa-yc-square$2\"></${1:i}>"
+	"fa-yelp":
 		prefix: "fa-yelp"
-		body: "content: '\\\\f1e9';"
-	"content: '\\f157';":
+		body: "<${1:i} class=\"fa fa-yelp$2\"></${1:i}>"
+	"fa-yen":
 		prefix: "fa-yen"
-		body: "content: '\\\\f157';"
-	"content: '\\f167';":
+		body: "<${1:i} class=\"fa fa-yen$2\"></${1:i}>"
+	"fa-youtube":
 		prefix: "fa-youtube"
-		body: "content: '\\\\f167';"
-	"content: '\\f16a';":
+		body: "<${1:i} class=\"fa fa-youtube$2\"></${1:i}>"
+	"fa-youtube-play":
 		prefix: "fa-youtube-play"
-		body: "content: '\\\\f16a';"
-	"content: '\\f166';":
+		body: "<${1:i} class=\"fa fa-youtube-play$2\"></${1:i}>"
+	"fa-youtube-square":
 		prefix: "fa-youtube-square"
-		body: "content: '\\\\f166';"
+		body: "<${1:i} class=\"fa fa-youtube-square$2\"></${1:i}>"
