@@ -237,8 +237,8 @@
 		prefix: "fa-black-tie"
 		body: "content: '\\\\f27e';"
 	"content: '\\f29d';":
-    prefix: "fa-blind"
-    body: "content: '\\\\f29d';"
+	    prefix: "fa-blind"
+	    body: "content: '\\\\f29d';"
 	"content: '\\f293';":
 		prefix: "fa-bluetooth"
 		body: "content: '\\\\f293';"
@@ -264,8 +264,8 @@
 		prefix: "fa-bookmark-o"
 		body: "content: '\\\\f097';"
 	"content: '\\f2a1';":
-    prefix: "fa-braille"
-    body: "content: '\\\\f2a1';"
+	    prefix: "fa-braille"
+	    body: "content: '\\\\f2a1';"
 	"content: '\\f0b1';":
 		prefix: "fa-briefcase"
 		body: "content: '\\\\f0b1';"
@@ -573,11 +573,11 @@
 		prefix: "fa-database"
 		body: "content: '\\\\f1c0';"
 	"content: '\\f2a4';":
-    prefix: "fa-deaf"
-    body: "content: '\\\\f2a4';"
-"content: '\\f2a4';":
-    prefix: "fa-deafness"
-    body: "content: '\\\\f2a4';"
+	    prefix: "fa-deaf"
+	    body: "content: '\\\\f2a4';"
+	"content: '\\f2a4';":
+	    prefix: "fa-deafness"
+	    body: "content: '\\\\f2a4';"
 	"content: '\\f03b';":
 		prefix: "fa-dedent"
 		body: "content: '\\\\f03b';"
@@ -642,8 +642,8 @@
 		prefix: "fa-envelope-square"
 		body: "content: '\\\\f199';"
 	"content: '\\f299';":
-    prefix: "fa-envira"
-    body: "content: '\\\\f299';"
+	    prefix: "fa-envira"
+	    body: "content: '\\\\f299';"
 	"content: '\\f12d';":
 		prefix: "fa-eraser"
 		body: "content: '\\\\f12d';"
@@ -894,8 +894,8 @@
 		prefix: "fa-github-square"
 		body: "content: '\\\\f092';"
 	"content: '\\f296';":
-    prefix: "fa-gitlab"
-    body: "content: '\\\\f296';"
+	    prefix: "fa-gitlab"
+	    body: "content: '\\\\f296';"
 	"content: '\\f184';":
 		prefix: "fa-gittip"
 		body: "content: '\\\\f184';"
@@ -903,11 +903,11 @@
 		prefix: "fa-glass"
 		body: "content: '\\\\f000';"
 	"content: '\\f2a5';":
-    prefix: "fa-glide"
-    body: "content: '\\\\f2a5';"
+	    prefix: "fa-glide"
+	    body: "content: '\\\\f2a5';"
 	"content: '\\f2a6';":
-    prefix: "fa-glide-g"
-    body: "content: '\\\\f2a6';"
+	    prefix: "fa-glide-g"
+	    body: "content: '\\\\f2a6';"
 	"content: '\\f0ac';":
 		prefix: "fa-globe"
 		body: "content: '\\\\f0ac';"
@@ -978,8 +978,8 @@
 		prefix: "fa-hand-stop-o"
 		body: "content: '\\\\f256';"
 	"content: '\\f2a4';":
-    prefix: "fa-hard-of-hearing"
-    body: "content: '\\\\f2a4';"
+	    prefix: "fa-hard-of-hearing"
+	    body: "content: '\\\\f2a4';"
 	"content: '\\f292';":
 		prefix: "fa-hashtag"
 		body: "content: '\\\\f292';"
@@ -1197,8 +1197,8 @@
 		prefix: "fa-long-arrow-up"
 		body: "content: '\\\\f176';"
 	"content: '\\f2a8';":
-    prefix: "fa-low-vision"
-    body: "content: '\\\\f2a8';"
+	    prefix: "fa-low-vision"
+	    body: "content: '\\\\f2a8';"
 	"content: '\\f0d0';":
 		prefix: "fa-magic"
 		body: "content: '\\\\f0d0';"
@@ -1479,8 +1479,8 @@
 		prefix: "fa-question-circle"
 		body: "content: '\\\\f059';"
 	"content: '\\f29c';":
-    prefix: "fa-question-circle-o"
-    body: "content: '\\\\f29c';"
+	    prefix: "fa-question-circle-o"
+	    body: "content: '\\\\f29c';"
 	"content: '\\f10d';":
 		prefix: "fa-quote-left"
 		body: "content: '\\\\f10d';"
@@ -1653,11 +1653,11 @@
 		prefix: "fa-simplybuilt"
 		body: "content: '\\\\f215';"
 	"content: '\\f2a7';":
-    prefix: "fa-sign-language"
-    body: "content: '\\\\f2a7';"
+	    prefix: "fa-sign-language"
+	    body: "content: '\\\\f2a7';"
 	"content: '\\f2a7';":
-    prefix: "fa-signing"
-    body: "content: '\\\\f2a7';"
+	    prefix: "fa-signing"
+	    body: "content: '\\\\f2a7';"
 	"content: '\\f0e8';":
 		prefix: "fa-sitemap"
 		body: "content: '\\\\f0e8';"
@@ -1680,14 +1680,14 @@
 		prefix: "fa-smile-o"
 		body: "content: '\\\\f118';"
 	"content: '\\f2ab';":
-    prefix: "fa-snapchat"
-    body: "content: '\\\\f2ab';"
+	    prefix: "fa-snapchat"
+	    body: "content: '\\\\f2ab';"
 	"content: '\\f2ac';":
-    prefix: "fa-snapchat-ghost"
-    body: "content: '\\\\f2ac';"
+	    prefix: "fa-snapchat-ghost"
+	    body: "content: '\\\\f2ac';"
 	"content: '\\f2ad';":
-    prefix: "fa-snapchat-square"
-    body: "content: '\\\\f2ad';"
+	    prefix: "fa-snapchat-square"
+	    body: "content: '\\\\f2ad';"
 	"content: '\\f1e3';":
 		prefix: "fa-soccer-ball-o"
 		body: "content: '\\\\f1e3';"
@@ -1992,8 +1992,8 @@
 		prefix: "fa-undo"
 		body: "content: '\\\\f0e2';"
 	"content: '\\f29a';":
-    prefix: "fa-universal-access"
-    body: "content: '\\\\f29a';"
+	    prefix: "fa-universal-access"
+	    body: "content: '\\\\f29a';"
 	"content: '\\f19c';":
 		prefix: "fa-university"
 		body: "content: '\\\\f19c';"
@@ -2049,11 +2049,11 @@
 		prefix: "fa-viacoin"
 		body: "content: '\\\\f237';"
 	"content: '\\f2a9';":
-    prefix: "fa-viadeo"
-    body: "content: '\\\\f2a9';"
+	    prefix: "fa-viadeo"
+	    body: "content: '\\\\f2a9';"
 	"content: '\\f2aa';":
-    prefix: "fa-viadeo-square"
-    body: "content: '\\\\f2aa';"
+	    prefix: "fa-viadeo-square"
+	    body: "content: '\\\\f2aa';"
 	"content: '\\f03d';":
 		prefix: "fa-video-camera"
 		body: "content: '\\\\f03d';"
@@ -2070,8 +2070,8 @@
 		prefix: "fa-vk"
 		body: "content: '\\\\f189';"
 	"content: '\\f2a0';":
-    prefix: "fa-volume-control-phone"
-    body: "content: '\\\\f2a0';"
+	    prefix: "fa-volume-control-phone"
+	    body: "content: '\\\\f2a0';"
 	"content: '\\f027';":
 		prefix: "fa-volume-down"
 		body: "content: '\\\\f027';"
@@ -2100,8 +2100,8 @@
 		prefix: "fa-wheelchair"
 		body: "content: '\\\\f193';"
 	"content: '\\f29b';":
-    prefix: "fa-wheelchair-alt"
-    body: "content: '\\\\f29b';"
+	    prefix: "fa-wheelchair-alt"
+	    body: "content: '\\\\f29b';"
 	"content: '\\f1eb';":
 		prefix: "fa-wifi"
 		body: "content: '\\\\f1eb';"
@@ -2118,11 +2118,11 @@
 		prefix: "fa-wordpress"
 		body: "content: '\\\\f19a';"
 	"content: '\\f297';":
-    prefix: "fa-wpbeginner"
-    body: "content: '\\\\f297';"
+	    prefix: "fa-wpbeginner"
+	    body: "content: '\\\\f297';"
 	"content: '\\f298';":
-    prefix: "fa-wpforms"
-    body: "content: '\\\\f298';"
+	    prefix: "fa-wpforms"
+	    body: "content: '\\\\f298';"
 	"content: '\\f0ad';":
 		prefix: "fa-wrench"
 		body: "content: '\\\\f0ad';"
