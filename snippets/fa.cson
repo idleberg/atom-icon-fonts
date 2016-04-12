@@ -26,6 +26,9 @@
 	"fa-ambulance":
 		prefix: "fa-ambulance"
 		body: "<${1:i} class=\"fa fa-ambulance$2\"></${1:i}>"
+	"fa-american-sign-language-interpreting":
+		prefix: "fa-american-sign-language-interpreting"
+		body: "<${1:i} class=\"fa fa-american-sign-language-interpreting$2\"></${1:i}>"
 	"fa-anchor":
 		prefix: "fa-anchor"
 		body: "<${1:i} class=\"fa fa-anchor$2\"></${1:i}>"
@@ -116,12 +119,21 @@
 	"fa-arrows":
 		prefix: "fa-arrows"
 		body: "<${1:i} class=\"fa fa-arrows$2\"></${1:i}>"
+	"fa-asl-interpreting (alias)":
+		prefix: "fa-asl-interpreting (alias)"
+		body: "<${1:i} class=\"fa fa-asl-interpreting (alias)$2\"></${1:i}>"
+	"fa-assistive-listening-systems":
+		prefix: "fa-assistive-listening-systems"
+		body: "<${1:i} class=\"fa fa-assistive-listening-systems$2\"></${1:i}>"
 	"fa-asterisk":
 		prefix: "fa-asterisk"
 		body: "<${1:i} class=\"fa fa-asterisk$2\"></${1:i}>"
 	"fa-at":
 		prefix: "fa-at"
 		body: "<${1:i} class=\"fa fa-at$2\"></${1:i}>"
+	"fa-audio-description":
+		prefix: "fa-audio-description"
+		body: "<${1:i} class=\"fa fa-audio-description$2\"></${1:i}>"
 	"fa-automobile":
 		prefix: "fa-automobile"
 		body: "<${1:i} class=\"fa fa-automobile$2\"></${1:i}>"
@@ -221,6 +233,9 @@
 	"fa-black-tie":
 		prefix: "fa-black-tie"
 		body: "<${1:i} class=\"fa fa-black-tie$2\"></${1:i}>"
+	"fa-blind":
+		prefix: "fa-blind"
+		body: "<${1:i} class=\"fa fa-blind$2\"></${1:i}>"
 	"fa-bluetooth-b":
 		prefix: "fa-bluetooth-b"
 		body: "<${1:i} class=\"fa fa-bluetooth-b$2\"></${1:i}>"
@@ -245,6 +260,9 @@
 	"fa-bookmark":
 		prefix: "fa-bookmark"
 		body: "<${1:i} class=\"fa fa-bookmark$2\"></${1:i}>"
+	"fa-braille":
+		prefix: "fa-braille"
+		body: "<${1:i} class=\"fa fa-braille$2\"></${1:i}>"
 	"fa-briefcase":
 		prefix: "fa-briefcase"
 		body: "<${1:i} class=\"fa fa-briefcase$2\"></${1:i}>"
@@ -548,6 +566,12 @@
 	"fa-database":
 		prefix: "fa-database"
 		body: "<${1:i} class=\"fa fa-database$2\"></${1:i}>"
+	"fa-deaf":
+		prefix: "fa-deaf"
+		body: "<${1:i} class=\"fa fa-deaf$2\"></${1:i}>"
+	"fa-deafness (alias)":
+		prefix: "fa-deafness (alias)"
+		body: "<${1:i} class=\"fa fa-deafness (alias)$2\"></${1:i}>"
 	"fa-dedent":
 		prefix: "fa-dedent"
 		body: "<${1:i} class=\"fa fa-dedent$2\"></${1:i}>"
@@ -611,6 +635,9 @@
 	"fa-envelope":
 		prefix: "fa-envelope"
 		body: "<${1:i} class=\"fa fa-envelope$2\"></${1:i}>"
+	"fa-envira":
+		prefix: "fa-envira"
+		body: "<${1:i} class=\"fa fa-envira$2\"></${1:i}>"
 	"fa-eraser":
 		prefix: "fa-eraser"
 		body: "<${1:i} class=\"fa fa-eraser$2\"></${1:i}>"
@@ -854,12 +881,21 @@
 	"fa-github":
 		prefix: "fa-github"
 		body: "<${1:i} class=\"fa fa-github$2\"></${1:i}>"
+	"fa-gitlab":
+		prefix: "fa-gitlab"
+		body: "<${1:i} class=\"fa fa-gitlab$2\"></${1:i}>"
 	"fa-gittip":
 		prefix: "fa-gittip"
 		body: "<${1:i} class=\"fa fa-gittip$2\"></${1:i}>"
 	"fa-glass":
 		prefix: "fa-glass"
 		body: "<${1:i} class=\"fa fa-glass$2\"></${1:i}>"
+	"fa-glide":
+		prefix: "fa-glide"
+		body: "<${1:i} class=\"fa fa-glide$2\"></${1:i}>"
+	"fa-glide-g":
+		prefix: "fa-glide-g"
+		body: "<${1:i} class=\"fa fa-glide-g$2\"></${1:i}>"
 	"fa-globe":
 		prefix: "fa-globe"
 		body: "<${1:i} class=\"fa fa-globe$2\"></${1:i}>"
@@ -926,6 +962,9 @@
 	"fa-hand-stop-o":
 		prefix: "fa-hand-stop-o"
 		body: "<${1:i} class=\"fa fa-hand-stop-o$2\"></${1:i}>"
+	"fa-hard-of-hearing (alias)":
+		prefix: "fa-hard-of-hearing (alias)"
+		body: "<${1:i} class=\"fa fa-hard-of-hearing (alias)$2\"></${1:i}>"
 	"fa-hashtag":
 		prefix: "fa-hashtag"
 		body: "<${1:i} class=\"fa fa-hashtag$2\"></${1:i}>"
@@ -1136,6 +1175,9 @@
 	"fa-long-arrow-up":
 		prefix: "fa-long-arrow-up"
 		body: "<${1:i} class=\"fa fa-long-arrow-up$2\"></${1:i}>"
+	"fa-low-vision":
+		prefix: "fa-low-vision"
+		body: "<${1:i} class=\"fa fa-low-vision$2\"></${1:i}>"
 	"fa-magic":
 		prefix: "fa-magic"
 		body: "<${1:i} class=\"fa fa-magic$2\"></${1:i}>"
@@ -1412,6 +1454,9 @@
 	"fa-question-circle":
 		prefix: "fa-question-circle"
 		body: "<${1:i} class=\"fa fa-question-circle$2\"></${1:i}>"
+	"fa-question-circle-o":
+		prefix: "fa-question-circle-o"
+		body: "<${1:i} class=\"fa fa-question-circle-o$2\"></${1:i}>"
 	"fa-question":
 		prefix: "fa-question"
 		body: "<${1:i} class=\"fa fa-question$2\"></${1:i}>"
@@ -1574,12 +1619,18 @@
 	"fa-sign-in":
 		prefix: "fa-sign-in"
 		body: "<${1:i} class=\"fa fa-sign-in$2\"></${1:i}>"
+	"fa-sign-language":
+		prefix: "fa-sign-language"
+		body: "<${1:i} class=\"fa fa-sign-language$2\"></${1:i}>"
 	"fa-sign-out":
 		prefix: "fa-sign-out"
 		body: "<${1:i} class=\"fa fa-sign-out$2\"></${1:i}>"
 	"fa-signal":
 		prefix: "fa-signal"
 		body: "<${1:i} class=\"fa fa-signal$2\"></${1:i}>"
+	"fa-signing (alias)":
+		prefix: "fa-signing (alias)"
+		body: "<${1:i} class=\"fa fa-signing (alias)$2\"></${1:i}>"
 	"fa-simplybuilt":
 		prefix: "fa-simplybuilt"
 		body: "<${1:i} class=\"fa fa-simplybuilt$2\"></${1:i}>"
@@ -1601,6 +1652,15 @@
 	"fa-slideshare":
 		prefix: "fa-slideshare"
 		body: "<${1:i} class=\"fa fa-slideshare$2\"></${1:i}>"
+	"fa-snapchat":
+		prefix: "fa-snapchat"
+		body: "<${1:i} class=\"fa fa-snapchat$2\"></${1:i}>"
+	"fa-snapchat-ghost":
+		prefix: "fa-snapchat-ghost"
+		body: "<${1:i} class=\"fa fa-snapchat-ghost$2\"></${1:i}>"
+	"fa-snapchat-square":
+		prefix: "fa-snapchat-square"
+		body: "<${1:i} class=\"fa fa-snapchat-square$2\"></${1:i}>"
 	"fa-smile-o":
 		prefix: "fa-smile-o"
 		body: "<${1:i} class=\"fa fa-smile-o$2\"></${1:i}>"
@@ -1921,6 +1981,9 @@
 	"fa-undo":
 		prefix: "fa-undo"
 		body: "<${1:i} class=\"fa fa-undo$2\"></${1:i}>"
+	"fa-universal-access":
+		prefix: "fa-universal-access"
+		body: "<${1:i} class=\"fa fa-universal-access$2\"></${1:i}>"
 	"fa-university":
 		prefix: "fa-university"
 		body: "<${1:i} class=\"fa fa-university$2\"></${1:i}>"
@@ -1975,6 +2038,12 @@
 	"fa-viacoin":
 		prefix: "fa-viacoin"
 		body: "<${1:i} class=\"fa fa-viacoin$2\"></${1:i}>"
+	"fa-viadeo":
+		prefix: "fa-viadeo"
+		body: "<${1:i} class=\"fa fa-viadeo$2\"></${1:i}>"
+	"fa-viadeo-square":
+		prefix: "fa-viadeo-square"
+		body: "<${1:i} class=\"fa fa-viadeo-square$2\"></${1:i}>"
 	"fa-video-camera":
 		prefix: "fa-video-camera"
 		body: "<${1:i} class=\"fa fa-video-camera$2\"></${1:i}>"
@@ -1990,6 +2059,9 @@
 	"fa-vk":
 		prefix: "fa-vk"
 		body: "<${1:i} class=\"fa fa-vk$2\"></${1:i}>"
+	"fa-volume-control-phone":
+		prefix: "fa-volume-control-phone"
+		body: "<${1:i} class=\"fa fa-volume-control-phone$2\"></${1:i}>"
 	"fa-volume-down":
 		prefix: "fa-volume-down"
 		body: "<${1:i} class=\"fa fa-volume-down$2\"></${1:i}>"
@@ -2017,6 +2089,9 @@
 	"fa-wheelchair":
 		prefix: "fa-wheelchair"
 		body: "<${1:i} class=\"fa fa-wheelchair$2\"></${1:i}>"
+	"fa-wheelchair-alt":
+		prefix: "fa-wheelchair-alt"
+		body: "<${1:i} class=\"fa fa-wheelchair-alt$2\"></${1:i}>"
 	"fa-wifi":
 		prefix: "fa-wifi"
 		body: "<${1:i} class=\"fa fa-wifi$2\"></${1:i}>"
@@ -2032,6 +2107,12 @@
 	"fa-wordpress":
 		prefix: "fa-wordpress"
 		body: "<${1:i} class=\"fa fa-wordpress$2\"></${1:i}>"
+	"fa-wpbeginner":
+		prefix: "fa-wpbeginner"
+		body: "<${1:i} class=\"fa fa-wpbeginner$2\"></${1:i}>"
+	"fa-wpforms":
+		prefix: "fa-wpforms"
+		body: "<${1:i} class=\"fa fa-wpforms$2\"></${1:i}>"
 	"fa-wrench":
 		prefix: "fa-wrench"
 		body: "<${1:i} class=\"fa fa-wrench$2\"></${1:i}>"
