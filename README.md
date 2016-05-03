@@ -8,7 +8,7 @@
 
 Atom snippets for a variety of icon fonts ([see details](#prefixes)).
 
-Also [available](https://github.com/idleberg/sublime-icon-fonts) for Sublime Text.
+This package is also [available](https://github.com/idleberg/sublime-icon-fonts) for Sublime Text.
 
 ## Installation
 

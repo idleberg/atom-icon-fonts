@@ -1,0 +1,58 @@
+".source.css,.source.sass":
+	"fl-archlinux":
+		prefix: "fl-archlinux"
+		body: "content: '\\\\f100';"
+	"fl-centos":
+		prefix: "fl-centos"
+		body: "content: '\\\\f101';"
+	"fl-coreos":
+		prefix: "fl-coreos"
+		body: "content: '\\\\f110';"
+	"fl-debian":
+		prefix: "fl-debian"
+		body: "content: '\\\\f102';"
+	"fl-elementary":
+		prefix: "fl-elementary"
+		body: "content: '\\\\f113';"
+	"fl-fedora":
+		prefix: "fl-fedora"
+		body: "content: '\\\\f103';"
+	"fl-fedora-inverse":
+		prefix: "fl-fedora-inverse"
+		body: "content: '\\\\f114';"
+	"fl-freebsd":
+		prefix: "fl-freebsd"
+		body: "content: '\\\\f10f';"
+	"fl-gentoo":
+		prefix: "fl-gentoo"
+		body: "content: '\\\\f111';"
+	"fl-linuxmint":
+		prefix: "fl-linuxmint"
+		body: "content: '\\\\f105';"
+	"fl-linuxmint-inverse":
+		prefix: "fl-linuxmint-inverse"
+		body: "content: '\\\\f106';"
+	"fl-mageia":
+		prefix: "fl-mageia"
+		body: "content: '\\\\f107';"
+	"fl-mandriva":
+		prefix: "fl-mandriva"
+		body: "content: '\\\\f108';"
+	"fl-opensuse":
+		prefix: "fl-opensuse"
+		body: "content: '\\\\f109';"
+	"fl-redhat":
+		prefix: "fl-redhat"
+		body: "content: '\\\\f10a';"
+	"fl-slackware":
+		prefix: "fl-slackware"
+		body: "content: '\\\\f10b';"
+	"fl-slackware-inverse":
+		prefix: "fl-slackware-inverse"
+		body: "content: '\\\\f10c';"
+	"fl-ubuntu":
+		prefix: "fl-ubuntu"
+		body: "content: '\\\\f10d';"
+	"fl-ubuntu-inverse":
+		prefix: "fl-ubuntu-inverse"
+		body: "content: '\\\\f10e';"
