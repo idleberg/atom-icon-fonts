@@ -38,6 +38,7 @@ Prefix         | Icon Font                           | Version | cdnjs | jsDeliv
 `el`           | [Elusive Icons][el]                 | 2.0.0   | 🚫    | 🚫
 `fa`           | [Font Awesome][fa]                  | 4.6.1   | ✅    | ✅
 `fi`           | [Foundation Icons][fi]              | 3.0     | ✅    | ✅
+`fl`           | [Font Linux][fl]                    | 0.5     | 🚫    | 🚫
 `geomicon`     | [Geomicons Open][geomicon]          | 2.0.0   | 🚫    | ✅
 `glyphicon`    | [Bootstrap Glyphicons][glyphicon]   | 3.3.6   | 🚫    | 🚫
 `icono`        | [Icono][icono]                      | 1.3.0   | ✅    | 🚫
@@ -90,6 +91,7 @@ You are welcome support this project using [Flattr](https://flattr.com/submit/au
 [el]: https://github.com/reduxframework/Elusive-Icons
 [fa]: https://github.com/FortAwesome/Font-Awesome
 [fi]: http://zurb.com/playground/foundation-icons
+[fl]: https://github.com/Lukas-W/font-linux
 [geomicon]: https://github.com/jxnblk/geomicons-open
 [glyphicon]: https://getbootstrap.com/components/#glyphicons
 [icono]: https://github.com/saeedalipoor/icono
