@@ -788,6 +788,9 @@
 	"fa-firefox":
 		prefix: "fa-firefox"
 		body: "<${1:i} class=\"fa fa-firefox$2\"></${1:i}>"
+	"fa-first-order":
+		prefix: "fa-first-order"
+		body: "<${1:i} class=\"fa fa-first-order$2\"></${1:i}>"
 	"fa-flag":
 		prefix: "fa-flag"
 		body: "<${1:i} class=\"fa fa-flag$2\"></${1:i}>"
@@ -1532,6 +1535,9 @@
 	"fa-reply-all":
 		prefix: "fa-reply-all"
 		body: "<${1:i} class=\"fa fa-reply-all$2\"></${1:i}>"
+	"fa-resistance":
+		prefix: "fa-resistance"
+		body: "<${1:i} class=\"fa fa-resistance$2\"></${1:i}>"
 	"fa-retweet":
 		prefix: "fa-retweet"
 		body: "<${1:i} class=\"fa fa-retweet$2\"></${1:i}>"
