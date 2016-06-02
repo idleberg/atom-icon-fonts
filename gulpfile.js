@@ -16,7 +16,7 @@ gulp.task('coffeelint', function () {
     gulp.src(['./**/*.cson', './**/*.coffee', self])
         .pipe(debug({title: 'coffeelint:'}))
         .pipe(coffeelint())
-        .pipe(coffeelint.reporter())
+        .pipe(coffeelint.reporter());
 });
 
 // Lint LESS files
@@ -31,7 +31,7 @@ gulp.task('recess', function () {
 gulp.task('jshint', function() {
     return gulp.src(['./**/*.js', self])
         .pipe(debug({title: 'jshint:'}))
-        .pipe(jshint())
+        .pipe(jshint());
 });
 
 // Lint JSON files
