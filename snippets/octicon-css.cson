@@ -257,6 +257,9 @@
 	"octicon-globe":
 		prefix: "octicon-globe"
 		body: "content: '\\\\f0b6';"
+	"octicon-grabber":
+		prefix: "octicon-grabber"
+		body: "content: '\\\\f103';"
 	"octicon-graph":
 		prefix: "octicon-graph"
 		body: "content: '\\\\f043';"
@@ -416,6 +419,9 @@
 	"octicon-plus":
 		prefix: "octicon-plus"
 		body: "content: '\\\\f05d';"
+	"octicon-plus-small":
+		prefix: "octicon-plus-small"
+		body: "content: '\\\\f104';"
 	"octicon-primitive-dot":
 		prefix: "octicon-primitive-dot"
 		body: "content: '\\\\f052';"

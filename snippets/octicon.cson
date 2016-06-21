@@ -266,6 +266,9 @@
 	"octicon-globe":
 		prefix: "octicon-globe"
 		body: "<${1:span} class=\"octicon octicon-globe$2\"></${1:span}>"
+	"octicon-grabber":
+		prefix: "octicon-grabber"
+		body: "<${1:span} class=\"octicon octicon-grabber$2\"></${1:span}>"
 	"octicon-graph":
 		prefix: "octicon-graph"
 		body: "<${1:span} class=\"octicon octicon-graph$2\"></${1:span}>"
@@ -464,6 +467,9 @@
 	"octicon-plus":
 		prefix: "octicon-plus"
 		body: "<${1:span} class=\"octicon octicon-plus$2\"></${1:span}>"
+	"octicon-plus-small":
+		prefix: "octicon-plus-small"
+		body: "<${1:span} class=\"octicon octicon-plus-small$2\"></${1:span}>"
 	"octicon-podium":
 		prefix: "octicon-podium"
 		body: "<${1:span} class=\"octicon octicon-podium$2\"></${1:span}>"
