@@ -3,10 +3,10 @@ var debug = require('gulp-debug');
 var coffeelint = require('gulp-coffeelint');
 var jshint = require('gulp-jshint');
 var jsonlint = require('gulp-jsonlint');
-var recess = require('gulp-recess');
+var lesshint = require('gulp-lesshint');
 
 // Tasks
-gulp.task('lint', ['coffeelint', 'jshint', 'jsonlint', 'recess']);
+gulp.task('lint', ['coffeelint', 'jshint', 'jsonlint', 'lesshint']);
 
 // Exclude node_modules
 var self = '!node_modules/**/*';
@@ -20,11 +20,11 @@ gulp.task('coffeelint', function () {
 });
 
 // Lint LESS files
-gulp.task('recess', function () {
+gulp.task('lesshint', function () {
      gulp.src(['./**/*.less', self])
-        .pipe(debug({title: 'recess:'}))
-        .pipe(recess({"noOverqualifying": false} ))
-        .pipe(recess.reporter());
+        .pipe(debug({title: 'lesshint:'}))
+        .pipe(lesshint())
+        .pipe(lesshint.reporter());
 });
 
 // Lint JavaScript files
