@@ -1,289 +1,289 @@
 ".source.css, .source.less, .source.css.scss, .source.stylus":
-	"pf-amazon":
-		prefix: "pf-amazon"
-		body: "content: '\\\\f000';"
-	"pf-american-express":
-		prefix: "pf-american-express"
-		body: "content: '\\\\f001';"
-	"pf-american-express-alt":
-		prefix: "pf-american-express-alt"
-		body: "content: '\\\\f002';"
-	"pf-apple-pay":
-		prefix: "pf-apple-pay"
-		body: "content: '\\\\f04c';"
-	"pf-atm":
-		prefix: "pf-atm"
-		body: "content: '\\\\f003';"
-	"pf-bancontact-mister-cash":
-		prefix: "pf-bancontact-mister-cash"
-		body: "content: '\\\\f050';"
-	"pf-bank-transfer":
-		prefix: "pf-bank-transfer"
-		body: "content: '\\\\f005';"
-	"pf-bankomat":
-		prefix: "pf-bankomat"
-		body: "content: '\\\\f004';"
-	"pf-bitcoin":
-		prefix: "pf-bitcoin"
-		body: "content: '\\\\f006';"
-	"pf-bitcoin-sign":
-		prefix: "pf-bitcoin-sign"
-		body: "content: '\\\\f007';"
-	"pf-braintree":
-		prefix: "pf-braintree"
-		body: "content: '\\\\f008';"
-	"pf-btc":
-		prefix: "pf-btc"
-		body: "content: '\\\\f009';"
-	"pf-card":
-		prefix: "pf-card"
-		body: "content: '\\\\f00a';"
-	"pf-carta-si":
-		prefix: "pf-carta-si"
-		body: "content: '\\\\f00b';"
-	"pf-cash":
-		prefix: "pf-cash"
-		body: "content: '\\\\f00c';"
-	"pf-cash-on-delivery":
-		prefix: "pf-cash-on-delivery"
-		body: "content: '\\\\f00d';"
-	"pf-cash-on-pickup":
-		prefix: "pf-cash-on-pickup"
-		body: "content: '\\\\f053';"
-	"pf-cashcloud":
-		prefix: "pf-cashcloud"
-		body: "content: '\\\\f05e';"
-	"pf-cb":
-		prefix: "pf-cb"
-		body: "content: '\\\\f00e';"
-	"pf-cirrus":
-		prefix: "pf-cirrus"
-		body: "content: '\\\\f00f';"
-	"pf-cirrus-alt":
-		prefix: "pf-cirrus-alt"
-		body: "content: '\\\\f010';"
-	"pf-clickandbuy":
-		prefix: "pf-clickandbuy"
-		body: "content: '\\\\f011';"
-	"pf-credit-card":
-		prefix: "pf-credit-card"
-		body: "content: '\\\\f012';"
-	"pf-dankort":
-		prefix: "pf-dankort"
-		body: "content: '\\\\f04f';"
-	"pf-diners":
-		prefix: "pf-diners"
-		body: "content: '\\\\f013';"
-	"pf-discover":
-		prefix: "pf-discover"
-		body: "content: '\\\\f014';"
-	"pf-ec":
-		prefix: "pf-ec"
-		body: "content: '\\\\f015';"
-	"pf-elo":
-		prefix: "pf-elo"
-		body: "content: '\\\\f055';"
-	"pf-elo-alt":
-		prefix: "pf-elo-alt"
-		body: "content: '\\\\f056';"
-	"pf-eps":
-		prefix: "pf-eps"
-		body: "content: '\\\\f016';"
-	"pf-eur":
-		prefix: "pf-eur"
-		body: "content: '\\\\f017';"
-	"pf-facture":
-		prefix: "pf-facture"
-		body: "content: '\\\\f018';"
-	"pf-fattura":
-		prefix: "pf-fattura"
-		body: "content: '\\\\f019';"
-	"pf-flattr":
-		prefix: "pf-flattr"
-		body: "content: '\\\\f01a';"
-	"pf-gbp":
-		prefix: "pf-gbp"
-		body: "content: '\\\\f01f';"
-	"pf-giropay":
-		prefix: "pf-giropay"
-		body: "content: '\\\\f01b';"
-	"pf-gittip":
-		prefix: "pf-gittip"
-		body: "content: '\\\\f01c';"
-	"pf-google-wallet":
-		prefix: "pf-google-wallet"
-		body: "content: '\\\\f01d';"
-	"pf-google-wallet-alt":
-		prefix: "pf-google-wallet-alt"
-		body: "content: '\\\\f01e';"
-	"pf-gratipay":
-		prefix: "pf-gratipay"
-		body: "content: '\\\\f01c';"
-	"pf-gratipay-sign":
-		prefix: "pf-gratipay-sign"
-		body: "content: '\\\\f05c';"
-	"pf-ideal":
-		prefix: "pf-ideal"
-		body: "content: '\\\\f020';"
-	"pf-ils":
-		prefix: "pf-ils"
-		body: "content: '\\\\f021';"
-	"pf-inr":
-		prefix: "pf-inr"
-		body: "content: '\\\\f022';"
-	"pf-interac":
-		prefix: "pf-interac"
-		body: "content: '\\\\f04d';"
-	"pf-invoice":
-		prefix: "pf-invoice"
-		body: "content: '\\\\f023';"
-	"pf-invoice-sign":
-		prefix: "pf-invoice-sign"
-		body: "content: '\\\\f024';"
-	"pf-invoice-sign-alt":
-		prefix: "pf-invoice-sign-alt"
-		body: "content: '\\\\f025';"
-	"pf-invoice-sign-alt-o":
-		prefix: "pf-invoice-sign-alt-o"
-		body: "content: '\\\\f026';"
-	"pf-invoice-sign-o":
-		prefix: "pf-invoice-sign-o"
-		body: "content: '\\\\f027';"
-	"pf-jcb":
-		prefix: "pf-jcb"
-		body: "content: '\\\\f028';"
-	"pf-jpy":
-		prefix: "pf-jpy"
-		body: "content: '\\\\f029';"
-	"pf-krw":
-		prefix: "pf-krw"
-		body: "content: '\\\\f02a';"
-	"pf-maestro":
-		prefix: "pf-maestro"
-		body: "content: '\\\\f02b';"
-	"pf-maestro-alt":
-		prefix: "pf-maestro-alt"
-		body: "content: '\\\\f02c';"
-	"pf-mastercard":
-		prefix: "pf-mastercard"
-		body: "content: '\\\\f02d';"
-	"pf-mastercard-alt":
-		prefix: "pf-mastercard-alt"
-		body: "content: '\\\\f02e';"
-	"pf-mastercard-securecode":
-		prefix: "pf-mastercard-securecode"
-		body: "content: '\\\\f02f';"
-	"pf-mercado-pago":
-		prefix: "pf-mercado-pago"
-		body: "content: '\\\\f058';"
-	"pf-mercado-pago-sign":
-		prefix: "pf-mercado-pago-sign"
-		body: "content: '\\\\f059';"
-	"pf-moip":
-		prefix: "pf-moip"
-		body: "content: '\\\\f051';"
-	"pf-multibanco":
-		prefix: "pf-multibanco"
-		body: "content: '\\\\f05b';"
-	"pf-ogone":
-		prefix: "pf-ogone"
-		body: "content: '\\\\f030';"
-	"pf-pagseguro":
-		prefix: "pf-pagseguro"
-		body: "content: '\\\\f052';"
-	"pf-paybox":
-		prefix: "pf-paybox"
-		body: "content: '\\\\f031';"
-	"pf-paylife":
-		prefix: "pf-paylife"
-		body: "content: '\\\\f032';"
-	"pf-paymill":
-		prefix: "pf-paymill"
-		body: "content: '\\\\f04e';"
-	"pf-paypal":
-		prefix: "pf-paypal"
-		body: "content: '\\\\f033';"
-	"pf-paypal-alt":
-		prefix: "pf-paypal-alt"
-		body: "content: '\\\\f034';"
-	"pf-paysafecard":
-		prefix: "pf-paysafecard"
-		body: "content: '\\\\f035';"
-	"pf-payshop":
-		prefix: "pf-payshop"
-		body: "content: '\\\\f05a';"
-	"pf-payu":
-		prefix: "pf-payu"
-		body: "content: '\\\\f057';"
-	"pf-postepay":
-		prefix: "pf-postepay"
-		body: "content: '\\\\f036';"
-	"pf-quick":
-		prefix: "pf-quick"
-		body: "content: '\\\\f037';"
-	"pf-rechnung":
-		prefix: "pf-rechnung"
-		body: "content: '\\\\f038';"
-	"pf-ripple":
-		prefix: "pf-ripple"
-		body: "content: '\\\\f039';"
-	"pf-rub":
-		prefix: "pf-rub"
-		body: "content: '\\\\f03a';"
-	"pf-sage":
-		prefix: "pf-sage"
-		body: "content: '\\\\f054';"
-	"pf-sepa":
-		prefix: "pf-sepa"
-		body: "content: '\\\\f04a';"
-	"pf-sepa-alt":
-		prefix: "pf-sepa-alt"
-		body: "content: '\\\\f04b';"
-	"pf-six":
-		prefix: "pf-six"
-		body: "content: '\\\\f05d';"
-	"pf-skrill":
-		prefix: "pf-skrill"
-		body: "content: '\\\\f03b';"
-	"pf-sofort":
-		prefix: "pf-sofort"
-		body: "content: '\\\\f03c';"
-	"pf-square":
-		prefix: "pf-square"
-		body: "content: '\\\\f03d';"
-	"pf-stripe":
-		prefix: "pf-stripe"
-		body: "content: '\\\\f03e';"
-	"pf-truste":
-		prefix: "pf-truste"
-		body: "content: '\\\\f03f';"
-	"pf-try":
-		prefix: "pf-try"
-		body: "content: '\\\\f040';"
-	"pf-unionpay":
-		prefix: "pf-unionpay"
-		body: "content: '\\\\f041';"
-	"pf-usd":
-		prefix: "pf-usd"
-		body: "content: '\\\\f042';"
-	"pf-verified-by-visa":
-		prefix: "pf-verified-by-visa"
-		body: "content: '\\\\f043';"
-	"pf-verisign":
-		prefix: "pf-verisign"
-		body: "content: '\\\\f044';"
-	"pf-visa":
-		prefix: "pf-visa"
-		body: "content: '\\\\f045';"
-	"pf-visa-electron":
-		prefix: "pf-visa-electron"
-		body: "content: '\\\\f046';"
-	"pf-western-union":
-		prefix: "pf-western-union"
-		body: "content: '\\\\f047';"
-	"pf-western-union-alt":
-		prefix: "pf-western-union-alt"
-		body: "content: '\\\\f048';"
-	"pf-wirecard":
-		prefix: "pf-wirecard"
-		body: "content: '\\\\f049';"
+  "pf-amazon":
+    prefix: "pf-amazon"
+    body: "content: '\\\\f000';"
+  "pf-american-express":
+    prefix: "pf-american-express"
+    body: "content: '\\\\f001';"
+  "pf-american-express-alt":
+    prefix: "pf-american-express-alt"
+    body: "content: '\\\\f002';"
+  "pf-apple-pay":
+    prefix: "pf-apple-pay"
+    body: "content: '\\\\f04c';"
+  "pf-atm":
+    prefix: "pf-atm"
+    body: "content: '\\\\f003';"
+  "pf-bancontact-mister-cash":
+    prefix: "pf-bancontact-mister-cash"
+    body: "content: '\\\\f050';"
+  "pf-bank-transfer":
+    prefix: "pf-bank-transfer"
+    body: "content: '\\\\f005';"
+  "pf-bankomat":
+    prefix: "pf-bankomat"
+    body: "content: '\\\\f004';"
+  "pf-bitcoin":
+    prefix: "pf-bitcoin"
+    body: "content: '\\\\f006';"
+  "pf-bitcoin-sign":
+    prefix: "pf-bitcoin-sign"
+    body: "content: '\\\\f007';"
+  "pf-braintree":
+    prefix: "pf-braintree"
+    body: "content: '\\\\f008';"
+  "pf-btc":
+    prefix: "pf-btc"
+    body: "content: '\\\\f009';"
+  "pf-card":
+    prefix: "pf-card"
+    body: "content: '\\\\f00a';"
+  "pf-carta-si":
+    prefix: "pf-carta-si"
+    body: "content: '\\\\f00b';"
+  "pf-cash":
+    prefix: "pf-cash"
+    body: "content: '\\\\f00c';"
+  "pf-cash-on-delivery":
+    prefix: "pf-cash-on-delivery"
+    body: "content: '\\\\f00d';"
+  "pf-cash-on-pickup":
+    prefix: "pf-cash-on-pickup"
+    body: "content: '\\\\f053';"
+  "pf-cashcloud":
+    prefix: "pf-cashcloud"
+    body: "content: '\\\\f05e';"
+  "pf-cb":
+    prefix: "pf-cb"
+    body: "content: '\\\\f00e';"
+  "pf-cirrus":
+    prefix: "pf-cirrus"
+    body: "content: '\\\\f00f';"
+  "pf-cirrus-alt":
+    prefix: "pf-cirrus-alt"
+    body: "content: '\\\\f010';"
+  "pf-clickandbuy":
+    prefix: "pf-clickandbuy"
+    body: "content: '\\\\f011';"
+  "pf-credit-card":
+    prefix: "pf-credit-card"
+    body: "content: '\\\\f012';"
+  "pf-dankort":
+    prefix: "pf-dankort"
+    body: "content: '\\\\f04f';"
+  "pf-diners":
+    prefix: "pf-diners"
+    body: "content: '\\\\f013';"
+  "pf-discover":
+    prefix: "pf-discover"
+    body: "content: '\\\\f014';"
+  "pf-ec":
+    prefix: "pf-ec"
+    body: "content: '\\\\f015';"
+  "pf-elo":
+    prefix: "pf-elo"
+    body: "content: '\\\\f055';"
+  "pf-elo-alt":
+    prefix: "pf-elo-alt"
+    body: "content: '\\\\f056';"
+  "pf-eps":
+    prefix: "pf-eps"
+    body: "content: '\\\\f016';"
+  "pf-eur":
+    prefix: "pf-eur"
+    body: "content: '\\\\f017';"
+  "pf-facture":
+    prefix: "pf-facture"
+    body: "content: '\\\\f018';"
+  "pf-fattura":
+    prefix: "pf-fattura"
+    body: "content: '\\\\f019';"
+  "pf-flattr":
+    prefix: "pf-flattr"
+    body: "content: '\\\\f01a';"
+  "pf-gbp":
+    prefix: "pf-gbp"
+    body: "content: '\\\\f01f';"
+  "pf-giropay":
+    prefix: "pf-giropay"
+    body: "content: '\\\\f01b';"
+  "pf-gittip":
+    prefix: "pf-gittip"
+    body: "content: '\\\\f01c';"
+  "pf-google-wallet":
+    prefix: "pf-google-wallet"
+    body: "content: '\\\\f01d';"
+  "pf-google-wallet-alt":
+    prefix: "pf-google-wallet-alt"
+    body: "content: '\\\\f01e';"
+  "pf-gratipay":
+    prefix: "pf-gratipay"
+    body: "content: '\\\\f01c';"
+  "pf-gratipay-sign":
+    prefix: "pf-gratipay-sign"
+    body: "content: '\\\\f05c';"
+  "pf-ideal":
+    prefix: "pf-ideal"
+    body: "content: '\\\\f020';"
+  "pf-ils":
+    prefix: "pf-ils"
+    body: "content: '\\\\f021';"
+  "pf-inr":
+    prefix: "pf-inr"
+    body: "content: '\\\\f022';"
+  "pf-interac":
+    prefix: "pf-interac"
+    body: "content: '\\\\f04d';"
+  "pf-invoice":
+    prefix: "pf-invoice"
+    body: "content: '\\\\f023';"
+  "pf-invoice-sign":
+    prefix: "pf-invoice-sign"
+    body: "content: '\\\\f024';"
+  "pf-invoice-sign-alt":
+    prefix: "pf-invoice-sign-alt"
+    body: "content: '\\\\f025';"
+  "pf-invoice-sign-alt-o":
+    prefix: "pf-invoice-sign-alt-o"
+    body: "content: '\\\\f026';"
+  "pf-invoice-sign-o":
+    prefix: "pf-invoice-sign-o"
+    body: "content: '\\\\f027';"
+  "pf-jcb":
+    prefix: "pf-jcb"
+    body: "content: '\\\\f028';"
+  "pf-jpy":
+    prefix: "pf-jpy"
+    body: "content: '\\\\f029';"
+  "pf-krw":
+    prefix: "pf-krw"
+    body: "content: '\\\\f02a';"
+  "pf-maestro":
+    prefix: "pf-maestro"
+    body: "content: '\\\\f02b';"
+  "pf-maestro-alt":
+    prefix: "pf-maestro-alt"
+    body: "content: '\\\\f02c';"
+  "pf-mastercard":
+    prefix: "pf-mastercard"
+    body: "content: '\\\\f02d';"
+  "pf-mastercard-alt":
+    prefix: "pf-mastercard-alt"
+    body: "content: '\\\\f02e';"
+  "pf-mastercard-securecode":
+    prefix: "pf-mastercard-securecode"
+    body: "content: '\\\\f02f';"
+  "pf-mercado-pago":
+    prefix: "pf-mercado-pago"
+    body: "content: '\\\\f058';"
+  "pf-mercado-pago-sign":
+    prefix: "pf-mercado-pago-sign"
+    body: "content: '\\\\f059';"
+  "pf-moip":
+    prefix: "pf-moip"
+    body: "content: '\\\\f051';"
+  "pf-multibanco":
+    prefix: "pf-multibanco"
+    body: "content: '\\\\f05b';"
+  "pf-ogone":
+    prefix: "pf-ogone"
+    body: "content: '\\\\f030';"
+  "pf-pagseguro":
+    prefix: "pf-pagseguro"
+    body: "content: '\\\\f052';"
+  "pf-paybox":
+    prefix: "pf-paybox"
+    body: "content: '\\\\f031';"
+  "pf-paylife":
+    prefix: "pf-paylife"
+    body: "content: '\\\\f032';"
+  "pf-paymill":
+    prefix: "pf-paymill"
+    body: "content: '\\\\f04e';"
+  "pf-paypal":
+    prefix: "pf-paypal"
+    body: "content: '\\\\f033';"
+  "pf-paypal-alt":
+    prefix: "pf-paypal-alt"
+    body: "content: '\\\\f034';"
+  "pf-paysafecard":
+    prefix: "pf-paysafecard"
+    body: "content: '\\\\f035';"
+  "pf-payshop":
+    prefix: "pf-payshop"
+    body: "content: '\\\\f05a';"
+  "pf-payu":
+    prefix: "pf-payu"
+    body: "content: '\\\\f057';"
+  "pf-postepay":
+    prefix: "pf-postepay"
+    body: "content: '\\\\f036';"
+  "pf-quick":
+    prefix: "pf-quick"
+    body: "content: '\\\\f037';"
+  "pf-rechnung":
+    prefix: "pf-rechnung"
+    body: "content: '\\\\f038';"
+  "pf-ripple":
+    prefix: "pf-ripple"
+    body: "content: '\\\\f039';"
+  "pf-rub":
+    prefix: "pf-rub"
+    body: "content: '\\\\f03a';"
+  "pf-sage":
+    prefix: "pf-sage"
+    body: "content: '\\\\f054';"
+  "pf-sepa":
+    prefix: "pf-sepa"
+    body: "content: '\\\\f04a';"
+  "pf-sepa-alt":
+    prefix: "pf-sepa-alt"
+    body: "content: '\\\\f04b';"
+  "pf-six":
+    prefix: "pf-six"
+    body: "content: '\\\\f05d';"
+  "pf-skrill":
+    prefix: "pf-skrill"
+    body: "content: '\\\\f03b';"
+  "pf-sofort":
+    prefix: "pf-sofort"
+    body: "content: '\\\\f03c';"
+  "pf-square":
+    prefix: "pf-square"
+    body: "content: '\\\\f03d';"
+  "pf-stripe":
+    prefix: "pf-stripe"
+    body: "content: '\\\\f03e';"
+  "pf-truste":
+    prefix: "pf-truste"
+    body: "content: '\\\\f03f';"
+  "pf-try":
+    prefix: "pf-try"
+    body: "content: '\\\\f040';"
+  "pf-unionpay":
+    prefix: "pf-unionpay"
+    body: "content: '\\\\f041';"
+  "pf-usd":
+    prefix: "pf-usd"
+    body: "content: '\\\\f042';"
+  "pf-verified-by-visa":
+    prefix: "pf-verified-by-visa"
+    body: "content: '\\\\f043';"
+  "pf-verisign":
+    prefix: "pf-verisign"
+    body: "content: '\\\\f044';"
+  "pf-visa":
+    prefix: "pf-visa"
+    body: "content: '\\\\f045';"
+  "pf-visa-electron":
+    prefix: "pf-visa-electron"
+    body: "content: '\\\\f046';"
+  "pf-western-union":
+    prefix: "pf-western-union"
+    body: "content: '\\\\f047';"
+  "pf-western-union-alt":
+    prefix: "pf-western-union-alt"
+    body: "content: '\\\\f048';"
+  "pf-wirecard":
+    prefix: "pf-wirecard"
+    body: "content: '\\\\f049';"

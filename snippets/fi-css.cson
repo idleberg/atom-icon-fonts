@@ -1,310 +1,310 @@
 ".source.css, .source.less, .source.css.scss, .source.stylus":
-	"fi-add-doc":
-		prefix: "fi-add-doc"
-		body: "content: '\\\\f019';"
-	"fi-address-book":
-		prefix: "fi-address-book"
-		body: "content: '\\\\f025';"
-	"fi-adult":
-		prefix: "fi-adult"
-		body: "content: '\\\\f009';"
-	"fi-asl":
-		prefix: "fi-asl"
-		body: "content: '\\\\f006';"
-	"fi-behance":
-		prefix: "fi-behance"
-		body: "content: '\\\\f00b';"
-	"fi-blind":
-		prefix: "fi-blind"
-		body: "content: '\\\\f00d';"
-	"fi-braille":
-		prefix: "fi-braille"
-		body: "content: '\\\\f00e';"
-	"fi-calendar":
-		prefix: "fi-calendar"
-		body: "content: '\\\\f008';"
-	"fi-cart":
-		prefix: "fi-cart"
-		body: "content: '\\\\f024';"
-	"fi-cc":
-		prefix: "fi-cc"
-		body: "content: '\\\\f00c';"
-	"fi-chat":
-		prefix: "fi-chat"
-		body: "content: '\\\\f018';"
-	"fi-checkmark":
-		prefix: "fi-checkmark"
-		body: "content: '\\\\f005';"
-	"fi-child":
-		prefix: "fi-child"
-		body: "content: '\\\\f00a';"
-	"fi-clock":
-		prefix: "fi-clock"
-		body: "content: '\\\\f029';"
-	"fi-cloud":
-		prefix: "fi-cloud"
-		body: "content: '\\\\f012';"
-	"fi-compass":
-		prefix: "fi-compass"
-		body: "content: '\\\\f026';"
-	"fi-css":
-		prefix: "fi-css"
-		body: "content: '\\\\f011';"
-	"fi-delicious":
-		prefix: "fi-delicious"
-		body: "content: '\\\\f017';"
-	"fi-digg":
-		prefix: "fi-digg"
-		body: "content: '\\\\f01c';"
-	"fi-down-arrow":
-		prefix: "fi-down-arrow"
-		body: "content: '\\\\f017';"
-	"fi-dribbble":
-		prefix: "fi-dribbble"
-		body: "content: '\\\\f009';"
-	"fi-edit":
-		prefix: "fi-edit"
-		body: "content: '\\\\f01a';"
-	"fi-eject":
-		prefix: "fi-eject"
-		body: "content: '\\\\f003';"
-	"fi-elevator":
-		prefix: "fi-elevator"
-		body: "content: '\\\\f019';"
-	"fi-error":
-		prefix: "fi-error"
-		body: "content: '\\\\f013';"
-	"fi-eyeball":
-		prefix: "fi-eyeball"
-		body: "content: '\\\\f005';"
-	"fi-facebook":
-		prefix: "fi-facebook"
-		body: "content: '\\\\f003';"
-	"fi-female":
-		prefix: "fi-female"
-		body: "content: '\\\\f015';"
-	"fi-flag":
-		prefix: "fi-flag"
-		body: "content: '\\\\f027';"
-	"fi-flickr":
-		prefix: "fi-flickr"
-		body: "content: '\\\\f010';"
-	"fi-folder":
-		prefix: "fi-folder"
-		body: "content: '\\\\f02a';"
-	"fi-fontsize":
-		prefix: "fi-fontsize"
-		body: "content: '\\\\f002';"
-	"fi-foursquare":
-		prefix: "fi-foursquare"
-		body: "content: '\\\\f016';"
-	"fi-github":
-		prefix: "fi-github"
-		body: "content: '\\\\f006';"
-	"fi-glasses":
-		prefix: "fi-glasses"
-		body: "content: '\\\\f00b';"
-	"fi-globe":
-		prefix: "fi-globe"
-		body: "content: '\\\\f00b';"
-	"fi-google-plus":
-		prefix: "fi-google-plus"
-		body: "content: '\\\\f00d';"
-	"fi-graph":
-		prefix: "fi-graph"
-		body: "content: '\\\\f021';"
-	"fi-guidedog":
-		prefix: "fi-guidedog"
-		body: "content: '\\\\f017';"
-	"fi-hearing-impaired":
-		prefix: "fi-hearing-impaired"
-		body: "content: '\\\\f013';"
-	"fi-heart":
-		prefix: "fi-heart"
-		body: "content: '\\\\f001';"
-	"fi-home":
-		prefix: "fi-home"
-		body: "content: '\\\\f00c';"
-	"fi-idea":
-		prefix: "fi-idea"
-		body: "content: '\\\\f022';"
-	"fi-inbox":
-		prefix: "fi-inbox"
-		body: "content: '\\\\f02b';"
-	"fi-instagram":
-		prefix: "fi-instagram"
-		body: "content: '\\\\f015';"
-	"fi-iphone-home":
-		prefix: "fi-iphone-home"
-		body: "content: '\\\\f00f';"
-	"fi-key":
-		prefix: "fi-key"
-		body: "content: '\\\\f012';"
-	"fi-laptop":
-		prefix: "fi-laptop"
-		body: "content: '\\\\f010';"
-	"fi-left-arrow":
-		prefix: "fi-left-arrow"
-		body: "content: '\\\\f015';"
-	"fi-linkedin":
-		prefix: "fi-linkedin"
-		body: "content: '\\\\f008';"
-	"fi-location":
-		prefix: "fi-location"
-		body: "content: '\\\\f028';"
-	"fi-lock":
-		prefix: "fi-lock"
-		body: "content: '\\\\f01b';"
-	"fi-mail":
-		prefix: "fi-mail"
-		body: "content: '\\\\f007';"
-	"fi-male":
-		prefix: "fi-male"
-		body: "content: '\\\\f014';"
-	"fi-mic":
-		prefix: "fi-mic"
-		body: "content: '\\\\f023';"
-	"fi-minus":
-		prefix: "fi-minus"
-		body: "content: '\\\\f004';"
-	"fi-monitor":
-		prefix: "fi-monitor"
-		body: "content: '\\\\f00f';"
-	"fi-network":
-		prefix: "fi-network"
-		body: "content: '\\\\f016';"
-	"fi-page":
-		prefix: "fi-page"
-		body: "content: '\\\\f009';"
-	"fi-paper-clip":
-		prefix: "fi-paper-clip"
-		body: "content: '\\\\f01e';"
-	"fi-path":
-		prefix: "fi-path"
-		body: "content: '\\\\f007';"
-	"fi-people":
-		prefix: "fi-people"
-		body: "content: '\\\\f00e';"
-	"fi-person":
-		prefix: "fi-person"
-		body: "content: '\\\\f007';"
-	"fi-phone":
-		prefix: "fi-phone"
-		body: "content: '\\\\f011';"
-	"fi-photo":
-		prefix: "fi-photo"
-		body: "content: '\\\\f020';"
-	"fi-picassa":
-		prefix: "fi-picassa"
-		body: "content: '\\\\f012';"
-	"fi-pinterest":
-		prefix: "fi-pinterest"
-		body: "content: '\\\\f005';"
-	"fi-plus":
-		prefix: "fi-plus"
-		body: "content: '\\\\f003';"
-	"fi-question":
-		prefix: "fi-question"
-		body: "content: '\\\\f008';"
-	"fi-quote":
-		prefix: "fi-quote"
-		body: "content: '\\\\f00d';"
-	"fi-reddit":
-		prefix: "fi-reddit"
-		body: "content: '\\\\f00c';"
-	"fi-refresh":
-		prefix: "fi-refresh"
-		body: "content: '\\\\f01d';"
-	"fi-remove":
-		prefix: "fi-remove"
-		body: "content: '\\\\f006';"
-	"fi-right-arrow":
-		prefix: "fi-right-arrow"
-		body: "content: '\\\\f014';"
-	"fi-rss":
-		prefix: "fi-rss"
-		body: "content: '\\\\f002';"
-	"fi-search":
-		prefix: "fi-search"
-		body: "content: '\\\\f02e';"
-	"fi-settings":
-		prefix: "fi-settings"
-		body: "content: '\\\\f000';"
-	"fi-skype":
-		prefix: "fi-skype"
-		body: "content: '\\\\f013';"
-	"fi-slideshare":
-		prefix: "fi-slideshare"
-		body: "content: '\\\\f011';"
-	"fi-smiley":
-		prefix: "fi-smiley"
-		body: "content: '\\\\f02d';"
-	"fi-speaker":
-		prefix: "fi-speaker"
-		body: "content: '\\\\f001';"
-	"fi-star":
-		prefix: "fi-star"
-		body: "content: '\\\\f002';"
-	"fi-steam":
-		prefix: "fi-steam"
-		body: "content: '\\\\f014';"
-	"fi-stumble-upon":
-		prefix: "fi-stumble-upon"
-		body: "content: '\\\\f00a';"
-	"fi-thumb-down":
-		prefix: "fi-thumb-down"
-		body: "content: '\\\\f001';"
-	"fi-thumb-up":
-		prefix: "fi-thumb-up"
-		body: "content: '\\\\f000';"
-	"fi-tools":
-		prefix: "fi-tools"
-		body: "content: '\\\\f00a';"
-	"fi-torso":
-		prefix: "fi-torso"
-		body: "content: '\\\\f019';"
-	"fi-trash":
-		prefix: "fi-trash"
-		body: "content: '\\\\f018';"
-	"fi-tumblr":
-		prefix: "fi-tumblr"
-		body: "content: '\\\\f01a';"
-	"fi-twitter":
-		prefix: "fi-twitter"
-		body: "content: '\\\\f004';"
-	"fi-universal-access":
-		prefix: "fi-universal-access"
-		body: "content: '\\\\f018';"
-	"fi-unlock":
-		prefix: "fi-unlock"
-		body: "content: '\\\\f01c';"
-	"fi-up-arrow":
-		prefix: "fi-up-arrow"
-		body: "content: '\\\\f016';"
-	"fi-video":
-		prefix: "fi-video"
-		body: "content: '\\\\f01f';"
-	"fi-video-chat":
-		prefix: "fi-video-chat"
-		body: "content: '\\\\f01b';"
-	"fi-view-mode":
-		prefix: "fi-view-mode"
-		body: "content: '\\\\f004';"
-	"fi-vimeo":
-		prefix: "fi-vimeo"
-		body: "content: '\\\\f00f';"
-	"fi-w3c":
-		prefix: "fi-w3c"
-		body: "content: '\\\\f010';"
-	"fi-website":
-		prefix: "fi-website"
-		body: "content: '\\\\f02c';"
-	"fi-wheelchair":
-		prefix: "fi-wheelchair"
-		body: "content: '\\\\f000';"
-	"fi-wordpress":
-		prefix: "fi-wordpress"
-		body: "content: '\\\\f01d';"
-	"fi-youtube":
-		prefix: "fi-youtube"
-		body: "content: '\\\\f00e';"
+  "fi-add-doc":
+    prefix: "fi-add-doc"
+    body: "content: '\\\\f019';"
+  "fi-address-book":
+    prefix: "fi-address-book"
+    body: "content: '\\\\f025';"
+  "fi-adult":
+    prefix: "fi-adult"
+    body: "content: '\\\\f009';"
+  "fi-asl":
+    prefix: "fi-asl"
+    body: "content: '\\\\f006';"
+  "fi-behance":
+    prefix: "fi-behance"
+    body: "content: '\\\\f00b';"
+  "fi-blind":
+    prefix: "fi-blind"
+    body: "content: '\\\\f00d';"
+  "fi-braille":
+    prefix: "fi-braille"
+    body: "content: '\\\\f00e';"
+  "fi-calendar":
+    prefix: "fi-calendar"
+    body: "content: '\\\\f008';"
+  "fi-cart":
+    prefix: "fi-cart"
+    body: "content: '\\\\f024';"
+  "fi-cc":
+    prefix: "fi-cc"
+    body: "content: '\\\\f00c';"
+  "fi-chat":
+    prefix: "fi-chat"
+    body: "content: '\\\\f018';"
+  "fi-checkmark":
+    prefix: "fi-checkmark"
+    body: "content: '\\\\f005';"
+  "fi-child":
+    prefix: "fi-child"
+    body: "content: '\\\\f00a';"
+  "fi-clock":
+    prefix: "fi-clock"
+    body: "content: '\\\\f029';"
+  "fi-cloud":
+    prefix: "fi-cloud"
+    body: "content: '\\\\f012';"
+  "fi-compass":
+    prefix: "fi-compass"
+    body: "content: '\\\\f026';"
+  "fi-css":
+    prefix: "fi-css"
+    body: "content: '\\\\f011';"
+  "fi-delicious":
+    prefix: "fi-delicious"
+    body: "content: '\\\\f017';"
+  "fi-digg":
+    prefix: "fi-digg"
+    body: "content: '\\\\f01c';"
+  "fi-down-arrow":
+    prefix: "fi-down-arrow"
+    body: "content: '\\\\f017';"
+  "fi-dribbble":
+    prefix: "fi-dribbble"
+    body: "content: '\\\\f009';"
+  "fi-edit":
+    prefix: "fi-edit"
+    body: "content: '\\\\f01a';"
+  "fi-eject":
+    prefix: "fi-eject"
+    body: "content: '\\\\f003';"
+  "fi-elevator":
+    prefix: "fi-elevator"
+    body: "content: '\\\\f019';"
+  "fi-error":
+    prefix: "fi-error"
+    body: "content: '\\\\f013';"
+  "fi-eyeball":
+    prefix: "fi-eyeball"
+    body: "content: '\\\\f005';"
+  "fi-facebook":
+    prefix: "fi-facebook"
+    body: "content: '\\\\f003';"
+  "fi-female":
+    prefix: "fi-female"
+    body: "content: '\\\\f015';"
+  "fi-flag":
+    prefix: "fi-flag"
+    body: "content: '\\\\f027';"
+  "fi-flickr":
+    prefix: "fi-flickr"
+    body: "content: '\\\\f010';"
+  "fi-folder":
+    prefix: "fi-folder"
+    body: "content: '\\\\f02a';"
+  "fi-fontsize":
+    prefix: "fi-fontsize"
+    body: "content: '\\\\f002';"
+  "fi-foursquare":
+    prefix: "fi-foursquare"
+    body: "content: '\\\\f016';"
+  "fi-github":
+    prefix: "fi-github"
+    body: "content: '\\\\f006';"
+  "fi-glasses":
+    prefix: "fi-glasses"
+    body: "content: '\\\\f00b';"
+  "fi-globe":
+    prefix: "fi-globe"
+    body: "content: '\\\\f00b';"
+  "fi-google-plus":
+    prefix: "fi-google-plus"
+    body: "content: '\\\\f00d';"
+  "fi-graph":
+    prefix: "fi-graph"
+    body: "content: '\\\\f021';"
+  "fi-guidedog":
+    prefix: "fi-guidedog"
+    body: "content: '\\\\f017';"
+  "fi-hearing-impaired":
+    prefix: "fi-hearing-impaired"
+    body: "content: '\\\\f013';"
+  "fi-heart":
+    prefix: "fi-heart"
+    body: "content: '\\\\f001';"
+  "fi-home":
+    prefix: "fi-home"
+    body: "content: '\\\\f00c';"
+  "fi-idea":
+    prefix: "fi-idea"
+    body: "content: '\\\\f022';"
+  "fi-inbox":
+    prefix: "fi-inbox"
+    body: "content: '\\\\f02b';"
+  "fi-instagram":
+    prefix: "fi-instagram"
+    body: "content: '\\\\f015';"
+  "fi-iphone-home":
+    prefix: "fi-iphone-home"
+    body: "content: '\\\\f00f';"
+  "fi-key":
+    prefix: "fi-key"
+    body: "content: '\\\\f012';"
+  "fi-laptop":
+    prefix: "fi-laptop"
+    body: "content: '\\\\f010';"
+  "fi-left-arrow":
+    prefix: "fi-left-arrow"
+    body: "content: '\\\\f015';"
+  "fi-linkedin":
+    prefix: "fi-linkedin"
+    body: "content: '\\\\f008';"
+  "fi-location":
+    prefix: "fi-location"
+    body: "content: '\\\\f028';"
+  "fi-lock":
+    prefix: "fi-lock"
+    body: "content: '\\\\f01b';"
+  "fi-mail":
+    prefix: "fi-mail"
+    body: "content: '\\\\f007';"
+  "fi-male":
+    prefix: "fi-male"
+    body: "content: '\\\\f014';"
+  "fi-mic":
+    prefix: "fi-mic"
+    body: "content: '\\\\f023';"
+  "fi-minus":
+    prefix: "fi-minus"
+    body: "content: '\\\\f004';"
+  "fi-monitor":
+    prefix: "fi-monitor"
+    body: "content: '\\\\f00f';"
+  "fi-network":
+    prefix: "fi-network"
+    body: "content: '\\\\f016';"
+  "fi-page":
+    prefix: "fi-page"
+    body: "content: '\\\\f009';"
+  "fi-paper-clip":
+    prefix: "fi-paper-clip"
+    body: "content: '\\\\f01e';"
+  "fi-path":
+    prefix: "fi-path"
+    body: "content: '\\\\f007';"
+  "fi-people":
+    prefix: "fi-people"
+    body: "content: '\\\\f00e';"
+  "fi-person":
+    prefix: "fi-person"
+    body: "content: '\\\\f007';"
+  "fi-phone":
+    prefix: "fi-phone"
+    body: "content: '\\\\f011';"
+  "fi-photo":
+    prefix: "fi-photo"
+    body: "content: '\\\\f020';"
+  "fi-picassa":
+    prefix: "fi-picassa"
+    body: "content: '\\\\f012';"
+  "fi-pinterest":
+    prefix: "fi-pinterest"
+    body: "content: '\\\\f005';"
+  "fi-plus":
+    prefix: "fi-plus"
+    body: "content: '\\\\f003';"
+  "fi-question":
+    prefix: "fi-question"
+    body: "content: '\\\\f008';"
+  "fi-quote":
+    prefix: "fi-quote"
+    body: "content: '\\\\f00d';"
+  "fi-reddit":
+    prefix: "fi-reddit"
+    body: "content: '\\\\f00c';"
+  "fi-refresh":
+    prefix: "fi-refresh"
+    body: "content: '\\\\f01d';"
+  "fi-remove":
+    prefix: "fi-remove"
+    body: "content: '\\\\f006';"
+  "fi-right-arrow":
+    prefix: "fi-right-arrow"
+    body: "content: '\\\\f014';"
+  "fi-rss":
+    prefix: "fi-rss"
+    body: "content: '\\\\f002';"
+  "fi-search":
+    prefix: "fi-search"
+    body: "content: '\\\\f02e';"
+  "fi-settings":
+    prefix: "fi-settings"
+    body: "content: '\\\\f000';"
+  "fi-skype":
+    prefix: "fi-skype"
+    body: "content: '\\\\f013';"
+  "fi-slideshare":
+    prefix: "fi-slideshare"
+    body: "content: '\\\\f011';"
+  "fi-smiley":
+    prefix: "fi-smiley"
+    body: "content: '\\\\f02d';"
+  "fi-speaker":
+    prefix: "fi-speaker"
+    body: "content: '\\\\f001';"
+  "fi-star":
+    prefix: "fi-star"
+    body: "content: '\\\\f002';"
+  "fi-steam":
+    prefix: "fi-steam"
+    body: "content: '\\\\f014';"
+  "fi-stumble-upon":
+    prefix: "fi-stumble-upon"
+    body: "content: '\\\\f00a';"
+  "fi-thumb-down":
+    prefix: "fi-thumb-down"
+    body: "content: '\\\\f001';"
+  "fi-thumb-up":
+    prefix: "fi-thumb-up"
+    body: "content: '\\\\f000';"
+  "fi-tools":
+    prefix: "fi-tools"
+    body: "content: '\\\\f00a';"
+  "fi-torso":
+    prefix: "fi-torso"
+    body: "content: '\\\\f019';"
+  "fi-trash":
+    prefix: "fi-trash"
+    body: "content: '\\\\f018';"
+  "fi-tumblr":
+    prefix: "fi-tumblr"
+    body: "content: '\\\\f01a';"
+  "fi-twitter":
+    prefix: "fi-twitter"
+    body: "content: '\\\\f004';"
+  "fi-universal-access":
+    prefix: "fi-universal-access"
+    body: "content: '\\\\f018';"
+  "fi-unlock":
+    prefix: "fi-unlock"
+    body: "content: '\\\\f01c';"
+  "fi-up-arrow":
+    prefix: "fi-up-arrow"
+    body: "content: '\\\\f016';"
+  "fi-video":
+    prefix: "fi-video"
+    body: "content: '\\\\f01f';"
+  "fi-video-chat":
+    prefix: "fi-video-chat"
+    body: "content: '\\\\f01b';"
+  "fi-view-mode":
+    prefix: "fi-view-mode"
+    body: "content: '\\\\f004';"
+  "fi-vimeo":
+    prefix: "fi-vimeo"
+    body: "content: '\\\\f00f';"
+  "fi-w3c":
+    prefix: "fi-w3c"
+    body: "content: '\\\\f010';"
+  "fi-website":
+    prefix: "fi-website"
+    body: "content: '\\\\f02c';"
+  "fi-wheelchair":
+    prefix: "fi-wheelchair"
+    body: "content: '\\\\f000';"
+  "fi-wordpress":
+    prefix: "fi-wordpress"
+    body: "content: '\\\\f01d';"
+  "fi-youtube":
+    prefix: "fi-youtube"
+    body: "content: '\\\\f00e';"

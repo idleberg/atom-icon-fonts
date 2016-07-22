@@ -1,277 +1,277 @@
 ".text.html":
-	"icono-arrow":
-		prefix: "icono-arrow"
-		body: "<${1:i} class=\"icono-arrow\"></${1:i}>"
-	"icono-asterisk":
-		prefix: "icono-asterisk"
-		body: "<${1:i} class=\"icono-asterisk\"></${1:i}>"
-	"icono-bars":
-		prefix: "icono-bars"
-		body: "<${1:i} class=\"icono-bars\"></${1:i}>"
-	"icono-bluetooth":
-		prefix: "icono-bluetooth"
-		body: "<${1:i} class=\"icono-bluetooth\"></${1:i}>"
-	"icono-book":
-		prefix: "icono-book"
-		body: "<${1:i} class=\"icono-book\"></${1:i}>"
-	"icono-bookmark":
-		prefix: "icono-bookmark"
-		body: "<${1:i} class=\"icono-bookmark\"></${1:i}>"
-	"icono-calendar":
-		prefix: "icono-calendar"
-		body: "<${1:i} class=\"icono-calendar\"></${1:i}>"
-	"icono-camera":
-		prefix: "icono-camera"
-		body: "<${1:i} class=\"icono-camera\"></${1:i}>"
-	"icono-caret":
-		prefix: "icono-caret"
-		body: "<${1:i} class=\"icono-caret\"></${1:i}>"
-	"icono-cart":
-		prefix: "icono-cart"
-		body: "<${1:i} class=\"icono-cart\"></${1:i}>"
-	"icono-chain":
-		prefix: "icono-chain"
-		body: "<${1:i} class=\"icono-chain\"></${1:i}>"
-	"icono-chart":
-		prefix: "icono-chart"
-		body: "<${1:i} class=\"icono-chart\"></${1:i}>"
-	"icono-check":
-		prefix: "icono-check"
-		body: "<${1:i} class=\"icono-check\"></${1:i}>"
-	"icono-circle":
-		prefix: "icono-circle"
-		body: "<${1:i} class=\"icono-circle\"></${1:i}>"
-	"icono-clock":
-		prefix: "icono-clock"
-		body: "<${1:i} class=\"icono-clock\"></${1:i}>"
-	"icono-comment":
-		prefix: "icono-comment"
-		body: "<${1:i} class=\"icono-comment\"></${1:i}>"
-	"icono-creditCard":
-		prefix: "icono-creditCard"
-		body: "<${1:i} class=\"icono-creditCard\"></${1:i}>"
-	"icono-crop":
-		prefix: "icono-crop"
-		body: "<${1:i} class=\"icono-crop\"></${1:i}>"
-	"icono-cross":
-		prefix: "icono-cross"
-		body: "<${1:i} class=\"icono-cross\"></${1:i}>"
-	"icono-cup":
-		prefix: "icono-cup"
-		body: "<${1:i} class=\"icono-cup\"></${1:i}>"
-	"icono-display":
-		prefix: "icono-display"
-		body: "<${1:i} class=\"icono-display\"></${1:i}>"
-	"icono-document":
-		prefix: "icono-document"
-		body: "<${1:i} class=\"icono-document\"></${1:i}>"
-	"icono-dropper":
-		prefix: "icono-dropper"
-		body: "<${1:i} class=\"icono-dropper\"></${1:i}>"
-	"icono-ellipsis":
-		prefix: "icono-ellipsis"
-		body: "<${1:i} class=\"icono-ellipsis\"></${1:i}>"
-	"icono-exclamation":
-		prefix: "icono-exclamation"
-		body: "<${1:i} class=\"icono-exclamation\"></${1:i}>"
-	"icono-eye":
-		prefix: "icono-eye"
-		body: "<${1:i} class=\"icono-eye\"></${1:i}>"
-	"icono-file":
-		prefix: "icono-file"
-		body: "<${1:i} class=\"icono-file\"></${1:i}>"
-	"icono-filter":
-		prefix: "icono-filter"
-		body: "<${1:i} class=\"icono-filter\"></${1:i}>"
-	"icono-flag":
-		prefix: "icono-flag"
-		body: "<${1:i} class=\"icono-flag\"></${1:i}>"
-	"icono-folder":
-		prefix: "icono-folder"
-		body: "<${1:i} class=\"icono-folder\"></${1:i}>"
-	"icono-forbidden":
-		prefix: "icono-forbidden"
-		body: "<${1:i} class=\"icono-forbidden\"></${1:i}>"
-	"icono-forward":
-		prefix: "icono-forward"
-		body: "<${1:i} class=\"icono-forward\"></${1:i}>"
-	"icono-frown":
-		prefix: "icono-frown"
-		body: "<${1:i} class=\"icono-frown\"></${1:i}>"
-	"icono-gear":
-		prefix: "icono-gear"
-		body: "<${1:i} class=\"icono-gear\"></${1:i}>"
-	"icono-headphone":
-		prefix: "icono-headphone"
-		body: "<${1:i} class=\"icono-headphone\"></${1:i}>"
-	"icono-heart":
-		prefix: "icono-heart"
-		body: "<${1:i} class=\"icono-heart\"></${1:i}>"
-	"icono-home":
-		prefix: "icono-home"
-		body: "<${1:i} class=\"icono-home\"></${1:i}>"
-	"icono-icono":
-		prefix: "icono-icono"
-		body: "<${1:i} class=\"icono-icono\"></${1:i}>"
-	"icono-imac":
-		prefix: "icono-imac"
-		body: "<${1:i} class=\"icono-imac\"></${1:i}>"
-	"icono-image":
-		prefix: "icono-image"
-		body: "<${1:i} class=\"icono-image\"></${1:i}>"
-	"icono-indent":
-		prefix: "icono-indent"
-		body: "<${1:i} class=\"icono-indent\"></${1:i}>"
-	"icono-infinity":
-		prefix: "icono-infinity"
-		body: "<${1:i} class=\"icono-infinity\"></${1:i}>"
-	"icono-iphone":
-		prefix: "icono-iphone"
-		body: "<${1:i} class=\"icono-iphone\"></${1:i}>"
-	"icono-keyboard":
-		prefix: "icono-keyboard"
-		body: "<${1:i} class=\"icono-keyboard\"></${1:i}>"
-	"icono-list":
-		prefix: "icono-list"
-		body: "<${1:i} class=\"icono-list\"></${1:i}>"
-	"icono-locationArrow":
-		prefix: "icono-locationArrow"
-		body: "<${1:i} class=\"icono-locationArrow\"></${1:i}>"
-	"icono-macbook":
-		prefix: "icono-macbook"
-		body: "<${1:i} class=\"icono-macbook\"></${1:i}>"
-	"icono-mail":
-		prefix: "icono-mail"
-		body: "<${1:i} class=\"icono-mail\"></${1:i}>"
-	"icono-market":
-		prefix: "icono-market"
-		body: "<${1:i} class=\"icono-market\"></${1:i}>"
-	"icono-meh":
-		prefix: "icono-meh"
-		body: "<${1:i} class=\"icono-meh\"></${1:i}>"
-	"icono-microphone":
-		prefix: "icono-microphone"
-		body: "<${1:i} class=\"icono-microphone\"></${1:i}>"
-	"icono-moon":
-		prefix: "icono-moon"
-		body: "<${1:i} class=\"icono-moon\"></${1:i}>"
-	"icono-mouse":
-		prefix: "icono-mouse"
-		body: "<${1:i} class=\"icono-mouse\"></${1:i}>"
-	"icono-music":
-		prefix: "icono-music"
-		body: "<${1:i} class=\"icono-music\"></${1:i}>"
-	"icono-next":
-		prefix: "icono-next"
-		body: "<${1:i} class=\"icono-next\"></${1:i}>"
-	"icono-nexus":
-		prefix: "icono-nexus"
-		body: "<${1:i} class=\"icono-nexus\"></${1:i}>"
-	"icono-outdent":
-		prefix: "icono-outdent"
-		body: "<${1:i} class=\"icono-outdent\"></${1:i}>"
-	"icono-paperClip":
-		prefix: "icono-paperClip"
-		body: "<${1:i} class=\"icono-paperClip\"></${1:i}>"
-	"icono-pause":
-		prefix: "icono-pause"
-		body: "<${1:i} class=\"icono-pause\"></${1:i}>"
-	"icono-piano":
-		prefix: "icono-piano"
-		body: "<${1:i} class=\"icono-piano\"></${1:i}>"
-	"icono-pin":
-		prefix: "icono-pin"
-		body: "<${1:i} class=\"icono-pin\"></${1:i}>"
-	"icono-play":
-		prefix: "icono-play"
-		body: "<${1:i} class=\"icono-play\"></${1:i}>"
-	"icono-plus":
-		prefix: "icono-plus"
-		body: "<${1:i} class=\"icono-plus\"></${1:i}>"
-	"icono-power":
-		prefix: "icono-power"
-		body: "<${1:i} class=\"icono-power\"></${1:i}>"
-	"icono-previous":
-		prefix: "icono-previous"
-		body: "<${1:i} class=\"icono-previous\"></${1:i}>"
-	"icono-rename":
-		prefix: "icono-rename"
-		body: "<${1:i} class=\"icono-rename\"></${1:i}>"
-	"icono-reset":
-		prefix: "icono-reset"
-		body: "<${1:i} class=\"icono-reset\"></${1:i}>"
-	"icono-rewind":
-		prefix: "icono-rewind"
-		body: "<${1:i} class=\"icono-rewind\"></${1:i}>"
-	"icono-rss":
-		prefix: "icono-rss"
-		body: "<${1:i} class=\"icono-rss\"></${1:i}>"
-	"icono-ruler":
-		prefix: "icono-ruler"
-		body: "<${1:i} class=\"icono-ruler\"></${1:i}>"
-	"icono-search":
-		prefix: "icono-search"
-		body: "<${1:i} class=\"icono-search\"></${1:i}>"
-	"icono-share":
-		prefix: "icono-share"
-		body: "<${1:i} class=\"icono-share\"></${1:i}>"
-	"icono-signIn":
-		prefix: "icono-signIn"
-		body: "<${1:i} class=\"icono-signIn\"></${1:i}>"
-	"icono-signOut":
-		prefix: "icono-signOut"
-		body: "<${1:i} class=\"icono-signOut\"></${1:i}>"
-	"icono-sitemap":
-		prefix: "icono-sitemap"
-		body: "<${1:i} class=\"icono-sitemap\"></${1:i}>"
-	"icono-sliders":
-		prefix: "icono-sliders"
-		body: "<${1:i} class=\"icono-sliders\"></${1:i}>"
-	"icono-smile":
-		prefix: "icono-smile"
-		body: "<${1:i} class=\"icono-smile\"></${1:i}>"
-	"icono-socials":
-		prefix: "icono-socials"
-		body: "<${1:i} class=\"icono-socials\"></${1:i}>"
-	"icono-spinner":
-		prefix: "icono-spinner"
-		body: "<${1:i} class=\"icono-spinner\"></${1:i}>"
-	"icono-stop":
-		prefix: "icono-stop"
-		body: "<${1:i} class=\"icono-stop\"></${1:i}>"
-	"icono-sun":
-		prefix: "icono-sun"
-		body: "<${1:i} class=\"icono-sun\"></${1:i}>"
-	"icono-support":
-		prefix: "icono-support"
-		body: "<${1:i} class=\"icono-support\"></${1:i}>"
-	"icono-sync":
-		prefix: "icono-sync"
-		body: "<${1:i} class=\"icono-sync\"></${1:i}>"
-	"icono-tag":
-		prefix: "icono-tag"
-		body: "<${1:i} class=\"icono-tag\"></${1:i}>"
-	"icono-terminal":
-		prefix: "icono-terminal"
-		body: "<${1:i} class=\"icono-terminal\"></${1:i}>"
-	"icono-textAlign":
-		prefix: "icono-textAlign"
-		body: "<${1:i} class=\"icono-textAlign\"></${1:i}>"
-	"icono-tiles":
-		prefix: "icono-tiles"
-		body: "<${1:i} class=\"icono-tiles\"></${1:i}>"
-	"icono-trash":
-		prefix: "icono-trash"
-		body: "<${1:i} class=\"icono-trash\"></${1:i}>"
-	"icono-user":
-		prefix: "icono-user"
-		body: "<${1:i} class=\"icono-user\"></${1:i}>"
-	"icono-video":
-		prefix: "icono-video"
-		body: "<${1:i} class=\"icono-video\"></${1:i}>"
-	"icono-volume":
-		prefix: "icono-volume"
-		body: "<${1:i} class=\"icono-volume\"></${1:i}>"
-	"icono-youtube":
-		prefix: "icono-youtube"
-		body: "<${1:i} class=\"icono-youtube\"></${1:i}>"
+  "icono-arrow":
+    prefix: "icono-arrow"
+    body: "<${1:i} class=\"icono-arrow\"></${1:i}>"
+  "icono-asterisk":
+    prefix: "icono-asterisk"
+    body: "<${1:i} class=\"icono-asterisk\"></${1:i}>"
+  "icono-bars":
+    prefix: "icono-bars"
+    body: "<${1:i} class=\"icono-bars\"></${1:i}>"
+  "icono-bluetooth":
+    prefix: "icono-bluetooth"
+    body: "<${1:i} class=\"icono-bluetooth\"></${1:i}>"
+  "icono-book":
+    prefix: "icono-book"
+    body: "<${1:i} class=\"icono-book\"></${1:i}>"
+  "icono-bookmark":
+    prefix: "icono-bookmark"
+    body: "<${1:i} class=\"icono-bookmark\"></${1:i}>"
+  "icono-calendar":
+    prefix: "icono-calendar"
+    body: "<${1:i} class=\"icono-calendar\"></${1:i}>"
+  "icono-camera":
+    prefix: "icono-camera"
+    body: "<${1:i} class=\"icono-camera\"></${1:i}>"
+  "icono-caret":
+    prefix: "icono-caret"
+    body: "<${1:i} class=\"icono-caret\"></${1:i}>"
+  "icono-cart":
+    prefix: "icono-cart"
+    body: "<${1:i} class=\"icono-cart\"></${1:i}>"
+  "icono-chain":
+    prefix: "icono-chain"
+    body: "<${1:i} class=\"icono-chain\"></${1:i}>"
+  "icono-chart":
+    prefix: "icono-chart"
+    body: "<${1:i} class=\"icono-chart\"></${1:i}>"
+  "icono-check":
+    prefix: "icono-check"
+    body: "<${1:i} class=\"icono-check\"></${1:i}>"
+  "icono-circle":
+    prefix: "icono-circle"
+    body: "<${1:i} class=\"icono-circle\"></${1:i}>"
+  "icono-clock":
+    prefix: "icono-clock"
+    body: "<${1:i} class=\"icono-clock\"></${1:i}>"
+  "icono-comment":
+    prefix: "icono-comment"
+    body: "<${1:i} class=\"icono-comment\"></${1:i}>"
+  "icono-creditCard":
+    prefix: "icono-creditCard"
+    body: "<${1:i} class=\"icono-creditCard\"></${1:i}>"
+  "icono-crop":
+    prefix: "icono-crop"
+    body: "<${1:i} class=\"icono-crop\"></${1:i}>"
+  "icono-cross":
+    prefix: "icono-cross"
+    body: "<${1:i} class=\"icono-cross\"></${1:i}>"
+  "icono-cup":
+    prefix: "icono-cup"
+    body: "<${1:i} class=\"icono-cup\"></${1:i}>"
+  "icono-display":
+    prefix: "icono-display"
+    body: "<${1:i} class=\"icono-display\"></${1:i}>"
+  "icono-document":
+    prefix: "icono-document"
+    body: "<${1:i} class=\"icono-document\"></${1:i}>"
+  "icono-dropper":
+    prefix: "icono-dropper"
+    body: "<${1:i} class=\"icono-dropper\"></${1:i}>"
+  "icono-ellipsis":
+    prefix: "icono-ellipsis"
+    body: "<${1:i} class=\"icono-ellipsis\"></${1:i}>"
+  "icono-exclamation":
+    prefix: "icono-exclamation"
+    body: "<${1:i} class=\"icono-exclamation\"></${1:i}>"
+  "icono-eye":
+    prefix: "icono-eye"
+    body: "<${1:i} class=\"icono-eye\"></${1:i}>"
+  "icono-file":
+    prefix: "icono-file"
+    body: "<${1:i} class=\"icono-file\"></${1:i}>"
+  "icono-filter":
+    prefix: "icono-filter"
+    body: "<${1:i} class=\"icono-filter\"></${1:i}>"
+  "icono-flag":
+    prefix: "icono-flag"
+    body: "<${1:i} class=\"icono-flag\"></${1:i}>"
+  "icono-folder":
+    prefix: "icono-folder"
+    body: "<${1:i} class=\"icono-folder\"></${1:i}>"
+  "icono-forbidden":
+    prefix: "icono-forbidden"
+    body: "<${1:i} class=\"icono-forbidden\"></${1:i}>"
+  "icono-forward":
+    prefix: "icono-forward"
+    body: "<${1:i} class=\"icono-forward\"></${1:i}>"
+  "icono-frown":
+    prefix: "icono-frown"
+    body: "<${1:i} class=\"icono-frown\"></${1:i}>"
+  "icono-gear":
+    prefix: "icono-gear"
+    body: "<${1:i} class=\"icono-gear\"></${1:i}>"
+  "icono-headphone":
+    prefix: "icono-headphone"
+    body: "<${1:i} class=\"icono-headphone\"></${1:i}>"
+  "icono-heart":
+    prefix: "icono-heart"
+    body: "<${1:i} class=\"icono-heart\"></${1:i}>"
+  "icono-home":
+    prefix: "icono-home"
+    body: "<${1:i} class=\"icono-home\"></${1:i}>"
+  "icono-icono":
+    prefix: "icono-icono"
+    body: "<${1:i} class=\"icono-icono\"></${1:i}>"
+  "icono-imac":
+    prefix: "icono-imac"
+    body: "<${1:i} class=\"icono-imac\"></${1:i}>"
+  "icono-image":
+    prefix: "icono-image"
+    body: "<${1:i} class=\"icono-image\"></${1:i}>"
+  "icono-indent":
+    prefix: "icono-indent"
+    body: "<${1:i} class=\"icono-indent\"></${1:i}>"
+  "icono-infinity":
+    prefix: "icono-infinity"
+    body: "<${1:i} class=\"icono-infinity\"></${1:i}>"
+  "icono-iphone":
+    prefix: "icono-iphone"
+    body: "<${1:i} class=\"icono-iphone\"></${1:i}>"
+  "icono-keyboard":
+    prefix: "icono-keyboard"
+    body: "<${1:i} class=\"icono-keyboard\"></${1:i}>"
+  "icono-list":
+    prefix: "icono-list"
+    body: "<${1:i} class=\"icono-list\"></${1:i}>"
+  "icono-locationArrow":
+    prefix: "icono-locationArrow"
+    body: "<${1:i} class=\"icono-locationArrow\"></${1:i}>"
+  "icono-macbook":
+    prefix: "icono-macbook"
+    body: "<${1:i} class=\"icono-macbook\"></${1:i}>"
+  "icono-mail":
+    prefix: "icono-mail"
+    body: "<${1:i} class=\"icono-mail\"></${1:i}>"
+  "icono-market":
+    prefix: "icono-market"
+    body: "<${1:i} class=\"icono-market\"></${1:i}>"
+  "icono-meh":
+    prefix: "icono-meh"
+    body: "<${1:i} class=\"icono-meh\"></${1:i}>"
+  "icono-microphone":
+    prefix: "icono-microphone"
+    body: "<${1:i} class=\"icono-microphone\"></${1:i}>"
+  "icono-moon":
+    prefix: "icono-moon"
+    body: "<${1:i} class=\"icono-moon\"></${1:i}>"
+  "icono-mouse":
+    prefix: "icono-mouse"
+    body: "<${1:i} class=\"icono-mouse\"></${1:i}>"
+  "icono-music":
+    prefix: "icono-music"
+    body: "<${1:i} class=\"icono-music\"></${1:i}>"
+  "icono-next":
+    prefix: "icono-next"
+    body: "<${1:i} class=\"icono-next\"></${1:i}>"
+  "icono-nexus":
+    prefix: "icono-nexus"
+    body: "<${1:i} class=\"icono-nexus\"></${1:i}>"
+  "icono-outdent":
+    prefix: "icono-outdent"
+    body: "<${1:i} class=\"icono-outdent\"></${1:i}>"
+  "icono-paperClip":
+    prefix: "icono-paperClip"
+    body: "<${1:i} class=\"icono-paperClip\"></${1:i}>"
+  "icono-pause":
+    prefix: "icono-pause"
+    body: "<${1:i} class=\"icono-pause\"></${1:i}>"
+  "icono-piano":
+    prefix: "icono-piano"
+    body: "<${1:i} class=\"icono-piano\"></${1:i}>"
+  "icono-pin":
+    prefix: "icono-pin"
+    body: "<${1:i} class=\"icono-pin\"></${1:i}>"
+  "icono-play":
+    prefix: "icono-play"
+    body: "<${1:i} class=\"icono-play\"></${1:i}>"
+  "icono-plus":
+    prefix: "icono-plus"
+    body: "<${1:i} class=\"icono-plus\"></${1:i}>"
+  "icono-power":
+    prefix: "icono-power"
+    body: "<${1:i} class=\"icono-power\"></${1:i}>"
+  "icono-previous":
+    prefix: "icono-previous"
+    body: "<${1:i} class=\"icono-previous\"></${1:i}>"
+  "icono-rename":
+    prefix: "icono-rename"
+    body: "<${1:i} class=\"icono-rename\"></${1:i}>"
+  "icono-reset":
+    prefix: "icono-reset"
+    body: "<${1:i} class=\"icono-reset\"></${1:i}>"
+  "icono-rewind":
+    prefix: "icono-rewind"
+    body: "<${1:i} class=\"icono-rewind\"></${1:i}>"
+  "icono-rss":
+    prefix: "icono-rss"
+    body: "<${1:i} class=\"icono-rss\"></${1:i}>"
+  "icono-ruler":
+    prefix: "icono-ruler"
+    body: "<${1:i} class=\"icono-ruler\"></${1:i}>"
+  "icono-search":
+    prefix: "icono-search"
+    body: "<${1:i} class=\"icono-search\"></${1:i}>"
+  "icono-share":
+    prefix: "icono-share"
+    body: "<${1:i} class=\"icono-share\"></${1:i}>"
+  "icono-signIn":
+    prefix: "icono-signIn"
+    body: "<${1:i} class=\"icono-signIn\"></${1:i}>"
+  "icono-signOut":
+    prefix: "icono-signOut"
+    body: "<${1:i} class=\"icono-signOut\"></${1:i}>"
+  "icono-sitemap":
+    prefix: "icono-sitemap"
+    body: "<${1:i} class=\"icono-sitemap\"></${1:i}>"
+  "icono-sliders":
+    prefix: "icono-sliders"
+    body: "<${1:i} class=\"icono-sliders\"></${1:i}>"
+  "icono-smile":
+    prefix: "icono-smile"
+    body: "<${1:i} class=\"icono-smile\"></${1:i}>"
+  "icono-socials":
+    prefix: "icono-socials"
+    body: "<${1:i} class=\"icono-socials\"></${1:i}>"
+  "icono-spinner":
+    prefix: "icono-spinner"
+    body: "<${1:i} class=\"icono-spinner\"></${1:i}>"
+  "icono-stop":
+    prefix: "icono-stop"
+    body: "<${1:i} class=\"icono-stop\"></${1:i}>"
+  "icono-sun":
+    prefix: "icono-sun"
+    body: "<${1:i} class=\"icono-sun\"></${1:i}>"
+  "icono-support":
+    prefix: "icono-support"
+    body: "<${1:i} class=\"icono-support\"></${1:i}>"
+  "icono-sync":
+    prefix: "icono-sync"
+    body: "<${1:i} class=\"icono-sync\"></${1:i}>"
+  "icono-tag":
+    prefix: "icono-tag"
+    body: "<${1:i} class=\"icono-tag\"></${1:i}>"
+  "icono-terminal":
+    prefix: "icono-terminal"
+    body: "<${1:i} class=\"icono-terminal\"></${1:i}>"
+  "icono-textAlign":
+    prefix: "icono-textAlign"
+    body: "<${1:i} class=\"icono-textAlign\"></${1:i}>"
+  "icono-tiles":
+    prefix: "icono-tiles"
+    body: "<${1:i} class=\"icono-tiles\"></${1:i}>"
+  "icono-trash":
+    prefix: "icono-trash"
+    body: "<${1:i} class=\"icono-trash\"></${1:i}>"
+  "icono-user":
+    prefix: "icono-user"
+    body: "<${1:i} class=\"icono-user\"></${1:i}>"
+  "icono-video":
+    prefix: "icono-video"
+    body: "<${1:i} class=\"icono-video\"></${1:i}>"
+  "icono-volume":
+    prefix: "icono-volume"
+    body: "<${1:i} class=\"icono-volume\"></${1:i}>"
+  "icono-youtube":
+    prefix: "icono-youtube"
+    body: "<${1:i} class=\"icono-youtube\"></${1:i}>"
