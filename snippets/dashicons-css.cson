@@ -1,4 +1,4 @@
-".source.css,.source.sass":
+".source.css, .source.less, .source.css.scss, .source.stylus":
 	"dashicons-admin-appearance":
 		prefix: "dashicons-admin-appearance"
 		body: "content: '\\\\f100';"

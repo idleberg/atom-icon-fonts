@@ -1,4 +1,4 @@
-".source.css,.source.sass":
+".source.css, .source.less, .source.css.scss, .source.stylus":
 	"glyphicon-adjust":
 		prefix: "glyphicon-adjust"
 		body: "content: '\\\\e063';"

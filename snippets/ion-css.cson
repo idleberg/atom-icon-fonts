@@ -1,4 +1,4 @@
-".source.css,.source.sass":
+".source.css, .source.less, .source.css.scss, .source.stylus":
 	"ion-alert":
 		prefix: "ion-alert"
 		body: "content: '\\\\f101';"

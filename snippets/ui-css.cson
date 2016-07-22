@@ -1,4 +1,4 @@
-".source.css,.source.sass":
+".source.css, .source.less, .source.css.scss, .source.stylus":
 	"ui-add":
 		prefix: "ui-add"
 		body: "content: '\\\\f067';"

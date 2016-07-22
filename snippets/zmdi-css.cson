@@ -1,4 +1,4 @@
-".source.css,.source.sass":
+".source.css, .source.less, .source.css.scss, .source.stylus":
 	"zmdi-3d-rotation":
 		prefix: "zmdi-3d-rotation"
 		body: "content: '\\\\f101';"

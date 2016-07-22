@@ -1,4 +1,4 @@
-".source.css,.source.sass":
+".source.css, .source.less, .source.css.scss, .source.stylus":
 	"octicon-alert":
 		prefix: "octicon-alert"
 		body: "content: '\\\\f02d';"

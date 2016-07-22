@@ -1,4 +1,4 @@
-".source.css,.source.sass":
+".source.css, .source.less, .source.css.scss, .source.stylus":
 	"openwebicons-3deffects":
 		prefix: "openwebicons-3deffects"
 		body: "content: '\\\\f037';"

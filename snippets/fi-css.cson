@@ -1,4 +1,4 @@
-".source.css,.source.sass":
+".source.css, .source.less, .source.css.scss, .source.stylus":
 	"fi-add-doc":
 		prefix: "fi-add-doc"
 		body: "content: '\\\\f019';"

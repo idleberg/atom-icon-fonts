@@ -1,4 +1,4 @@
-".source.css,.source.sass":
+".source.css, .source.less, .source.css.scss, .source.stylus":
 	"fa-500px":
 		prefix: "fa-500px"
 		body: "content: '\\\\f26e';"

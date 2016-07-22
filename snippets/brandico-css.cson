@@ -1,4 +1,4 @@
-".source.css,.source.sass":
+".source.css, .source.less, .source.css.scss, .source.stylus":
 	"brandico-amex":
 		prefix: "brandico-amex"
 		body: "content: '\\\\f326';"

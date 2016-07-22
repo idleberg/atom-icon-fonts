@@ -1,4 +1,4 @@
-".source.css,.source.sass":
+".source.css, .source.less, .source.css.scss, .source.stylus":
 	"cc-blank":
 		prefix: "cc-blank"
 		body: "content: '\\\\0038';"
