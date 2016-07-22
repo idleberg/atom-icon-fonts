@@ -27,7 +27,7 @@
     "gulp-debug": "^2.1.2",
     "gulp-jshint": "^2.0.1",
     "gulp-jsonlint": "^1.1.2",
-    "gulp-lesshint": "^1.1.0",
+    "gulp-lesshint": "^2.0.0",
     "jshint": "^2.9.2"
   },
   "scripts": {
