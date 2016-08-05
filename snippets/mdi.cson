@@ -1,5 +1,5 @@
 # Generated with Atomizr – https://atom.io/packages/atomizr
-".text.html -text.html.markdown":
+".text.html":
 	"mdi-access-point":
 		prefix: "mdi-access-point"
 		body: "<${1:i} class=\"mdi mdi-access-point$2\"></${1:i}>$3"

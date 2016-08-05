@@ -1,5 +1,5 @@
 # Generated with Atomizr – https://atom.io/packages/atomizr
-".source.css, source.less, source.scss, source.stylus":
+".source.css, .source.less, .source.scss, .source.stylus":
 	"mdi-access-point":
 		prefix: "mdi-access-point"
 		body: "content: '\\\\F002';"
