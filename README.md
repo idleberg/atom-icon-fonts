@@ -6,7 +6,7 @@
 [![Travis](https://img.shields.io/travis/idleberg/atom-icon-fonts.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-icon-fonts)
 [![David](https://img.shields.io/david/dev/idleberg/atom-icon-fonts.svg?style=flat-square)](https://david-dm.org/idleberg/atom-icon-fonts?type=dev)
 
-Atom snippets for a variety of icon fonts ([see details](#prefixes)).
+Atom snippets for a variety of icon fonts ([see details](https://github.com/idleberg/atom-icon-fonts#prefixes)).
 
 This package is also available for [Sublime Text](https://github.com/idleberg/sublime-icon-fonts) and [Visual Studio Code](https://github.com/idleberg/vscode-icon-fonts).
 
