@@ -1,19 +1,42 @@
-var gulp = require('gulp');
-var debug = require('gulp-debug');
-var coffeelint = require('gulp-coffeelint');
-var jshint = require('gulp-jshint');
-var jsonlint = require('gulp-jsonlint');
-var lesshint = require('gulp-lesshint');
+// Dependencies
+const gulp = require('gulp');
+const debug = require('gulp-debug');
+const coffeelint = require('gulp-coffeelint');
+const jshint = require('gulp-jshint');
+const jsonlint = require('gulp-jsonlint');
+const lesshint = require('gulp-lesshint');
+
+// Files
+const coffeeFiles = [
+    './grammars/*.cson',
+    './keymaps/*.cson',
+    './lib/**/*.coffee',
+    './menus/*.cson',
+    './snippets/*.cson'
+];
+
+const jsFiles = [
+    './lib/**/*.js'
+];
+
+const jsonFiles = [
+    './grammars/*.json',
+    './keymaps/*.json',
+    './menus/*.json',
+    './snippets/*.json',
+    './package.json'
+];
+
+const lessFiles = [
+    './styles/**/*.less'
+];
 
 // Tasks
 gulp.task('lint', ['coffeelint', 'jshint', 'jsonlint', 'lesshint']);
 
-// Exclude node_modules
-var self = '!node_modules/**/*';
-
 // Lint CoffeeScript & CSON files
 gulp.task('coffeelint', function () {
-    gulp.src(['./**/*.cson', './**/*.coffee', self])
+    gulp.src(coffeeFiles)
         .pipe(debug({title: 'coffeelint:'}))
         .pipe(coffeelint())
         .pipe(coffeelint.reporter());
@@ -21,7 +44,7 @@ gulp.task('coffeelint', function () {
 
 // Lint LESS files
 gulp.task('lesshint', function () {
-     gulp.src(['./**/*.less', self])
+     gulp.src(lessFiles)
         .pipe(debug({title: 'lesshint:'}))
         .pipe(lesshint())
         .pipe(lesshint.reporter());
@@ -29,14 +52,14 @@ gulp.task('lesshint', function () {
 
 // Lint JavaScript files
 gulp.task('jshint', function() {
-    return gulp.src(['./**/*.js', self])
+    return gulp.src(jsFiles)
         .pipe(debug({title: 'jshint:'}))
         .pipe(jshint());
 });
 
 // Lint JSON files
 gulp.task('jsonlint', function() {
-   gulp.src(['./**/*.json', self])
+   gulp.src(jsonFiles)
         .pipe(debug({title: 'jsonlint:'}))
         .pipe(jsonlint())
         .pipe(jsonlint.reporter());
