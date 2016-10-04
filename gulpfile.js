@@ -39,7 +39,7 @@ gulp.task('coffeelint', function () {
     gulp.src(coffeeFiles)
         .pipe(debug({title: 'coffeelint:'}))
         .pipe(coffeelint())
-        .pipe(coffeelint.reporter());
+        .pipe(coffeelint.reporter('fail'));
 });
 
 // Lint LESS files
