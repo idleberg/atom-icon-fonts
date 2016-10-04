@@ -1,10 +1,11 @@
 // Dependencies
-const gulp = require('gulp');
-const debug = require('gulp-debug');
 const coffeelint = require('gulp-coffeelint');
+const debug = require('gulp-debug');
+const gulp = require('gulp');
 const jshint = require('gulp-jshint');
 const jsonlint = require('gulp-jsonlint');
 const lesshint = require('gulp-lesshint');
+const stylish = require('coffeelint-stylish');
 
 // Files
 const coffeeFiles = [
@@ -39,6 +40,7 @@ gulp.task('coffeelint', function () {
     gulp.src(coffeeFiles)
         .pipe(debug({title: 'coffeelint:'}))
         .pipe(coffeelint())
+        .pipe(coffeelint.reporter(stylish))
         .pipe(coffeelint.reporter('fail'));
 });
 
