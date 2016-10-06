@@ -3,6 +3,9 @@
     "fl-aosc":
         prefix: "fl-aosc"
         body: "content: '\\f116';$1"
+    "fl-apple":
+        prefix: "fl-apple"
+        body: "content: '\\f11c';$1"
     "fl-archlinux":
         prefix: "fl-archlinux"
         body: "content: '\\f100';$1"
@@ -42,6 +45,9 @@
     "fl-mandriva":
         prefix: "fl-mandriva"
         body: "content: '\\f108';$1"
+    "fl-manjaro":
+        prefix: "fl-manjaro"
+        body: "content: '\\f11b';$1"
     "fl-nixos":
         prefix: "fl-nixos"
         body: "content: '\\f117';$1"
