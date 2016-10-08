@@ -33,10 +33,10 @@ const lessFiles = [
 ];
 
 // Tasks
-gulp.task('lint', ['coffeelint', 'jshint', 'jsonlint', 'lesshint']);
+gulp.task('lint', ['lint:coffee', 'lint:js', 'lint:json', 'lint:less']);
 
 // Lint CoffeeScript & CSON files
-gulp.task('coffeelint', function () {
+gulp.task('lint:coffee', function () {
     gulp.src(coffeeFiles)
         .pipe(debug({title: 'coffeelint:'}))
         .pipe(coffeelint())
@@ -45,7 +45,7 @@ gulp.task('coffeelint', function () {
 });
 
 // Lint LESS files
-gulp.task('lesshint', function () {
+gulp.task('lint:less', function () {
      gulp.src(lessFiles)
         .pipe(debug({title: 'lesshint:'}))
         .pipe(lesshint())
@@ -53,16 +53,17 @@ gulp.task('lesshint', function () {
 });
 
 // Lint JavaScript files
-gulp.task('jshint', function() {
+gulp.task('lint:js', function() {
     return gulp.src(jsFiles)
         .pipe(debug({title: 'jshint:'}))
         .pipe(jshint());
 });
 
 // Lint JSON files
-gulp.task('jsonlint', function() {
+gulp.task('lint:json', function() {
    gulp.src(jsonFiles)
         .pipe(debug({title: 'jsonlint:'}))
         .pipe(jsonlint())
+        .pipe(jsonlint.failAfterError())
         .pipe(jsonlint.reporter());
 });
