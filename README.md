@@ -16,7 +16,7 @@ This package is also available for [Sublime Text](https://github.com/idleberg/su
 
 * Install package `apm install icon-fonts` (or use the GUI)
 
-### GitHub
+### Using Git
 
 1. Change directory `cd ~/.atom/packages/`
 2. Clone repository `git clone https://github.com/idleberg/atom-icon-fonts icon-fonts`
@@ -48,7 +48,7 @@ Prefix         | Icon Font                           | Version | cdnjs | jsDeliv
 `mfizz`        | [Font Mfizz][mfizz]                 | 2.3.0   | ✅    | 🚫
 `octicon`      | [GitHub Octicons][octicon]          | 4.1.0   | 🚫    | 🚫
 `oi`           | [Open Iconic][oi]                   | 1.1.0   | 🚫    | ✅
-`openwebicons` | [OpenWeb Icons][openwebicons]       | 1.4.0   | 🚫    | ✅
+`openwebicons` | [OpenWeb Icons][openwebicons]       | 1.4.0   | ✅    | ✅
 `pf`           | [PaymentFont][pf]                   | 1.1.2   | ✅    | 🚫
 `ratchicon`    | [Ratchicons][ratchicon]             | 2.0.2   | ✅    | ✅
 `st`           | [Stack Icons][st]                   | 1.0.0   | 🚫    | 🚫
