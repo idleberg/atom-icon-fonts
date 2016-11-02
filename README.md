@@ -63,7 +63,6 @@ Examples:
 
 * `fa-check`+<kbd>Tab</kbd> completes to `<i class="fa fa-check"></i>`
 * `glyphicon-check`+<kbd>Tab</kbd> completes to `<span class="glyphicon glyphicons-check"></span>`
-* `octicon-check`+<kbd>Tab</kbd> completes to `<span class="octicon octicon-check"></span>`
 * well, you get the idea
 
 ### CDNs
