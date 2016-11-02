@@ -46,7 +46,7 @@ Prefix         | Icon Font                           | Version | cdnjs | jsDeliv
 `mdi`          | [Material Design Icons][mdi]        | 1.7.22  | ✅    | 🚫
 `mfg`          | [MFG Labs Iconset][mfg]             | –       | 🚫    | 🚫
 `mfizz`        | [Font Mfizz][mfizz]                 | 2.3.0   | ✅    | 🚫
-`octicon`      | [GitHub Octicons][octicon]          | 4.1.0   | 🚫    | 🚫
+`octicon`      | [GitHub Octicons][octicon]          | 5.0.0   | 🚫    | 🚫
 `oi`           | [Open Iconic][oi]                   | 1.1.0   | 🚫    | ✅
 `openwebicons` | [OpenWeb Icons][openwebicons]       | 1.4.0   | ✅    | ✅
 `pf`           | [PaymentFont][pf]                   | 1.1.2   | ✅    | 🚫
