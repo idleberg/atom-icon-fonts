@@ -1,7 +1,7 @@
 ".source.css, .source.less, .source.css.scss, .source.stylus":
   "typcn-adjust-brightness":
-    prefix: "typcn-adjust-brightness"
     body: "content: '\\\\e000';"
+    prefix: "typcn-adjust-brightness"
   "typcn-adjust-contrast":
     prefix: "typcn-adjust-contrast"
     body: "content: '\\\\e001';"

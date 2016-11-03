@@ -1,7 +1,7 @@
 ".source.css, .source.less, .source.css.scss, .source.stylus":
   "openwebicons-3deffects":
-    prefix: "openwebicons-3deffects"
     body: "content: '\\\\f037';"
+    prefix: "openwebicons-3deffects"
   "openwebicons-activity":
     prefix: "openwebicons-activity"
     body: "content: '\\\\f010';"
