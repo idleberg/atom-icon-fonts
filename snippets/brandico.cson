@@ -1,136 +1,181 @@
 ".text.html":
   "brandico-amex":
-    prefix: "brandico-amex"
     body: "<${1:i} class=\"icon-amex$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-amex"
   "brandico-bandcamp":
-    prefix: "brandico-bandcamp"
     body: "<${1:i} class=\"icon-bandcamp$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-bandcamp"
   "brandico-blogger-rect":
-    prefix: "brandico-blogger-rect"
     body: "<${1:i} class=\"icon-blogger-rect$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-blogger-rect"
   "brandico-blogger":
-    prefix: "brandico-blogger"
     body: "<${1:i} class=\"icon-blogger$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-blogger"
   "brandico-box-rect":
-    prefix: "brandico-box-rect"
     body: "<${1:i} class=\"icon-box-rect$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-box-rect"
   "brandico-box":
-    prefix: "brandico-box"
     body: "<${1:i} class=\"icon-box$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-box"
   "brandico-codepen":
-    prefix: "brandico-codepen"
     body: "<${1:i} class=\"icon-codepen$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-codepen"
   "brandico-deviantart":
-    prefix: "brandico-deviantart"
     body: "<${1:i} class=\"icon-deviantart$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-deviantart"
   "brandico-diigo":
-    prefix: "brandico-diigo"
     body: "<${1:i} class=\"icon-diigo$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-diigo"
   "brandico-discover":
-    prefix: "brandico-discover"
     body: "<${1:i} class=\"icon-discover$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-discover"
   "brandico-facebook-rect":
-    prefix: "brandico-facebook-rect"
     body: "<${1:i} class=\"icon-facebook-rect$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-facebook-rect"
   "brandico-facebook":
-    prefix: "brandico-facebook"
     body: "<${1:i} class=\"icon-facebook$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-facebook"
   "brandico-friendfeed-rect":
-    prefix: "brandico-friendfeed-rect"
     body: "<${1:i} class=\"icon-friendfeed-rect$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-friendfeed-rect"
   "brandico-friendfeed":
-    prefix: "brandico-friendfeed"
     body: "<${1:i} class=\"icon-friendfeed$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-friendfeed"
   "brandico-github-text":
-    prefix: "brandico-github-text"
     body: "<${1:i} class=\"icon-github-text$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-github-text"
   "brandico-github":
-    prefix: "brandico-github"
     body: "<${1:i} class=\"icon-github$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-github"
   "brandico-googleplus-rect":
-    prefix: "brandico-googleplus-rect"
     body: "<${1:i} class=\"icon-googleplus-rect$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-googleplus-rect"
   "brandico-houzz":
-    prefix: "brandico-houzz"
     body: "<${1:i} class=\"icon-houzz$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-houzz"
   "brandico-icq":
-    prefix: "brandico-icq"
     body: "<${1:i} class=\"icon-icq$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-icq"
   "brandico-instagram-filled":
-    prefix: "brandico-instagram-filled"
     body: "<${1:i} class=\"icon-instagram-filled$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-instagram-filled"
   "brandico-instagram":
-    prefix: "brandico-instagram"
     body: "<${1:i} class=\"icon-instagram$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-instagram"
   "brandico-jabber":
-    prefix: "brandico-jabber"
     body: "<${1:i} class=\"icon-jabber$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-jabber"
   "brandico-lastfm-rect":
-    prefix: "brandico-lastfm-rect"
     body: "<${1:i} class=\"icon-lastfm-rect$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-lastfm-rect"
   "brandico-lastfm":
-    prefix: "brandico-lastfm"
     body: "<${1:i} class=\"icon-lastfm$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-lastfm"
   "brandico-linkedin-rect":
-    prefix: "brandico-linkedin-rect"
     body: "<${1:i} class=\"icon-linkedin-rect$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-linkedin-rect"
   "brandico-linkedin":
-    prefix: "brandico-linkedin"
     body: "<${1:i} class=\"icon-linkedin$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-linkedin"
   "brandico-mastercard":
-    prefix: "brandico-mastercard"
     body: "<${1:i} class=\"icon-mastercard$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-mastercard"
   "brandico-odnoklassniki-rect":
-    prefix: "brandico-odnoklassniki-rect"
     body: "<${1:i} class=\"icon-odnoklassniki-rect$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-odnoklassniki-rect"
   "brandico-odnoklassniki":
-    prefix: "brandico-odnoklassniki"
     body: "<${1:i} class=\"icon-odnoklassniki$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-odnoklassniki"
   "brandico-picasa":
-    prefix: "brandico-picasa"
     body: "<${1:i} class=\"icon-picasa$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-picasa"
   "brandico-skype":
-    prefix: "brandico-skype"
     body: "<${1:i} class=\"icon-skype$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-skype"
   "brandico-tudou":
-    prefix: "brandico-tudou"
     body: "<${1:i} class=\"icon-tudou$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-tudou"
   "brandico-tumblr-rect":
-    prefix: "brandico-tumblr-rect"
     body: "<${1:i} class=\"icon-tumblr-rect$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-tumblr-rect"
   "brandico-tumblr":
-    prefix: "brandico-tumblr"
     body: "<${1:i} class=\"icon-tumblr$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-tumblr"
   "brandico-twitter-bird":
-    prefix: "brandico-twitter-bird"
     body: "<${1:i} class=\"icon-twitter-bird$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-twitter-bird"
   "brandico-twitter":
-    prefix: "brandico-twitter"
     body: "<${1:i} class=\"icon-twitter$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-twitter"
   "brandico-vimeo-rect":
-    prefix: "brandico-vimeo-rect"
     body: "<${1:i} class=\"icon-vimeo-rect$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-vimeo-rect"
   "brandico-vimeo":
-    prefix: "brandico-vimeo"
     body: "<${1:i} class=\"icon-vimeo$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-vimeo"
   "brandico-visa":
-    prefix: "brandico-visa"
     body: "<${1:i} class=\"icon-visa$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-visa"
   "brandico-vkontakte-rect":
-    prefix: "brandico-vkontakte-rect"
     body: "<${1:i} class=\"icon-vkontakte-rect$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-vkontakte-rect"
   "brandico-win8":
-    prefix: "brandico-win8"
     body: "<${1:i} class=\"icon-win8$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-win8"
   "brandico-wordpress":
-    prefix: "brandico-wordpress"
     body: "<${1:i} class=\"icon-wordpress$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-wordpress"
   "brandico-yandex-rect":
-    prefix: "brandico-yandex-rect"
     body: "<${1:i} class=\"icon-yandex-rect$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-yandex-rect"
   "brandico-yandex":
-    prefix: "brandico-yandex"
     body: "<${1:i} class=\"icon-yandex$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-yandex"
   "brandico-youku":
-    prefix: "brandico-youku"
     body: "<${1:i} class=\"icon-youku$2\"></${1:i}>$3"
+    description: "<span>"
+    prefix: "brandico-youku"
