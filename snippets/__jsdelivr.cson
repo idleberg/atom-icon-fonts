@@ -31,7 +31,7 @@
     body: "<link href=\"https://cdn.jsdelivr.net/open-iconic/${1:1.1.0}/font/css/open-iconic${2:.min}.css\" rel=\"stylesheet\">$3"
   "jsdelivr-openwebicons":
     prefix: "jsdelivr-openwebicons"
-    body: "<link href=\"https://cdn.jsdelivr.net/openwebicons/${1:1.4.1}/css/openwebicons${2:.min}.css\" rel=\"stylesheet\">$3"
+    body: "<link href=\"https://cdn.jsdelivr.net/openwebicons/${1:1.4.2}/css/openwebicons${2:.min}.css\" rel=\"stylesheet\">$3"
   "jsdelivr-ratchicon":
     prefix: "jsdelivr-ratchicon"
     body: "<link href=\"https://cdn.jsdelivr.net/ratchet/${1:2.0.2}/css/ratchet${2:.min}.css\" rel=\"stylesheet\">$3"
