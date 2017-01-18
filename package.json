@@ -26,10 +26,10 @@
     "gulp": "github:gulpjs/gulp#4.0",
     "gulp-coffeelint": "^0.6.0",
     "gulp-debug": "^3.0.0",
-    "gulp-jshint": "^2.0.1",
-    "gulp-jsonlint": "^1.1.2",
-    "gulp-lesshint": "^2.0.0",
-    "jshint": "^2.9.2"
+    "gulp-jshint": "^2.0.4",
+    "gulp-jsonlint": "^1.2.0",
+    "gulp-lesshint": "^2.1.0",
+    "jshint": "^2.9.4"
   },
   "scripts": {
     "test": "gulp lint"
