@@ -875,7 +875,7 @@ gulp-debug@^3.0.0:
     through2 "^2.0.0"
     tildify "^1.1.2"
 
-gulp-jshint@^2.0.1:
+gulp-jshint@^2.0.4:
   version "2.0.4"
   resolved "https://registry.yarnpkg.com/gulp-jshint/-/gulp-jshint-2.0.4.tgz#f382b18564b1072def0c9aaf753c146dadb4f0e8"
   dependencies:
@@ -885,7 +885,7 @@ gulp-jshint@^2.0.1:
     rcloader "^0.2.2"
     through2 "^2.0.0"
 
-gulp-jsonlint@^1.1.2:
+gulp-jsonlint@^1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/gulp-jsonlint/-/gulp-jsonlint-1.2.0.tgz#b9dd52daffd0f5426d16f657dedcfe9d86851ad9"
   dependencies:
@@ -894,7 +894,7 @@ gulp-jsonlint@^1.1.2:
     map-stream "^0.1.0"
     through2 "2.0.3"
 
-gulp-lesshint@^2.0.0:
+gulp-lesshint@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/gulp-lesshint/-/gulp-lesshint-2.1.0.tgz#175f983a6fd4fb999863620a5526a1c60444f14a"
   dependencies:
@@ -1265,7 +1265,7 @@ jsbn@~0.1.0:
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/jsbn/-/jsbn-0.1.0.tgz#650987da0dd74f4ebf5a11377a2aa2d273e97dfd"
 
-jshint@^2.9.2:
+jshint@^2.9.4:
   version "2.9.4"
   resolved "https://registry.yarnpkg.com/jshint/-/jshint-2.9.4.tgz#5e3ba97848d5290273db514aee47fe24cf592934"
   dependencies:
