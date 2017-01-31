@@ -1,4 +1,4 @@
-".source.css, .source.less, .source.css.scss, .source.stylus":
+".source.css .meta.property-list.css, .source.less .meta.property-list.less, .source.sass, .source.css.scss .meta.property-list.scss, .source.stylus .meta.property-list.stylus":
   "el-address-book":
     body: "content: '\\\\f102';"
     prefix: "el-address-book"
