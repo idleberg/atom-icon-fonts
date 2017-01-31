@@ -1,6 +1,7 @@
 ".source.css .meta.property-list.css, .source.less .meta.property-list.less, .source.sass, .source.css.scss .meta.property-list.scss, .source.stylus .meta.property-list.stylus":
   "openwebicons-3deffects":
     body: "content: '\\\\f037';"
+    description: "content"
     prefix: "openwebicons-3deffects"
   "openwebicons-activity":
     prefix: "openwebicons-activity"

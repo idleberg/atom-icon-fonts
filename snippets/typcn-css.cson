@@ -1,6 +1,7 @@
 ".source.css .meta.property-list.css, .source.less .meta.property-list.less, .source.sass, .source.css.scss .meta.property-list.scss, .source.stylus .meta.property-list.stylus":
   "typcn-adjust-brightness":
     body: "content: '\\\\e000';"
+    description: "content"
     prefix: "typcn-adjust-brightness"
   "typcn-adjust-contrast":
     prefix: "typcn-adjust-contrast"
