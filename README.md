@@ -34,7 +34,6 @@ Prefix         | Icon Font                           | Version | cdnjs | jsDeliv
 `cc`           | [Creative Commons Icon Font][cc]    | 1.2.1   | ✅    | ✅
 `dashicons`    | [WordPress Dashicons][dashicons]    | –       | 🚫    | 🚫
 `devicons`     | [Devicons][devicons]                | 1.8.0   | ✅    | ✅
-`ei`           | [Evil Icons][ei]                    | 1.8.0   | 🚫    | 🚫
 `el`           | [Elusive Icons][el]                 | 2.0.0   | 🚫    | 🚫
 `fa`           | [Font Awesome][fa]                  | 4.7.0   | ✅    | ✅
 `fi`           | [Foundation Icons][fi]              | 3.0     | ✅    | ✅
@@ -88,7 +87,6 @@ You are welcome support this project using [Flattr](https://flattr.com/submit/au
 [cc]: https://github.com/cc-icons/cc-icons
 [dashicons]: https://github.com/WordPress/dashicons
 [devicons]: https://github.com/vorillaz/devicons
-[ei]: https://github.com/outpunk/evil-icons
 [el]: https://github.com/reduxframework/Elusive-Icons
 [fa]: https://github.com/FortAwesome/Font-Awesome
 [fi]: http://zurb.com/playground/foundation-icons
