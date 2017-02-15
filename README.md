@@ -40,7 +40,7 @@ Prefix         | Icon Font                           | Version | cdnjs | jsDeliv
 `fl`           | [Font Linux][fl]                    | 0.9     | 🚫    | 🚫
 `geomicon`     | [Geomicons Open][geomicon]          | 2.0.0   | 🚫    | ✅
 `glyphicon`    | [Bootstrap Glyphicons][glyphicon]   | 3.3.6   | 🚫    | 🚫
-`icofont`      | [ShapeBootstrap Icofont][icofont]   | 1.0.0b  | 🚫    | 🚫
+`icofont`      | [ShapeBootstrap IcoFont][icofont]   | 1.0.0b  | 🚫    | 🚫
 `icono`        | [Icono][icono]                      | 1.3.0   | ✅    | 🚫
 `ion`          | [Ionicons][ion]                     | 2.0.1   | 🚫    | 🚫
 `mdi`          | [Material Design Icons][mdi]        | 1.7.22  | ✅    | 🚫
