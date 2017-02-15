@@ -1,4 +1,4 @@
-".source.css .meta.property-list.css, .source.less .meta.property-list.less, .source.sass, .source.css.scss .meta.property-list.scss, .source.stylus .meta.property-list.stylus":
+".source.css meta.property-list.css, source.less, source.sass, source.scss meta.property-list.scss, source.stylus":
   "wi-alien":
     body: "content: '\\\\f075';"
     description: "content"
