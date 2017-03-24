@@ -23,7 +23,7 @@ This package is also available for [Sublime Text](https://github.com/idleberg/su
 
 ## Usage
 
-Snippets are limited to the `html` and `css|less|scss` scopes. Typing the class name of an icon using the designated prefix will complete to a tag containing the icon class. Exceptions are `fa-stack` (`<span>`) and `fa-ul` (`<ul>`).
+Snippets are limited to the `html`, `css|less|scss` and `jsx` scopes. Typing the class name of an icon using the designated prefix will complete to a tag containing the icon class. Exceptions are `fa-stack` (`<span>`) and `fa-ul` (`<ul>`).
 
 ### Prefixes
 
