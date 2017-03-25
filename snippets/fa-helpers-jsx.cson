@@ -5,7 +5,7 @@
     prefix: "fa-li"
   "fa-stack":
     body: '''
-      <span class="fa-ul$1">
+      <span className="fa-ul$1">
         $2
       </span>$0
     '''

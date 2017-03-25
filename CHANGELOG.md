@@ -1,3 +1,7 @@
+# v2.16.1 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v2.16.1)
+
+- fix `fa-helpers-jsx`
+
 # v2.16.0 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v2.16.0)
 
 - add support for JSX
