@@ -1,3 +1,7 @@
+# v2.16.2 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v2.16.2)
+
+- add missing JSX scope
+
 # v2.16.1 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v2.16.1)
 
 - fix `fa-helpers-jsx`
