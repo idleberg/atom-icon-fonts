@@ -1,4 +1,4 @@
-".text.html":
+".source.js.jsx, .text.html":
   "cdnjs-cc":
     prefix: "cdnjs-cc"
     body: "<link href=\"https://cdnjs.cloudflare.com/ajax/libs/cc-icons/${1:1.2.1}/css/cc-icons${2:.min}.css\" rel=\"stylesheet\">$0"
