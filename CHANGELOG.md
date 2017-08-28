@@ -1,3 +1,7 @@
+# v2.16.3 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v2.16.3)
+
+- bump OpenWebIcons to v1.4.3
+
 # v2.16.2 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v2.16.2)
 
 - add missing JSX scope
