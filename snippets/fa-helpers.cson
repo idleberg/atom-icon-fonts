@@ -1,25 +1,17 @@
-".text.html":
-  "fa-layers":
-    body: '''
-      <${1:span} class="fa-layers$2">
-        $3
-      </${1:span>$0
-    '''
-    description: "<span>"
-    prefix: "fa-layers"
-  "fa-layers-counter":
-    body: "<${1:span} class=\"fa-layers-counter$2\"></${1:span}>$0"
-    description: "<span>"
-    prefix: "fa-layers-counter"
-  "fa-layers-text":
-    body: "<${1:span} class=\"fa-layers-text$2\"></${1:span}>$0"
-    description: "<span>"
-    prefix: "fa-layers-text"
-  "fa-mask":
-    body: '''
-      <${1:span} class="fa-${2:4x}$3">
-        $4
-      </${1:span>$0
-    '''
-    description: "<span>"
-    prefix: "fa-mask"
+'.text.html':
+  'fa-layers':
+    body: '<${1:span} class=\"fa-layers$2\">\n\t$3\n</${1:span>$0'
+    description: '<span>'
+    prefix: 'fa-layers'
+  'fa-layers-counter':
+    body: '<${1:span} class=\"fa-layers-counter$2\"></${1:span}>$0'
+    description: '<span>'
+    prefix: 'fa-layers-counter'
+  'fa-layers-text':
+    body: '<${1:span} class=\"fa-layers-text$2\"></${1:span}>$0'
+    description: '<span>'
+    prefix: 'fa-layers-text'
+  'fa-mask':
+    body: '<${1:span} class=\"fa-${2:4x}$3\">\n\t$4\n</${1:span>$0'
+    description: '<span>'
+    prefix: 'fa-mask'
