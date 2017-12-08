@@ -1,3 +1,15 @@
+# v2.18.0 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v2.18.0)
+
+- add Font Awesome 5 helpers
+
+# v2.17.1 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v2.17.1)
+
+- fix prefixes
+
+# v2.17.0 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v2.17.0)
+
+- bump Font Awesome to v5.0.0
+
 # v2.16.3 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v2.16.3)
 
 - bump OpenWebIcons to v1.4.3
