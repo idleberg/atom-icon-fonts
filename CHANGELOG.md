@@ -1,3 +1,7 @@
+# v2.18.2 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v2.18.2)
+
+- update Font Awesome helpers
+
 # v2.18.1 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v2.18.1)
 
 - fix output indentation
