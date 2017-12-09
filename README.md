@@ -6,7 +6,7 @@
 [![Travis](https://img.shields.io/travis/idleberg/atom-icon-fonts.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-icon-fonts)
 [![David](https://img.shields.io/david/dev/idleberg/atom-icon-fonts.svg?style=flat-square)](https://david-dm.org/idleberg/atom-icon-fonts?type=dev)
 
-**Note:** *As of v2.17, this package supports all __Font Awesome v5__ icons. If you need to continue the old __Font Awesome v4__ icons, please install the [“icon-fonts-Legacy”](https://github.com/idleberg/atom-icon-fonts-legacy) package via `apm`!*
+**Note:** *As of v2.17, this package supports all __Font Awesome v5__ icons. If you need to continue the old __Font Awesome v4__ icons, please install the [`icon-fonts-legacy`](https://github.com/idleberg/atom-icon-fonts-legacy) package via `apm`!*
 
 Atom snippets for a variety of icon fonts ([see details](https://github.com/idleberg/atom-icon-fonts#prefixes)).
 
