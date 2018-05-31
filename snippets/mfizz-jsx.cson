@@ -196,7 +196,7 @@
     body: "<${1:i} className=\"mfizz-gnome$2\"></${1:i}>$0"
     description: "<i>"
     prefix: "mfizz-gnome"
-    "mfizz-go":
+  "mfizz-go":
     body: "<${1:i} className=\"mfizz-go$2\"></${1:i}>$0"
     description: "<i>"
     prefix: "mfizz-go"
