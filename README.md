@@ -104,6 +104,7 @@ You are welcome support this project using [Flattr](https://flattr.com/submit/au
 [mdi]: https://github.com/Templarian/MaterialDesign-Webfont
 [mfg]: https://github.com/MfgLabs/mfglabs-iconset
 [mfizz]: https://github.com/fizzed/font-mfizz
+[mio]: https://github.com/google/material-design-icons
 [octicon]: https://github.com/primer/octicons/tree/v4.1.0
 [oi]: https://github.com/iconic/open-iconic
 [openwebicons]: https://github.com/pfefferle/openwebicons
