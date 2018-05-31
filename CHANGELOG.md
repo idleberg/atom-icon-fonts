@@ -1,3 +1,8 @@
+# v2.19.2 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v2.19.2)
+
+- bump Font Awesome to v5.0.13
+- fix indentation
+
 # v2.19.1 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v2.19.1)
 
 - fix indentation

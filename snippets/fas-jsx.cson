@@ -1,1858 +1,3712 @@
-'.source.js.jsx':
+'.text.html':
+  'fas-500px':
+    body: '<${1:i} className=\"fas fa-500px$2\"></${1:i}>$0'
+    prefix: 'fas-500px'
+  'fas-accessible-icon':
+    body: '<${1:i} className=\"fas fa-accessible-icon$2\"></${1:i}>$0'
+    prefix: 'fas-accessible-icon'
+  'fas-accusoft':
+    body: '<${1:i} className=\"fas fa-accusoft$2\"></${1:i}>$0'
+    prefix: 'fas-accusoft'
   'fas-address-book':
-    body: '<${1:i} className="fas fa-address-book$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-address-book$2\"></${1:i}>$0'
     prefix: 'fas-address-book'
   'fas-address-card':
-    body: '<${1:i} className="fas fa-address-card$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-address-card$2\"></${1:i}>$0'
     prefix: 'fas-address-card'
   'fas-adjust':
-    body: '<${1:i} className="fas fa-adjust$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-adjust$2\"></${1:i}>$0'
     prefix: 'fas-adjust'
+  'fas-adn':
+    body: '<${1:i} className=\"fas fa-adn$2\"></${1:i}>$0'
+    prefix: 'fas-adn'
+  'fas-adversal':
+    body: '<${1:i} className=\"fas fa-adversal$2\"></${1:i}>$0'
+    prefix: 'fas-adversal'
+  'fas-affiliatetheme':
+    body: '<${1:i} className=\"fas fa-affiliatetheme$2\"></${1:i}>$0'
+    prefix: 'fas-affiliatetheme'
   'fas-alarm-clock':
-    body: '<${1:i} className="fas fa-alarm-clock$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-alarm-clock$2\"></${1:i}>$0'
     prefix: 'fas-alarm-clock'
+  'fas-algolia':
+    body: '<${1:i} className=\"fas fa-algolia$2\"></${1:i}>$0'
+    prefix: 'fas-algolia'
   'fas-align-center':
-    body: '<${1:i} className="fas fa-align-center$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-align-center$2\"></${1:i}>$0'
     prefix: 'fas-align-center'
   'fas-align-justify':
-    body: '<${1:i} className="fas fa-align-justify$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-align-justify$2\"></${1:i}>$0'
     prefix: 'fas-align-justify'
   'fas-align-left':
-    body: '<${1:i} className="fas fa-align-left$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-align-left$2\"></${1:i}>$0'
     prefix: 'fas-align-left'
   'fas-align-right':
-    body: '<${1:i} className="fas fa-align-right$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-align-right$2\"></${1:i}>$0'
     prefix: 'fas-align-right'
+  'fas-allergies':
+    body: '<${1:i} className=\"fas fa-allergies$2\"></${1:i}>$0'
+    prefix: 'fas-allergies'
+  'fas-amazon':
+    body: '<${1:i} className=\"fas fa-amazon$2\"></${1:i}>$0'
+    prefix: 'fas-amazon'
+  'fas-amazon-pay':
+    body: '<${1:i} className=\"fas fa-amazon-pay$2\"></${1:i}>$0'
+    prefix: 'fas-amazon-pay'
   'fas-ambulance':
-    body: '<${1:i} className="fas fa-ambulance$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-ambulance$2\"></${1:i}>$0'
     prefix: 'fas-ambulance'
   'fas-american-sign-language-interpreting':
-    body: '<${1:i} className="fas fa-american-sign-language-interpreting$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-american-sign-language-interpreting$2\"></${1:i}>$0'
     prefix: 'fas-american-sign-language-interpreting'
+  'fas-amilia':
+    body: '<${1:i} className=\"fas fa-amilia$2\"></${1:i}>$0'
+    prefix: 'fas-amilia'
   'fas-anchor':
-    body: '<${1:i} className="fas fa-anchor$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-anchor$2\"></${1:i}>$0'
     prefix: 'fas-anchor'
+  'fas-android':
+    body: '<${1:i} className=\"fas fa-android$2\"></${1:i}>$0'
+    prefix: 'fas-android'
+  'fas-angellist':
+    body: '<${1:i} className=\"fas fa-angellist$2\"></${1:i}>$0'
+    prefix: 'fas-angellist'
   'fas-angle-double-down':
-    body: '<${1:i} className="fas fa-angle-double-down$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-angle-double-down$2\"></${1:i}>$0'
     prefix: 'fas-angle-double-down'
   'fas-angle-double-left':
-    body: '<${1:i} className="fas fa-angle-double-left$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-angle-double-left$2\"></${1:i}>$0'
     prefix: 'fas-angle-double-left'
   'fas-angle-double-right':
-    body: '<${1:i} className="fas fa-angle-double-right$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-angle-double-right$2\"></${1:i}>$0'
     prefix: 'fas-angle-double-right'
   'fas-angle-double-up':
-    body: '<${1:i} className="fas fa-angle-double-up$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-angle-double-up$2\"></${1:i}>$0'
     prefix: 'fas-angle-double-up'
   'fas-angle-down':
-    body: '<${1:i} className="fas fa-angle-down$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-angle-down$2\"></${1:i}>$0'
     prefix: 'fas-angle-down'
   'fas-angle-left':
-    body: '<${1:i} className="fas fa-angle-left$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-angle-left$2\"></${1:i}>$0'
     prefix: 'fas-angle-left'
   'fas-angle-right':
-    body: '<${1:i} className="fas fa-angle-right$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-angle-right$2\"></${1:i}>$0'
     prefix: 'fas-angle-right'
   'fas-angle-up':
-    body: '<${1:i} className="fas fa-angle-up$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-angle-up$2\"></${1:i}>$0'
     prefix: 'fas-angle-up'
+  'fas-angrycreative':
+    body: '<${1:i} className=\"fas fa-angrycreative$2\"></${1:i}>$0'
+    prefix: 'fas-angrycreative'
+  'fas-angular':
+    body: '<${1:i} className=\"fas fa-angular$2\"></${1:i}>$0'
+    prefix: 'fas-angular'
+  'fas-app-store':
+    body: '<${1:i} className=\"fas fa-app-store$2\"></${1:i}>$0'
+    prefix: 'fas-app-store'
+  'fas-app-store-ios':
+    body: '<${1:i} className=\"fas fa-app-store-ios$2\"></${1:i}>$0'
+    prefix: 'fas-app-store-ios'
+  'fas-apper':
+    body: '<${1:i} className=\"fas fa-apper$2\"></${1:i}>$0'
+    prefix: 'fas-apper'
+  'fas-apple':
+    body: '<${1:i} className=\"fas fa-apple$2\"></${1:i}>$0'
+    prefix: 'fas-apple'
+  'fas-apple-pay':
+    body: '<${1:i} className=\"fas fa-apple-pay$2\"></${1:i}>$0'
+    prefix: 'fas-apple-pay'
   'fas-archive':
-    body: '<${1:i} className="fas fa-archive$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-archive$2\"></${1:i}>$0'
     prefix: 'fas-archive'
   'fas-arrow-alt-circle-down':
-    body: '<${1:i} className="fas fa-arrow-alt-circle-down$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-alt-circle-down$2\"></${1:i}>$0'
     prefix: 'fas-arrow-alt-circle-down'
   'fas-arrow-alt-circle-left':
-    body: '<${1:i} className="fas fa-arrow-alt-circle-left$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-alt-circle-left$2\"></${1:i}>$0'
     prefix: 'fas-arrow-alt-circle-left'
   'fas-arrow-alt-circle-right':
-    body: '<${1:i} className="fas fa-arrow-alt-circle-right$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-alt-circle-right$2\"></${1:i}>$0'
     prefix: 'fas-arrow-alt-circle-right'
   'fas-arrow-alt-circle-up':
-    body: '<${1:i} className="fas fa-arrow-alt-circle-up$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-alt-circle-up$2\"></${1:i}>$0'
     prefix: 'fas-arrow-alt-circle-up'
   'fas-arrow-alt-down':
-    body: '<${1:i} className="fas fa-arrow-alt-down$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-alt-down$2\"></${1:i}>$0'
     prefix: 'fas-arrow-alt-down'
   'fas-arrow-alt-from-bottom':
-    body: '<${1:i} className="fas fa-arrow-alt-from-bottom$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-alt-from-bottom$2\"></${1:i}>$0'
     prefix: 'fas-arrow-alt-from-bottom'
   'fas-arrow-alt-from-left':
-    body: '<${1:i} className="fas fa-arrow-alt-from-left$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-alt-from-left$2\"></${1:i}>$0'
     prefix: 'fas-arrow-alt-from-left'
   'fas-arrow-alt-from-right':
-    body: '<${1:i} className="fas fa-arrow-alt-from-right$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-alt-from-right$2\"></${1:i}>$0'
     prefix: 'fas-arrow-alt-from-right'
   'fas-arrow-alt-from-top':
-    body: '<${1:i} className="fas fa-arrow-alt-from-top$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-alt-from-top$2\"></${1:i}>$0'
     prefix: 'fas-arrow-alt-from-top'
   'fas-arrow-alt-left':
-    body: '<${1:i} className="fas fa-arrow-alt-left$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-alt-left$2\"></${1:i}>$0'
     prefix: 'fas-arrow-alt-left'
   'fas-arrow-alt-right':
-    body: '<${1:i} className="fas fa-arrow-alt-right$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-alt-right$2\"></${1:i}>$0'
     prefix: 'fas-arrow-alt-right'
   'fas-arrow-alt-square-down':
-    body: '<${1:i} className="fas fa-arrow-alt-square-down$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-alt-square-down$2\"></${1:i}>$0'
     prefix: 'fas-arrow-alt-square-down'
   'fas-arrow-alt-square-left':
-    body: '<${1:i} className="fas fa-arrow-alt-square-left$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-alt-square-left$2\"></${1:i}>$0'
     prefix: 'fas-arrow-alt-square-left'
   'fas-arrow-alt-square-right':
-    body: '<${1:i} className="fas fa-arrow-alt-square-right$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-alt-square-right$2\"></${1:i}>$0'
     prefix: 'fas-arrow-alt-square-right'
   'fas-arrow-alt-square-up':
-    body: '<${1:i} className="fas fa-arrow-alt-square-up$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-alt-square-up$2\"></${1:i}>$0'
     prefix: 'fas-arrow-alt-square-up'
   'fas-arrow-alt-to-bottom':
-    body: '<${1:i} className="fas fa-arrow-alt-to-bottom$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-alt-to-bottom$2\"></${1:i}>$0'
     prefix: 'fas-arrow-alt-to-bottom'
   'fas-arrow-alt-to-left':
-    body: '<${1:i} className="fas fa-arrow-alt-to-left$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-alt-to-left$2\"></${1:i}>$0'
     prefix: 'fas-arrow-alt-to-left'
   'fas-arrow-alt-to-right':
-    body: '<${1:i} className="fas fa-arrow-alt-to-right$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-alt-to-right$2\"></${1:i}>$0'
     prefix: 'fas-arrow-alt-to-right'
   'fas-arrow-alt-to-top':
-    body: '<${1:i} className="fas fa-arrow-alt-to-top$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-alt-to-top$2\"></${1:i}>$0'
     prefix: 'fas-arrow-alt-to-top'
   'fas-arrow-alt-up':
-    body: '<${1:i} className="fas fa-arrow-alt-up$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-alt-up$2\"></${1:i}>$0'
     prefix: 'fas-arrow-alt-up'
   'fas-arrow-circle-down':
-    body: '<${1:i} className="fas fa-arrow-circle-down$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-circle-down$2\"></${1:i}>$0'
     prefix: 'fas-arrow-circle-down'
   'fas-arrow-circle-left':
-    body: '<${1:i} className="fas fa-arrow-circle-left$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-circle-left$2\"></${1:i}>$0'
     prefix: 'fas-arrow-circle-left'
   'fas-arrow-circle-right':
-    body: '<${1:i} className="fas fa-arrow-circle-right$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-circle-right$2\"></${1:i}>$0'
     prefix: 'fas-arrow-circle-right'
   'fas-arrow-circle-up':
-    body: '<${1:i} className="fas fa-arrow-circle-up$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-circle-up$2\"></${1:i}>$0'
     prefix: 'fas-arrow-circle-up'
   'fas-arrow-down':
-    body: '<${1:i} className="fas fa-arrow-down$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-down$2\"></${1:i}>$0'
     prefix: 'fas-arrow-down'
   'fas-arrow-from-bottom':
-    body: '<${1:i} className="fas fa-arrow-from-bottom$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-from-bottom$2\"></${1:i}>$0'
     prefix: 'fas-arrow-from-bottom'
   'fas-arrow-from-left':
-    body: '<${1:i} className="fas fa-arrow-from-left$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-from-left$2\"></${1:i}>$0'
     prefix: 'fas-arrow-from-left'
   'fas-arrow-from-right':
-    body: '<${1:i} className="fas fa-arrow-from-right$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-from-right$2\"></${1:i}>$0'
     prefix: 'fas-arrow-from-right'
   'fas-arrow-from-top':
-    body: '<${1:i} className="fas fa-arrow-from-top$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-from-top$2\"></${1:i}>$0'
     prefix: 'fas-arrow-from-top'
   'fas-arrow-left':
-    body: '<${1:i} className="fas fa-arrow-left$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-left$2\"></${1:i}>$0'
     prefix: 'fas-arrow-left'
   'fas-arrow-right':
-    body: '<${1:i} className="fas fa-arrow-right$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-right$2\"></${1:i}>$0'
     prefix: 'fas-arrow-right'
   'fas-arrow-square-down':
-    body: '<${1:i} className="fas fa-arrow-square-down$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-square-down$2\"></${1:i}>$0'
     prefix: 'fas-arrow-square-down'
   'fas-arrow-square-left':
-    body: '<${1:i} className="fas fa-arrow-square-left$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-square-left$2\"></${1:i}>$0'
     prefix: 'fas-arrow-square-left'
   'fas-arrow-square-right':
-    body: '<${1:i} className="fas fa-arrow-square-right$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-square-right$2\"></${1:i}>$0'
     prefix: 'fas-arrow-square-right'
   'fas-arrow-square-up':
-    body: '<${1:i} className="fas fa-arrow-square-up$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-square-up$2\"></${1:i}>$0'
     prefix: 'fas-arrow-square-up'
   'fas-arrow-to-bottom':
-    body: '<${1:i} className="fas fa-arrow-to-bottom$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-to-bottom$2\"></${1:i}>$0'
     prefix: 'fas-arrow-to-bottom'
   'fas-arrow-to-left':
-    body: '<${1:i} className="fas fa-arrow-to-left$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-to-left$2\"></${1:i}>$0'
     prefix: 'fas-arrow-to-left'
   'fas-arrow-to-right':
-    body: '<${1:i} className="fas fa-arrow-to-right$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-to-right$2\"></${1:i}>$0'
     prefix: 'fas-arrow-to-right'
   'fas-arrow-to-top':
-    body: '<${1:i} className="fas fa-arrow-to-top$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-to-top$2\"></${1:i}>$0'
     prefix: 'fas-arrow-to-top'
   'fas-arrow-up':
-    body: '<${1:i} className="fas fa-arrow-up$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrow-up$2\"></${1:i}>$0'
     prefix: 'fas-arrow-up'
   'fas-arrows':
-    body: '<${1:i} className="fas fa-arrows$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrows$2\"></${1:i}>$0'
     prefix: 'fas-arrows'
   'fas-arrows-alt':
-    body: '<${1:i} className="fas fa-arrows-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrows-alt$2\"></${1:i}>$0'
     prefix: 'fas-arrows-alt'
   'fas-arrows-alt-h':
-    body: '<${1:i} className="fas fa-arrows-alt-h$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrows-alt-h$2\"></${1:i}>$0'
     prefix: 'fas-arrows-alt-h'
   'fas-arrows-alt-v':
-    body: '<${1:i} className="fas fa-arrows-alt-v$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrows-alt-v$2\"></${1:i}>$0'
     prefix: 'fas-arrows-alt-v'
   'fas-arrows-h':
-    body: '<${1:i} className="fas fa-arrows-h$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrows-h$2\"></${1:i}>$0'
     prefix: 'fas-arrows-h'
   'fas-arrows-v':
-    body: '<${1:i} className="fas fa-arrows-v$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-arrows-v$2\"></${1:i}>$0'
     prefix: 'fas-arrows-v'
   'fas-assistive-listening-systems':
-    body: '<${1:i} className="fas fa-assistive-listening-systems$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-assistive-listening-systems$2\"></${1:i}>$0'
     prefix: 'fas-assistive-listening-systems'
   'fas-asterisk':
-    body: '<${1:i} className="fas fa-asterisk$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-asterisk$2\"></${1:i}>$0'
     prefix: 'fas-asterisk'
+  'fas-asymmetrik':
+    body: '<${1:i} className=\"fas fa-asymmetrik$2\"></${1:i}>$0'
+    prefix: 'fas-asymmetrik'
   'fas-at':
-    body: '<${1:i} className="fas fa-at$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-at$2\"></${1:i}>$0'
     prefix: 'fas-at'
+  'fas-audible':
+    body: '<${1:i} className=\"fas fa-audible$2\"></${1:i}>$0'
+    prefix: 'fas-audible'
   'fas-audio-description':
-    body: '<${1:i} className="fas fa-audio-description$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-audio-description$2\"></${1:i}>$0'
     prefix: 'fas-audio-description'
+  'fas-autoprefixer':
+    body: '<${1:i} className=\"fas fa-autoprefixer$2\"></${1:i}>$0'
+    prefix: 'fas-autoprefixer'
+  'fas-avianex':
+    body: '<${1:i} className=\"fas fa-avianex$2\"></${1:i}>$0'
+    prefix: 'fas-avianex'
+  'fas-aviato':
+    body: '<${1:i} className=\"fas fa-aviato$2\"></${1:i}>$0'
+    prefix: 'fas-aviato'
+  'fas-aws':
+    body: '<${1:i} className=\"fas fa-aws$2\"></${1:i}>$0'
+    prefix: 'fas-aws'
   'fas-backward':
-    body: '<${1:i} className="fas fa-backward$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-backward$2\"></${1:i}>$0'
     prefix: 'fas-backward'
   'fas-badge':
-    body: '<${1:i} className="fas fa-badge$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-badge$2\"></${1:i}>$0'
     prefix: 'fas-badge'
   'fas-badge-check':
-    body: '<${1:i} className="fas fa-badge-check$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-badge-check$2\"></${1:i}>$0'
     prefix: 'fas-badge-check'
   'fas-balance-scale':
-    body: '<${1:i} className="fas fa-balance-scale$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-balance-scale$2\"></${1:i}>$0'
     prefix: 'fas-balance-scale'
+  'fas-balance-scale-left':
+    body: '<${1:i} className=\"fas fa-balance-scale-left$2\"></${1:i}>$0'
+    prefix: 'fas-balance-scale-left'
+  'fas-balance-scale-right':
+    body: '<${1:i} className=\"fas fa-balance-scale-right$2\"></${1:i}>$0'
+    prefix: 'fas-balance-scale-right'
   'fas-ban':
-    body: '<${1:i} className="fas fa-ban$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-ban$2\"></${1:i}>$0'
     prefix: 'fas-ban'
+  'fas-band-aid':
+    body: '<${1:i} className=\"fas fa-band-aid$2\"></${1:i}>$0'
+    prefix: 'fas-band-aid'
+  'fas-bandcamp':
+    body: '<${1:i} className=\"fas fa-bandcamp$2\"></${1:i}>$0'
+    prefix: 'fas-bandcamp'
   'fas-barcode':
-    body: '<${1:i} className="fas fa-barcode$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-barcode$2\"></${1:i}>$0'
     prefix: 'fas-barcode'
+  'fas-barcode-alt':
+    body: '<${1:i} className=\"fas fa-barcode-alt$2\"></${1:i}>$0'
+    prefix: 'fas-barcode-alt'
+  'fas-barcode-read':
+    body: '<${1:i} className=\"fas fa-barcode-read$2\"></${1:i}>$0'
+    prefix: 'fas-barcode-read'
+  'fas-barcode-scan':
+    body: '<${1:i} className=\"fas fa-barcode-scan$2\"></${1:i}>$0'
+    prefix: 'fas-barcode-scan'
   'fas-bars':
-    body: '<${1:i} className="fas fa-bars$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-bars$2\"></${1:i}>$0'
     prefix: 'fas-bars'
+  'fas-baseball':
+    body: '<${1:i} className=\"fas fa-baseball$2\"></${1:i}>$0'
+    prefix: 'fas-baseball'
+  'fas-baseball-ball':
+    body: '<${1:i} className=\"fas fa-baseball-ball$2\"></${1:i}>$0'
+    prefix: 'fas-baseball-ball'
+  'fas-basketball-ball':
+    body: '<${1:i} className=\"fas fa-basketball-ball$2\"></${1:i}>$0'
+    prefix: 'fas-basketball-ball'
+  'fas-basketball-hoop':
+    body: '<${1:i} className=\"fas fa-basketball-hoop$2\"></${1:i}>$0'
+    prefix: 'fas-basketball-hoop'
   'fas-bath':
-    body: '<${1:i} className="fas fa-bath$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-bath$2\"></${1:i}>$0'
     prefix: 'fas-bath'
   'fas-battery-bolt':
-    body: '<${1:i} className="fas fa-battery-bolt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-battery-bolt$2\"></${1:i}>$0'
     prefix: 'fas-battery-bolt'
   'fas-battery-empty':
-    body: '<${1:i} className="fas fa-battery-empty$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-battery-empty$2\"></${1:i}>$0'
     prefix: 'fas-battery-empty'
   'fas-battery-full':
-    body: '<${1:i} className="fas fa-battery-full$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-battery-full$2\"></${1:i}>$0'
     prefix: 'fas-battery-full'
   'fas-battery-half':
-    body: '<${1:i} className="fas fa-battery-half$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-battery-half$2\"></${1:i}>$0'
     prefix: 'fas-battery-half'
   'fas-battery-quarter':
-    body: '<${1:i} className="fas fa-battery-quarter$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-battery-quarter$2\"></${1:i}>$0'
     prefix: 'fas-battery-quarter'
   'fas-battery-slash':
-    body: '<${1:i} className="fas fa-battery-slash$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-battery-slash$2\"></${1:i}>$0'
     prefix: 'fas-battery-slash'
   'fas-battery-three-quarters':
-    body: '<${1:i} className="fas fa-battery-three-quarters$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-battery-three-quarters$2\"></${1:i}>$0'
     prefix: 'fas-battery-three-quarters'
   'fas-bed':
-    body: '<${1:i} className="fas fa-bed$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-bed$2\"></${1:i}>$0'
     prefix: 'fas-bed'
   'fas-beer':
-    body: '<${1:i} className="fas fa-beer$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-beer$2\"></${1:i}>$0'
     prefix: 'fas-beer'
+  'fas-behance':
+    body: '<${1:i} className=\"fas fa-behance$2\"></${1:i}>$0'
+    prefix: 'fas-behance'
+  'fas-behance-square':
+    body: '<${1:i} className=\"fas fa-behance-square$2\"></${1:i}>$0'
+    prefix: 'fas-behance-square'
   'fas-bell':
-    body: '<${1:i} className="fas fa-bell$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-bell$2\"></${1:i}>$0'
     prefix: 'fas-bell'
   'fas-bell-slash':
-    body: '<${1:i} className="fas fa-bell-slash$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-bell-slash$2\"></${1:i}>$0'
     prefix: 'fas-bell-slash'
   'fas-bicycle':
-    body: '<${1:i} className="fas fa-bicycle$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-bicycle$2\"></${1:i}>$0'
     prefix: 'fas-bicycle'
+  'fas-bimobject':
+    body: '<${1:i} className=\"fas fa-bimobject$2\"></${1:i}>$0'
+    prefix: 'fas-bimobject'
   'fas-binoculars':
-    body: '<${1:i} className="fas fa-binoculars$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-binoculars$2\"></${1:i}>$0'
     prefix: 'fas-binoculars'
   'fas-birthday-cake':
-    body: '<${1:i} className="fas fa-birthday-cake$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-birthday-cake$2\"></${1:i}>$0'
     prefix: 'fas-birthday-cake'
+  'fas-bitbucket':
+    body: '<${1:i} className=\"fas fa-bitbucket$2\"></${1:i}>$0'
+    prefix: 'fas-bitbucket'
+  'fas-bitcoin':
+    body: '<${1:i} className=\"fas fa-bitcoin$2\"></${1:i}>$0'
+    prefix: 'fas-bitcoin'
+  'fas-bity':
+    body: '<${1:i} className=\"fas fa-bity$2\"></${1:i}>$0'
+    prefix: 'fas-bity'
+  'fas-black-tie':
+    body: '<${1:i} className=\"fas fa-black-tie$2\"></${1:i}>$0'
+    prefix: 'fas-black-tie'
+  'fas-blackberry':
+    body: '<${1:i} className=\"fas fa-blackberry$2\"></${1:i}>$0'
+    prefix: 'fas-blackberry'
+  'fas-blanket':
+    body: '<${1:i} className=\"fas fa-blanket$2\"></${1:i}>$0'
+    prefix: 'fas-blanket'
+  'fas-blender':
+    body: '<${1:i} className=\"fas fa-blender$2\"></${1:i}>$0'
+    prefix: 'fas-blender'
   'fas-blind':
-    body: '<${1:i} className="fas fa-blind$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-blind$2\"></${1:i}>$0'
     prefix: 'fas-blind'
+  'fas-blogger':
+    body: '<${1:i} className=\"fas fa-blogger$2\"></${1:i}>$0'
+    prefix: 'fas-blogger'
+  'fas-blogger-b':
+    body: '<${1:i} className=\"fas fa-blogger-b$2\"></${1:i}>$0'
+    prefix: 'fas-blogger-b'
+  'fas-bluetooth':
+    body: '<${1:i} className=\"fas fa-bluetooth$2\"></${1:i}>$0'
+    prefix: 'fas-bluetooth'
+  'fas-bluetooth-b':
+    body: '<${1:i} className=\"fas fa-bluetooth-b$2\"></${1:i}>$0'
+    prefix: 'fas-bluetooth-b'
   'fas-bold':
-    body: '<${1:i} className="fas fa-bold$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-bold$2\"></${1:i}>$0'
     prefix: 'fas-bold'
   'fas-bolt':
-    body: '<${1:i} className="fas fa-bolt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-bolt$2\"></${1:i}>$0'
     prefix: 'fas-bolt'
   'fas-bomb':
-    body: '<${1:i} className="fas fa-bomb$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-bomb$2\"></${1:i}>$0'
     prefix: 'fas-bomb'
   'fas-book':
-    body: '<${1:i} className="fas fa-book$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-book$2\"></${1:i}>$0'
     prefix: 'fas-book'
+  'fas-book-heart':
+    body: '<${1:i} className=\"fas fa-book-heart$2\"></${1:i}>$0'
+    prefix: 'fas-book-heart'
+  'fas-book-open':
+    body: '<${1:i} className=\"fas fa-book-open$2\"></${1:i}>$0'
+    prefix: 'fas-book-open'
   'fas-bookmark':
-    body: '<${1:i} className="fas fa-bookmark$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-bookmark$2\"></${1:i}>$0'
     prefix: 'fas-bookmark'
+  'fas-bowling-ball':
+    body: '<${1:i} className=\"fas fa-bowling-ball$2\"></${1:i}>$0'
+    prefix: 'fas-bowling-ball'
+  'fas-bowling-pins':
+    body: '<${1:i} className=\"fas fa-bowling-pins$2\"></${1:i}>$0'
+    prefix: 'fas-bowling-pins'
+  'fas-box':
+    body: '<${1:i} className=\"fas fa-box$2\"></${1:i}>$0'
+    prefix: 'fas-box'
+  'fas-box-alt':
+    body: '<${1:i} className=\"fas fa-box-alt$2\"></${1:i}>$0'
+    prefix: 'fas-box-alt'
+  'fas-box-check':
+    body: '<${1:i} className=\"fas fa-box-check$2\"></${1:i}>$0'
+    prefix: 'fas-box-check'
+  'fas-box-fragile':
+    body: '<${1:i} className=\"fas fa-box-fragile$2\"></${1:i}>$0'
+    prefix: 'fas-box-fragile'
+  'fas-box-full':
+    body: '<${1:i} className=\"fas fa-box-full$2\"></${1:i}>$0'
+    prefix: 'fas-box-full'
+  'fas-box-heart':
+    body: '<${1:i} className=\"fas fa-box-heart$2\"></${1:i}>$0'
+    prefix: 'fas-box-heart'
+  'fas-box-open':
+    body: '<${1:i} className=\"fas fa-box-open$2\"></${1:i}>$0'
+    prefix: 'fas-box-open'
+  'fas-box-up':
+    body: '<${1:i} className=\"fas fa-box-up$2\"></${1:i}>$0'
+    prefix: 'fas-box-up'
+  'fas-box-usd':
+    body: '<${1:i} className=\"fas fa-box-usd$2\"></${1:i}>$0'
+    prefix: 'fas-box-usd'
+  'fas-boxes':
+    body: '<${1:i} className=\"fas fa-boxes$2\"></${1:i}>$0'
+    prefix: 'fas-boxes'
+  'fas-boxes-alt':
+    body: '<${1:i} className=\"fas fa-boxes-alt$2\"></${1:i}>$0'
+    prefix: 'fas-boxes-alt'
+  'fas-boxing-glove':
+    body: '<${1:i} className=\"fas fa-boxing-glove$2\"></${1:i}>$0'
+    prefix: 'fas-boxing-glove'
   'fas-braille':
-    body: '<${1:i} className="fas fa-braille$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-braille$2\"></${1:i}>$0'
     prefix: 'fas-braille'
   'fas-briefcase':
-    body: '<${1:i} className="fas fa-briefcase$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-briefcase$2\"></${1:i}>$0'
     prefix: 'fas-briefcase'
+  'fas-briefcase-medical':
+    body: '<${1:i} className=\"fas fa-briefcase-medical$2\"></${1:i}>$0'
+    prefix: 'fas-briefcase-medical'
+  'fas-broadcast-tower':
+    body: '<${1:i} className=\"fas fa-broadcast-tower$2\"></${1:i}>$0'
+    prefix: 'fas-broadcast-tower'
+  'fas-broom':
+    body: '<${1:i} className=\"fas fa-broom$2\"></${1:i}>$0'
+    prefix: 'fas-broom'
   'fas-browser':
-    body: '<${1:i} className="fas fa-browser$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-browser$2\"></${1:i}>$0'
     prefix: 'fas-browser'
+  'fas-btc':
+    body: '<${1:i} className=\"fas fa-btc$2\"></${1:i}>$0'
+    prefix: 'fas-btc'
   'fas-bug':
-    body: '<${1:i} className="fas fa-bug$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-bug$2\"></${1:i}>$0'
     prefix: 'fas-bug'
   'fas-building':
-    body: '<${1:i} className="fas fa-building$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-building$2\"></${1:i}>$0'
     prefix: 'fas-building'
   'fas-bullhorn':
-    body: '<${1:i} className="fas fa-bullhorn$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-bullhorn$2\"></${1:i}>$0'
     prefix: 'fas-bullhorn'
   'fas-bullseye':
-    body: '<${1:i} className="fas fa-bullseye$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-bullseye$2\"></${1:i}>$0'
     prefix: 'fas-bullseye'
+  'fas-burn':
+    body: '<${1:i} className=\"fas fa-burn$2\"></${1:i}>$0'
+    prefix: 'fas-burn'
+  'fas-buromobelexperte':
+    body: '<${1:i} className=\"fas fa-buromobelexperte$2\"></${1:i}>$0'
+    prefix: 'fas-buromobelexperte'
   'fas-bus':
-    body: '<${1:i} className="fas fa-bus$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-bus$2\"></${1:i}>$0'
     prefix: 'fas-bus'
+  'fas-buysellads':
+    body: '<${1:i} className=\"fas fa-buysellads$2\"></${1:i}>$0'
+    prefix: 'fas-buysellads'
   'fas-calculator':
-    body: '<${1:i} className="fas fa-calculator$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-calculator$2\"></${1:i}>$0'
     prefix: 'fas-calculator'
   'fas-calendar':
-    body: '<${1:i} className="fas fa-calendar$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-calendar$2\"></${1:i}>$0'
     prefix: 'fas-calendar'
   'fas-calendar-alt':
-    body: '<${1:i} className="fas fa-calendar-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-calendar-alt$2\"></${1:i}>$0'
     prefix: 'fas-calendar-alt'
   'fas-calendar-check':
-    body: '<${1:i} className="fas fa-calendar-check$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-calendar-check$2\"></${1:i}>$0'
     prefix: 'fas-calendar-check'
   'fas-calendar-edit':
-    body: '<${1:i} className="fas fa-calendar-edit$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-calendar-edit$2\"></${1:i}>$0'
     prefix: 'fas-calendar-edit'
   'fas-calendar-exclamation':
-    body: '<${1:i} className="fas fa-calendar-exclamation$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-calendar-exclamation$2\"></${1:i}>$0'
     prefix: 'fas-calendar-exclamation'
   'fas-calendar-minus':
-    body: '<${1:i} className="fas fa-calendar-minus$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-calendar-minus$2\"></${1:i}>$0'
     prefix: 'fas-calendar-minus'
   'fas-calendar-plus':
-    body: '<${1:i} className="fas fa-calendar-plus$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-calendar-plus$2\"></${1:i}>$0'
     prefix: 'fas-calendar-plus'
   'fas-calendar-times':
-    body: '<${1:i} className="fas fa-calendar-times$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-calendar-times$2\"></${1:i}>$0'
     prefix: 'fas-calendar-times'
   'fas-camera':
-    body: '<${1:i} className="fas fa-camera$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-camera$2\"></${1:i}>$0'
     prefix: 'fas-camera'
   'fas-camera-alt':
-    body: '<${1:i} className="fas fa-camera-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-camera-alt$2\"></${1:i}>$0'
     prefix: 'fas-camera-alt'
   'fas-camera-retro':
-    body: '<${1:i} className="fas fa-camera-retro$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-camera-retro$2\"></${1:i}>$0'
     prefix: 'fas-camera-retro'
+  'fas-capsules':
+    body: '<${1:i} className=\"fas fa-capsules$2\"></${1:i}>$0'
+    prefix: 'fas-capsules'
   'fas-car':
-    body: '<${1:i} className="fas fa-car$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-car$2\"></${1:i}>$0'
     prefix: 'fas-car'
   'fas-caret-circle-down':
-    body: '<${1:i} className="fas fa-caret-circle-down$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-caret-circle-down$2\"></${1:i}>$0'
     prefix: 'fas-caret-circle-down'
   'fas-caret-circle-left':
-    body: '<${1:i} className="fas fa-caret-circle-left$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-caret-circle-left$2\"></${1:i}>$0'
     prefix: 'fas-caret-circle-left'
   'fas-caret-circle-right':
-    body: '<${1:i} className="fas fa-caret-circle-right$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-caret-circle-right$2\"></${1:i}>$0'
     prefix: 'fas-caret-circle-right'
   'fas-caret-circle-up':
-    body: '<${1:i} className="fas fa-caret-circle-up$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-caret-circle-up$2\"></${1:i}>$0'
     prefix: 'fas-caret-circle-up'
   'fas-caret-down':
-    body: '<${1:i} className="fas fa-caret-down$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-caret-down$2\"></${1:i}>$0'
     prefix: 'fas-caret-down'
   'fas-caret-left':
-    body: '<${1:i} className="fas fa-caret-left$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-caret-left$2\"></${1:i}>$0'
     prefix: 'fas-caret-left'
   'fas-caret-right':
-    body: '<${1:i} className="fas fa-caret-right$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-caret-right$2\"></${1:i}>$0'
     prefix: 'fas-caret-right'
   'fas-caret-square-down':
-    body: '<${1:i} className="fas fa-caret-square-down$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-caret-square-down$2\"></${1:i}>$0'
     prefix: 'fas-caret-square-down'
   'fas-caret-square-left':
-    body: '<${1:i} className="fas fa-caret-square-left$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-caret-square-left$2\"></${1:i}>$0'
     prefix: 'fas-caret-square-left'
   'fas-caret-square-right':
-    body: '<${1:i} className="fas fa-caret-square-right$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-caret-square-right$2\"></${1:i}>$0'
     prefix: 'fas-caret-square-right'
   'fas-caret-square-up':
-    body: '<${1:i} className="fas fa-caret-square-up$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-caret-square-up$2\"></${1:i}>$0'
     prefix: 'fas-caret-square-up'
   'fas-caret-up':
-    body: '<${1:i} className="fas fa-caret-up$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-caret-up$2\"></${1:i}>$0'
     prefix: 'fas-caret-up'
   'fas-cart-arrow-down':
-    body: '<${1:i} className="fas fa-cart-arrow-down$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-cart-arrow-down$2\"></${1:i}>$0'
     prefix: 'fas-cart-arrow-down'
   'fas-cart-plus':
-    body: '<${1:i} className="fas fa-cart-plus$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-cart-plus$2\"></${1:i}>$0'
     prefix: 'fas-cart-plus'
+  'fas-cc-amazon-pay':
+    body: '<${1:i} className=\"fas fa-cc-amazon-pay$2\"></${1:i}>$0'
+    prefix: 'fas-cc-amazon-pay'
+  'fas-cc-amex':
+    body: '<${1:i} className=\"fas fa-cc-amex$2\"></${1:i}>$0'
+    prefix: 'fas-cc-amex'
+  'fas-cc-apple-pay':
+    body: '<${1:i} className=\"fas fa-cc-apple-pay$2\"></${1:i}>$0'
+    prefix: 'fas-cc-apple-pay'
+  'fas-cc-diners-club':
+    body: '<${1:i} className=\"fas fa-cc-diners-club$2\"></${1:i}>$0'
+    prefix: 'fas-cc-diners-club'
+  'fas-cc-discover':
+    body: '<${1:i} className=\"fas fa-cc-discover$2\"></${1:i}>$0'
+    prefix: 'fas-cc-discover'
+  'fas-cc-jcb':
+    body: '<${1:i} className=\"fas fa-cc-jcb$2\"></${1:i}>$0'
+    prefix: 'fas-cc-jcb'
+  'fas-cc-mastercard':
+    body: '<${1:i} className=\"fas fa-cc-mastercard$2\"></${1:i}>$0'
+    prefix: 'fas-cc-mastercard'
+  'fas-cc-paypal':
+    body: '<${1:i} className=\"fas fa-cc-paypal$2\"></${1:i}>$0'
+    prefix: 'fas-cc-paypal'
+  'fas-cc-stripe':
+    body: '<${1:i} className=\"fas fa-cc-stripe$2\"></${1:i}>$0'
+    prefix: 'fas-cc-stripe'
+  'fas-cc-visa':
+    body: '<${1:i} className=\"fas fa-cc-visa$2\"></${1:i}>$0'
+    prefix: 'fas-cc-visa'
+  'fas-centercode':
+    body: '<${1:i} className=\"fas fa-centercode$2\"></${1:i}>$0'
+    prefix: 'fas-centercode'
   'fas-certificate':
-    body: '<${1:i} className="fas fa-certificate$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-certificate$2\"></${1:i}>$0'
     prefix: 'fas-certificate'
+  'fas-chalkboard':
+    body: '<${1:i} className=\"fas fa-chalkboard$2\"></${1:i}>$0'
+    prefix: 'fas-chalkboard'
+  'fas-chalkboard-teacher':
+    body: '<${1:i} className=\"fas fa-chalkboard-teacher$2\"></${1:i}>$0'
+    prefix: 'fas-chalkboard-teacher'
   'fas-chart-area':
-    body: '<${1:i} className="fas fa-chart-area$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-chart-area$2\"></${1:i}>$0'
     prefix: 'fas-chart-area'
   'fas-chart-bar':
-    body: '<${1:i} className="fas fa-chart-bar$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-chart-bar$2\"></${1:i}>$0'
     prefix: 'fas-chart-bar'
   'fas-chart-line':
-    body: '<${1:i} className="fas fa-chart-line$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-chart-line$2\"></${1:i}>$0'
     prefix: 'fas-chart-line'
   'fas-chart-pie':
-    body: '<${1:i} className="fas fa-chart-pie$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-chart-pie$2\"></${1:i}>$0'
     prefix: 'fas-chart-pie'
   'fas-check':
-    body: '<${1:i} className="fas fa-check$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-check$2\"></${1:i}>$0'
     prefix: 'fas-check'
   'fas-check-circle':
-    body: '<${1:i} className="fas fa-check-circle$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-check-circle$2\"></${1:i}>$0'
     prefix: 'fas-check-circle'
   'fas-check-square':
-    body: '<${1:i} className="fas fa-check-square$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-check-square$2\"></${1:i}>$0'
     prefix: 'fas-check-square'
+  'fas-chess':
+    body: '<${1:i} className=\"fas fa-chess$2\"></${1:i}>$0'
+    prefix: 'fas-chess'
+  'fas-chess-bishop':
+    body: '<${1:i} className=\"fas fa-chess-bishop$2\"></${1:i}>$0'
+    prefix: 'fas-chess-bishop'
+  'fas-chess-bishop-alt':
+    body: '<${1:i} className=\"fas fa-chess-bishop-alt$2\"></${1:i}>$0'
+    prefix: 'fas-chess-bishop-alt'
+  'fas-chess-board':
+    body: '<${1:i} className=\"fas fa-chess-board$2\"></${1:i}>$0'
+    prefix: 'fas-chess-board'
+  'fas-chess-clock':
+    body: '<${1:i} className=\"fas fa-chess-clock$2\"></${1:i}>$0'
+    prefix: 'fas-chess-clock'
+  'fas-chess-clock-alt':
+    body: '<${1:i} className=\"fas fa-chess-clock-alt$2\"></${1:i}>$0'
+    prefix: 'fas-chess-clock-alt'
+  'fas-chess-king':
+    body: '<${1:i} className=\"fas fa-chess-king$2\"></${1:i}>$0'
+    prefix: 'fas-chess-king'
+  'fas-chess-king-alt':
+    body: '<${1:i} className=\"fas fa-chess-king-alt$2\"></${1:i}>$0'
+    prefix: 'fas-chess-king-alt'
+  'fas-chess-knight':
+    body: '<${1:i} className=\"fas fa-chess-knight$2\"></${1:i}>$0'
+    prefix: 'fas-chess-knight'
+  'fas-chess-knight-alt':
+    body: '<${1:i} className=\"fas fa-chess-knight-alt$2\"></${1:i}>$0'
+    prefix: 'fas-chess-knight-alt'
+  'fas-chess-pawn':
+    body: '<${1:i} className=\"fas fa-chess-pawn$2\"></${1:i}>$0'
+    prefix: 'fas-chess-pawn'
+  'fas-chess-pawn-alt':
+    body: '<${1:i} className=\"fas fa-chess-pawn-alt$2\"></${1:i}>$0'
+    prefix: 'fas-chess-pawn-alt'
+  'fas-chess-queen':
+    body: '<${1:i} className=\"fas fa-chess-queen$2\"></${1:i}>$0'
+    prefix: 'fas-chess-queen'
+  'fas-chess-queen-alt':
+    body: '<${1:i} className=\"fas fa-chess-queen-alt$2\"></${1:i}>$0'
+    prefix: 'fas-chess-queen-alt'
+  'fas-chess-rook':
+    body: '<${1:i} className=\"fas fa-chess-rook$2\"></${1:i}>$0'
+    prefix: 'fas-chess-rook'
+  'fas-chess-rook-alt':
+    body: '<${1:i} className=\"fas fa-chess-rook-alt$2\"></${1:i}>$0'
+    prefix: 'fas-chess-rook-alt'
   'fas-chevron-circle-down':
-    body: '<${1:i} className="fas fa-chevron-circle-down$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-chevron-circle-down$2\"></${1:i}>$0'
     prefix: 'fas-chevron-circle-down'
   'fas-chevron-circle-left':
-    body: '<${1:i} className="fas fa-chevron-circle-left$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-chevron-circle-left$2\"></${1:i}>$0'
     prefix: 'fas-chevron-circle-left'
   'fas-chevron-circle-right':
-    body: '<${1:i} className="fas fa-chevron-circle-right$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-chevron-circle-right$2\"></${1:i}>$0'
     prefix: 'fas-chevron-circle-right'
   'fas-chevron-circle-up':
-    body: '<${1:i} className="fas fa-chevron-circle-up$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-chevron-circle-up$2\"></${1:i}>$0'
     prefix: 'fas-chevron-circle-up'
   'fas-chevron-double-down':
-    body: '<${1:i} className="fas fa-chevron-double-down$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-chevron-double-down$2\"></${1:i}>$0'
     prefix: 'fas-chevron-double-down'
   'fas-chevron-double-left':
-    body: '<${1:i} className="fas fa-chevron-double-left$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-chevron-double-left$2\"></${1:i}>$0'
     prefix: 'fas-chevron-double-left'
   'fas-chevron-double-right':
-    body: '<${1:i} className="fas fa-chevron-double-right$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-chevron-double-right$2\"></${1:i}>$0'
     prefix: 'fas-chevron-double-right'
   'fas-chevron-double-up':
-    body: '<${1:i} className="fas fa-chevron-double-up$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-chevron-double-up$2\"></${1:i}>$0'
     prefix: 'fas-chevron-double-up'
   'fas-chevron-down':
-    body: '<${1:i} className="fas fa-chevron-down$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-chevron-down$2\"></${1:i}>$0'
     prefix: 'fas-chevron-down'
   'fas-chevron-left':
-    body: '<${1:i} className="fas fa-chevron-left$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-chevron-left$2\"></${1:i}>$0'
     prefix: 'fas-chevron-left'
   'fas-chevron-right':
-    body: '<${1:i} className="fas fa-chevron-right$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-chevron-right$2\"></${1:i}>$0'
     prefix: 'fas-chevron-right'
   'fas-chevron-square-down':
-    body: '<${1:i} className="fas fa-chevron-square-down$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-chevron-square-down$2\"></${1:i}>$0'
     prefix: 'fas-chevron-square-down'
   'fas-chevron-square-left':
-    body: '<${1:i} className="fas fa-chevron-square-left$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-chevron-square-left$2\"></${1:i}>$0'
     prefix: 'fas-chevron-square-left'
   'fas-chevron-square-right':
-    body: '<${1:i} className="fas fa-chevron-square-right$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-chevron-square-right$2\"></${1:i}>$0'
     prefix: 'fas-chevron-square-right'
   'fas-chevron-square-up':
-    body: '<${1:i} className="fas fa-chevron-square-up$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-chevron-square-up$2\"></${1:i}>$0'
     prefix: 'fas-chevron-square-up'
   'fas-chevron-up':
-    body: '<${1:i} className="fas fa-chevron-up$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-chevron-up$2\"></${1:i}>$0'
     prefix: 'fas-chevron-up'
   'fas-child':
-    body: '<${1:i} className="fas fa-child$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-child$2\"></${1:i}>$0'
     prefix: 'fas-child'
+  'fas-chrome':
+    body: '<${1:i} className=\"fas fa-chrome$2\"></${1:i}>$0'
+    prefix: 'fas-chrome'
+  'fas-church':
+    body: '<${1:i} className=\"fas fa-church$2\"></${1:i}>$0'
+    prefix: 'fas-church'
   'fas-circle':
-    body: '<${1:i} className="fas fa-circle$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-circle$2\"></${1:i}>$0'
     prefix: 'fas-circle'
   'fas-circle-notch':
-    body: '<${1:i} className="fas fa-circle-notch$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-circle-notch$2\"></${1:i}>$0'
     prefix: 'fas-circle-notch'
   'fas-clipboard':
-    body: '<${1:i} className="fas fa-clipboard$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-clipboard$2\"></${1:i}>$0'
     prefix: 'fas-clipboard'
+  'fas-clipboard-check':
+    body: '<${1:i} className=\"fas fa-clipboard-check$2\"></${1:i}>$0'
+    prefix: 'fas-clipboard-check'
+  'fas-clipboard-list':
+    body: '<${1:i} className=\"fas fa-clipboard-list$2\"></${1:i}>$0'
+    prefix: 'fas-clipboard-list'
   'fas-clock':
-    body: '<${1:i} className="fas fa-clock$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-clock$2\"></${1:i}>$0'
     prefix: 'fas-clock'
   'fas-clone':
-    body: '<${1:i} className="fas fa-clone$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-clone$2\"></${1:i}>$0'
     prefix: 'fas-clone'
   'fas-closed-captioning':
-    body: '<${1:i} className="fas fa-closed-captioning$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-closed-captioning$2\"></${1:i}>$0'
     prefix: 'fas-closed-captioning'
   'fas-cloud':
-    body: '<${1:i} className="fas fa-cloud$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-cloud$2\"></${1:i}>$0'
     prefix: 'fas-cloud'
   'fas-cloud-download':
-    body: '<${1:i} className="fas fa-cloud-download$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-cloud-download$2\"></${1:i}>$0'
     prefix: 'fas-cloud-download'
   'fas-cloud-download-alt':
-    body: '<${1:i} className="fas fa-cloud-download-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-cloud-download-alt$2\"></${1:i}>$0'
     prefix: 'fas-cloud-download-alt'
   'fas-cloud-upload':
-    body: '<${1:i} className="fas fa-cloud-upload$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-cloud-upload$2\"></${1:i}>$0'
     prefix: 'fas-cloud-upload'
   'fas-cloud-upload-alt':
-    body: '<${1:i} className="fas fa-cloud-upload-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-cloud-upload-alt$2\"></${1:i}>$0'
     prefix: 'fas-cloud-upload-alt'
+  'fas-cloudscale':
+    body: '<${1:i} className=\"fas fa-cloudscale$2\"></${1:i}>$0'
+    prefix: 'fas-cloudscale'
+  'fas-cloudsmith':
+    body: '<${1:i} className=\"fas fa-cloudsmith$2\"></${1:i}>$0'
+    prefix: 'fas-cloudsmith'
+  'fas-cloudversify':
+    body: '<${1:i} className=\"fas fa-cloudversify$2\"></${1:i}>$0'
+    prefix: 'fas-cloudversify'
   'fas-club':
-    body: '<${1:i} className="fas fa-club$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-club$2\"></${1:i}>$0'
     prefix: 'fas-club'
   'fas-code':
-    body: '<${1:i} className="fas fa-code$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-code$2\"></${1:i}>$0'
     prefix: 'fas-code'
   'fas-code-branch':
-    body: '<${1:i} className="fas fa-code-branch$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-code-branch$2\"></${1:i}>$0'
     prefix: 'fas-code-branch'
   'fas-code-commit':
-    body: '<${1:i} className="fas fa-code-commit$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-code-commit$2\"></${1:i}>$0'
     prefix: 'fas-code-commit'
   'fas-code-merge':
-    body: '<${1:i} className="fas fa-code-merge$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-code-merge$2\"></${1:i}>$0'
     prefix: 'fas-code-merge'
+  'fas-codepen':
+    body: '<${1:i} className=\"fas fa-codepen$2\"></${1:i}>$0'
+    prefix: 'fas-codepen'
+  'fas-codiepie':
+    body: '<${1:i} className=\"fas fa-codiepie$2\"></${1:i}>$0'
+    prefix: 'fas-codiepie'
   'fas-coffee':
-    body: '<${1:i} className="fas fa-coffee$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-coffee$2\"></${1:i}>$0'
     prefix: 'fas-coffee'
   'fas-cog':
-    body: '<${1:i} className="fas fa-cog$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-cog$2\"></${1:i}>$0'
     prefix: 'fas-cog'
   'fas-cogs':
-    body: '<${1:i} className="fas fa-cogs$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-cogs$2\"></${1:i}>$0'
     prefix: 'fas-cogs'
+  'fas-coins':
+    body: '<${1:i} className=\"fas fa-coins$2\"></${1:i}>$0'
+    prefix: 'fas-coins'
   'fas-columns':
-    body: '<${1:i} className="fas fa-columns$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-columns$2\"></${1:i}>$0'
     prefix: 'fas-columns'
   'fas-comment':
-    body: '<${1:i} className="fas fa-comment$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-comment$2\"></${1:i}>$0'
     prefix: 'fas-comment'
   'fas-comment-alt':
-    body: '<${1:i} className="fas fa-comment-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-comment-alt$2\"></${1:i}>$0'
     prefix: 'fas-comment-alt'
+  'fas-comment-alt-check':
+    body: '<${1:i} className=\"fas fa-comment-alt-check$2\"></${1:i}>$0'
+    prefix: 'fas-comment-alt-check'
+  'fas-comment-alt-dots':
+    body: '<${1:i} className=\"fas fa-comment-alt-dots$2\"></${1:i}>$0'
+    prefix: 'fas-comment-alt-dots'
+  'fas-comment-alt-edit':
+    body: '<${1:i} className=\"fas fa-comment-alt-edit$2\"></${1:i}>$0'
+    prefix: 'fas-comment-alt-edit'
+  'fas-comment-alt-exclamation':
+    body: '<${1:i} className=\"fas fa-comment-alt-exclamation$2\"></${1:i}>$0'
+    prefix: 'fas-comment-alt-exclamation'
+  'fas-comment-alt-lines':
+    body: '<${1:i} className=\"fas fa-comment-alt-lines$2\"></${1:i}>$0'
+    prefix: 'fas-comment-alt-lines'
+  'fas-comment-alt-minus':
+    body: '<${1:i} className=\"fas fa-comment-alt-minus$2\"></${1:i}>$0'
+    prefix: 'fas-comment-alt-minus'
+  'fas-comment-alt-plus':
+    body: '<${1:i} className=\"fas fa-comment-alt-plus$2\"></${1:i}>$0'
+    prefix: 'fas-comment-alt-plus'
+  'fas-comment-alt-slash':
+    body: '<${1:i} className=\"fas fa-comment-alt-slash$2\"></${1:i}>$0'
+    prefix: 'fas-comment-alt-slash'
+  'fas-comment-alt-smile':
+    body: '<${1:i} className=\"fas fa-comment-alt-smile$2\"></${1:i}>$0'
+    prefix: 'fas-comment-alt-smile'
+  'fas-comment-alt-times':
+    body: '<${1:i} className=\"fas fa-comment-alt-times$2\"></${1:i}>$0'
+    prefix: 'fas-comment-alt-times'
+  'fas-comment-check':
+    body: '<${1:i} className=\"fas fa-comment-check$2\"></${1:i}>$0'
+    prefix: 'fas-comment-check'
+  'fas-comment-dots':
+    body: '<${1:i} className=\"fas fa-comment-dots$2\"></${1:i}>$0'
+    prefix: 'fas-comment-dots'
+  'fas-comment-edit':
+    body: '<${1:i} className=\"fas fa-comment-edit$2\"></${1:i}>$0'
+    prefix: 'fas-comment-edit'
+  'fas-comment-exclamation':
+    body: '<${1:i} className=\"fas fa-comment-exclamation$2\"></${1:i}>$0'
+    prefix: 'fas-comment-exclamation'
+  'fas-comment-lines':
+    body: '<${1:i} className=\"fas fa-comment-lines$2\"></${1:i}>$0'
+    prefix: 'fas-comment-lines'
+  'fas-comment-minus':
+    body: '<${1:i} className=\"fas fa-comment-minus$2\"></${1:i}>$0'
+    prefix: 'fas-comment-minus'
+  'fas-comment-plus':
+    body: '<${1:i} className=\"fas fa-comment-plus$2\"></${1:i}>$0'
+    prefix: 'fas-comment-plus'
+  'fas-comment-slash':
+    body: '<${1:i} className=\"fas fa-comment-slash$2\"></${1:i}>$0'
+    prefix: 'fas-comment-slash'
+  'fas-comment-smile':
+    body: '<${1:i} className=\"fas fa-comment-smile$2\"></${1:i}>$0'
+    prefix: 'fas-comment-smile'
+  'fas-comment-times':
+    body: '<${1:i} className=\"fas fa-comment-times$2\"></${1:i}>$0'
+    prefix: 'fas-comment-times'
   'fas-comments':
-    body: '<${1:i} className="fas fa-comments$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-comments$2\"></${1:i}>$0'
     prefix: 'fas-comments'
+  'fas-comments-alt':
+    body: '<${1:i} className=\"fas fa-comments-alt$2\"></${1:i}>$0'
+    prefix: 'fas-comments-alt'
+  'fas-compact-disc':
+    body: '<${1:i} className=\"fas fa-compact-disc$2\"></${1:i}>$0'
+    prefix: 'fas-compact-disc'
   'fas-compass':
-    body: '<${1:i} className="fas fa-compass$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-compass$2\"></${1:i}>$0'
     prefix: 'fas-compass'
   'fas-compress':
-    body: '<${1:i} className="fas fa-compress$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-compress$2\"></${1:i}>$0'
     prefix: 'fas-compress'
   'fas-compress-alt':
-    body: '<${1:i} className="fas fa-compress-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-compress-alt$2\"></${1:i}>$0'
     prefix: 'fas-compress-alt'
   'fas-compress-wide':
-    body: '<${1:i} className="fas fa-compress-wide$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-compress-wide$2\"></${1:i}>$0'
     prefix: 'fas-compress-wide'
+  'fas-connectdevelop':
+    body: '<${1:i} className=\"fas fa-connectdevelop$2\"></${1:i}>$0'
+    prefix: 'fas-connectdevelop'
+  'fas-container-storage':
+    body: '<${1:i} className=\"fas fa-container-storage$2\"></${1:i}>$0'
+    prefix: 'fas-container-storage'
+  'fas-contao':
+    body: '<${1:i} className=\"fas fa-contao$2\"></${1:i}>$0'
+    prefix: 'fas-contao'
+  'fas-conveyor-belt':
+    body: '<${1:i} className=\"fas fa-conveyor-belt$2\"></${1:i}>$0'
+    prefix: 'fas-conveyor-belt'
+  'fas-conveyor-belt-alt':
+    body: '<${1:i} className=\"fas fa-conveyor-belt-alt$2\"></${1:i}>$0'
+    prefix: 'fas-conveyor-belt-alt'
   'fas-copy':
-    body: '<${1:i} className="fas fa-copy$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-copy$2\"></${1:i}>$0'
     prefix: 'fas-copy'
   'fas-copyright':
-    body: '<${1:i} className="fas fa-copyright$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-copyright$2\"></${1:i}>$0'
     prefix: 'fas-copyright'
+  'fas-couch':
+    body: '<${1:i} className=\"fas fa-couch$2\"></${1:i}>$0'
+    prefix: 'fas-couch'
+  'fas-cpanel':
+    body: '<${1:i} className=\"fas fa-cpanel$2\"></${1:i}>$0'
+    prefix: 'fas-cpanel'
+  'fas-creative-commons':
+    body: '<${1:i} className=\"fas fa-creative-commons$2\"></${1:i}>$0'
+    prefix: 'fas-creative-commons'
+  'fas-creative-commons-by':
+    body: '<${1:i} className=\"fas fa-creative-commons-by$2\"></${1:i}>$0'
+    prefix: 'fas-creative-commons-by'
+  'fas-creative-commons-nc':
+    body: '<${1:i} className=\"fas fa-creative-commons-nc$2\"></${1:i}>$0'
+    prefix: 'fas-creative-commons-nc'
+  'fas-creative-commons-nc-eu':
+    body: '<${1:i} className=\"fas fa-creative-commons-nc-eu$2\"></${1:i}>$0'
+    prefix: 'fas-creative-commons-nc-eu'
+  'fas-creative-commons-nc-jp':
+    body: '<${1:i} className=\"fas fa-creative-commons-nc-jp$2\"></${1:i}>$0'
+    prefix: 'fas-creative-commons-nc-jp'
+  'fas-creative-commons-nd':
+    body: '<${1:i} className=\"fas fa-creative-commons-nd$2\"></${1:i}>$0'
+    prefix: 'fas-creative-commons-nd'
+  'fas-creative-commons-pd':
+    body: '<${1:i} className=\"fas fa-creative-commons-pd$2\"></${1:i}>$0'
+    prefix: 'fas-creative-commons-pd'
+  'fas-creative-commons-pd-alt':
+    body: '<${1:i} className=\"fas fa-creative-commons-pd-alt$2\"></${1:i}>$0'
+    prefix: 'fas-creative-commons-pd-alt'
+  'fas-creative-commons-remix':
+    body: '<${1:i} className=\"fas fa-creative-commons-remix$2\"></${1:i}>$0'
+    prefix: 'fas-creative-commons-remix'
+  'fas-creative-commons-sa':
+    body: '<${1:i} className=\"fas fa-creative-commons-sa$2\"></${1:i}>$0'
+    prefix: 'fas-creative-commons-sa'
+  'fas-creative-commons-sampling':
+    body: '<${1:i} className=\"fas fa-creative-commons-sampling$2\"></${1:i}>$0'
+    prefix: 'fas-creative-commons-sampling'
+  'fas-creative-commons-sampling-plus':
+    body: '<${1:i} className=\"fas fa-creative-commons-sampling-plus$2\"></${1:i}>$0'
+    prefix: 'fas-creative-commons-sampling-plus'
+  'fas-creative-commons-share':
+    body: '<${1:i} className=\"fas fa-creative-commons-share$2\"></${1:i}>$0'
+    prefix: 'fas-creative-commons-share'
+  'fas-creative-commons-zero':
+    body: '<${1:i} className=\"fas fa-creative-commons-zero$2\"></${1:i}>$0'
+    prefix: 'fas-creative-commons-zero'
   'fas-credit-card':
-    body: '<${1:i} className="fas fa-credit-card$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-credit-card$2\"></${1:i}>$0'
     prefix: 'fas-credit-card'
   'fas-credit-card-blank':
-    body: '<${1:i} className="fas fa-credit-card-blank$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-credit-card-blank$2\"></${1:i}>$0'
     prefix: 'fas-credit-card-blank'
   'fas-credit-card-front':
-    body: '<${1:i} className="fas fa-credit-card-front$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-credit-card-front$2\"></${1:i}>$0'
     prefix: 'fas-credit-card-front'
+  'fas-cricket':
+    body: '<${1:i} className=\"fas fa-cricket$2\"></${1:i}>$0'
+    prefix: 'fas-cricket'
   'fas-crop':
-    body: '<${1:i} className="fas fa-crop$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-crop$2\"></${1:i}>$0'
     prefix: 'fas-crop'
   'fas-crosshairs':
-    body: '<${1:i} className="fas fa-crosshairs$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-crosshairs$2\"></${1:i}>$0'
     prefix: 'fas-crosshairs'
+  'fas-crow':
+    body: '<${1:i} className=\"fas fa-crow$2\"></${1:i}>$0'
+    prefix: 'fas-crow'
+  'fas-crown':
+    body: '<${1:i} className=\"fas fa-crown$2\"></${1:i}>$0'
+    prefix: 'fas-crown'
+  'fas-css3':
+    body: '<${1:i} className=\"fas fa-css3$2\"></${1:i}>$0'
+    prefix: 'fas-css3'
+  'fas-css3-alt':
+    body: '<${1:i} className=\"fas fa-css3-alt$2\"></${1:i}>$0'
+    prefix: 'fas-css3-alt'
   'fas-cube':
-    body: '<${1:i} className="fas fa-cube$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-cube$2\"></${1:i}>$0'
     prefix: 'fas-cube'
   'fas-cubes':
-    body: '<${1:i} className="fas fa-cubes$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-cubes$2\"></${1:i}>$0'
     prefix: 'fas-cubes'
+  'fas-curling':
+    body: '<${1:i} className=\"fas fa-curling$2\"></${1:i}>$0'
+    prefix: 'fas-curling'
   'fas-cut':
-    body: '<${1:i} className="fas fa-cut$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-cut$2\"></${1:i}>$0'
     prefix: 'fas-cut'
+  'fas-cuttlefish':
+    body: '<${1:i} className=\"fas fa-cuttlefish$2\"></${1:i}>$0'
+    prefix: 'fas-cuttlefish'
+  'fas-d-and-d':
+    body: '<${1:i} className=\"fas fa-d-and-d$2\"></${1:i}>$0'
+    prefix: 'fas-d-and-d'
+  'fas-dashcube':
+    body: '<${1:i} className=\"fas fa-dashcube$2\"></${1:i}>$0'
+    prefix: 'fas-dashcube'
   'fas-database':
-    body: '<${1:i} className="fas fa-database$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-database$2\"></${1:i}>$0'
     prefix: 'fas-database'
   'fas-deaf':
-    body: '<${1:i} className="fas fa-deaf$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-deaf$2\"></${1:i}>$0'
     prefix: 'fas-deaf'
+  'fas-delicious':
+    body: '<${1:i} className=\"fas fa-delicious$2\"></${1:i}>$0'
+    prefix: 'fas-delicious'
+  'fas-deploydog':
+    body: '<${1:i} className=\"fas fa-deploydog$2\"></${1:i}>$0'
+    prefix: 'fas-deploydog'
+  'fas-deskpro':
+    body: '<${1:i} className=\"fas fa-deskpro$2\"></${1:i}>$0'
+    prefix: 'fas-deskpro'
   'fas-desktop':
-    body: '<${1:i} className="fas fa-desktop$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-desktop$2\"></${1:i}>$0'
     prefix: 'fas-desktop'
   'fas-desktop-alt':
-    body: '<${1:i} className="fas fa-desktop-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-desktop-alt$2\"></${1:i}>$0'
     prefix: 'fas-desktop-alt'
+  'fas-deviantart':
+    body: '<${1:i} className=\"fas fa-deviantart$2\"></${1:i}>$0'
+    prefix: 'fas-deviantart'
+  'fas-diagnoses':
+    body: '<${1:i} className=\"fas fa-diagnoses$2\"></${1:i}>$0'
+    prefix: 'fas-diagnoses'
   'fas-diamond':
-    body: '<${1:i} className="fas fa-diamond$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-diamond$2\"></${1:i}>$0'
     prefix: 'fas-diamond'
+  'fas-dice':
+    body: '<${1:i} className=\"fas fa-dice$2\"></${1:i}>$0'
+    prefix: 'fas-dice'
+  'fas-dice-five':
+    body: '<${1:i} className=\"fas fa-dice-five$2\"></${1:i}>$0'
+    prefix: 'fas-dice-five'
+  'fas-dice-four':
+    body: '<${1:i} className=\"fas fa-dice-four$2\"></${1:i}>$0'
+    prefix: 'fas-dice-four'
+  'fas-dice-one':
+    body: '<${1:i} className=\"fas fa-dice-one$2\"></${1:i}>$0'
+    prefix: 'fas-dice-one'
+  'fas-dice-six':
+    body: '<${1:i} className=\"fas fa-dice-six$2\"></${1:i}>$0'
+    prefix: 'fas-dice-six'
+  'fas-dice-three':
+    body: '<${1:i} className=\"fas fa-dice-three$2\"></${1:i}>$0'
+    prefix: 'fas-dice-three'
+  'fas-dice-two':
+    body: '<${1:i} className=\"fas fa-dice-two$2\"></${1:i}>$0'
+    prefix: 'fas-dice-two'
+  'fas-digg':
+    body: '<${1:i} className=\"fas fa-digg$2\"></${1:i}>$0'
+    prefix: 'fas-digg'
+  'fas-digital-ocean':
+    body: '<${1:i} className=\"fas fa-digital-ocean$2\"></${1:i}>$0'
+    prefix: 'fas-digital-ocean'
+  'fas-discord':
+    body: '<${1:i} className=\"fas fa-discord$2\"></${1:i}>$0'
+    prefix: 'fas-discord'
+  'fas-discourse':
+    body: '<${1:i} className=\"fas fa-discourse$2\"></${1:i}>$0'
+    prefix: 'fas-discourse'
+  'fas-divide':
+    body: '<${1:i} className=\"fas fa-divide$2\"></${1:i}>$0'
+    prefix: 'fas-divide'
+  'fas-dna':
+    body: '<${1:i} className=\"fas fa-dna$2\"></${1:i}>$0'
+    prefix: 'fas-dna'
+  'fas-dochub':
+    body: '<${1:i} className=\"fas fa-dochub$2\"></${1:i}>$0'
+    prefix: 'fas-dochub'
+  'fas-docker':
+    body: '<${1:i} className=\"fas fa-docker$2\"></${1:i}>$0'
+    prefix: 'fas-docker'
   'fas-dollar-sign':
-    body: '<${1:i} className="fas fa-dollar-sign$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-dollar-sign$2\"></${1:i}>$0'
     prefix: 'fas-dollar-sign'
+  'fas-dolly':
+    body: '<${1:i} className=\"fas fa-dolly$2\"></${1:i}>$0'
+    prefix: 'fas-dolly'
+  'fas-dolly-empty':
+    body: '<${1:i} className=\"fas fa-dolly-empty$2\"></${1:i}>$0'
+    prefix: 'fas-dolly-empty'
+  'fas-dolly-flatbed':
+    body: '<${1:i} className=\"fas fa-dolly-flatbed$2\"></${1:i}>$0'
+    prefix: 'fas-dolly-flatbed'
+  'fas-dolly-flatbed-alt':
+    body: '<${1:i} className=\"fas fa-dolly-flatbed-alt$2\"></${1:i}>$0'
+    prefix: 'fas-dolly-flatbed-alt'
+  'fas-dolly-flatbed-empty':
+    body: '<${1:i} className=\"fas fa-dolly-flatbed-empty$2\"></${1:i}>$0'
+    prefix: 'fas-dolly-flatbed-empty'
+  'fas-donate':
+    body: '<${1:i} className=\"fas fa-donate$2\"></${1:i}>$0'
+    prefix: 'fas-donate'
+  'fas-door-closed':
+    body: '<${1:i} className=\"fas fa-door-closed$2\"></${1:i}>$0'
+    prefix: 'fas-door-closed'
+  'fas-door-open':
+    body: '<${1:i} className=\"fas fa-door-open$2\"></${1:i}>$0'
+    prefix: 'fas-door-open'
   'fas-dot-circle':
-    body: '<${1:i} className="fas fa-dot-circle$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-dot-circle$2\"></${1:i}>$0'
     prefix: 'fas-dot-circle'
+  'fas-dove':
+    body: '<${1:i} className=\"fas fa-dove$2\"></${1:i}>$0'
+    prefix: 'fas-dove'
   'fas-download':
-    body: '<${1:i} className="fas fa-download$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-download$2\"></${1:i}>$0'
     prefix: 'fas-download'
+  'fas-draft2digital':
+    body: '<${1:i} className=\"fas fa-draft2digital$2\"></${1:i}>$0'
+    prefix: 'fas-draft2digital'
+  'fas-dribbble':
+    body: '<${1:i} className=\"fas fa-dribbble$2\"></${1:i}>$0'
+    prefix: 'fas-dribbble'
+  'fas-dribbble-square':
+    body: '<${1:i} className=\"fas fa-dribbble-square$2\"></${1:i}>$0'
+    prefix: 'fas-dribbble-square'
+  'fas-dropbox':
+    body: '<${1:i} className=\"fas fa-dropbox$2\"></${1:i}>$0'
+    prefix: 'fas-dropbox'
+  'fas-drupal':
+    body: '<${1:i} className=\"fas fa-drupal$2\"></${1:i}>$0'
+    prefix: 'fas-drupal'
+  'fas-dumbbell':
+    body: '<${1:i} className=\"fas fa-dumbbell$2\"></${1:i}>$0'
+    prefix: 'fas-dumbbell'
+  'fas-dyalog':
+    body: '<${1:i} className=\"fas fa-dyalog$2\"></${1:i}>$0'
+    prefix: 'fas-dyalog'
+  'fas-earlybirds':
+    body: '<${1:i} className=\"fas fa-earlybirds$2\"></${1:i}>$0'
+    prefix: 'fas-earlybirds'
+  'fas-ebay':
+    body: '<${1:i} className=\"fas fa-ebay$2\"></${1:i}>$0'
+    prefix: 'fas-ebay'
+  'fas-edge':
+    body: '<${1:i} className=\"fas fa-edge$2\"></${1:i}>$0'
+    prefix: 'fas-edge'
   'fas-edit':
-    body: '<${1:i} className="fas fa-edit$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-edit$2\"></${1:i}>$0'
     prefix: 'fas-edit'
   'fas-eject':
-    body: '<${1:i} className="fas fa-eject$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-eject$2\"></${1:i}>$0'
     prefix: 'fas-eject'
+  'fas-elementor':
+    body: '<${1:i} className=\"fas fa-elementor$2\"></${1:i}>$0'
+    prefix: 'fas-elementor'
   'fas-ellipsis-h':
-    body: '<${1:i} className="fas fa-ellipsis-h$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-ellipsis-h$2\"></${1:i}>$0'
     prefix: 'fas-ellipsis-h'
   'fas-ellipsis-h-alt':
-    body: '<${1:i} className="fas fa-ellipsis-h-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-ellipsis-h-alt$2\"></${1:i}>$0'
     prefix: 'fas-ellipsis-h-alt'
   'fas-ellipsis-v':
-    body: '<${1:i} className="fas fa-ellipsis-v$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-ellipsis-v$2\"></${1:i}>$0'
     prefix: 'fas-ellipsis-v'
   'fas-ellipsis-v-alt':
-    body: '<${1:i} className="fas fa-ellipsis-v-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-ellipsis-v-alt$2\"></${1:i}>$0'
     prefix: 'fas-ellipsis-v-alt'
+  'fas-ember':
+    body: '<${1:i} className=\"fas fa-ember$2\"></${1:i}>$0'
+    prefix: 'fas-ember'
+  'fas-empire':
+    body: '<${1:i} className=\"fas fa-empire$2\"></${1:i}>$0'
+    prefix: 'fas-empire'
   'fas-envelope':
-    body: '<${1:i} className="fas fa-envelope$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-envelope$2\"></${1:i}>$0'
     prefix: 'fas-envelope'
   'fas-envelope-open':
-    body: '<${1:i} className="fas fa-envelope-open$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-envelope-open$2\"></${1:i}>$0'
     prefix: 'fas-envelope-open'
   'fas-envelope-square':
-    body: '<${1:i} className="fas fa-envelope-square$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-envelope-square$2\"></${1:i}>$0'
     prefix: 'fas-envelope-square'
+  'fas-envira':
+    body: '<${1:i} className=\"fas fa-envira$2\"></${1:i}>$0'
+    prefix: 'fas-envira'
+  'fas-equals':
+    body: '<${1:i} className=\"fas fa-equals$2\"></${1:i}>$0'
+    prefix: 'fas-equals'
   'fas-eraser':
-    body: '<${1:i} className="fas fa-eraser$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-eraser$2\"></${1:i}>$0'
     prefix: 'fas-eraser'
+  'fas-erlang':
+    body: '<${1:i} className=\"fas fa-erlang$2\"></${1:i}>$0'
+    prefix: 'fas-erlang'
+  'fas-ethereum':
+    body: '<${1:i} className=\"fas fa-ethereum$2\"></${1:i}>$0'
+    prefix: 'fas-ethereum'
+  'fas-etsy':
+    body: '<${1:i} className=\"fas fa-etsy$2\"></${1:i}>$0'
+    prefix: 'fas-etsy'
   'fas-euro-sign':
-    body: '<${1:i} className="fas fa-euro-sign$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-euro-sign$2\"></${1:i}>$0'
     prefix: 'fas-euro-sign'
   'fas-exchange':
-    body: '<${1:i} className="fas fa-exchange$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-exchange$2\"></${1:i}>$0'
     prefix: 'fas-exchange'
   'fas-exchange-alt':
-    body: '<${1:i} className="fas fa-exchange-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-exchange-alt$2\"></${1:i}>$0'
     prefix: 'fas-exchange-alt'
   'fas-exclamation':
-    body: '<${1:i} className="fas fa-exclamation$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-exclamation$2\"></${1:i}>$0'
     prefix: 'fas-exclamation'
   'fas-exclamation-circle':
-    body: '<${1:i} className="fas fa-exclamation-circle$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-exclamation-circle$2\"></${1:i}>$0'
     prefix: 'fas-exclamation-circle'
   'fas-exclamation-square':
-    body: '<${1:i} className="fas fa-exclamation-square$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-exclamation-square$2\"></${1:i}>$0'
     prefix: 'fas-exclamation-square'
   'fas-exclamation-triangle':
-    body: '<${1:i} className="fas fa-exclamation-triangle$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-exclamation-triangle$2\"></${1:i}>$0'
     prefix: 'fas-exclamation-triangle'
   'fas-expand':
-    body: '<${1:i} className="fas fa-expand$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-expand$2\"></${1:i}>$0'
     prefix: 'fas-expand'
   'fas-expand-alt':
-    body: '<${1:i} className="fas fa-expand-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-expand-alt$2\"></${1:i}>$0'
     prefix: 'fas-expand-alt'
   'fas-expand-arrows':
-    body: '<${1:i} className="fas fa-expand-arrows$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-expand-arrows$2\"></${1:i}>$0'
     prefix: 'fas-expand-arrows'
   'fas-expand-arrows-alt':
-    body: '<${1:i} className="fas fa-expand-arrows-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-expand-arrows-alt$2\"></${1:i}>$0'
     prefix: 'fas-expand-arrows-alt'
   'fas-expand-wide':
-    body: '<${1:i} className="fas fa-expand-wide$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-expand-wide$2\"></${1:i}>$0'
     prefix: 'fas-expand-wide'
+  'fas-expeditedssl':
+    body: '<${1:i} className=\"fas fa-expeditedssl$2\"></${1:i}>$0'
+    prefix: 'fas-expeditedssl'
   'fas-external-link':
-    body: '<${1:i} className="fas fa-external-link$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-external-link$2\"></${1:i}>$0'
     prefix: 'fas-external-link'
   'fas-external-link-alt':
-    body: '<${1:i} className="fas fa-external-link-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-external-link-alt$2\"></${1:i}>$0'
     prefix: 'fas-external-link-alt'
   'fas-external-link-square':
-    body: '<${1:i} className="fas fa-external-link-square$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-external-link-square$2\"></${1:i}>$0'
     prefix: 'fas-external-link-square'
   'fas-external-link-square-alt':
-    body: '<${1:i} className="fas fa-external-link-square-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-external-link-square-alt$2\"></${1:i}>$0'
     prefix: 'fas-external-link-square-alt'
   'fas-eye':
-    body: '<${1:i} className="fas fa-eye$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-eye$2\"></${1:i}>$0'
     prefix: 'fas-eye'
   'fas-eye-dropper':
-    body: '<${1:i} className="fas fa-eye-dropper$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-eye-dropper$2\"></${1:i}>$0'
     prefix: 'fas-eye-dropper'
   'fas-eye-slash':
-    body: '<${1:i} className="fas fa-eye-slash$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-eye-slash$2\"></${1:i}>$0'
     prefix: 'fas-eye-slash'
+  'fas-facebook':
+    body: '<${1:i} className=\"fas fa-facebook$2\"></${1:i}>$0'
+    prefix: 'fas-facebook'
+  'fas-facebook-f':
+    body: '<${1:i} className=\"fas fa-facebook-f$2\"></${1:i}>$0'
+    prefix: 'fas-facebook-f'
+  'fas-facebook-messenger':
+    body: '<${1:i} className=\"fas fa-facebook-messenger$2\"></${1:i}>$0'
+    prefix: 'fas-facebook-messenger'
+  'fas-facebook-square':
+    body: '<${1:i} className=\"fas fa-facebook-square$2\"></${1:i}>$0'
+    prefix: 'fas-facebook-square'
   'fas-fast-backward':
-    body: '<${1:i} className="fas fa-fast-backward$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-fast-backward$2\"></${1:i}>$0'
     prefix: 'fas-fast-backward'
   'fas-fast-forward':
-    body: '<${1:i} className="fas fa-fast-forward$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-fast-forward$2\"></${1:i}>$0'
     prefix: 'fas-fast-forward'
   'fas-fax':
-    body: '<${1:i} className="fas fa-fax$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-fax$2\"></${1:i}>$0'
     prefix: 'fas-fax'
+  'fas-feather':
+    body: '<${1:i} className=\"fas fa-feather$2\"></${1:i}>$0'
+    prefix: 'fas-feather'
   'fas-female':
-    body: '<${1:i} className="fas fa-female$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-female$2\"></${1:i}>$0'
     prefix: 'fas-female'
+  'fas-field-hockey':
+    body: '<${1:i} className=\"fas fa-field-hockey$2\"></${1:i}>$0'
+    prefix: 'fas-field-hockey'
   'fas-fighter-jet':
-    body: '<${1:i} className="fas fa-fighter-jet$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-fighter-jet$2\"></${1:i}>$0'
     prefix: 'fas-fighter-jet'
   'fas-file':
-    body: '<${1:i} className="fas fa-file$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-file$2\"></${1:i}>$0'
     prefix: 'fas-file'
   'fas-file-alt':
-    body: '<${1:i} className="fas fa-file-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-file-alt$2\"></${1:i}>$0'
     prefix: 'fas-file-alt'
   'fas-file-archive':
-    body: '<${1:i} className="fas fa-file-archive$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-file-archive$2\"></${1:i}>$0'
     prefix: 'fas-file-archive'
   'fas-file-audio':
-    body: '<${1:i} className="fas fa-file-audio$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-file-audio$2\"></${1:i}>$0'
     prefix: 'fas-file-audio'
   'fas-file-check':
-    body: '<${1:i} className="fas fa-file-check$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-file-check$2\"></${1:i}>$0'
     prefix: 'fas-file-check'
   'fas-file-code':
-    body: '<${1:i} className="fas fa-file-code$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-file-code$2\"></${1:i}>$0'
     prefix: 'fas-file-code'
   'fas-file-edit':
-    body: '<${1:i} className="fas fa-file-edit$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-file-edit$2\"></${1:i}>$0'
     prefix: 'fas-file-edit'
   'fas-file-excel':
-    body: '<${1:i} className="fas fa-file-excel$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-file-excel$2\"></${1:i}>$0'
     prefix: 'fas-file-excel'
   'fas-file-exclamation':
-    body: '<${1:i} className="fas fa-file-exclamation$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-file-exclamation$2\"></${1:i}>$0'
     prefix: 'fas-file-exclamation'
   'fas-file-image':
-    body: '<${1:i} className="fas fa-file-image$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-file-image$2\"></${1:i}>$0'
     prefix: 'fas-file-image'
+  'fas-file-medical':
+    body: '<${1:i} className=\"fas fa-file-medical$2\"></${1:i}>$0'
+    prefix: 'fas-file-medical'
+  'fas-file-medical-alt':
+    body: '<${1:i} className=\"fas fa-file-medical-alt$2\"></${1:i}>$0'
+    prefix: 'fas-file-medical-alt'
   'fas-file-minus':
-    body: '<${1:i} className="fas fa-file-minus$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-file-minus$2\"></${1:i}>$0'
     prefix: 'fas-file-minus'
   'fas-file-pdf':
-    body: '<${1:i} className="fas fa-file-pdf$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-file-pdf$2\"></${1:i}>$0'
     prefix: 'fas-file-pdf'
   'fas-file-plus':
-    body: '<${1:i} className="fas fa-file-plus$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-file-plus$2\"></${1:i}>$0'
     prefix: 'fas-file-plus'
   'fas-file-powerpoint':
-    body: '<${1:i} className="fas fa-file-powerpoint$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-file-powerpoint$2\"></${1:i}>$0'
     prefix: 'fas-file-powerpoint'
   'fas-file-times':
-    body: '<${1:i} className="fas fa-file-times$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-file-times$2\"></${1:i}>$0'
     prefix: 'fas-file-times'
   'fas-file-video':
-    body: '<${1:i} className="fas fa-file-video$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-file-video$2\"></${1:i}>$0'
     prefix: 'fas-file-video'
   'fas-file-word':
-    body: '<${1:i} className="fas fa-file-word$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-file-word$2\"></${1:i}>$0'
     prefix: 'fas-file-word'
   'fas-film':
-    body: '<${1:i} className="fas fa-film$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-film$2\"></${1:i}>$0'
     prefix: 'fas-film'
   'fas-film-alt':
-    body: '<${1:i} className="fas fa-film-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-film-alt$2\"></${1:i}>$0'
     prefix: 'fas-film-alt'
   'fas-filter':
-    body: '<${1:i} className="fas fa-filter$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-filter$2\"></${1:i}>$0'
     prefix: 'fas-filter'
   'fas-fire':
-    body: '<${1:i} className="fas fa-fire$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-fire$2\"></${1:i}>$0'
     prefix: 'fas-fire'
   'fas-fire-extinguisher':
-    body: '<${1:i} className="fas fa-fire-extinguisher$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-fire-extinguisher$2\"></${1:i}>$0'
     prefix: 'fas-fire-extinguisher'
+  'fas-firefox':
+    body: '<${1:i} className=\"fas fa-firefox$2\"></${1:i}>$0'
+    prefix: 'fas-firefox'
+  'fas-first-aid':
+    body: '<${1:i} className=\"fas fa-first-aid$2\"></${1:i}>$0'
+    prefix: 'fas-first-aid'
+  'fas-first-order':
+    body: '<${1:i} className=\"fas fa-first-order$2\"></${1:i}>$0'
+    prefix: 'fas-first-order'
+  'fas-first-order-alt':
+    body: '<${1:i} className=\"fas fa-first-order-alt$2\"></${1:i}>$0'
+    prefix: 'fas-first-order-alt'
+  'fas-firstdraft':
+    body: '<${1:i} className=\"fas fa-firstdraft$2\"></${1:i}>$0'
+    prefix: 'fas-firstdraft'
   'fas-flag':
-    body: '<${1:i} className="fas fa-flag$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-flag$2\"></${1:i}>$0'
     prefix: 'fas-flag'
   'fas-flag-checkered':
-    body: '<${1:i} className="fas fa-flag-checkered$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-flag-checkered$2\"></${1:i}>$0'
     prefix: 'fas-flag-checkered'
   'fas-flask':
-    body: '<${1:i} className="fas fa-flask$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-flask$2\"></${1:i}>$0'
     prefix: 'fas-flask'
+  'fas-flickr':
+    body: '<${1:i} className=\"fas fa-flickr$2\"></${1:i}>$0'
+    prefix: 'fas-flickr'
+  'fas-flipboard':
+    body: '<${1:i} className=\"fas fa-flipboard$2\"></${1:i}>$0'
+    prefix: 'fas-flipboard'
+  'fas-fly':
+    body: '<${1:i} className=\"fas fa-fly$2\"></${1:i}>$0'
+    prefix: 'fas-fly'
   'fas-folder':
-    body: '<${1:i} className="fas fa-folder$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-folder$2\"></${1:i}>$0'
     prefix: 'fas-folder'
   'fas-folder-open':
-    body: '<${1:i} className="fas fa-folder-open$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-folder-open$2\"></${1:i}>$0'
     prefix: 'fas-folder-open'
   'fas-font':
-    body: '<${1:i} className="fas fa-font$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-font$2\"></${1:i}>$0'
     prefix: 'fas-font'
+  'fas-font-awesome':
+    body: '<${1:i} className=\"fas fa-font-awesome$2\"></${1:i}>$0'
+    prefix: 'fas-font-awesome'
+  'fas-font-awesome-alt':
+    body: '<${1:i} className=\"fas fa-font-awesome-alt$2\"></${1:i}>$0'
+    prefix: 'fas-font-awesome-alt'
+  'fas-font-awesome-flag':
+    body: '<${1:i} className=\"fas fa-font-awesome-flag$2\"></${1:i}>$0'
+    prefix: 'fas-font-awesome-flag'
+  'fas-font-awesome-logo-full':
+    body: '<${1:i} className=\"fas fa-font-awesome-logo-full$2\"></${1:i}>$0'
+    prefix: 'fas-font-awesome-logo-full'
+  'fas-fonticons':
+    body: '<${1:i} className=\"fas fa-fonticons$2\"></${1:i}>$0'
+    prefix: 'fas-fonticons'
+  'fas-fonticons-fi':
+    body: '<${1:i} className=\"fas fa-fonticons-fi$2\"></${1:i}>$0'
+    prefix: 'fas-fonticons-fi'
+  'fas-football-ball':
+    body: '<${1:i} className=\"fas fa-football-ball$2\"></${1:i}>$0'
+    prefix: 'fas-football-ball'
+  'fas-football-helmet':
+    body: '<${1:i} className=\"fas fa-football-helmet$2\"></${1:i}>$0'
+    prefix: 'fas-football-helmet'
+  'fas-forklift':
+    body: '<${1:i} className=\"fas fa-forklift$2\"></${1:i}>$0'
+    prefix: 'fas-forklift'
+  'fas-fort-awesome':
+    body: '<${1:i} className=\"fas fa-fort-awesome$2\"></${1:i}>$0'
+    prefix: 'fas-fort-awesome'
+  'fas-fort-awesome-alt':
+    body: '<${1:i} className=\"fas fa-fort-awesome-alt$2\"></${1:i}>$0'
+    prefix: 'fas-fort-awesome-alt'
+  'fas-forumbee':
+    body: '<${1:i} className=\"fas fa-forumbee$2\"></${1:i}>$0'
+    prefix: 'fas-forumbee'
   'fas-forward':
-    body: '<${1:i} className="fas fa-forward$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-forward$2\"></${1:i}>$0'
     prefix: 'fas-forward'
+  'fas-foursquare':
+    body: '<${1:i} className=\"fas fa-foursquare$2\"></${1:i}>$0'
+    prefix: 'fas-foursquare'
+  'fas-fragile':
+    body: '<${1:i} className=\"fas fa-fragile$2\"></${1:i}>$0'
+    prefix: 'fas-fragile'
+  'fas-free-code-camp':
+    body: '<${1:i} className=\"fas fa-free-code-camp$2\"></${1:i}>$0'
+    prefix: 'fas-free-code-camp'
+  'fas-freebsd':
+    body: '<${1:i} className=\"fas fa-freebsd$2\"></${1:i}>$0'
+    prefix: 'fas-freebsd'
+  'fas-frog':
+    body: '<${1:i} className=\"fas fa-frog$2\"></${1:i}>$0'
+    prefix: 'fas-frog'
   'fas-frown':
-    body: '<${1:i} className="fas fa-frown$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-frown$2\"></${1:i}>$0'
     prefix: 'fas-frown'
+  'fas-fulcrum':
+    body: '<${1:i} className=\"fas fa-fulcrum$2\"></${1:i}>$0'
+    prefix: 'fas-fulcrum'
   'fas-futbol':
-    body: '<${1:i} className="fas fa-futbol$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-futbol$2\"></${1:i}>$0'
     prefix: 'fas-futbol'
+  'fas-galactic-republic':
+    body: '<${1:i} className=\"fas fa-galactic-republic$2\"></${1:i}>$0'
+    prefix: 'fas-galactic-republic'
+  'fas-galactic-senate':
+    body: '<${1:i} className=\"fas fa-galactic-senate$2\"></${1:i}>$0'
+    prefix: 'fas-galactic-senate'
   'fas-gamepad':
-    body: '<${1:i} className="fas fa-gamepad$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-gamepad$2\"></${1:i}>$0'
     prefix: 'fas-gamepad'
+  'fas-gas-pump':
+    body: '<${1:i} className=\"fas fa-gas-pump$2\"></${1:i}>$0'
+    prefix: 'fas-gas-pump'
   'fas-gavel':
-    body: '<${1:i} className="fas fa-gavel$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-gavel$2\"></${1:i}>$0'
     prefix: 'fas-gavel'
   'fas-gem':
-    body: '<${1:i} className="fas fa-gem$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-gem$2\"></${1:i}>$0'
     prefix: 'fas-gem'
   'fas-genderless':
-    body: '<${1:i} className="fas fa-genderless$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-genderless$2\"></${1:i}>$0'
     prefix: 'fas-genderless'
+  'fas-get-pocket':
+    body: '<${1:i} className=\"fas fa-get-pocket$2\"></${1:i}>$0'
+    prefix: 'fas-get-pocket'
+  'fas-gg':
+    body: '<${1:i} className=\"fas fa-gg$2\"></${1:i}>$0'
+    prefix: 'fas-gg'
+  'fas-gg-circle':
+    body: '<${1:i} className=\"fas fa-gg-circle$2\"></${1:i}>$0'
+    prefix: 'fas-gg-circle'
   'fas-gift':
-    body: '<${1:i} className="fas fa-gift$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-gift$2\"></${1:i}>$0'
     prefix: 'fas-gift'
+  'fas-git':
+    body: '<${1:i} className=\"fas fa-git$2\"></${1:i}>$0'
+    prefix: 'fas-git'
+  'fas-git-square':
+    body: '<${1:i} className=\"fas fa-git-square$2\"></${1:i}>$0'
+    prefix: 'fas-git-square'
+  'fas-github':
+    body: '<${1:i} className=\"fas fa-github$2\"></${1:i}>$0'
+    prefix: 'fas-github'
+  'fas-github-alt':
+    body: '<${1:i} className=\"fas fa-github-alt$2\"></${1:i}>$0'
+    prefix: 'fas-github-alt'
+  'fas-github-square':
+    body: '<${1:i} className=\"fas fa-github-square$2\"></${1:i}>$0'
+    prefix: 'fas-github-square'
+  'fas-gitkraken':
+    body: '<${1:i} className=\"fas fa-gitkraken$2\"></${1:i}>$0'
+    prefix: 'fas-gitkraken'
+  'fas-gitlab':
+    body: '<${1:i} className=\"fas fa-gitlab$2\"></${1:i}>$0'
+    prefix: 'fas-gitlab'
+  'fas-gitter':
+    body: '<${1:i} className=\"fas fa-gitter$2\"></${1:i}>$0'
+    prefix: 'fas-gitter'
   'fas-glass-martini':
-    body: '<${1:i} className="fas fa-glass-martini$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-glass-martini$2\"></${1:i}>$0'
     prefix: 'fas-glass-martini'
+  'fas-glasses':
+    body: '<${1:i} className=\"fas fa-glasses$2\"></${1:i}>$0'
+    prefix: 'fas-glasses'
+  'fas-glide':
+    body: '<${1:i} className=\"fas fa-glide$2\"></${1:i}>$0'
+    prefix: 'fas-glide'
+  'fas-glide-g':
+    body: '<${1:i} className=\"fas fa-glide-g$2\"></${1:i}>$0'
+    prefix: 'fas-glide-g'
   'fas-globe':
-    body: '<${1:i} className="fas fa-globe$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-globe$2\"></${1:i}>$0'
     prefix: 'fas-globe'
+  'fas-gofore':
+    body: '<${1:i} className=\"fas fa-gofore$2\"></${1:i}>$0'
+    prefix: 'fas-gofore'
+  'fas-golf-ball':
+    body: '<${1:i} className=\"fas fa-golf-ball$2\"></${1:i}>$0'
+    prefix: 'fas-golf-ball'
+  'fas-golf-club':
+    body: '<${1:i} className=\"fas fa-golf-club$2\"></${1:i}>$0'
+    prefix: 'fas-golf-club'
+  'fas-goodreads':
+    body: '<${1:i} className=\"fas fa-goodreads$2\"></${1:i}>$0'
+    prefix: 'fas-goodreads'
+  'fas-goodreads-g':
+    body: '<${1:i} className=\"fas fa-goodreads-g$2\"></${1:i}>$0'
+    prefix: 'fas-goodreads-g'
+  'fas-google':
+    body: '<${1:i} className=\"fas fa-google$2\"></${1:i}>$0'
+    prefix: 'fas-google'
+  'fas-google-drive':
+    body: '<${1:i} className=\"fas fa-google-drive$2\"></${1:i}>$0'
+    prefix: 'fas-google-drive'
+  'fas-google-play':
+    body: '<${1:i} className=\"fas fa-google-play$2\"></${1:i}>$0'
+    prefix: 'fas-google-play'
+  'fas-google-plus':
+    body: '<${1:i} className=\"fas fa-google-plus$2\"></${1:i}>$0'
+    prefix: 'fas-google-plus'
+  'fas-google-plus-g':
+    body: '<${1:i} className=\"fas fa-google-plus-g$2\"></${1:i}>$0'
+    prefix: 'fas-google-plus-g'
+  'fas-google-plus-square':
+    body: '<${1:i} className=\"fas fa-google-plus-square$2\"></${1:i}>$0'
+    prefix: 'fas-google-plus-square'
+  'fas-google-wallet':
+    body: '<${1:i} className=\"fas fa-google-wallet$2\"></${1:i}>$0'
+    prefix: 'fas-google-wallet'
   'fas-graduation-cap':
-    body: '<${1:i} className="fas fa-graduation-cap$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-graduation-cap$2\"></${1:i}>$0'
     prefix: 'fas-graduation-cap'
+  'fas-gratipay':
+    body: '<${1:i} className=\"fas fa-gratipay$2\"></${1:i}>$0'
+    prefix: 'fas-gratipay'
+  'fas-grav':
+    body: '<${1:i} className=\"fas fa-grav$2\"></${1:i}>$0'
+    prefix: 'fas-grav'
+  'fas-greater-than':
+    body: '<${1:i} className=\"fas fa-greater-than$2\"></${1:i}>$0'
+    prefix: 'fas-greater-than'
+  'fas-greater-than-equal':
+    body: '<${1:i} className=\"fas fa-greater-than-equal$2\"></${1:i}>$0'
+    prefix: 'fas-greater-than-equal'
+  'fas-gripfire':
+    body: '<${1:i} className=\"fas fa-gripfire$2\"></${1:i}>$0'
+    prefix: 'fas-gripfire'
+  'fas-grunt':
+    body: '<${1:i} className=\"fas fa-grunt$2\"></${1:i}>$0'
+    prefix: 'fas-grunt'
+  'fas-gulp':
+    body: '<${1:i} className=\"fas fa-gulp$2\"></${1:i}>$0'
+    prefix: 'fas-gulp'
   'fas-h-square':
-    body: '<${1:i} className="fas fa-h-square$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-h-square$2\"></${1:i}>$0'
     prefix: 'fas-h-square'
   'fas-h1':
-    body: '<${1:i} className="fas fa-h1$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-h1$2\"></${1:i}>$0'
     prefix: 'fas-h1'
   'fas-h2':
-    body: '<${1:i} className="fas fa-h2$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-h2$2\"></${1:i}>$0'
     prefix: 'fas-h2'
   'fas-h3':
-    body: '<${1:i} className="fas fa-h3$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-h3$2\"></${1:i}>$0'
     prefix: 'fas-h3'
+  'fas-hacker-news':
+    body: '<${1:i} className=\"fas fa-hacker-news$2\"></${1:i}>$0'
+    prefix: 'fas-hacker-news'
+  'fas-hacker-news-square':
+    body: '<${1:i} className=\"fas fa-hacker-news-square$2\"></${1:i}>$0'
+    prefix: 'fas-hacker-news-square'
+  'fas-hand-heart':
+    body: '<${1:i} className=\"fas fa-hand-heart$2\"></${1:i}>$0'
+    prefix: 'fas-hand-heart'
+  'fas-hand-holding':
+    body: '<${1:i} className=\"fas fa-hand-holding$2\"></${1:i}>$0'
+    prefix: 'fas-hand-holding'
+  'fas-hand-holding-box':
+    body: '<${1:i} className=\"fas fa-hand-holding-box$2\"></${1:i}>$0'
+    prefix: 'fas-hand-holding-box'
+  'fas-hand-holding-heart':
+    body: '<${1:i} className=\"fas fa-hand-holding-heart$2\"></${1:i}>$0'
+    prefix: 'fas-hand-holding-heart'
+  'fas-hand-holding-seedling':
+    body: '<${1:i} className=\"fas fa-hand-holding-seedling$2\"></${1:i}>$0'
+    prefix: 'fas-hand-holding-seedling'
+  'fas-hand-holding-usd':
+    body: '<${1:i} className=\"fas fa-hand-holding-usd$2\"></${1:i}>$0'
+    prefix: 'fas-hand-holding-usd'
+  'fas-hand-holding-water':
+    body: '<${1:i} className=\"fas fa-hand-holding-water$2\"></${1:i}>$0'
+    prefix: 'fas-hand-holding-water'
   'fas-hand-lizard':
-    body: '<${1:i} className="fas fa-hand-lizard$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-hand-lizard$2\"></${1:i}>$0'
     prefix: 'fas-hand-lizard'
   'fas-hand-paper':
-    body: '<${1:i} className="fas fa-hand-paper$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-hand-paper$2\"></${1:i}>$0'
     prefix: 'fas-hand-paper'
   'fas-hand-peace':
-    body: '<${1:i} className="fas fa-hand-peace$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-hand-peace$2\"></${1:i}>$0'
     prefix: 'fas-hand-peace'
   'fas-hand-point-down':
-    body: '<${1:i} className="fas fa-hand-point-down$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-hand-point-down$2\"></${1:i}>$0'
     prefix: 'fas-hand-point-down'
   'fas-hand-point-left':
-    body: '<${1:i} className="fas fa-hand-point-left$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-hand-point-left$2\"></${1:i}>$0'
     prefix: 'fas-hand-point-left'
   'fas-hand-point-right':
-    body: '<${1:i} className="fas fa-hand-point-right$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-hand-point-right$2\"></${1:i}>$0'
     prefix: 'fas-hand-point-right'
   'fas-hand-point-up':
-    body: '<${1:i} className="fas fa-hand-point-up$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-hand-point-up$2\"></${1:i}>$0'
     prefix: 'fas-hand-point-up'
   'fas-hand-pointer':
-    body: '<${1:i} className="fas fa-hand-pointer$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-hand-pointer$2\"></${1:i}>$0'
     prefix: 'fas-hand-pointer'
+  'fas-hand-receiving':
+    body: '<${1:i} className=\"fas fa-hand-receiving$2\"></${1:i}>$0'
+    prefix: 'fas-hand-receiving'
   'fas-hand-rock':
-    body: '<${1:i} className="fas fa-hand-rock$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-hand-rock$2\"></${1:i}>$0'
     prefix: 'fas-hand-rock'
   'fas-hand-scissors':
-    body: '<${1:i} className="fas fa-hand-scissors$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-hand-scissors$2\"></${1:i}>$0'
     prefix: 'fas-hand-scissors'
   'fas-hand-spock':
-    body: '<${1:i} className="fas fa-hand-spock$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-hand-spock$2\"></${1:i}>$0'
     prefix: 'fas-hand-spock'
+  'fas-hands':
+    body: '<${1:i} className=\"fas fa-hands$2\"></${1:i}>$0'
+    prefix: 'fas-hands'
+  'fas-hands-heart':
+    body: '<${1:i} className=\"fas fa-hands-heart$2\"></${1:i}>$0'
+    prefix: 'fas-hands-heart'
+  'fas-hands-helping':
+    body: '<${1:i} className=\"fas fa-hands-helping$2\"></${1:i}>$0'
+    prefix: 'fas-hands-helping'
+  'fas-hands-usd':
+    body: '<${1:i} className=\"fas fa-hands-usd$2\"></${1:i}>$0'
+    prefix: 'fas-hands-usd'
   'fas-handshake':
-    body: '<${1:i} className="fas fa-handshake$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-handshake$2\"></${1:i}>$0'
     prefix: 'fas-handshake'
+  'fas-handshake-alt':
+    body: '<${1:i} className=\"fas fa-handshake-alt$2\"></${1:i}>$0'
+    prefix: 'fas-handshake-alt'
   'fas-hashtag':
-    body: '<${1:i} className="fas fa-hashtag$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-hashtag$2\"></${1:i}>$0'
     prefix: 'fas-hashtag'
   'fas-hdd':
-    body: '<${1:i} className="fas fa-hdd$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-hdd$2\"></${1:i}>$0'
     prefix: 'fas-hdd'
   'fas-heading':
-    body: '<${1:i} className="fas fa-heading$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-heading$2\"></${1:i}>$0'
     prefix: 'fas-heading'
   'fas-headphones':
-    body: '<${1:i} className="fas fa-headphones$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-headphones$2\"></${1:i}>$0'
     prefix: 'fas-headphones'
   'fas-heart':
-    body: '<${1:i} className="fas fa-heart$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-heart$2\"></${1:i}>$0'
     prefix: 'fas-heart'
+  'fas-heart-circle':
+    body: '<${1:i} className=\"fas fa-heart-circle$2\"></${1:i}>$0'
+    prefix: 'fas-heart-circle'
+  'fas-heart-square':
+    body: '<${1:i} className=\"fas fa-heart-square$2\"></${1:i}>$0'
+    prefix: 'fas-heart-square'
   'fas-heartbeat':
-    body: '<${1:i} className="fas fa-heartbeat$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-heartbeat$2\"></${1:i}>$0'
     prefix: 'fas-heartbeat'
+  'fas-helicopter':
+    body: '<${1:i} className=\"fas fa-helicopter$2\"></${1:i}>$0'
+    prefix: 'fas-helicopter'
   'fas-hexagon':
-    body: '<${1:i} className="fas fa-hexagon$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-hexagon$2\"></${1:i}>$0'
     prefix: 'fas-hexagon'
+  'fas-hips':
+    body: '<${1:i} className=\"fas fa-hips$2\"></${1:i}>$0'
+    prefix: 'fas-hips'
+  'fas-hire-a-helper':
+    body: '<${1:i} className=\"fas fa-hire-a-helper$2\"></${1:i}>$0'
+    prefix: 'fas-hire-a-helper'
   'fas-history':
-    body: '<${1:i} className="fas fa-history$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-history$2\"></${1:i}>$0'
     prefix: 'fas-history'
+  'fas-hockey-puck':
+    body: '<${1:i} className=\"fas fa-hockey-puck$2\"></${1:i}>$0'
+    prefix: 'fas-hockey-puck'
+  'fas-hockey-sticks':
+    body: '<${1:i} className=\"fas fa-hockey-sticks$2\"></${1:i}>$0'
+    prefix: 'fas-hockey-sticks'
   'fas-home':
-    body: '<${1:i} className="fas fa-home$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-home$2\"></${1:i}>$0'
     prefix: 'fas-home'
+  'fas-home-heart':
+    body: '<${1:i} className=\"fas fa-home-heart$2\"></${1:i}>$0'
+    prefix: 'fas-home-heart'
+  'fas-hooli':
+    body: '<${1:i} className=\"fas fa-hooli$2\"></${1:i}>$0'
+    prefix: 'fas-hooli'
   'fas-hospital':
-    body: '<${1:i} className="fas fa-hospital$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-hospital$2\"></${1:i}>$0'
     prefix: 'fas-hospital'
+  'fas-hospital-alt':
+    body: '<${1:i} className=\"fas fa-hospital-alt$2\"></${1:i}>$0'
+    prefix: 'fas-hospital-alt'
+  'fas-hospital-symbol':
+    body: '<${1:i} className=\"fas fa-hospital-symbol$2\"></${1:i}>$0'
+    prefix: 'fas-hospital-symbol'
+  'fas-hotjar':
+    body: '<${1:i} className=\"fas fa-hotjar$2\"></${1:i}>$0'
+    prefix: 'fas-hotjar'
   'fas-hourglass':
-    body: '<${1:i} className="fas fa-hourglass$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-hourglass$2\"></${1:i}>$0'
     prefix: 'fas-hourglass'
   'fas-hourglass-end':
-    body: '<${1:i} className="fas fa-hourglass-end$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-hourglass-end$2\"></${1:i}>$0'
     prefix: 'fas-hourglass-end'
   'fas-hourglass-half':
-    body: '<${1:i} className="fas fa-hourglass-half$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-hourglass-half$2\"></${1:i}>$0'
     prefix: 'fas-hourglass-half'
   'fas-hourglass-start':
-    body: '<${1:i} className="fas fa-hourglass-start$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-hourglass-start$2\"></${1:i}>$0'
     prefix: 'fas-hourglass-start'
+  'fas-houzz':
+    body: '<${1:i} className=\"fas fa-houzz$2\"></${1:i}>$0'
+    prefix: 'fas-houzz'
+  'fas-html5':
+    body: '<${1:i} className=\"fas fa-html5$2\"></${1:i}>$0'
+    prefix: 'fas-html5'
+  'fas-hubspot':
+    body: '<${1:i} className=\"fas fa-hubspot$2\"></${1:i}>$0'
+    prefix: 'fas-hubspot'
   'fas-i-cursor':
-    body: '<${1:i} className="fas fa-i-cursor$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-i-cursor$2\"></${1:i}>$0'
     prefix: 'fas-i-cursor'
   'fas-id-badge':
-    body: '<${1:i} className="fas fa-id-badge$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-id-badge$2\"></${1:i}>$0'
     prefix: 'fas-id-badge'
   'fas-id-card':
-    body: '<${1:i} className="fas fa-id-card$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-id-card$2\"></${1:i}>$0'
     prefix: 'fas-id-card'
+  'fas-id-card-alt':
+    body: '<${1:i} className=\"fas fa-id-card-alt$2\"></${1:i}>$0'
+    prefix: 'fas-id-card-alt'
   'fas-image':
-    body: '<${1:i} className="fas fa-image$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-image$2\"></${1:i}>$0'
     prefix: 'fas-image'
   'fas-images':
-    body: '<${1:i} className="fas fa-images$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-images$2\"></${1:i}>$0'
     prefix: 'fas-images'
+  'fas-imdb':
+    body: '<${1:i} className=\"fas fa-imdb$2\"></${1:i}>$0'
+    prefix: 'fas-imdb'
   'fas-inbox':
-    body: '<${1:i} className="fas fa-inbox$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-inbox$2\"></${1:i}>$0'
     prefix: 'fas-inbox'
   'fas-inbox-in':
-    body: '<${1:i} className="fas fa-inbox-in$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-inbox-in$2\"></${1:i}>$0'
     prefix: 'fas-inbox-in'
   'fas-inbox-out':
-    body: '<${1:i} className="fas fa-inbox-out$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-inbox-out$2\"></${1:i}>$0'
     prefix: 'fas-inbox-out'
   'fas-indent':
-    body: '<${1:i} className="fas fa-indent$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-indent$2\"></${1:i}>$0'
     prefix: 'fas-indent'
   'fas-industry':
-    body: '<${1:i} className="fas fa-industry$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-industry$2\"></${1:i}>$0'
     prefix: 'fas-industry'
   'fas-industry-alt':
-    body: '<${1:i} className="fas fa-industry-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-industry-alt$2\"></${1:i}>$0'
     prefix: 'fas-industry-alt'
+  'fas-infinity':
+    body: '<${1:i} className=\"fas fa-infinity$2\"></${1:i}>$0'
+    prefix: 'fas-infinity'
   'fas-info':
-    body: '<${1:i} className="fas fa-info$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-info$2\"></${1:i}>$0'
     prefix: 'fas-info'
   'fas-info-circle':
-    body: '<${1:i} className="fas fa-info-circle$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-info-circle$2\"></${1:i}>$0'
     prefix: 'fas-info-circle'
   'fas-info-square':
-    body: '<${1:i} className="fas fa-info-square$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-info-square$2\"></${1:i}>$0'
     prefix: 'fas-info-square'
+  'fas-instagram':
+    body: '<${1:i} className=\"fas fa-instagram$2\"></${1:i}>$0'
+    prefix: 'fas-instagram'
+  'fas-internet-explorer':
+    body: '<${1:i} className=\"fas fa-internet-explorer$2\"></${1:i}>$0'
+    prefix: 'fas-internet-explorer'
+  'fas-inventory':
+    body: '<${1:i} className=\"fas fa-inventory$2\"></${1:i}>$0'
+    prefix: 'fas-inventory'
+  'fas-ioxhost':
+    body: '<${1:i} className=\"fas fa-ioxhost$2\"></${1:i}>$0'
+    prefix: 'fas-ioxhost'
   'fas-italic':
-    body: '<${1:i} className="fas fa-italic$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-italic$2\"></${1:i}>$0'
     prefix: 'fas-italic'
+  'fas-itunes':
+    body: '<${1:i} className=\"fas fa-itunes$2\"></${1:i}>$0'
+    prefix: 'fas-itunes'
+  'fas-itunes-note':
+    body: '<${1:i} className=\"fas fa-itunes-note$2\"></${1:i}>$0'
+    prefix: 'fas-itunes-note'
   'fas-jack-o-lantern':
-    body: '<${1:i} className="fas fa-jack-o-lantern$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-jack-o-lantern$2\"></${1:i}>$0'
     prefix: 'fas-jack-o-lantern'
+  'fas-java':
+    body: '<${1:i} className=\"fas fa-java$2\"></${1:i}>$0'
+    prefix: 'fas-java'
+  'fas-jedi-order':
+    body: '<${1:i} className=\"fas fa-jedi-order$2\"></${1:i}>$0'
+    prefix: 'fas-jedi-order'
+  'fas-jenkins':
+    body: '<${1:i} className=\"fas fa-jenkins$2\"></${1:i}>$0'
+    prefix: 'fas-jenkins'
+  'fas-joget':
+    body: '<${1:i} className=\"fas fa-joget$2\"></${1:i}>$0'
+    prefix: 'fas-joget'
+  'fas-joomla':
+    body: '<${1:i} className=\"fas fa-joomla$2\"></${1:i}>$0'
+    prefix: 'fas-joomla'
+  'fas-js':
+    body: '<${1:i} className=\"fas fa-js$2\"></${1:i}>$0'
+    prefix: 'fas-js'
+  'fas-js-square':
+    body: '<${1:i} className=\"fas fa-js-square$2\"></${1:i}>$0'
+    prefix: 'fas-js-square'
+  'fas-jsfiddle':
+    body: '<${1:i} className=\"fas fa-jsfiddle$2\"></${1:i}>$0'
+    prefix: 'fas-jsfiddle'
   'fas-key':
-    body: '<${1:i} className="fas fa-key$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-key$2\"></${1:i}>$0'
     prefix: 'fas-key'
+  'fas-keybase':
+    body: '<${1:i} className=\"fas fa-keybase$2\"></${1:i}>$0'
+    prefix: 'fas-keybase'
   'fas-keyboard':
-    body: '<${1:i} className="fas fa-keyboard$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-keyboard$2\"></${1:i}>$0'
     prefix: 'fas-keyboard'
+  'fas-keycdn':
+    body: '<${1:i} className=\"fas fa-keycdn$2\"></${1:i}>$0'
+    prefix: 'fas-keycdn'
+  'fas-kickstarter':
+    body: '<${1:i} className=\"fas fa-kickstarter$2\"></${1:i}>$0'
+    prefix: 'fas-kickstarter'
+  'fas-kickstarter-k':
+    body: '<${1:i} className=\"fas fa-kickstarter-k$2\"></${1:i}>$0'
+    prefix: 'fas-kickstarter-k'
+  'fas-kiwi-bird':
+    body: '<${1:i} className=\"fas fa-kiwi-bird$2\"></${1:i}>$0'
+    prefix: 'fas-kiwi-bird'
+  'fas-korvue':
+    body: '<${1:i} className=\"fas fa-korvue$2\"></${1:i}>$0'
+    prefix: 'fas-korvue'
+  'fas-lamp':
+    body: '<${1:i} className=\"fas fa-lamp$2\"></${1:i}>$0'
+    prefix: 'fas-lamp'
   'fas-language':
-    body: '<${1:i} className="fas fa-language$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-language$2\"></${1:i}>$0'
     prefix: 'fas-language'
   'fas-laptop':
-    body: '<${1:i} className="fas fa-laptop$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-laptop$2\"></${1:i}>$0'
     prefix: 'fas-laptop'
+  'fas-laravel':
+    body: '<${1:i} className=\"fas fa-laravel$2\"></${1:i}>$0'
+    prefix: 'fas-laravel'
+  'fas-lastfm':
+    body: '<${1:i} className=\"fas fa-lastfm$2\"></${1:i}>$0'
+    prefix: 'fas-lastfm'
+  'fas-lastfm-square':
+    body: '<${1:i} className=\"fas fa-lastfm-square$2\"></${1:i}>$0'
+    prefix: 'fas-lastfm-square'
   'fas-leaf':
-    body: '<${1:i} className="fas fa-leaf$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-leaf$2\"></${1:i}>$0'
     prefix: 'fas-leaf'
+  'fas-leaf-heart':
+    body: '<${1:i} className=\"fas fa-leaf-heart$2\"></${1:i}>$0'
+    prefix: 'fas-leaf-heart'
+  'fas-leanpub':
+    body: '<${1:i} className=\"fas fa-leanpub$2\"></${1:i}>$0'
+    prefix: 'fas-leanpub'
   'fas-lemon':
-    body: '<${1:i} className="fas fa-lemon$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-lemon$2\"></${1:i}>$0'
     prefix: 'fas-lemon'
+  'fas-less':
+    body: '<${1:i} className=\"fas fa-less$2\"></${1:i}>$0'
+    prefix: 'fas-less'
+  'fas-less-than':
+    body: '<${1:i} className=\"fas fa-less-than$2\"></${1:i}>$0'
+    prefix: 'fas-less-than'
+  'fas-less-than-equal':
+    body: '<${1:i} className=\"fas fa-less-than-equal$2\"></${1:i}>$0'
+    prefix: 'fas-less-than-equal'
   'fas-level-down':
-    body: '<${1:i} className="fas fa-level-down$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-level-down$2\"></${1:i}>$0'
     prefix: 'fas-level-down'
   'fas-level-down-alt':
-    body: '<${1:i} className="fas fa-level-down-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-level-down-alt$2\"></${1:i}>$0'
     prefix: 'fas-level-down-alt'
   'fas-level-up':
-    body: '<${1:i} className="fas fa-level-up$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-level-up$2\"></${1:i}>$0'
     prefix: 'fas-level-up'
   'fas-level-up-alt':
-    body: '<${1:i} className="fas fa-level-up-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-level-up-alt$2\"></${1:i}>$0'
     prefix: 'fas-level-up-alt'
   'fas-life-ring':
-    body: '<${1:i} className="fas fa-life-ring$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-life-ring$2\"></${1:i}>$0'
     prefix: 'fas-life-ring'
   'fas-lightbulb':
-    body: '<${1:i} className="fas fa-lightbulb$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-lightbulb$2\"></${1:i}>$0'
     prefix: 'fas-lightbulb'
+  'fas-line':
+    body: '<${1:i} className=\"fas fa-line$2\"></${1:i}>$0'
+    prefix: 'fas-line'
   'fas-link':
-    body: '<${1:i} className="fas fa-link$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-link$2\"></${1:i}>$0'
     prefix: 'fas-link'
+  'fas-linkedin':
+    body: '<${1:i} className=\"fas fa-linkedin$2\"></${1:i}>$0'
+    prefix: 'fas-linkedin'
+  'fas-linkedin-in':
+    body: '<${1:i} className=\"fas fa-linkedin-in$2\"></${1:i}>$0'
+    prefix: 'fas-linkedin-in'
+  'fas-linode':
+    body: '<${1:i} className=\"fas fa-linode$2\"></${1:i}>$0'
+    prefix: 'fas-linode'
+  'fas-linux':
+    body: '<${1:i} className=\"fas fa-linux$2\"></${1:i}>$0'
+    prefix: 'fas-linux'
   'fas-lira-sign':
-    body: '<${1:i} className="fas fa-lira-sign$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-lira-sign$2\"></${1:i}>$0'
     prefix: 'fas-lira-sign'
   'fas-list':
-    body: '<${1:i} className="fas fa-list$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-list$2\"></${1:i}>$0'
     prefix: 'fas-list'
   'fas-list-alt':
-    body: '<${1:i} className="fas fa-list-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-list-alt$2\"></${1:i}>$0'
     prefix: 'fas-list-alt'
   'fas-list-ol':
-    body: '<${1:i} className="fas fa-list-ol$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-list-ol$2\"></${1:i}>$0'
     prefix: 'fas-list-ol'
   'fas-list-ul':
-    body: '<${1:i} className="fas fa-list-ul$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-list-ul$2\"></${1:i}>$0'
     prefix: 'fas-list-ul'
   'fas-location-arrow':
-    body: '<${1:i} className="fas fa-location-arrow$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-location-arrow$2\"></${1:i}>$0'
     prefix: 'fas-location-arrow'
   'fas-lock':
-    body: '<${1:i} className="fas fa-lock$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-lock$2\"></${1:i}>$0'
     prefix: 'fas-lock'
   'fas-lock-alt':
-    body: '<${1:i} className="fas fa-lock-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-lock-alt$2\"></${1:i}>$0'
     prefix: 'fas-lock-alt'
   'fas-lock-open':
-    body: '<${1:i} className="fas fa-lock-open$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-lock-open$2\"></${1:i}>$0'
     prefix: 'fas-lock-open'
   'fas-lock-open-alt':
-    body: '<${1:i} className="fas fa-lock-open-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-lock-open-alt$2\"></${1:i}>$0'
     prefix: 'fas-lock-open-alt'
   'fas-long-arrow-alt-down':
-    body: '<${1:i} className="fas fa-long-arrow-alt-down$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-long-arrow-alt-down$2\"></${1:i}>$0'
     prefix: 'fas-long-arrow-alt-down'
   'fas-long-arrow-alt-left':
-    body: '<${1:i} className="fas fa-long-arrow-alt-left$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-long-arrow-alt-left$2\"></${1:i}>$0'
     prefix: 'fas-long-arrow-alt-left'
   'fas-long-arrow-alt-right':
-    body: '<${1:i} className="fas fa-long-arrow-alt-right$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-long-arrow-alt-right$2\"></${1:i}>$0'
     prefix: 'fas-long-arrow-alt-right'
   'fas-long-arrow-alt-up':
-    body: '<${1:i} className="fas fa-long-arrow-alt-up$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-long-arrow-alt-up$2\"></${1:i}>$0'
     prefix: 'fas-long-arrow-alt-up'
   'fas-long-arrow-down':
-    body: '<${1:i} className="fas fa-long-arrow-down$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-long-arrow-down$2\"></${1:i}>$0'
     prefix: 'fas-long-arrow-down'
   'fas-long-arrow-left':
-    body: '<${1:i} className="fas fa-long-arrow-left$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-long-arrow-left$2\"></${1:i}>$0'
     prefix: 'fas-long-arrow-left'
   'fas-long-arrow-right':
-    body: '<${1:i} className="fas fa-long-arrow-right$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-long-arrow-right$2\"></${1:i}>$0'
     prefix: 'fas-long-arrow-right'
   'fas-long-arrow-up':
-    body: '<${1:i} className="fas fa-long-arrow-up$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-long-arrow-up$2\"></${1:i}>$0'
     prefix: 'fas-long-arrow-up'
+  'fas-loveseat':
+    body: '<${1:i} className=\"fas fa-loveseat$2\"></${1:i}>$0'
+    prefix: 'fas-loveseat'
   'fas-low-vision':
-    body: '<${1:i} className="fas fa-low-vision$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-low-vision$2\"></${1:i}>$0'
     prefix: 'fas-low-vision'
+  'fas-luchador':
+    body: '<${1:i} className=\"fas fa-luchador$2\"></${1:i}>$0'
+    prefix: 'fas-luchador'
+  'fas-lyft':
+    body: '<${1:i} className=\"fas fa-lyft$2\"></${1:i}>$0'
+    prefix: 'fas-lyft'
+  'fas-magento':
+    body: '<${1:i} className=\"fas fa-magento$2\"></${1:i}>$0'
+    prefix: 'fas-magento'
   'fas-magic':
-    body: '<${1:i} className="fas fa-magic$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-magic$2\"></${1:i}>$0'
     prefix: 'fas-magic'
   'fas-magnet':
-    body: '<${1:i} className="fas fa-magnet$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-magnet$2\"></${1:i}>$0'
     prefix: 'fas-magnet'
   'fas-male':
-    body: '<${1:i} className="fas fa-male$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-male$2\"></${1:i}>$0'
     prefix: 'fas-male'
+  'fas-mandalorian':
+    body: '<${1:i} className=\"fas fa-mandalorian$2\"></${1:i}>$0'
+    prefix: 'fas-mandalorian'
   'fas-map':
-    body: '<${1:i} className="fas fa-map$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-map$2\"></${1:i}>$0'
     prefix: 'fas-map'
   'fas-map-marker':
-    body: '<${1:i} className="fas fa-map-marker$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-map-marker$2\"></${1:i}>$0'
     prefix: 'fas-map-marker'
   'fas-map-marker-alt':
-    body: '<${1:i} className="fas fa-map-marker-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-map-marker-alt$2\"></${1:i}>$0'
     prefix: 'fas-map-marker-alt'
   'fas-map-pin':
-    body: '<${1:i} className="fas fa-map-pin$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-map-pin$2\"></${1:i}>$0'
     prefix: 'fas-map-pin'
   'fas-map-signs':
-    body: '<${1:i} className="fas fa-map-signs$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-map-signs$2\"></${1:i}>$0'
     prefix: 'fas-map-signs'
   'fas-mars':
-    body: '<${1:i} className="fas fa-mars$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-mars$2\"></${1:i}>$0'
     prefix: 'fas-mars'
   'fas-mars-double':
-    body: '<${1:i} className="fas fa-mars-double$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-mars-double$2\"></${1:i}>$0'
     prefix: 'fas-mars-double'
   'fas-mars-stroke':
-    body: '<${1:i} className="fas fa-mars-stroke$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-mars-stroke$2\"></${1:i}>$0'
     prefix: 'fas-mars-stroke'
   'fas-mars-stroke-h':
-    body: '<${1:i} className="fas fa-mars-stroke-h$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-mars-stroke-h$2\"></${1:i}>$0'
     prefix: 'fas-mars-stroke-h'
   'fas-mars-stroke-v':
-    body: '<${1:i} className="fas fa-mars-stroke-v$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-mars-stroke-v$2\"></${1:i}>$0'
     prefix: 'fas-mars-stroke-v'
+  'fas-mastodon':
+    body: '<${1:i} className=\"fas fa-mastodon$2\"></${1:i}>$0'
+    prefix: 'fas-mastodon'
+  'fas-maxcdn':
+    body: '<${1:i} className=\"fas fa-maxcdn$2\"></${1:i}>$0'
+    prefix: 'fas-maxcdn'
+  'fas-medapps':
+    body: '<${1:i} className=\"fas fa-medapps$2\"></${1:i}>$0'
+    prefix: 'fas-medapps'
+  'fas-medium':
+    body: '<${1:i} className=\"fas fa-medium$2\"></${1:i}>$0'
+    prefix: 'fas-medium'
+  'fas-medium-m':
+    body: '<${1:i} className=\"fas fa-medium-m$2\"></${1:i}>$0'
+    prefix: 'fas-medium-m'
   'fas-medkit':
-    body: '<${1:i} className="fas fa-medkit$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-medkit$2\"></${1:i}>$0'
     prefix: 'fas-medkit'
+  'fas-medrt':
+    body: '<${1:i} className=\"fas fa-medrt$2\"></${1:i}>$0'
+    prefix: 'fas-medrt'
+  'fas-meetup':
+    body: '<${1:i} className=\"fas fa-meetup$2\"></${1:i}>$0'
+    prefix: 'fas-meetup'
   'fas-meh':
-    body: '<${1:i} className="fas fa-meh$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-meh$2\"></${1:i}>$0'
     prefix: 'fas-meh'
+  'fas-memory':
+    body: '<${1:i} className=\"fas fa-memory$2\"></${1:i}>$0'
+    prefix: 'fas-memory'
   'fas-mercury':
-    body: '<${1:i} className="fas fa-mercury$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-mercury$2\"></${1:i}>$0'
     prefix: 'fas-mercury'
   'fas-microchip':
-    body: '<${1:i} className="fas fa-microchip$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-microchip$2\"></${1:i}>$0'
     prefix: 'fas-microchip'
   'fas-microphone':
-    body: '<${1:i} className="fas fa-microphone$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-microphone$2\"></${1:i}>$0'
     prefix: 'fas-microphone'
   'fas-microphone-alt':
-    body: '<${1:i} className="fas fa-microphone-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-microphone-alt$2\"></${1:i}>$0'
     prefix: 'fas-microphone-alt'
+  'fas-microphone-alt-slash':
+    body: '<${1:i} className=\"fas fa-microphone-alt-slash$2\"></${1:i}>$0'
+    prefix: 'fas-microphone-alt-slash'
   'fas-microphone-slash':
-    body: '<${1:i} className="fas fa-microphone-slash$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-microphone-slash$2\"></${1:i}>$0'
     prefix: 'fas-microphone-slash'
+  'fas-microsoft':
+    body: '<${1:i} className=\"fas fa-microsoft$2\"></${1:i}>$0'
+    prefix: 'fas-microsoft'
   'fas-minus':
-    body: '<${1:i} className="fas fa-minus$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-minus$2\"></${1:i}>$0'
     prefix: 'fas-minus'
   'fas-minus-circle':
-    body: '<${1:i} className="fas fa-minus-circle$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-minus-circle$2\"></${1:i}>$0'
     prefix: 'fas-minus-circle'
   'fas-minus-hexagon':
-    body: '<${1:i} className="fas fa-minus-hexagon$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-minus-hexagon$2\"></${1:i}>$0'
     prefix: 'fas-minus-hexagon'
   'fas-minus-octagon':
-    body: '<${1:i} className="fas fa-minus-octagon$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-minus-octagon$2\"></${1:i}>$0'
     prefix: 'fas-minus-octagon'
   'fas-minus-square':
-    body: '<${1:i} className="fas fa-minus-square$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-minus-square$2\"></${1:i}>$0'
     prefix: 'fas-minus-square'
+  'fas-mix':
+    body: '<${1:i} className=\"fas fa-mix$2\"></${1:i}>$0'
+    prefix: 'fas-mix'
+  'fas-mixcloud':
+    body: '<${1:i} className=\"fas fa-mixcloud$2\"></${1:i}>$0'
+    prefix: 'fas-mixcloud'
+  'fas-mizuni':
+    body: '<${1:i} className=\"fas fa-mizuni$2\"></${1:i}>$0'
+    prefix: 'fas-mizuni'
   'fas-mobile':
-    body: '<${1:i} className="fas fa-mobile$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-mobile$2\"></${1:i}>$0'
     prefix: 'fas-mobile'
   'fas-mobile-alt':
-    body: '<${1:i} className="fas fa-mobile-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-mobile-alt$2\"></${1:i}>$0'
     prefix: 'fas-mobile-alt'
   'fas-mobile-android':
-    body: '<${1:i} className="fas fa-mobile-android$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-mobile-android$2\"></${1:i}>$0'
     prefix: 'fas-mobile-android'
   'fas-mobile-android-alt':
-    body: '<${1:i} className="fas fa-mobile-android-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-mobile-android-alt$2\"></${1:i}>$0'
     prefix: 'fas-mobile-android-alt'
+  'fas-modx':
+    body: '<${1:i} className=\"fas fa-modx$2\"></${1:i}>$0'
+    prefix: 'fas-modx'
+  'fas-monero':
+    body: '<${1:i} className=\"fas fa-monero$2\"></${1:i}>$0'
+    prefix: 'fas-monero'
   'fas-money-bill':
-    body: '<${1:i} className="fas fa-money-bill$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-money-bill$2\"></${1:i}>$0'
     prefix: 'fas-money-bill'
   'fas-money-bill-alt':
-    body: '<${1:i} className="fas fa-money-bill-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-money-bill-alt$2\"></${1:i}>$0'
     prefix: 'fas-money-bill-alt'
+  'fas-money-bill-wave':
+    body: '<${1:i} className=\"fas fa-money-bill-wave$2\"></${1:i}>$0'
+    prefix: 'fas-money-bill-wave'
+  'fas-money-bill-wave-alt':
+    body: '<${1:i} className=\"fas fa-money-bill-wave-alt$2\"></${1:i}>$0'
+    prefix: 'fas-money-bill-wave-alt'
+  'fas-money-check':
+    body: '<${1:i} className=\"fas fa-money-check$2\"></${1:i}>$0'
+    prefix: 'fas-money-check'
+  'fas-money-check-alt':
+    body: '<${1:i} className=\"fas fa-money-check-alt$2\"></${1:i}>$0'
+    prefix: 'fas-money-check-alt'
   'fas-moon':
-    body: '<${1:i} className="fas fa-moon$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-moon$2\"></${1:i}>$0'
     prefix: 'fas-moon'
   'fas-motorcycle':
-    body: '<${1:i} className="fas fa-motorcycle$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-motorcycle$2\"></${1:i}>$0'
     prefix: 'fas-motorcycle'
   'fas-mouse-pointer':
-    body: '<${1:i} className="fas fa-mouse-pointer$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-mouse-pointer$2\"></${1:i}>$0'
     prefix: 'fas-mouse-pointer'
   'fas-music':
-    body: '<${1:i} className="fas fa-music$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-music$2\"></${1:i}>$0'
     prefix: 'fas-music'
+  'fas-napster':
+    body: '<${1:i} className=\"fas fa-napster$2\"></${1:i}>$0'
+    prefix: 'fas-napster'
   'fas-neuter':
-    body: '<${1:i} className="fas fa-neuter$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-neuter$2\"></${1:i}>$0'
     prefix: 'fas-neuter'
   'fas-newspaper':
-    body: '<${1:i} className="fas fa-newspaper$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-newspaper$2\"></${1:i}>$0'
     prefix: 'fas-newspaper'
+  'fas-nintendo-switch':
+    body: '<${1:i} className=\"fas fa-nintendo-switch$2\"></${1:i}>$0'
+    prefix: 'fas-nintendo-switch'
+  'fas-node':
+    body: '<${1:i} className=\"fas fa-node$2\"></${1:i}>$0'
+    prefix: 'fas-node'
+  'fas-node-js':
+    body: '<${1:i} className=\"fas fa-node-js$2\"></${1:i}>$0'
+    prefix: 'fas-node-js'
+  'fas-not-equal':
+    body: '<${1:i} className=\"fas fa-not-equal$2\"></${1:i}>$0'
+    prefix: 'fas-not-equal'
+  'fas-notes-medical':
+    body: '<${1:i} className=\"fas fa-notes-medical$2\"></${1:i}>$0'
+    prefix: 'fas-notes-medical'
+  'fas-npm':
+    body: '<${1:i} className=\"fas fa-npm$2\"></${1:i}>$0'
+    prefix: 'fas-npm'
+  'fas-ns8':
+    body: '<${1:i} className=\"fas fa-ns8$2\"></${1:i}>$0'
+    prefix: 'fas-ns8'
+  'fas-nutritionix':
+    body: '<${1:i} className=\"fas fa-nutritionix$2\"></${1:i}>$0'
+    prefix: 'fas-nutritionix'
   'fas-object-group':
-    body: '<${1:i} className="fas fa-object-group$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-object-group$2\"></${1:i}>$0'
     prefix: 'fas-object-group'
   'fas-object-ungroup':
-    body: '<${1:i} className="fas fa-object-ungroup$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-object-ungroup$2\"></${1:i}>$0'
     prefix: 'fas-object-ungroup'
   'fas-octagon':
-    body: '<${1:i} className="fas fa-octagon$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-octagon$2\"></${1:i}>$0'
     prefix: 'fas-octagon'
+  'fas-odnoklassniki':
+    body: '<${1:i} className=\"fas fa-odnoklassniki$2\"></${1:i}>$0'
+    prefix: 'fas-odnoklassniki'
+  'fas-odnoklassniki-square':
+    body: '<${1:i} className=\"fas fa-odnoklassniki-square$2\"></${1:i}>$0'
+    prefix: 'fas-odnoklassniki-square'
+  'fas-old-republic':
+    body: '<${1:i} className=\"fas fa-old-republic$2\"></${1:i}>$0'
+    prefix: 'fas-old-republic'
+  'fas-opencart':
+    body: '<${1:i} className=\"fas fa-opencart$2\"></${1:i}>$0'
+    prefix: 'fas-opencart'
+  'fas-openid':
+    body: '<${1:i} className=\"fas fa-openid$2\"></${1:i}>$0'
+    prefix: 'fas-openid'
+  'fas-opera':
+    body: '<${1:i} className=\"fas fa-opera$2\"></${1:i}>$0'
+    prefix: 'fas-opera'
+  'fas-optin-monster':
+    body: '<${1:i} className=\"fas fa-optin-monster$2\"></${1:i}>$0'
+    prefix: 'fas-optin-monster'
+  'fas-osi':
+    body: '<${1:i} className=\"fas fa-osi$2\"></${1:i}>$0'
+    prefix: 'fas-osi'
   'fas-outdent':
-    body: '<${1:i} className="fas fa-outdent$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-outdent$2\"></${1:i}>$0'
     prefix: 'fas-outdent'
+  'fas-page4':
+    body: '<${1:i} className=\"fas fa-page4$2\"></${1:i}>$0'
+    prefix: 'fas-page4'
+  'fas-pagelines':
+    body: '<${1:i} className=\"fas fa-pagelines$2\"></${1:i}>$0'
+    prefix: 'fas-pagelines'
   'fas-paint-brush':
-    body: '<${1:i} className="fas fa-paint-brush$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-paint-brush$2\"></${1:i}>$0'
     prefix: 'fas-paint-brush'
+  'fas-palette':
+    body: '<${1:i} className=\"fas fa-palette$2\"></${1:i}>$0'
+    prefix: 'fas-palette'
+  'fas-palfed':
+    body: '<${1:i} className=\"fas fa-palfed$2\"></${1:i}>$0'
+    prefix: 'fas-palfed'
+  'fas-pallet':
+    body: '<${1:i} className=\"fas fa-pallet$2\"></${1:i}>$0'
+    prefix: 'fas-pallet'
+  'fas-pallet-alt':
+    body: '<${1:i} className=\"fas fa-pallet-alt$2\"></${1:i}>$0'
+    prefix: 'fas-pallet-alt'
   'fas-paper-plane':
-    body: '<${1:i} className="fas fa-paper-plane$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-paper-plane$2\"></${1:i}>$0'
     prefix: 'fas-paper-plane'
   'fas-paperclip':
-    body: '<${1:i} className="fas fa-paperclip$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-paperclip$2\"></${1:i}>$0'
     prefix: 'fas-paperclip'
+  'fas-parachute-box':
+    body: '<${1:i} className=\"fas fa-parachute-box$2\"></${1:i}>$0'
+    prefix: 'fas-parachute-box'
   'fas-paragraph':
-    body: '<${1:i} className="fas fa-paragraph$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-paragraph$2\"></${1:i}>$0'
     prefix: 'fas-paragraph'
+  'fas-parking':
+    body: '<${1:i} className=\"fas fa-parking$2\"></${1:i}>$0'
+    prefix: 'fas-parking'
   'fas-paste':
-    body: '<${1:i} className="fas fa-paste$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-paste$2\"></${1:i}>$0'
     prefix: 'fas-paste'
+  'fas-patreon':
+    body: '<${1:i} className=\"fas fa-patreon$2\"></${1:i}>$0'
+    prefix: 'fas-patreon'
   'fas-pause':
-    body: '<${1:i} className="fas fa-pause$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-pause$2\"></${1:i}>$0'
     prefix: 'fas-pause'
   'fas-pause-circle':
-    body: '<${1:i} className="fas fa-pause-circle$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-pause-circle$2\"></${1:i}>$0'
     prefix: 'fas-pause-circle'
   'fas-paw':
-    body: '<${1:i} className="fas fa-paw$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-paw$2\"></${1:i}>$0'
     prefix: 'fas-paw'
+  'fas-paypal':
+    body: '<${1:i} className=\"fas fa-paypal$2\"></${1:i}>$0'
+    prefix: 'fas-paypal'
   'fas-pen':
-    body: '<${1:i} className="fas fa-pen$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-pen$2\"></${1:i}>$0'
     prefix: 'fas-pen'
   'fas-pen-alt':
-    body: '<${1:i} className="fas fa-pen-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-pen-alt$2\"></${1:i}>$0'
     prefix: 'fas-pen-alt'
   'fas-pen-square':
-    body: '<${1:i} className="fas fa-pen-square$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-pen-square$2\"></${1:i}>$0'
     prefix: 'fas-pen-square'
   'fas-pencil':
-    body: '<${1:i} className="fas fa-pencil$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-pencil$2\"></${1:i}>$0'
     prefix: 'fas-pencil'
   'fas-pencil-alt':
-    body: '<${1:i} className="fas fa-pencil-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-pencil-alt$2\"></${1:i}>$0'
     prefix: 'fas-pencil-alt'
+  'fas-pennant':
+    body: '<${1:i} className=\"fas fa-pennant$2\"></${1:i}>$0'
+    prefix: 'fas-pennant'
+  'fas-people-carry':
+    body: '<${1:i} className=\"fas fa-people-carry$2\"></${1:i}>$0'
+    prefix: 'fas-people-carry'
   'fas-percent':
-    body: '<${1:i} className="fas fa-percent$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-percent$2\"></${1:i}>$0'
     prefix: 'fas-percent'
+  'fas-percentage':
+    body: '<${1:i} className=\"fas fa-percentage$2\"></${1:i}>$0'
+    prefix: 'fas-percentage'
+  'fas-periscope':
+    body: '<${1:i} className=\"fas fa-periscope$2\"></${1:i}>$0'
+    prefix: 'fas-periscope'
+  'fas-person-carry':
+    body: '<${1:i} className=\"fas fa-person-carry$2\"></${1:i}>$0'
+    prefix: 'fas-person-carry'
+  'fas-person-dolly':
+    body: '<${1:i} className=\"fas fa-person-dolly$2\"></${1:i}>$0'
+    prefix: 'fas-person-dolly'
+  'fas-person-dolly-empty':
+    body: '<${1:i} className=\"fas fa-person-dolly-empty$2\"></${1:i}>$0'
+    prefix: 'fas-person-dolly-empty'
+  'fas-phabricator':
+    body: '<${1:i} className=\"fas fa-phabricator$2\"></${1:i}>$0'
+    prefix: 'fas-phabricator'
+  'fas-phoenix-framework':
+    body: '<${1:i} className=\"fas fa-phoenix-framework$2\"></${1:i}>$0'
+    prefix: 'fas-phoenix-framework'
+  'fas-phoenix-squadron':
+    body: '<${1:i} className=\"fas fa-phoenix-squadron$2\"></${1:i}>$0'
+    prefix: 'fas-phoenix-squadron'
   'fas-phone':
-    body: '<${1:i} className="fas fa-phone$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-phone$2\"></${1:i}>$0'
     prefix: 'fas-phone'
+  'fas-phone-plus':
+    body: '<${1:i} className=\"fas fa-phone-plus$2\"></${1:i}>$0'
+    prefix: 'fas-phone-plus'
   'fas-phone-slash':
-    body: '<${1:i} className="fas fa-phone-slash$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-phone-slash$2\"></${1:i}>$0'
     prefix: 'fas-phone-slash'
   'fas-phone-square':
-    body: '<${1:i} className="fas fa-phone-square$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-phone-square$2\"></${1:i}>$0'
     prefix: 'fas-phone-square'
   'fas-phone-volume':
-    body: '<${1:i} className="fas fa-phone-volume$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-phone-volume$2\"></${1:i}>$0'
     prefix: 'fas-phone-volume'
+  'fas-php':
+    body: '<${1:i} className=\"fas fa-php$2\"></${1:i}>$0'
+    prefix: 'fas-php'
+  'fas-pied-piper':
+    body: '<${1:i} className=\"fas fa-pied-piper$2\"></${1:i}>$0'
+    prefix: 'fas-pied-piper'
+  'fas-pied-piper-alt':
+    body: '<${1:i} className=\"fas fa-pied-piper-alt$2\"></${1:i}>$0'
+    prefix: 'fas-pied-piper-alt'
+  'fas-pied-piper-hat':
+    body: '<${1:i} className=\"fas fa-pied-piper-hat$2\"></${1:i}>$0'
+    prefix: 'fas-pied-piper-hat'
+  'fas-pied-piper-pp':
+    body: '<${1:i} className=\"fas fa-pied-piper-pp$2\"></${1:i}>$0'
+    prefix: 'fas-pied-piper-pp'
+  'fas-piggy-bank':
+    body: '<${1:i} className=\"fas fa-piggy-bank$2\"></${1:i}>$0'
+    prefix: 'fas-piggy-bank'
+  'fas-pills':
+    body: '<${1:i} className=\"fas fa-pills$2\"></${1:i}>$0'
+    prefix: 'fas-pills'
+  'fas-pinterest':
+    body: '<${1:i} className=\"fas fa-pinterest$2\"></${1:i}>$0'
+    prefix: 'fas-pinterest'
+  'fas-pinterest-p':
+    body: '<${1:i} className=\"fas fa-pinterest-p$2\"></${1:i}>$0'
+    prefix: 'fas-pinterest-p'
+  'fas-pinterest-square':
+    body: '<${1:i} className=\"fas fa-pinterest-square$2\"></${1:i}>$0'
+    prefix: 'fas-pinterest-square'
   'fas-plane':
-    body: '<${1:i} className="fas fa-plane$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-plane$2\"></${1:i}>$0'
     prefix: 'fas-plane'
   'fas-plane-alt':
-    body: '<${1:i} className="fas fa-plane-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-plane-alt$2\"></${1:i}>$0'
     prefix: 'fas-plane-alt'
   'fas-play':
-    body: '<${1:i} className="fas fa-play$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-play$2\"></${1:i}>$0'
     prefix: 'fas-play'
   'fas-play-circle':
-    body: '<${1:i} className="fas fa-play-circle$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-play-circle$2\"></${1:i}>$0'
     prefix: 'fas-play-circle'
+  'fas-playstation':
+    body: '<${1:i} className=\"fas fa-playstation$2\"></${1:i}>$0'
+    prefix: 'fas-playstation'
   'fas-plug':
-    body: '<${1:i} className="fas fa-plug$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-plug$2\"></${1:i}>$0'
     prefix: 'fas-plug'
   'fas-plus':
-    body: '<${1:i} className="fas fa-plus$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-plus$2\"></${1:i}>$0'
     prefix: 'fas-plus'
   'fas-plus-circle':
-    body: '<${1:i} className="fas fa-plus-circle$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-plus-circle$2\"></${1:i}>$0'
     prefix: 'fas-plus-circle'
   'fas-plus-hexagon':
-    body: '<${1:i} className="fas fa-plus-hexagon$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-plus-hexagon$2\"></${1:i}>$0'
     prefix: 'fas-plus-hexagon'
   'fas-plus-octagon':
-    body: '<${1:i} className="fas fa-plus-octagon$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-plus-octagon$2\"></${1:i}>$0'
     prefix: 'fas-plus-octagon'
   'fas-plus-square':
-    body: '<${1:i} className="fas fa-plus-square$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-plus-square$2\"></${1:i}>$0'
     prefix: 'fas-plus-square'
   'fas-podcast':
-    body: '<${1:i} className="fas fa-podcast$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-podcast$2\"></${1:i}>$0'
     prefix: 'fas-podcast'
   'fas-poo':
-    body: '<${1:i} className="fas fa-poo$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-poo$2\"></${1:i}>$0'
     prefix: 'fas-poo'
   'fas-portrait':
-    body: '<${1:i} className="fas fa-portrait$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-portrait$2\"></${1:i}>$0'
     prefix: 'fas-portrait'
   'fas-pound-sign':
-    body: '<${1:i} className="fas fa-pound-sign$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-pound-sign$2\"></${1:i}>$0'
     prefix: 'fas-pound-sign'
   'fas-power-off':
-    body: '<${1:i} className="fas fa-power-off$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-power-off$2\"></${1:i}>$0'
     prefix: 'fas-power-off'
+  'fas-prescription-bottle':
+    body: '<${1:i} className=\"fas fa-prescription-bottle$2\"></${1:i}>$0'
+    prefix: 'fas-prescription-bottle'
+  'fas-prescription-bottle-alt':
+    body: '<${1:i} className=\"fas fa-prescription-bottle-alt$2\"></${1:i}>$0'
+    prefix: 'fas-prescription-bottle-alt'
   'fas-print':
-    body: '<${1:i} className="fas fa-print$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-print$2\"></${1:i}>$0'
     prefix: 'fas-print'
+  'fas-procedures':
+    body: '<${1:i} className=\"fas fa-procedures$2\"></${1:i}>$0'
+    prefix: 'fas-procedures'
+  'fas-product-hunt':
+    body: '<${1:i} className=\"fas fa-product-hunt$2\"></${1:i}>$0'
+    prefix: 'fas-product-hunt'
+  'fas-project-diagram':
+    body: '<${1:i} className=\"fas fa-project-diagram$2\"></${1:i}>$0'
+    prefix: 'fas-project-diagram'
+  'fas-pushed':
+    body: '<${1:i} className=\"fas fa-pushed$2\"></${1:i}>$0'
+    prefix: 'fas-pushed'
   'fas-puzzle-piece':
-    body: '<${1:i} className="fas fa-puzzle-piece$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-puzzle-piece$2\"></${1:i}>$0'
     prefix: 'fas-puzzle-piece'
+  'fas-python':
+    body: '<${1:i} className=\"fas fa-python$2\"></${1:i}>$0'
+    prefix: 'fas-python'
+  'fas-qq':
+    body: '<${1:i} className=\"fas fa-qq$2\"></${1:i}>$0'
+    prefix: 'fas-qq'
   'fas-qrcode':
-    body: '<${1:i} className="fas fa-qrcode$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-qrcode$2\"></${1:i}>$0'
     prefix: 'fas-qrcode'
   'fas-question':
-    body: '<${1:i} className="fas fa-question$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-question$2\"></${1:i}>$0'
     prefix: 'fas-question'
   'fas-question-circle':
-    body: '<${1:i} className="fas fa-question-circle$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-question-circle$2\"></${1:i}>$0'
     prefix: 'fas-question-circle'
   'fas-question-square':
-    body: '<${1:i} className="fas fa-question-square$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-question-square$2\"></${1:i}>$0'
     prefix: 'fas-question-square'
+  'fas-quidditch':
+    body: '<${1:i} className=\"fas fa-quidditch$2\"></${1:i}>$0'
+    prefix: 'fas-quidditch'
+  'fas-quinscape':
+    body: '<${1:i} className=\"fas fa-quinscape$2\"></${1:i}>$0'
+    prefix: 'fas-quinscape'
+  'fas-quora':
+    body: '<${1:i} className=\"fas fa-quora$2\"></${1:i}>$0'
+    prefix: 'fas-quora'
   'fas-quote-left':
-    body: '<${1:i} className="fas fa-quote-left$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-quote-left$2\"></${1:i}>$0'
     prefix: 'fas-quote-left'
   'fas-quote-right':
-    body: '<${1:i} className="fas fa-quote-right$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-quote-right$2\"></${1:i}>$0'
     prefix: 'fas-quote-right'
+  'fas-r-project':
+    body: '<${1:i} className=\"fas fa-r-project$2\"></${1:i}>$0'
+    prefix: 'fas-r-project'
+  'fas-racquet':
+    body: '<${1:i} className=\"fas fa-racquet$2\"></${1:i}>$0'
+    prefix: 'fas-racquet'
+  'fas-ramp-loading':
+    body: '<${1:i} className=\"fas fa-ramp-loading$2\"></${1:i}>$0'
+    prefix: 'fas-ramp-loading'
   'fas-random':
-    body: '<${1:i} className="fas fa-random$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-random$2\"></${1:i}>$0'
     prefix: 'fas-random'
+  'fas-ravelry':
+    body: '<${1:i} className=\"fas fa-ravelry$2\"></${1:i}>$0'
+    prefix: 'fas-ravelry'
+  'fas-react':
+    body: '<${1:i} className=\"fas fa-react$2\"></${1:i}>$0'
+    prefix: 'fas-react'
+  'fas-readme':
+    body: '<${1:i} className=\"fas fa-readme$2\"></${1:i}>$0'
+    prefix: 'fas-readme'
+  'fas-rebel':
+    body: '<${1:i} className=\"fas fa-rebel$2\"></${1:i}>$0'
+    prefix: 'fas-rebel'
+  'fas-receipt':
+    body: '<${1:i} className=\"fas fa-receipt$2\"></${1:i}>$0'
+    prefix: 'fas-receipt'
   'fas-rectangle-landscape':
-    body: '<${1:i} className="fas fa-rectangle-landscape$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-rectangle-landscape$2\"></${1:i}>$0'
     prefix: 'fas-rectangle-landscape'
   'fas-rectangle-portrait':
-    body: '<${1:i} className="fas fa-rectangle-portrait$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-rectangle-portrait$2\"></${1:i}>$0'
     prefix: 'fas-rectangle-portrait'
   'fas-rectangle-wide':
-    body: '<${1:i} className="fas fa-rectangle-wide$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-rectangle-wide$2\"></${1:i}>$0'
     prefix: 'fas-rectangle-wide'
   'fas-recycle':
-    body: '<${1:i} className="fas fa-recycle$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-recycle$2\"></${1:i}>$0'
     prefix: 'fas-recycle'
+  'fas-red-river':
+    body: '<${1:i} className=\"fas fa-red-river$2\"></${1:i}>$0'
+    prefix: 'fas-red-river'
+  'fas-reddit':
+    body: '<${1:i} className=\"fas fa-reddit$2\"></${1:i}>$0'
+    prefix: 'fas-reddit'
+  'fas-reddit-alien':
+    body: '<${1:i} className=\"fas fa-reddit-alien$2\"></${1:i}>$0'
+    prefix: 'fas-reddit-alien'
+  'fas-reddit-square':
+    body: '<${1:i} className=\"fas fa-reddit-square$2\"></${1:i}>$0'
+    prefix: 'fas-reddit-square'
   'fas-redo':
-    body: '<${1:i} className="fas fa-redo$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-redo$2\"></${1:i}>$0'
     prefix: 'fas-redo'
   'fas-redo-alt':
-    body: '<${1:i} className="fas fa-redo-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-redo-alt$2\"></${1:i}>$0'
     prefix: 'fas-redo-alt'
   'fas-registered':
-    body: '<${1:i} className="fas fa-registered$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-registered$2\"></${1:i}>$0'
     prefix: 'fas-registered'
+  'fas-rendact':
+    body: '<${1:i} className=\"fas fa-rendact$2\"></${1:i}>$0'
+    prefix: 'fas-rendact'
+  'fas-renren':
+    body: '<${1:i} className=\"fas fa-renren$2\"></${1:i}>$0'
+    prefix: 'fas-renren'
   'fas-repeat':
-    body: '<${1:i} className="fas fa-repeat$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-repeat$2\"></${1:i}>$0'
     prefix: 'fas-repeat'
   'fas-repeat-1':
-    body: '<${1:i} className="fas fa-repeat-1$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-repeat-1$2\"></${1:i}>$0'
     prefix: 'fas-repeat-1'
   'fas-repeat-1-alt':
-    body: '<${1:i} className="fas fa-repeat-1-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-repeat-1-alt$2\"></${1:i}>$0'
     prefix: 'fas-repeat-1-alt'
   'fas-repeat-alt':
-    body: '<${1:i} className="fas fa-repeat-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-repeat-alt$2\"></${1:i}>$0'
     prefix: 'fas-repeat-alt'
   'fas-reply':
-    body: '<${1:i} className="fas fa-reply$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-reply$2\"></${1:i}>$0'
     prefix: 'fas-reply'
   'fas-reply-all':
-    body: '<${1:i} className="fas fa-reply-all$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-reply-all$2\"></${1:i}>$0'
     prefix: 'fas-reply-all'
+  'fas-replyd':
+    body: '<${1:i} className=\"fas fa-replyd$2\"></${1:i}>$0'
+    prefix: 'fas-replyd'
+  'fas-researchgate':
+    body: '<${1:i} className=\"fas fa-researchgate$2\"></${1:i}>$0'
+    prefix: 'fas-researchgate'
+  'fas-resolving':
+    body: '<${1:i} className=\"fas fa-resolving$2\"></${1:i}>$0'
+    prefix: 'fas-resolving'
   'fas-retweet':
-    body: '<${1:i} className="fas fa-retweet$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-retweet$2\"></${1:i}>$0'
     prefix: 'fas-retweet'
   'fas-retweet-alt':
-    body: '<${1:i} className="fas fa-retweet-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-retweet-alt$2\"></${1:i}>$0'
     prefix: 'fas-retweet-alt'
+  'fas-ribbon':
+    body: '<${1:i} className=\"fas fa-ribbon$2\"></${1:i}>$0'
+    prefix: 'fas-ribbon'
   'fas-road':
-    body: '<${1:i} className="fas fa-road$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-road$2\"></${1:i}>$0'
     prefix: 'fas-road'
+  'fas-robot':
+    body: '<${1:i} className=\"fas fa-robot$2\"></${1:i}>$0'
+    prefix: 'fas-robot'
   'fas-rocket':
-    body: '<${1:i} className="fas fa-rocket$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-rocket$2\"></${1:i}>$0'
     prefix: 'fas-rocket'
+  'fas-rocketchat':
+    body: '<${1:i} className=\"fas fa-rocketchat$2\"></${1:i}>$0'
+    prefix: 'fas-rocketchat'
+  'fas-rockrms':
+    body: '<${1:i} className=\"fas fa-rockrms$2\"></${1:i}>$0'
+    prefix: 'fas-rockrms'
+  'fas-route':
+    body: '<${1:i} className=\"fas fa-route$2\"></${1:i}>$0'
+    prefix: 'fas-route'
   'fas-rss':
-    body: '<${1:i} className="fas fa-rss$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-rss$2\"></${1:i}>$0'
     prefix: 'fas-rss'
   'fas-rss-square':
-    body: '<${1:i} className="fas fa-rss-square$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-rss-square$2\"></${1:i}>$0'
     prefix: 'fas-rss-square'
   'fas-ruble-sign':
-    body: '<${1:i} className="fas fa-ruble-sign$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-ruble-sign$2\"></${1:i}>$0'
     prefix: 'fas-ruble-sign'
+  'fas-ruler':
+    body: '<${1:i} className=\"fas fa-ruler$2\"></${1:i}>$0'
+    prefix: 'fas-ruler'
+  'fas-ruler-combined':
+    body: '<${1:i} className=\"fas fa-ruler-combined$2\"></${1:i}>$0'
+    prefix: 'fas-ruler-combined'
+  'fas-ruler-horizontal':
+    body: '<${1:i} className=\"fas fa-ruler-horizontal$2\"></${1:i}>$0'
+    prefix: 'fas-ruler-horizontal'
+  'fas-ruler-vertical':
+    body: '<${1:i} className=\"fas fa-ruler-vertical$2\"></${1:i}>$0'
+    prefix: 'fas-ruler-vertical'
   'fas-rupee-sign':
-    body: '<${1:i} className="fas fa-rupee-sign$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-rupee-sign$2\"></${1:i}>$0'
     prefix: 'fas-rupee-sign'
+  'fas-safari':
+    body: '<${1:i} className=\"fas fa-safari$2\"></${1:i}>$0'
+    prefix: 'fas-safari'
+  'fas-sass':
+    body: '<${1:i} className=\"fas fa-sass$2\"></${1:i}>$0'
+    prefix: 'fas-sass'
   'fas-save':
-    body: '<${1:i} className="fas fa-save$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-save$2\"></${1:i}>$0'
     prefix: 'fas-save'
+  'fas-scanner':
+    body: '<${1:i} className=\"fas fa-scanner$2\"></${1:i}>$0'
+    prefix: 'fas-scanner'
+  'fas-scanner-keyboard':
+    body: '<${1:i} className=\"fas fa-scanner-keyboard$2\"></${1:i}>$0'
+    prefix: 'fas-scanner-keyboard'
+  'fas-scanner-touchscreen':
+    body: '<${1:i} className=\"fas fa-scanner-touchscreen$2\"></${1:i}>$0'
+    prefix: 'fas-scanner-touchscreen'
+  'fas-schlix':
+    body: '<${1:i} className=\"fas fa-schlix$2\"></${1:i}>$0'
+    prefix: 'fas-schlix'
+  'fas-school':
+    body: '<${1:i} className=\"fas fa-school$2\"></${1:i}>$0'
+    prefix: 'fas-school'
+  'fas-screwdriver':
+    body: '<${1:i} className=\"fas fa-screwdriver$2\"></${1:i}>$0'
+    prefix: 'fas-screwdriver'
+  'fas-scribd':
+    body: '<${1:i} className=\"fas fa-scribd$2\"></${1:i}>$0'
+    prefix: 'fas-scribd'
   'fas-scrubber':
-    body: '<${1:i} className="fas fa-scrubber$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-scrubber$2\"></${1:i}>$0'
     prefix: 'fas-scrubber'
   'fas-search':
-    body: '<${1:i} className="fas fa-search$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-search$2\"></${1:i}>$0'
     prefix: 'fas-search'
   'fas-search-minus':
-    body: '<${1:i} className="fas fa-search-minus$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-search-minus$2\"></${1:i}>$0'
     prefix: 'fas-search-minus'
   'fas-search-plus':
-    body: '<${1:i} className="fas fa-search-plus$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-search-plus$2\"></${1:i}>$0'
     prefix: 'fas-search-plus'
+  'fas-searchengin':
+    body: '<${1:i} className=\"fas fa-searchengin$2\"></${1:i}>$0'
+    prefix: 'fas-searchengin'
+  'fas-seedling':
+    body: '<${1:i} className=\"fas fa-seedling$2\"></${1:i}>$0'
+    prefix: 'fas-seedling'
+  'fas-sellcast':
+    body: '<${1:i} className=\"fas fa-sellcast$2\"></${1:i}>$0'
+    prefix: 'fas-sellcast'
+  'fas-sellsy':
+    body: '<${1:i} className=\"fas fa-sellsy$2\"></${1:i}>$0'
+    prefix: 'fas-sellsy'
   'fas-server':
-    body: '<${1:i} className="fas fa-server$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-server$2\"></${1:i}>$0'
     prefix: 'fas-server'
+  'fas-servicestack':
+    body: '<${1:i} className=\"fas fa-servicestack$2\"></${1:i}>$0'
+    prefix: 'fas-servicestack'
   'fas-share':
-    body: '<${1:i} className="fas fa-share$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-share$2\"></${1:i}>$0'
     prefix: 'fas-share'
   'fas-share-all':
-    body: '<${1:i} className="fas fa-share-all$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-share-all$2\"></${1:i}>$0'
     prefix: 'fas-share-all'
   'fas-share-alt':
-    body: '<${1:i} className="fas fa-share-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-share-alt$2\"></${1:i}>$0'
     prefix: 'fas-share-alt'
   'fas-share-alt-square':
-    body: '<${1:i} className="fas fa-share-alt-square$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-share-alt-square$2\"></${1:i}>$0'
     prefix: 'fas-share-alt-square'
   'fas-share-square':
-    body: '<${1:i} className="fas fa-share-square$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-share-square$2\"></${1:i}>$0'
     prefix: 'fas-share-square'
   'fas-shekel-sign':
-    body: '<${1:i} className="fas fa-shekel-sign$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-shekel-sign$2\"></${1:i}>$0'
     prefix: 'fas-shekel-sign'
   'fas-shield':
-    body: '<${1:i} className="fas fa-shield$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-shield$2\"></${1:i}>$0'
     prefix: 'fas-shield'
   'fas-shield-alt':
-    body: '<${1:i} className="fas fa-shield-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-shield-alt$2\"></${1:i}>$0'
     prefix: 'fas-shield-alt'
   'fas-shield-check':
-    body: '<${1:i} className="fas fa-shield-check$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-shield-check$2\"></${1:i}>$0'
     prefix: 'fas-shield-check'
   'fas-ship':
-    body: '<${1:i} className="fas fa-ship$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-ship$2\"></${1:i}>$0'
     prefix: 'fas-ship'
+  'fas-shipping-fast':
+    body: '<${1:i} className=\"fas fa-shipping-fast$2\"></${1:i}>$0'
+    prefix: 'fas-shipping-fast'
+  'fas-shipping-timed':
+    body: '<${1:i} className=\"fas fa-shipping-timed$2\"></${1:i}>$0'
+    prefix: 'fas-shipping-timed'
+  'fas-shirtsinbulk':
+    body: '<${1:i} className=\"fas fa-shirtsinbulk$2\"></${1:i}>$0'
+    prefix: 'fas-shirtsinbulk'
+  'fas-shoe-prints':
+    body: '<${1:i} className=\"fas fa-shoe-prints$2\"></${1:i}>$0'
+    prefix: 'fas-shoe-prints'
   'fas-shopping-bag':
-    body: '<${1:i} className="fas fa-shopping-bag$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-shopping-bag$2\"></${1:i}>$0'
     prefix: 'fas-shopping-bag'
   'fas-shopping-basket':
-    body: '<${1:i} className="fas fa-shopping-basket$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-shopping-basket$2\"></${1:i}>$0'
     prefix: 'fas-shopping-basket'
   'fas-shopping-cart':
-    body: '<${1:i} className="fas fa-shopping-cart$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-shopping-cart$2\"></${1:i}>$0'
     prefix: 'fas-shopping-cart'
   'fas-shower':
-    body: '<${1:i} className="fas fa-shower$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-shower$2\"></${1:i}>$0'
     prefix: 'fas-shower'
+  'fas-shuttlecock':
+    body: '<${1:i} className=\"fas fa-shuttlecock$2\"></${1:i}>$0'
+    prefix: 'fas-shuttlecock'
+  'fas-sign':
+    body: '<${1:i} className=\"fas fa-sign$2\"></${1:i}>$0'
+    prefix: 'fas-sign'
   'fas-sign-in':
-    body: '<${1:i} className="fas fa-sign-in$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-sign-in$2\"></${1:i}>$0'
     prefix: 'fas-sign-in'
   'fas-sign-in-alt':
-    body: '<${1:i} className="fas fa-sign-in-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-sign-in-alt$2\"></${1:i}>$0'
     prefix: 'fas-sign-in-alt'
   'fas-sign-language':
-    body: '<${1:i} className="fas fa-sign-language$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-sign-language$2\"></${1:i}>$0'
     prefix: 'fas-sign-language'
   'fas-sign-out':
-    body: '<${1:i} className="fas fa-sign-out$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-sign-out$2\"></${1:i}>$0'
     prefix: 'fas-sign-out'
   'fas-sign-out-alt':
-    body: '<${1:i} className="fas fa-sign-out-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-sign-out-alt$2\"></${1:i}>$0'
     prefix: 'fas-sign-out-alt'
   'fas-signal':
-    body: '<${1:i} className="fas fa-signal$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-signal$2\"></${1:i}>$0'
     prefix: 'fas-signal'
+  'fas-simplybuilt':
+    body: '<${1:i} className=\"fas fa-simplybuilt$2\"></${1:i}>$0'
+    prefix: 'fas-simplybuilt'
+  'fas-sistrix':
+    body: '<${1:i} className=\"fas fa-sistrix$2\"></${1:i}>$0'
+    prefix: 'fas-sistrix'
   'fas-sitemap':
-    body: '<${1:i} className="fas fa-sitemap$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-sitemap$2\"></${1:i}>$0'
     prefix: 'fas-sitemap'
+  'fas-sith':
+    body: '<${1:i} className=\"fas fa-sith$2\"></${1:i}>$0'
+    prefix: 'fas-sith'
+  'fas-skull':
+    body: '<${1:i} className=\"fas fa-skull$2\"></${1:i}>$0'
+    prefix: 'fas-skull'
+  'fas-skyatlas':
+    body: '<${1:i} className=\"fas fa-skyatlas$2\"></${1:i}>$0'
+    prefix: 'fas-skyatlas'
+  'fas-skype':
+    body: '<${1:i} className=\"fas fa-skype$2\"></${1:i}>$0'
+    prefix: 'fas-skype'
+  'fas-slack':
+    body: '<${1:i} className=\"fas fa-slack$2\"></${1:i}>$0'
+    prefix: 'fas-slack'
+  'fas-slack-hash':
+    body: '<${1:i} className=\"fas fa-slack-hash$2\"></${1:i}>$0'
+    prefix: 'fas-slack-hash'
   'fas-sliders-h':
-    body: '<${1:i} className="fas fa-sliders-h$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-sliders-h$2\"></${1:i}>$0'
     prefix: 'fas-sliders-h'
   'fas-sliders-h-square':
-    body: '<${1:i} className="fas fa-sliders-h-square$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-sliders-h-square$2\"></${1:i}>$0'
     prefix: 'fas-sliders-h-square'
   'fas-sliders-v':
-    body: '<${1:i} className="fas fa-sliders-v$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-sliders-v$2\"></${1:i}>$0'
     prefix: 'fas-sliders-v'
   'fas-sliders-v-square':
-    body: '<${1:i} className="fas fa-sliders-v-square$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-sliders-v-square$2\"></${1:i}>$0'
     prefix: 'fas-sliders-v-square'
+  'fas-slideshare':
+    body: '<${1:i} className=\"fas fa-slideshare$2\"></${1:i}>$0'
+    prefix: 'fas-slideshare'
   'fas-smile':
-    body: '<${1:i} className="fas fa-smile$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-smile$2\"></${1:i}>$0'
     prefix: 'fas-smile'
+  'fas-smile-plus':
+    body: '<${1:i} className=\"fas fa-smile-plus$2\"></${1:i}>$0'
+    prefix: 'fas-smile-plus'
+  'fas-smoking':
+    body: '<${1:i} className=\"fas fa-smoking$2\"></${1:i}>$0'
+    prefix: 'fas-smoking'
+  'fas-smoking-ban':
+    body: '<${1:i} className=\"fas fa-smoking-ban$2\"></${1:i}>$0'
+    prefix: 'fas-smoking-ban'
+  'fas-snapchat':
+    body: '<${1:i} className=\"fas fa-snapchat$2\"></${1:i}>$0'
+    prefix: 'fas-snapchat'
+  'fas-snapchat-ghost':
+    body: '<${1:i} className=\"fas fa-snapchat-ghost$2\"></${1:i}>$0'
+    prefix: 'fas-snapchat-ghost'
+  'fas-snapchat-square':
+    body: '<${1:i} className=\"fas fa-snapchat-square$2\"></${1:i}>$0'
+    prefix: 'fas-snapchat-square'
   'fas-snowflake':
-    body: '<${1:i} className="fas fa-snowflake$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-snowflake$2\"></${1:i}>$0'
     prefix: 'fas-snowflake'
   'fas-sort':
-    body: '<${1:i} className="fas fa-sort$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-sort$2\"></${1:i}>$0'
     prefix: 'fas-sort'
   'fas-sort-alpha-down':
-    body: '<${1:i} className="fas fa-sort-alpha-down$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-sort-alpha-down$2\"></${1:i}>$0'
     prefix: 'fas-sort-alpha-down'
   'fas-sort-alpha-up':
-    body: '<${1:i} className="fas fa-sort-alpha-up$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-sort-alpha-up$2\"></${1:i}>$0'
     prefix: 'fas-sort-alpha-up'
   'fas-sort-amount-down':
-    body: '<${1:i} className="fas fa-sort-amount-down$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-sort-amount-down$2\"></${1:i}>$0'
     prefix: 'fas-sort-amount-down'
   'fas-sort-amount-up':
-    body: '<${1:i} className="fas fa-sort-amount-up$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-sort-amount-up$2\"></${1:i}>$0'
     prefix: 'fas-sort-amount-up'
   'fas-sort-down':
-    body: '<${1:i} className="fas fa-sort-down$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-sort-down$2\"></${1:i}>$0'
     prefix: 'fas-sort-down'
   'fas-sort-numeric-down':
-    body: '<${1:i} className="fas fa-sort-numeric-down$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-sort-numeric-down$2\"></${1:i}>$0'
     prefix: 'fas-sort-numeric-down'
   'fas-sort-numeric-up':
-    body: '<${1:i} className="fas fa-sort-numeric-up$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-sort-numeric-up$2\"></${1:i}>$0'
     prefix: 'fas-sort-numeric-up'
   'fas-sort-up':
-    body: '<${1:i} className="fas fa-sort-up$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-sort-up$2\"></${1:i}>$0'
     prefix: 'fas-sort-up'
+  'fas-soundcloud':
+    body: '<${1:i} className=\"fas fa-soundcloud$2\"></${1:i}>$0'
+    prefix: 'fas-soundcloud'
   'fas-space-shuttle':
-    body: '<${1:i} className="fas fa-space-shuttle$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-space-shuttle$2\"></${1:i}>$0'
     prefix: 'fas-space-shuttle'
   'fas-spade':
-    body: '<${1:i} className="fas fa-spade$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-spade$2\"></${1:i}>$0'
     prefix: 'fas-spade'
+  'fas-speakap':
+    body: '<${1:i} className=\"fas fa-speakap$2\"></${1:i}>$0'
+    prefix: 'fas-speakap'
   'fas-spinner':
-    body: '<${1:i} className="fas fa-spinner$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-spinner$2\"></${1:i}>$0'
     prefix: 'fas-spinner'
   'fas-spinner-third':
-    body: '<${1:i} className="fas fa-spinner-third$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-spinner-third$2\"></${1:i}>$0'
     prefix: 'fas-spinner-third'
+  'fas-spotify':
+    body: '<${1:i} className=\"fas fa-spotify$2\"></${1:i}>$0'
+    prefix: 'fas-spotify'
   'fas-square':
-    body: '<${1:i} className="fas fa-square$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-square$2\"></${1:i}>$0'
     prefix: 'fas-square'
+  'fas-square-full':
+    body: '<${1:i} className=\"fas fa-square-full$2\"></${1:i}>$0'
+    prefix: 'fas-square-full'
+  'fas-stack-exchange':
+    body: '<${1:i} className=\"fas fa-stack-exchange$2\"></${1:i}>$0'
+    prefix: 'fas-stack-exchange'
+  'fas-stack-overflow':
+    body: '<${1:i} className=\"fas fa-stack-overflow$2\"></${1:i}>$0'
+    prefix: 'fas-stack-overflow'
   'fas-star':
-    body: '<${1:i} className="fas fa-star$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-star$2\"></${1:i}>$0'
     prefix: 'fas-star'
   'fas-star-exclamation':
-    body: '<${1:i} className="fas fa-star-exclamation$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-star-exclamation$2\"></${1:i}>$0'
     prefix: 'fas-star-exclamation'
   'fas-star-half':
-    body: '<${1:i} className="fas fa-star-half$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-star-half$2\"></${1:i}>$0'
     prefix: 'fas-star-half'
+  'fas-staylinked':
+    body: '<${1:i} className=\"fas fa-staylinked$2\"></${1:i}>$0'
+    prefix: 'fas-staylinked'
+  'fas-steam':
+    body: '<${1:i} className=\"fas fa-steam$2\"></${1:i}>$0'
+    prefix: 'fas-steam'
+  'fas-steam-square':
+    body: '<${1:i} className=\"fas fa-steam-square$2\"></${1:i}>$0'
+    prefix: 'fas-steam-square'
+  'fas-steam-symbol':
+    body: '<${1:i} className=\"fas fa-steam-symbol$2\"></${1:i}>$0'
+    prefix: 'fas-steam-symbol'
   'fas-step-backward':
-    body: '<${1:i} className="fas fa-step-backward$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-step-backward$2\"></${1:i}>$0'
     prefix: 'fas-step-backward'
   'fas-step-forward':
-    body: '<${1:i} className="fas fa-step-forward$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-step-forward$2\"></${1:i}>$0'
     prefix: 'fas-step-forward'
   'fas-stethoscope':
-    body: '<${1:i} className="fas fa-stethoscope$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-stethoscope$2\"></${1:i}>$0'
     prefix: 'fas-stethoscope'
+  'fas-sticker-mule':
+    body: '<${1:i} className=\"fas fa-sticker-mule$2\"></${1:i}>$0'
+    prefix: 'fas-sticker-mule'
   'fas-sticky-note':
-    body: '<${1:i} className="fas fa-sticky-note$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-sticky-note$2\"></${1:i}>$0'
     prefix: 'fas-sticky-note'
   'fas-stop':
-    body: '<${1:i} className="fas fa-stop$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-stop$2\"></${1:i}>$0'
     prefix: 'fas-stop'
   'fas-stop-circle':
-    body: '<${1:i} className="fas fa-stop-circle$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-stop-circle$2\"></${1:i}>$0'
     prefix: 'fas-stop-circle'
   'fas-stopwatch':
-    body: '<${1:i} className="fas fa-stopwatch$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-stopwatch$2\"></${1:i}>$0'
     prefix: 'fas-stopwatch'
+  'fas-store':
+    body: '<${1:i} className=\"fas fa-store$2\"></${1:i}>$0'
+    prefix: 'fas-store'
+  'fas-store-alt':
+    body: '<${1:i} className=\"fas fa-store-alt$2\"></${1:i}>$0'
+    prefix: 'fas-store-alt'
+  'fas-strava':
+    body: '<${1:i} className=\"fas fa-strava$2\"></${1:i}>$0'
+    prefix: 'fas-strava'
+  'fas-stream':
+    body: '<${1:i} className=\"fas fa-stream$2\"></${1:i}>$0'
+    prefix: 'fas-stream'
   'fas-street-view':
-    body: '<${1:i} className="fas fa-street-view$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-street-view$2\"></${1:i}>$0'
     prefix: 'fas-street-view'
   'fas-strikethrough':
-    body: '<${1:i} className="fas fa-strikethrough$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-strikethrough$2\"></${1:i}>$0'
     prefix: 'fas-strikethrough'
+  'fas-stripe':
+    body: '<${1:i} className=\"fas fa-stripe$2\"></${1:i}>$0'
+    prefix: 'fas-stripe'
+  'fas-stripe-s':
+    body: '<${1:i} className=\"fas fa-stripe-s$2\"></${1:i}>$0'
+    prefix: 'fas-stripe-s'
+  'fas-stroopwafel':
+    body: '<${1:i} className=\"fas fa-stroopwafel$2\"></${1:i}>$0'
+    prefix: 'fas-stroopwafel'
+  'fas-studiovinari':
+    body: '<${1:i} className=\"fas fa-studiovinari$2\"></${1:i}>$0'
+    prefix: 'fas-studiovinari'
+  'fas-stumbleupon':
+    body: '<${1:i} className=\"fas fa-stumbleupon$2\"></${1:i}>$0'
+    prefix: 'fas-stumbleupon'
+  'fas-stumbleupon-circle':
+    body: '<${1:i} className=\"fas fa-stumbleupon-circle$2\"></${1:i}>$0'
+    prefix: 'fas-stumbleupon-circle'
   'fas-subscript':
-    body: '<${1:i} className="fas fa-subscript$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-subscript$2\"></${1:i}>$0'
     prefix: 'fas-subscript'
   'fas-subway':
-    body: '<${1:i} className="fas fa-subway$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-subway$2\"></${1:i}>$0'
     prefix: 'fas-subway'
   'fas-suitcase':
-    body: '<${1:i} className="fas fa-suitcase$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-suitcase$2\"></${1:i}>$0'
     prefix: 'fas-suitcase'
   'fas-sun':
-    body: '<${1:i} className="fas fa-sun$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-sun$2\"></${1:i}>$0'
     prefix: 'fas-sun'
+  'fas-superpowers':
+    body: '<${1:i} className=\"fas fa-superpowers$2\"></${1:i}>$0'
+    prefix: 'fas-superpowers'
   'fas-superscript':
-    body: '<${1:i} className="fas fa-superscript$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-superscript$2\"></${1:i}>$0'
     prefix: 'fas-superscript'
+  'fas-supple':
+    body: '<${1:i} className=\"fas fa-supple$2\"></${1:i}>$0'
+    prefix: 'fas-supple'
   'fas-sync':
-    body: '<${1:i} className="fas fa-sync$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-sync$2\"></${1:i}>$0'
     prefix: 'fas-sync'
   'fas-sync-alt':
-    body: '<${1:i} className="fas fa-sync-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-sync-alt$2\"></${1:i}>$0'
     prefix: 'fas-sync-alt'
+  'fas-syringe':
+    body: '<${1:i} className=\"fas fa-syringe$2\"></${1:i}>$0'
+    prefix: 'fas-syringe'
   'fas-table':
-    body: '<${1:i} className="fas fa-table$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-table$2\"></${1:i}>$0'
     prefix: 'fas-table'
+  'fas-table-tennis':
+    body: '<${1:i} className=\"fas fa-table-tennis$2\"></${1:i}>$0'
+    prefix: 'fas-table-tennis'
   'fas-tablet':
-    body: '<${1:i} className="fas fa-tablet$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-tablet$2\"></${1:i}>$0'
     prefix: 'fas-tablet'
   'fas-tablet-alt':
-    body: '<${1:i} className="fas fa-tablet-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-tablet-alt$2\"></${1:i}>$0'
     prefix: 'fas-tablet-alt'
   'fas-tablet-android':
-    body: '<${1:i} className="fas fa-tablet-android$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-tablet-android$2\"></${1:i}>$0'
     prefix: 'fas-tablet-android'
   'fas-tablet-android-alt':
-    body: '<${1:i} className="fas fa-tablet-android-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-tablet-android-alt$2\"></${1:i}>$0'
     prefix: 'fas-tablet-android-alt'
+  'fas-tablet-rugged':
+    body: '<${1:i} className=\"fas fa-tablet-rugged$2\"></${1:i}>$0'
+    prefix: 'fas-tablet-rugged'
+  'fas-tablets':
+    body: '<${1:i} className=\"fas fa-tablets$2\"></${1:i}>$0'
+    prefix: 'fas-tablets'
   'fas-tachometer':
-    body: '<${1:i} className="fas fa-tachometer$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-tachometer$2\"></${1:i}>$0'
     prefix: 'fas-tachometer'
   'fas-tachometer-alt':
-    body: '<${1:i} className="fas fa-tachometer-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-tachometer-alt$2\"></${1:i}>$0'
     prefix: 'fas-tachometer-alt'
   'fas-tag':
-    body: '<${1:i} className="fas fa-tag$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-tag$2\"></${1:i}>$0'
     prefix: 'fas-tag'
   'fas-tags':
-    body: '<${1:i} className="fas fa-tags$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-tags$2\"></${1:i}>$0'
     prefix: 'fas-tags'
+  'fas-tape':
+    body: '<${1:i} className=\"fas fa-tape$2\"></${1:i}>$0'
+    prefix: 'fas-tape'
   'fas-tasks':
-    body: '<${1:i} className="fas fa-tasks$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-tasks$2\"></${1:i}>$0'
     prefix: 'fas-tasks'
   'fas-taxi':
-    body: '<${1:i} className="fas fa-taxi$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-taxi$2\"></${1:i}>$0'
     prefix: 'fas-taxi'
+  'fas-teamspeak':
+    body: '<${1:i} className=\"fas fa-teamspeak$2\"></${1:i}>$0'
+    prefix: 'fas-teamspeak'
+  'fas-telegram':
+    body: '<${1:i} className=\"fas fa-telegram$2\"></${1:i}>$0'
+    prefix: 'fas-telegram'
+  'fas-telegram-plane':
+    body: '<${1:i} className=\"fas fa-telegram-plane$2\"></${1:i}>$0'
+    prefix: 'fas-telegram-plane'
+  'fas-tencent-weibo':
+    body: '<${1:i} className=\"fas fa-tencent-weibo$2\"></${1:i}>$0'
+    prefix: 'fas-tencent-weibo'
+  'fas-tennis-ball':
+    body: '<${1:i} className=\"fas fa-tennis-ball$2\"></${1:i}>$0'
+    prefix: 'fas-tennis-ball'
   'fas-terminal':
-    body: '<${1:i} className="fas fa-terminal$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-terminal$2\"></${1:i}>$0'
     prefix: 'fas-terminal'
   'fas-text-height':
-    body: '<${1:i} className="fas fa-text-height$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-text-height$2\"></${1:i}>$0'
     prefix: 'fas-text-height'
   'fas-text-width':
-    body: '<${1:i} className="fas fa-text-width$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-text-width$2\"></${1:i}>$0'
     prefix: 'fas-text-width'
   'fas-th':
-    body: '<${1:i} className="fas fa-th$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-th$2\"></${1:i}>$0'
     prefix: 'fas-th'
   'fas-th-large':
-    body: '<${1:i} className="fas fa-th-large$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-th-large$2\"></${1:i}>$0'
     prefix: 'fas-th-large'
   'fas-th-list':
-    body: '<${1:i} className="fas fa-th-list$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-th-list$2\"></${1:i}>$0'
     prefix: 'fas-th-list'
+  'fas-themeisle':
+    body: '<${1:i} className=\"fas fa-themeisle$2\"></${1:i}>$0'
+    prefix: 'fas-themeisle'
+  'fas-thermometer':
+    body: '<${1:i} className=\"fas fa-thermometer$2\"></${1:i}>$0'
+    prefix: 'fas-thermometer'
   'fas-thermometer-empty':
-    body: '<${1:i} className="fas fa-thermometer-empty$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-thermometer-empty$2\"></${1:i}>$0'
     prefix: 'fas-thermometer-empty'
   'fas-thermometer-full':
-    body: '<${1:i} className="fas fa-thermometer-full$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-thermometer-full$2\"></${1:i}>$0'
     prefix: 'fas-thermometer-full'
   'fas-thermometer-half':
-    body: '<${1:i} className="fas fa-thermometer-half$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-thermometer-half$2\"></${1:i}>$0'
     prefix: 'fas-thermometer-half'
   'fas-thermometer-quarter':
-    body: '<${1:i} className="fas fa-thermometer-quarter$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-thermometer-quarter$2\"></${1:i}>$0'
     prefix: 'fas-thermometer-quarter'
   'fas-thermometer-three-quarters':
-    body: '<${1:i} className="fas fa-thermometer-three-quarters$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-thermometer-three-quarters$2\"></${1:i}>$0'
     prefix: 'fas-thermometer-three-quarters'
   'fas-thumbs-down':
-    body: '<${1:i} className="fas fa-thumbs-down$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-thumbs-down$2\"></${1:i}>$0'
     prefix: 'fas-thumbs-down'
   'fas-thumbs-up':
-    body: '<${1:i} className="fas fa-thumbs-up$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-thumbs-up$2\"></${1:i}>$0'
     prefix: 'fas-thumbs-up'
   'fas-thumbtack':
-    body: '<${1:i} className="fas fa-thumbtack$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-thumbtack$2\"></${1:i}>$0'
     prefix: 'fas-thumbtack'
   'fas-ticket':
-    body: '<${1:i} className="fas fa-ticket$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-ticket$2\"></${1:i}>$0'
     prefix: 'fas-ticket'
   'fas-ticket-alt':
-    body: '<${1:i} className="fas fa-ticket-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-ticket-alt$2\"></${1:i}>$0'
     prefix: 'fas-ticket-alt'
   'fas-times':
-    body: '<${1:i} className="fas fa-times$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-times$2\"></${1:i}>$0'
     prefix: 'fas-times'
   'fas-times-circle':
-    body: '<${1:i} className="fas fa-times-circle$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-times-circle$2\"></${1:i}>$0'
     prefix: 'fas-times-circle'
   'fas-times-hexagon':
-    body: '<${1:i} className="fas fa-times-hexagon$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-times-hexagon$2\"></${1:i}>$0'
     prefix: 'fas-times-hexagon'
   'fas-times-octagon':
-    body: '<${1:i} className="fas fa-times-octagon$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-times-octagon$2\"></${1:i}>$0'
     prefix: 'fas-times-octagon'
   'fas-times-square':
-    body: '<${1:i} className="fas fa-times-square$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-times-square$2\"></${1:i}>$0'
     prefix: 'fas-times-square'
   'fas-tint':
-    body: '<${1:i} className="fas fa-tint$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-tint$2\"></${1:i}>$0'
     prefix: 'fas-tint'
   'fas-toggle-off':
-    body: '<${1:i} className="fas fa-toggle-off$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-toggle-off$2\"></${1:i}>$0'
     prefix: 'fas-toggle-off'
   'fas-toggle-on':
-    body: '<${1:i} className="fas fa-toggle-on$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-toggle-on$2\"></${1:i}>$0'
     prefix: 'fas-toggle-on'
+  'fas-toolbox':
+    body: '<${1:i} className=\"fas fa-toolbox$2\"></${1:i}>$0'
+    prefix: 'fas-toolbox'
+  'fas-trade-federation':
+    body: '<${1:i} className=\"fas fa-trade-federation$2\"></${1:i}>$0'
+    prefix: 'fas-trade-federation'
   'fas-trademark':
-    body: '<${1:i} className="fas fa-trademark$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-trademark$2\"></${1:i}>$0'
     prefix: 'fas-trademark'
   'fas-train':
-    body: '<${1:i} className="fas fa-train$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-train$2\"></${1:i}>$0'
     prefix: 'fas-train'
   'fas-transgender':
-    body: '<${1:i} className="fas fa-transgender$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-transgender$2\"></${1:i}>$0'
     prefix: 'fas-transgender'
   'fas-transgender-alt':
-    body: '<${1:i} className="fas fa-transgender-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-transgender-alt$2\"></${1:i}>$0'
     prefix: 'fas-transgender-alt'
   'fas-trash':
-    body: '<${1:i} className="fas fa-trash$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-trash$2\"></${1:i}>$0'
     prefix: 'fas-trash'
   'fas-trash-alt':
-    body: '<${1:i} className="fas fa-trash-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-trash-alt$2\"></${1:i}>$0'
     prefix: 'fas-trash-alt'
   'fas-tree':
-    body: '<${1:i} className="fas fa-tree$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-tree$2\"></${1:i}>$0'
     prefix: 'fas-tree'
   'fas-tree-alt':
-    body: '<${1:i} className="fas fa-tree-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-tree-alt$2\"></${1:i}>$0'
     prefix: 'fas-tree-alt'
+  'fas-trello':
+    body: '<${1:i} className=\"fas fa-trello$2\"></${1:i}>$0'
+    prefix: 'fas-trello'
   'fas-triangle':
-    body: '<${1:i} className="fas fa-triangle$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-triangle$2\"></${1:i}>$0'
     prefix: 'fas-triangle'
+  'fas-tripadvisor':
+    body: '<${1:i} className=\"fas fa-tripadvisor$2\"></${1:i}>$0'
+    prefix: 'fas-tripadvisor'
   'fas-trophy':
-    body: '<${1:i} className="fas fa-trophy$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-trophy$2\"></${1:i}>$0'
     prefix: 'fas-trophy'
   'fas-trophy-alt':
-    body: '<${1:i} className="fas fa-trophy-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-trophy-alt$2\"></${1:i}>$0'
     prefix: 'fas-trophy-alt'
   'fas-truck':
-    body: '<${1:i} className="fas fa-truck$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-truck$2\"></${1:i}>$0'
     prefix: 'fas-truck'
+  'fas-truck-container':
+    body: '<${1:i} className=\"fas fa-truck-container$2\"></${1:i}>$0'
+    prefix: 'fas-truck-container'
+  'fas-truck-couch':
+    body: '<${1:i} className=\"fas fa-truck-couch$2\"></${1:i}>$0'
+    prefix: 'fas-truck-couch'
+  'fas-truck-loading':
+    body: '<${1:i} className=\"fas fa-truck-loading$2\"></${1:i}>$0'
+    prefix: 'fas-truck-loading'
+  'fas-truck-moving':
+    body: '<${1:i} className=\"fas fa-truck-moving$2\"></${1:i}>$0'
+    prefix: 'fas-truck-moving'
+  'fas-truck-ramp':
+    body: '<${1:i} className=\"fas fa-truck-ramp$2\"></${1:i}>$0'
+    prefix: 'fas-truck-ramp'
+  'fas-tshirt':
+    body: '<${1:i} className=\"fas fa-tshirt$2\"></${1:i}>$0'
+    prefix: 'fas-tshirt'
   'fas-tty':
-    body: '<${1:i} className="fas fa-tty$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-tty$2\"></${1:i}>$0'
     prefix: 'fas-tty'
+  'fas-tumblr':
+    body: '<${1:i} className=\"fas fa-tumblr$2\"></${1:i}>$0'
+    prefix: 'fas-tumblr'
+  'fas-tumblr-square':
+    body: '<${1:i} className=\"fas fa-tumblr-square$2\"></${1:i}>$0'
+    prefix: 'fas-tumblr-square'
   'fas-tv':
-    body: '<${1:i} className="fas fa-tv$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-tv$2\"></${1:i}>$0'
     prefix: 'fas-tv'
   'fas-tv-retro':
-    body: '<${1:i} className="fas fa-tv-retro$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-tv-retro$2\"></${1:i}>$0'
     prefix: 'fas-tv-retro'
+  'fas-twitch':
+    body: '<${1:i} className=\"fas fa-twitch$2\"></${1:i}>$0'
+    prefix: 'fas-twitch'
+  'fas-twitter':
+    body: '<${1:i} className=\"fas fa-twitter$2\"></${1:i}>$0'
+    prefix: 'fas-twitter'
+  'fas-twitter-square':
+    body: '<${1:i} className=\"fas fa-twitter-square$2\"></${1:i}>$0'
+    prefix: 'fas-twitter-square'
+  'fas-typo3':
+    body: '<${1:i} className=\"fas fa-typo3$2\"></${1:i}>$0'
+    prefix: 'fas-typo3'
+  'fas-uber':
+    body: '<${1:i} className=\"fas fa-uber$2\"></${1:i}>$0'
+    prefix: 'fas-uber'
+  'fas-uikit':
+    body: '<${1:i} className=\"fas fa-uikit$2\"></${1:i}>$0'
+    prefix: 'fas-uikit'
   'fas-umbrella':
-    body: '<${1:i} className="fas fa-umbrella$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-umbrella$2\"></${1:i}>$0'
     prefix: 'fas-umbrella'
   'fas-underline':
-    body: '<${1:i} className="fas fa-underline$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-underline$2\"></${1:i}>$0'
     prefix: 'fas-underline'
   'fas-undo':
-    body: '<${1:i} className="fas fa-undo$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-undo$2\"></${1:i}>$0'
     prefix: 'fas-undo'
   'fas-undo-alt':
-    body: '<${1:i} className="fas fa-undo-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-undo-alt$2\"></${1:i}>$0'
     prefix: 'fas-undo-alt'
+  'fas-uniregistry':
+    body: '<${1:i} className=\"fas fa-uniregistry$2\"></${1:i}>$0'
+    prefix: 'fas-uniregistry'
   'fas-universal-access':
-    body: '<${1:i} className="fas fa-universal-access$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-universal-access$2\"></${1:i}>$0'
     prefix: 'fas-universal-access'
   'fas-university':
-    body: '<${1:i} className="fas fa-university$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-university$2\"></${1:i}>$0'
     prefix: 'fas-university'
   'fas-unlink':
-    body: '<${1:i} className="fas fa-unlink$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-unlink$2\"></${1:i}>$0'
     prefix: 'fas-unlink'
   'fas-unlock':
-    body: '<${1:i} className="fas fa-unlock$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-unlock$2\"></${1:i}>$0'
     prefix: 'fas-unlock'
   'fas-unlock-alt':
-    body: '<${1:i} className="fas fa-unlock-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-unlock-alt$2\"></${1:i}>$0'
     prefix: 'fas-unlock-alt'
+  'fas-untappd':
+    body: '<${1:i} className=\"fas fa-untappd$2\"></${1:i}>$0'
+    prefix: 'fas-untappd'
   'fas-upload':
-    body: '<${1:i} className="fas fa-upload$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-upload$2\"></${1:i}>$0'
     prefix: 'fas-upload'
+  'fas-usb':
+    body: '<${1:i} className=\"fas fa-usb$2\"></${1:i}>$0'
+    prefix: 'fas-usb'
   'fas-usd-circle':
-    body: '<${1:i} className="fas fa-usd-circle$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-usd-circle$2\"></${1:i}>$0'
     prefix: 'fas-usd-circle'
   'fas-usd-square':
-    body: '<${1:i} className="fas fa-usd-square$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-usd-square$2\"></${1:i}>$0'
     prefix: 'fas-usd-square'
   'fas-user':
-    body: '<${1:i} className="fas fa-user$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-user$2\"></${1:i}>$0'
     prefix: 'fas-user'
   'fas-user-alt':
-    body: '<${1:i} className="fas fa-user-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-user-alt$2\"></${1:i}>$0'
     prefix: 'fas-user-alt'
+  'fas-user-alt-slash':
+    body: '<${1:i} className=\"fas fa-user-alt-slash$2\"></${1:i}>$0'
+    prefix: 'fas-user-alt-slash'
+  'fas-user-astronaut':
+    body: '<${1:i} className=\"fas fa-user-astronaut$2\"></${1:i}>$0'
+    prefix: 'fas-user-astronaut'
+  'fas-user-check':
+    body: '<${1:i} className=\"fas fa-user-check$2\"></${1:i}>$0'
+    prefix: 'fas-user-check'
   'fas-user-circle':
-    body: '<${1:i} className="fas fa-user-circle$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-user-circle$2\"></${1:i}>$0'
     prefix: 'fas-user-circle'
+  'fas-user-clock':
+    body: '<${1:i} className=\"fas fa-user-clock$2\"></${1:i}>$0'
+    prefix: 'fas-user-clock'
+  'fas-user-cog':
+    body: '<${1:i} className=\"fas fa-user-cog$2\"></${1:i}>$0'
+    prefix: 'fas-user-cog'
+  'fas-user-edit':
+    body: '<${1:i} className=\"fas fa-user-edit$2\"></${1:i}>$0'
+    prefix: 'fas-user-edit'
+  'fas-user-friends':
+    body: '<${1:i} className=\"fas fa-user-friends$2\"></${1:i}>$0'
+    prefix: 'fas-user-friends'
+  'fas-user-graduate':
+    body: '<${1:i} className=\"fas fa-user-graduate$2\"></${1:i}>$0'
+    prefix: 'fas-user-graduate'
+  'fas-user-lock':
+    body: '<${1:i} className=\"fas fa-user-lock$2\"></${1:i}>$0'
+    prefix: 'fas-user-lock'
   'fas-user-md':
-    body: '<${1:i} className="fas fa-user-md$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-user-md$2\"></${1:i}>$0'
     prefix: 'fas-user-md'
+  'fas-user-minus':
+    body: '<${1:i} className=\"fas fa-user-minus$2\"></${1:i}>$0'
+    prefix: 'fas-user-minus'
+  'fas-user-ninja':
+    body: '<${1:i} className=\"fas fa-user-ninja$2\"></${1:i}>$0'
+    prefix: 'fas-user-ninja'
   'fas-user-plus':
-    body: '<${1:i} className="fas fa-user-plus$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-user-plus$2\"></${1:i}>$0'
     prefix: 'fas-user-plus'
   'fas-user-secret':
-    body: '<${1:i} className="fas fa-user-secret$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-user-secret$2\"></${1:i}>$0'
     prefix: 'fas-user-secret'
+  'fas-user-shield':
+    body: '<${1:i} className=\"fas fa-user-shield$2\"></${1:i}>$0'
+    prefix: 'fas-user-shield'
+  'fas-user-slash':
+    body: '<${1:i} className=\"fas fa-user-slash$2\"></${1:i}>$0'
+    prefix: 'fas-user-slash'
+  'fas-user-tag':
+    body: '<${1:i} className=\"fas fa-user-tag$2\"></${1:i}>$0'
+    prefix: 'fas-user-tag'
+  'fas-user-tie':
+    body: '<${1:i} className=\"fas fa-user-tie$2\"></${1:i}>$0'
+    prefix: 'fas-user-tie'
   'fas-user-times':
-    body: '<${1:i} className="fas fa-user-times$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-user-times$2\"></${1:i}>$0'
     prefix: 'fas-user-times'
   'fas-users':
-    body: '<${1:i} className="fas fa-users$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-users$2\"></${1:i}>$0'
     prefix: 'fas-users'
+  'fas-users-cog':
+    body: '<${1:i} className=\"fas fa-users-cog$2\"></${1:i}>$0'
+    prefix: 'fas-users-cog'
+  'fas-ussunnah':
+    body: '<${1:i} className=\"fas fa-ussunnah$2\"></${1:i}>$0'
+    prefix: 'fas-ussunnah'
   'fas-utensil-fork':
-    body: '<${1:i} className="fas fa-utensil-fork$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-utensil-fork$2\"></${1:i}>$0'
     prefix: 'fas-utensil-fork'
   'fas-utensil-knife':
-    body: '<${1:i} className="fas fa-utensil-knife$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-utensil-knife$2\"></${1:i}>$0'
     prefix: 'fas-utensil-knife'
   'fas-utensil-spoon':
-    body: '<${1:i} className="fas fa-utensil-spoon$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-utensil-spoon$2\"></${1:i}>$0'
     prefix: 'fas-utensil-spoon'
   'fas-utensils':
-    body: '<${1:i} className="fas fa-utensils$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-utensils$2\"></${1:i}>$0'
     prefix: 'fas-utensils'
   'fas-utensils-alt':
-    body: '<${1:i} className="fas fa-utensils-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-utensils-alt$2\"></${1:i}>$0'
     prefix: 'fas-utensils-alt'
+  'fas-vaadin':
+    body: '<${1:i} className=\"fas fa-vaadin$2\"></${1:i}>$0'
+    prefix: 'fas-vaadin'
   'fas-venus':
-    body: '<${1:i} className="fas fa-venus$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-venus$2\"></${1:i}>$0'
     prefix: 'fas-venus'
   'fas-venus-double':
-    body: '<${1:i} className="fas fa-venus-double$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-venus-double$2\"></${1:i}>$0'
     prefix: 'fas-venus-double'
   'fas-venus-mars':
-    body: '<${1:i} className="fas fa-venus-mars$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-venus-mars$2\"></${1:i}>$0'
     prefix: 'fas-venus-mars'
+  'fas-viacoin':
+    body: '<${1:i} className=\"fas fa-viacoin$2\"></${1:i}>$0'
+    prefix: 'fas-viacoin'
+  'fas-viadeo':
+    body: '<${1:i} className=\"fas fa-viadeo$2\"></${1:i}>$0'
+    prefix: 'fas-viadeo'
+  'fas-viadeo-square':
+    body: '<${1:i} className=\"fas fa-viadeo-square$2\"></${1:i}>$0'
+    prefix: 'fas-viadeo-square'
+  'fas-vial':
+    body: '<${1:i} className=\"fas fa-vial$2\"></${1:i}>$0'
+    prefix: 'fas-vial'
+  'fas-vials':
+    body: '<${1:i} className=\"fas fa-vials$2\"></${1:i}>$0'
+    prefix: 'fas-vials'
+  'fas-viber':
+    body: '<${1:i} className=\"fas fa-viber$2\"></${1:i}>$0'
+    prefix: 'fas-viber'
   'fas-video':
-    body: '<${1:i} className="fas fa-video$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-video$2\"></${1:i}>$0'
     prefix: 'fas-video'
+  'fas-video-plus':
+    body: '<${1:i} className=\"fas fa-video-plus$2\"></${1:i}>$0'
+    prefix: 'fas-video-plus'
+  'fas-video-slash':
+    body: '<${1:i} className=\"fas fa-video-slash$2\"></${1:i}>$0'
+    prefix: 'fas-video-slash'
+  'fas-vimeo':
+    body: '<${1:i} className=\"fas fa-vimeo$2\"></${1:i}>$0'
+    prefix: 'fas-vimeo'
+  'fas-vimeo-square':
+    body: '<${1:i} className=\"fas fa-vimeo-square$2\"></${1:i}>$0'
+    prefix: 'fas-vimeo-square'
+  'fas-vimeo-v':
+    body: '<${1:i} className=\"fas fa-vimeo-v$2\"></${1:i}>$0'
+    prefix: 'fas-vimeo-v'
+  'fas-vine':
+    body: '<${1:i} className=\"fas fa-vine$2\"></${1:i}>$0'
+    prefix: 'fas-vine'
+  'fas-vk':
+    body: '<${1:i} className=\"fas fa-vk$2\"></${1:i}>$0'
+    prefix: 'fas-vk'
+  'fas-vnv':
+    body: '<${1:i} className=\"fas fa-vnv$2\"></${1:i}>$0'
+    prefix: 'fas-vnv'
+  'fas-volleyball-ball':
+    body: '<${1:i} className=\"fas fa-volleyball-ball$2\"></${1:i}>$0'
+    prefix: 'fas-volleyball-ball'
   'fas-volume-down':
-    body: '<${1:i} className="fas fa-volume-down$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-volume-down$2\"></${1:i}>$0'
     prefix: 'fas-volume-down'
   'fas-volume-mute':
-    body: '<${1:i} className="fas fa-volume-mute$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-volume-mute$2\"></${1:i}>$0'
     prefix: 'fas-volume-mute'
   'fas-volume-off':
-    body: '<${1:i} className="fas fa-volume-off$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-volume-off$2\"></${1:i}>$0'
     prefix: 'fas-volume-off'
   'fas-volume-up':
-    body: '<${1:i} className="fas fa-volume-up$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-volume-up$2\"></${1:i}>$0'
     prefix: 'fas-volume-up'
+  'fas-vuejs':
+    body: '<${1:i} className=\"fas fa-vuejs$2\"></${1:i}>$0'
+    prefix: 'fas-vuejs'
+  'fas-walking':
+    body: '<${1:i} className=\"fas fa-walking$2\"></${1:i}>$0'
+    prefix: 'fas-walking'
+  'fas-wallet':
+    body: '<${1:i} className=\"fas fa-wallet$2\"></${1:i}>$0'
+    prefix: 'fas-wallet'
+  'fas-warehouse':
+    body: '<${1:i} className=\"fas fa-warehouse$2\"></${1:i}>$0'
+    prefix: 'fas-warehouse'
+  'fas-warehouse-alt':
+    body: '<${1:i} className=\"fas fa-warehouse-alt$2\"></${1:i}>$0'
+    prefix: 'fas-warehouse-alt'
   'fas-watch':
-    body: '<${1:i} className="fas fa-watch$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-watch$2\"></${1:i}>$0'
     prefix: 'fas-watch'
+  'fas-weibo':
+    body: '<${1:i} className=\"fas fa-weibo$2\"></${1:i}>$0'
+    prefix: 'fas-weibo'
+  'fas-weight':
+    body: '<${1:i} className=\"fas fa-weight$2\"></${1:i}>$0'
+    prefix: 'fas-weight'
+  'fas-weixin':
+    body: '<${1:i} className=\"fas fa-weixin$2\"></${1:i}>$0'
+    prefix: 'fas-weixin'
+  'fas-whatsapp':
+    body: '<${1:i} className=\"fas fa-whatsapp$2\"></${1:i}>$0'
+    prefix: 'fas-whatsapp'
+  'fas-whatsapp-square':
+    body: '<${1:i} className=\"fas fa-whatsapp-square$2\"></${1:i}>$0'
+    prefix: 'fas-whatsapp-square'
   'fas-wheelchair':
-    body: '<${1:i} className="fas fa-wheelchair$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-wheelchair$2\"></${1:i}>$0'
     prefix: 'fas-wheelchair'
+  'fas-whistle':
+    body: '<${1:i} className=\"fas fa-whistle$2\"></${1:i}>$0'
+    prefix: 'fas-whistle'
+  'fas-whmcs':
+    body: '<${1:i} className=\"fas fa-whmcs$2\"></${1:i}>$0'
+    prefix: 'fas-whmcs'
   'fas-wifi':
-    body: '<${1:i} className="fas fa-wifi$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-wifi$2\"></${1:i}>$0'
     prefix: 'fas-wifi'
+  'fas-wikipedia-w':
+    body: '<${1:i} className=\"fas fa-wikipedia-w$2\"></${1:i}>$0'
+    prefix: 'fas-wikipedia-w'
   'fas-window':
-    body: '<${1:i} className="fas fa-window$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-window$2\"></${1:i}>$0'
     prefix: 'fas-window'
   'fas-window-alt':
-    body: '<${1:i} className="fas fa-window-alt$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-window-alt$2\"></${1:i}>$0'
     prefix: 'fas-window-alt'
   'fas-window-close':
-    body: '<${1:i} className="fas fa-window-close$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-window-close$2\"></${1:i}>$0'
     prefix: 'fas-window-close'
   'fas-window-maximize':
-    body: '<${1:i} className="fas fa-window-maximize$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-window-maximize$2\"></${1:i}>$0'
     prefix: 'fas-window-maximize'
   'fas-window-minimize':
-    body: '<${1:i} className="fas fa-window-minimize$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-window-minimize$2\"></${1:i}>$0'
     prefix: 'fas-window-minimize'
   'fas-window-restore':
-    body: '<${1:i} className="fas fa-window-restore$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-window-restore$2\"></${1:i}>$0'
     prefix: 'fas-window-restore'
+  'fas-windows':
+    body: '<${1:i} className=\"fas fa-windows$2\"></${1:i}>$0'
+    prefix: 'fas-windows'
+  'fas-wine-glass':
+    body: '<${1:i} className=\"fas fa-wine-glass$2\"></${1:i}>$0'
+    prefix: 'fas-wine-glass'
+  'fas-wolf-pack-battalion':
+    body: '<${1:i} className=\"fas fa-wolf-pack-battalion$2\"></${1:i}>$0'
+    prefix: 'fas-wolf-pack-battalion'
   'fas-won-sign':
-    body: '<${1:i} className="fas fa-won-sign$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-won-sign$2\"></${1:i}>$0'
     prefix: 'fas-won-sign'
+  'fas-wordpress':
+    body: '<${1:i} className=\"fas fa-wordpress$2\"></${1:i}>$0'
+    prefix: 'fas-wordpress'
+  'fas-wordpress-simple':
+    body: '<${1:i} className=\"fas fa-wordpress-simple$2\"></${1:i}>$0'
+    prefix: 'fas-wordpress-simple'
+  'fas-wpbeginner':
+    body: '<${1:i} className=\"fas fa-wpbeginner$2\"></${1:i}>$0'
+    prefix: 'fas-wpbeginner'
+  'fas-wpexplorer':
+    body: '<${1:i} className=\"fas fa-wpexplorer$2\"></${1:i}>$0'
+    prefix: 'fas-wpexplorer'
+  'fas-wpforms':
+    body: '<${1:i} className=\"fas fa-wpforms$2\"></${1:i}>$0'
+    prefix: 'fas-wpforms'
   'fas-wrench':
-    body: '<${1:i} className="fas fa-wrench$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-wrench$2\"></${1:i}>$0'
     prefix: 'fas-wrench'
+  'fas-x-ray':
+    body: '<${1:i} className=\"fas fa-x-ray$2\"></${1:i}>$0'
+    prefix: 'fas-x-ray'
+  'fas-xbox':
+    body: '<${1:i} className=\"fas fa-xbox$2\"></${1:i}>$0'
+    prefix: 'fas-xbox'
+  'fas-xing':
+    body: '<${1:i} className=\"fas fa-xing$2\"></${1:i}>$0'
+    prefix: 'fas-xing'
+  'fas-xing-square':
+    body: '<${1:i} className=\"fas fa-xing-square$2\"></${1:i}>$0'
+    prefix: 'fas-xing-square'
+  'fas-y-combinator':
+    body: '<${1:i} className=\"fas fa-y-combinator$2\"></${1:i}>$0'
+    prefix: 'fas-y-combinator'
+  'fas-yahoo':
+    body: '<${1:i} className=\"fas fa-yahoo$2\"></${1:i}>$0'
+    prefix: 'fas-yahoo'
+  'fas-yandex':
+    body: '<${1:i} className=\"fas fa-yandex$2\"></${1:i}>$0'
+    prefix: 'fas-yandex'
+  'fas-yandex-international':
+    body: '<${1:i} className=\"fas fa-yandex-international$2\"></${1:i}>$0'
+    prefix: 'fas-yandex-international'
+  'fas-yelp':
+    body: '<${1:i} className=\"fas fa-yelp$2\"></${1:i}>$0'
+    prefix: 'fas-yelp'
   'fas-yen-sign':
-    body: '<${1:i} className="fas fa-yen-sign$2"></${1:i}>'
+    body: '<${1:i} className=\"fas fa-yen-sign$2\"></${1:i}>$0'
     prefix: 'fas-yen-sign'
+  'fas-yoast':
+    body: '<${1:i} className=\"fas fa-yoast$2\"></${1:i}>$0'
+    prefix: 'fas-yoast'
+  'fas-youtube':
+    body: '<${1:i} className=\"fas fa-youtube$2\"></${1:i}>$0'
+    prefix: 'fas-youtube'
+  'fas-youtube-square':
+    body: '<${1:i} className=\"fas fa-youtube-square$2\"></${1:i}>$0'
+    prefix: 'fas-youtube-square'
