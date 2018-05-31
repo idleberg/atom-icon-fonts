@@ -1,3 +1,12 @@
+# v2.20.0 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v2.20.0)
+
+- remove icon fonts (available in [legacy package](https://github.com/idleberg/atom-icon-fonts-legacy))
+    - Semantic UI
+    - Brandico Icons
+    - IcoFont
+- auto-generate snippets
+- use JSON for snippets
+
 # v2.19.2 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v2.19.2)
 
 - bump Font Awesome to v5.0.13
