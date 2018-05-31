@@ -5,6 +5,7 @@
 - bump Material Design Icons to v2.4.85
 - bump Font Mfizz to v2.4.1
 - bump PaymentFont to v1.2.5
+- update devDependencies
 
 # v2.18.2 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v2.18.2)
 
