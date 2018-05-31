@@ -46,8 +46,6 @@ const parseCSS = (font) => {
             .replace(/^\./, '')
             .replace(/:before$/, '');
 
-            if (typeof font.replace !== 'undefined' && font.replace.to) output.selector = output.selector.replace(/^fa-/, font.replace.to);
-
             item.declarations.forEach( declaration => {
                 if (declaration.property === 'content') output.code = declaration.value.replace(/("|')*/g, '').replace(/\\/g, '');
             });
@@ -63,14 +61,16 @@ const parseCSS = (font) => {
     return output;
 }
 
-const writeCSS = (file, data) => {
+const writeCSS = (font, data) => {
     const output = {};
 
     data.forEach( element => {
-        output[element.selector] = {
+        const prefix = (typeof font.replace !== 'undefined' && font.replace.to) ? element.selector.replace(/^fa-/, font.replace.to) : element.selector;
+
+        output[prefix] = {
             body: `content: '\\\\${element.code}';$0`,
             description: 'content',
-            prefix: element.selector
+            prefix: prefix
         }
     });
 
@@ -81,9 +81,9 @@ const writeCSS = (file, data) => {
     const contents = JSON.stringify(snippet, null, 4);
 
     const outDir = join(__dirname, '..', 'snippets');
-    writeFile(`${outDir}/${file}--css.json`, contents, (err) => {
-      if (err) return signale.fatal(err);
-      signale.success(`${file}--css.json`);
+    writeFile(`${outDir}/${font.slug}--css.json`, contents, (err) => {
+        if (err) return signale.fatal(err);
+        signale.success(`${font.slug}--css.json`);
     });
 }
 
@@ -100,6 +100,8 @@ const write = (font, data, type = 'html') => {
         const classes = [classesBefore, element.selector, classesAfter].join(' ').trim();
         const options = (font.options === true) ? '$2' : '';
 
+        if (typeof font.replace !== 'undefined' && font.replace.to) element.selector = element.selector.replace(/^fa-/, font.replace.to);
+
         output[element.selector] = {
             body: `<$\{1:${font.tag}\} ${classProp}="${classes}${options}"></$\{1:${font.tag}\}>$0`,
             description: `<${font.tag}>`,
@@ -112,8 +114,8 @@ const write = (font, data, type = 'html') => {
     const outDir = join(__dirname, '..', 'snippets');
 
     writeFile(`${outDir}/${font.slug}--${type}.json`, contents, (err) => {
-      if (err) return signale.fatal(err);
-      signale.success(`${font.slug}--${type}.json`);
+        if (err) return signale.fatal(err);
+        signale.success(`${font.slug}--${type}.json`);
     });
 }
 
@@ -128,7 +130,7 @@ const db = readDB();
 db.fonts.forEach( (font) => {
     try {
         let data = parseCSS(font);
-        writeCSS(font.slug, data);
+        writeCSS(font, data);
         write(font, data, 'html');
         write(font, data, 'jsx');
     } catch(err) {
