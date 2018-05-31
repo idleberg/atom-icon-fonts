@@ -1,3 +1,7 @@
+# v2.19.1 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v2.19.1)
+
+- fix indentation
+
 # v2.19.0 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v2.19.0)
 
 - add Material Design Icons (Official)
