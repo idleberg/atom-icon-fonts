@@ -30,6 +30,7 @@
     "husky": "^0.14.3"
   },
   "scripts": {
+    "build": "cd tools && yarn && node build",
     "prepush": "npm test",
     "test": "gulp lint"
   }
