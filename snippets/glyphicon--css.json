@@ -1,0 +1,1314 @@
+{
+    ".source.css .meta.property-list.css, .source.css.scss .meta.property-list.scss, .source.less .meta.property-list.less, .source.sass, .source.stylus .meta.property-list.stylus": {
+        "glyphicon-asterisk": {
+            "body": "content: '\\\\002a';$0",
+            "description": "content",
+            "prefix": "glyphicon-asterisk"
+        },
+        "glyphicon-plus": {
+            "body": "content: '\\\\002b';$0",
+            "description": "content",
+            "prefix": "glyphicon-plus"
+        },
+        "glyphicon-euro": {
+            "body": "content: '\\\\20ac';$0",
+            "description": "content",
+            "prefix": "glyphicon-euro"
+        },
+        "glyphicon-minus": {
+            "body": "content: '\\\\2212';$0",
+            "description": "content",
+            "prefix": "glyphicon-minus"
+        },
+        "glyphicon-cloud": {
+            "body": "content: '\\\\2601';$0",
+            "description": "content",
+            "prefix": "glyphicon-cloud"
+        },
+        "glyphicon-envelope": {
+            "body": "content: '\\\\2709';$0",
+            "description": "content",
+            "prefix": "glyphicon-envelope"
+        },
+        "glyphicon-pencil": {
+            "body": "content: '\\\\270f';$0",
+            "description": "content",
+            "prefix": "glyphicon-pencil"
+        },
+        "glyphicon-glass": {
+            "body": "content: '\\\\e001';$0",
+            "description": "content",
+            "prefix": "glyphicon-glass"
+        },
+        "glyphicon-music": {
+            "body": "content: '\\\\e002';$0",
+            "description": "content",
+            "prefix": "glyphicon-music"
+        },
+        "glyphicon-search": {
+            "body": "content: '\\\\e003';$0",
+            "description": "content",
+            "prefix": "glyphicon-search"
+        },
+        "glyphicon-heart": {
+            "body": "content: '\\\\e005';$0",
+            "description": "content",
+            "prefix": "glyphicon-heart"
+        },
+        "glyphicon-star": {
+            "body": "content: '\\\\e006';$0",
+            "description": "content",
+            "prefix": "glyphicon-star"
+        },
+        "glyphicon-star-empty": {
+            "body": "content: '\\\\e007';$0",
+            "description": "content",
+            "prefix": "glyphicon-star-empty"
+        },
+        "glyphicon-user": {
+            "body": "content: '\\\\e008';$0",
+            "description": "content",
+            "prefix": "glyphicon-user"
+        },
+        "glyphicon-film": {
+            "body": "content: '\\\\e009';$0",
+            "description": "content",
+            "prefix": "glyphicon-film"
+        },
+        "glyphicon-th-large": {
+            "body": "content: '\\\\e010';$0",
+            "description": "content",
+            "prefix": "glyphicon-th-large"
+        },
+        "glyphicon-th": {
+            "body": "content: '\\\\e011';$0",
+            "description": "content",
+            "prefix": "glyphicon-th"
+        },
+        "glyphicon-th-list": {
+            "body": "content: '\\\\e012';$0",
+            "description": "content",
+            "prefix": "glyphicon-th-list"
+        },
+        "glyphicon-ok": {
+            "body": "content: '\\\\e013';$0",
+            "description": "content",
+            "prefix": "glyphicon-ok"
+        },
+        "glyphicon-remove": {
+            "body": "content: '\\\\e014';$0",
+            "description": "content",
+            "prefix": "glyphicon-remove"
+        },
+        "glyphicon-zoom-in": {
+            "body": "content: '\\\\e015';$0",
+            "description": "content",
+            "prefix": "glyphicon-zoom-in"
+        },
+        "glyphicon-zoom-out": {
+            "body": "content: '\\\\e016';$0",
+            "description": "content",
+            "prefix": "glyphicon-zoom-out"
+        },
+        "glyphicon-off": {
+            "body": "content: '\\\\e017';$0",
+            "description": "content",
+            "prefix": "glyphicon-off"
+        },
+        "glyphicon-signal": {
+            "body": "content: '\\\\e018';$0",
+            "description": "content",
+            "prefix": "glyphicon-signal"
+        },
+        "glyphicon-cog": {
+            "body": "content: '\\\\e019';$0",
+            "description": "content",
+            "prefix": "glyphicon-cog"
+        },
+        "glyphicon-trash": {
+            "body": "content: '\\\\e020';$0",
+            "description": "content",
+            "prefix": "glyphicon-trash"
+        },
+        "glyphicon-home": {
+            "body": "content: '\\\\e021';$0",
+            "description": "content",
+            "prefix": "glyphicon-home"
+        },
+        "glyphicon-file": {
+            "body": "content: '\\\\e022';$0",
+            "description": "content",
+            "prefix": "glyphicon-file"
+        },
+        "glyphicon-time": {
+            "body": "content: '\\\\e023';$0",
+            "description": "content",
+            "prefix": "glyphicon-time"
+        },
+        "glyphicon-road": {
+            "body": "content: '\\\\e024';$0",
+            "description": "content",
+            "prefix": "glyphicon-road"
+        },
+        "glyphicon-download-alt": {
+            "body": "content: '\\\\e025';$0",
+            "description": "content",
+            "prefix": "glyphicon-download-alt"
+        },
+        "glyphicon-download": {
+            "body": "content: '\\\\e026';$0",
+            "description": "content",
+            "prefix": "glyphicon-download"
+        },
+        "glyphicon-upload": {
+            "body": "content: '\\\\e027';$0",
+            "description": "content",
+            "prefix": "glyphicon-upload"
+        },
+        "glyphicon-inbox": {
+            "body": "content: '\\\\e028';$0",
+            "description": "content",
+            "prefix": "glyphicon-inbox"
+        },
+        "glyphicon-play-circle": {
+            "body": "content: '\\\\e029';$0",
+            "description": "content",
+            "prefix": "glyphicon-play-circle"
+        },
+        "glyphicon-repeat": {
+            "body": "content: '\\\\e030';$0",
+            "description": "content",
+            "prefix": "glyphicon-repeat"
+        },
+        "glyphicon-refresh": {
+            "body": "content: '\\\\e031';$0",
+            "description": "content",
+            "prefix": "glyphicon-refresh"
+        },
+        "glyphicon-list-alt": {
+            "body": "content: '\\\\e032';$0",
+            "description": "content",
+            "prefix": "glyphicon-list-alt"
+        },
+        "glyphicon-lock": {
+            "body": "content: '\\\\e033';$0",
+            "description": "content",
+            "prefix": "glyphicon-lock"
+        },
+        "glyphicon-flag": {
+            "body": "content: '\\\\e034';$0",
+            "description": "content",
+            "prefix": "glyphicon-flag"
+        },
+        "glyphicon-headphones": {
+            "body": "content: '\\\\e035';$0",
+            "description": "content",
+            "prefix": "glyphicon-headphones"
+        },
+        "glyphicon-volume-off": {
+            "body": "content: '\\\\e036';$0",
+            "description": "content",
+            "prefix": "glyphicon-volume-off"
+        },
+        "glyphicon-volume-down": {
+            "body": "content: '\\\\e037';$0",
+            "description": "content",
+            "prefix": "glyphicon-volume-down"
+        },
+        "glyphicon-volume-up": {
+            "body": "content: '\\\\e038';$0",
+            "description": "content",
+            "prefix": "glyphicon-volume-up"
+        },
+        "glyphicon-qrcode": {
+            "body": "content: '\\\\e039';$0",
+            "description": "content",
+            "prefix": "glyphicon-qrcode"
+        },
+        "glyphicon-barcode": {
+            "body": "content: '\\\\e040';$0",
+            "description": "content",
+            "prefix": "glyphicon-barcode"
+        },
+        "glyphicon-tag": {
+            "body": "content: '\\\\e041';$0",
+            "description": "content",
+            "prefix": "glyphicon-tag"
+        },
+        "glyphicon-tags": {
+            "body": "content: '\\\\e042';$0",
+            "description": "content",
+            "prefix": "glyphicon-tags"
+        },
+        "glyphicon-book": {
+            "body": "content: '\\\\e043';$0",
+            "description": "content",
+            "prefix": "glyphicon-book"
+        },
+        "glyphicon-bookmark": {
+            "body": "content: '\\\\e044';$0",
+            "description": "content",
+            "prefix": "glyphicon-bookmark"
+        },
+        "glyphicon-print": {
+            "body": "content: '\\\\e045';$0",
+            "description": "content",
+            "prefix": "glyphicon-print"
+        },
+        "glyphicon-camera": {
+            "body": "content: '\\\\e046';$0",
+            "description": "content",
+            "prefix": "glyphicon-camera"
+        },
+        "glyphicon-font": {
+            "body": "content: '\\\\e047';$0",
+            "description": "content",
+            "prefix": "glyphicon-font"
+        },
+        "glyphicon-bold": {
+            "body": "content: '\\\\e048';$0",
+            "description": "content",
+            "prefix": "glyphicon-bold"
+        },
+        "glyphicon-italic": {
+            "body": "content: '\\\\e049';$0",
+            "description": "content",
+            "prefix": "glyphicon-italic"
+        },
+        "glyphicon-text-height": {
+            "body": "content: '\\\\e050';$0",
+            "description": "content",
+            "prefix": "glyphicon-text-height"
+        },
+        "glyphicon-text-width": {
+            "body": "content: '\\\\e051';$0",
+            "description": "content",
+            "prefix": "glyphicon-text-width"
+        },
+        "glyphicon-align-left": {
+            "body": "content: '\\\\e052';$0",
+            "description": "content",
+            "prefix": "glyphicon-align-left"
+        },
+        "glyphicon-align-center": {
+            "body": "content: '\\\\e053';$0",
+            "description": "content",
+            "prefix": "glyphicon-align-center"
+        },
+        "glyphicon-align-right": {
+            "body": "content: '\\\\e054';$0",
+            "description": "content",
+            "prefix": "glyphicon-align-right"
+        },
+        "glyphicon-align-justify": {
+            "body": "content: '\\\\e055';$0",
+            "description": "content",
+            "prefix": "glyphicon-align-justify"
+        },
+        "glyphicon-list": {
+            "body": "content: '\\\\e056';$0",
+            "description": "content",
+            "prefix": "glyphicon-list"
+        },
+        "glyphicon-indent-left": {
+            "body": "content: '\\\\e057';$0",
+            "description": "content",
+            "prefix": "glyphicon-indent-left"
+        },
+        "glyphicon-indent-right": {
+            "body": "content: '\\\\e058';$0",
+            "description": "content",
+            "prefix": "glyphicon-indent-right"
+        },
+        "glyphicon-facetime-video": {
+            "body": "content: '\\\\e059';$0",
+            "description": "content",
+            "prefix": "glyphicon-facetime-video"
+        },
+        "glyphicon-picture": {
+            "body": "content: '\\\\e060';$0",
+            "description": "content",
+            "prefix": "glyphicon-picture"
+        },
+        "glyphicon-map-marker": {
+            "body": "content: '\\\\e062';$0",
+            "description": "content",
+            "prefix": "glyphicon-map-marker"
+        },
+        "glyphicon-adjust": {
+            "body": "content: '\\\\e063';$0",
+            "description": "content",
+            "prefix": "glyphicon-adjust"
+        },
+        "glyphicon-tint": {
+            "body": "content: '\\\\e064';$0",
+            "description": "content",
+            "prefix": "glyphicon-tint"
+        },
+        "glyphicon-edit": {
+            "body": "content: '\\\\e065';$0",
+            "description": "content",
+            "prefix": "glyphicon-edit"
+        },
+        "glyphicon-share": {
+            "body": "content: '\\\\e066';$0",
+            "description": "content",
+            "prefix": "glyphicon-share"
+        },
+        "glyphicon-check": {
+            "body": "content: '\\\\e067';$0",
+            "description": "content",
+            "prefix": "glyphicon-check"
+        },
+        "glyphicon-move": {
+            "body": "content: '\\\\e068';$0",
+            "description": "content",
+            "prefix": "glyphicon-move"
+        },
+        "glyphicon-step-backward": {
+            "body": "content: '\\\\e069';$0",
+            "description": "content",
+            "prefix": "glyphicon-step-backward"
+        },
+        "glyphicon-fast-backward": {
+            "body": "content: '\\\\e070';$0",
+            "description": "content",
+            "prefix": "glyphicon-fast-backward"
+        },
+        "glyphicon-backward": {
+            "body": "content: '\\\\e071';$0",
+            "description": "content",
+            "prefix": "glyphicon-backward"
+        },
+        "glyphicon-play": {
+            "body": "content: '\\\\e072';$0",
+            "description": "content",
+            "prefix": "glyphicon-play"
+        },
+        "glyphicon-pause": {
+            "body": "content: '\\\\e073';$0",
+            "description": "content",
+            "prefix": "glyphicon-pause"
+        },
+        "glyphicon-stop": {
+            "body": "content: '\\\\e074';$0",
+            "description": "content",
+            "prefix": "glyphicon-stop"
+        },
+        "glyphicon-forward": {
+            "body": "content: '\\\\e075';$0",
+            "description": "content",
+            "prefix": "glyphicon-forward"
+        },
+        "glyphicon-fast-forward": {
+            "body": "content: '\\\\e076';$0",
+            "description": "content",
+            "prefix": "glyphicon-fast-forward"
+        },
+        "glyphicon-step-forward": {
+            "body": "content: '\\\\e077';$0",
+            "description": "content",
+            "prefix": "glyphicon-step-forward"
+        },
+        "glyphicon-eject": {
+            "body": "content: '\\\\e078';$0",
+            "description": "content",
+            "prefix": "glyphicon-eject"
+        },
+        "glyphicon-chevron-left": {
+            "body": "content: '\\\\e079';$0",
+            "description": "content",
+            "prefix": "glyphicon-chevron-left"
+        },
+        "glyphicon-chevron-right": {
+            "body": "content: '\\\\e080';$0",
+            "description": "content",
+            "prefix": "glyphicon-chevron-right"
+        },
+        "glyphicon-plus-sign": {
+            "body": "content: '\\\\e081';$0",
+            "description": "content",
+            "prefix": "glyphicon-plus-sign"
+        },
+        "glyphicon-minus-sign": {
+            "body": "content: '\\\\e082';$0",
+            "description": "content",
+            "prefix": "glyphicon-minus-sign"
+        },
+        "glyphicon-remove-sign": {
+            "body": "content: '\\\\e083';$0",
+            "description": "content",
+            "prefix": "glyphicon-remove-sign"
+        },
+        "glyphicon-ok-sign": {
+            "body": "content: '\\\\e084';$0",
+            "description": "content",
+            "prefix": "glyphicon-ok-sign"
+        },
+        "glyphicon-question-sign": {
+            "body": "content: '\\\\e085';$0",
+            "description": "content",
+            "prefix": "glyphicon-question-sign"
+        },
+        "glyphicon-info-sign": {
+            "body": "content: '\\\\e086';$0",
+            "description": "content",
+            "prefix": "glyphicon-info-sign"
+        },
+        "glyphicon-screenshot": {
+            "body": "content: '\\\\e087';$0",
+            "description": "content",
+            "prefix": "glyphicon-screenshot"
+        },
+        "glyphicon-remove-circle": {
+            "body": "content: '\\\\e088';$0",
+            "description": "content",
+            "prefix": "glyphicon-remove-circle"
+        },
+        "glyphicon-ok-circle": {
+            "body": "content: '\\\\e089';$0",
+            "description": "content",
+            "prefix": "glyphicon-ok-circle"
+        },
+        "glyphicon-ban-circle": {
+            "body": "content: '\\\\e090';$0",
+            "description": "content",
+            "prefix": "glyphicon-ban-circle"
+        },
+        "glyphicon-arrow-left": {
+            "body": "content: '\\\\e091';$0",
+            "description": "content",
+            "prefix": "glyphicon-arrow-left"
+        },
+        "glyphicon-arrow-right": {
+            "body": "content: '\\\\e092';$0",
+            "description": "content",
+            "prefix": "glyphicon-arrow-right"
+        },
+        "glyphicon-arrow-up": {
+            "body": "content: '\\\\e093';$0",
+            "description": "content",
+            "prefix": "glyphicon-arrow-up"
+        },
+        "glyphicon-arrow-down": {
+            "body": "content: '\\\\e094';$0",
+            "description": "content",
+            "prefix": "glyphicon-arrow-down"
+        },
+        "glyphicon-share-alt": {
+            "body": "content: '\\\\e095';$0",
+            "description": "content",
+            "prefix": "glyphicon-share-alt"
+        },
+        "glyphicon-resize-full": {
+            "body": "content: '\\\\e096';$0",
+            "description": "content",
+            "prefix": "glyphicon-resize-full"
+        },
+        "glyphicon-resize-small": {
+            "body": "content: '\\\\e097';$0",
+            "description": "content",
+            "prefix": "glyphicon-resize-small"
+        },
+        "glyphicon-exclamation-sign": {
+            "body": "content: '\\\\e101';$0",
+            "description": "content",
+            "prefix": "glyphicon-exclamation-sign"
+        },
+        "glyphicon-gift": {
+            "body": "content: '\\\\e102';$0",
+            "description": "content",
+            "prefix": "glyphicon-gift"
+        },
+        "glyphicon-leaf": {
+            "body": "content: '\\\\e103';$0",
+            "description": "content",
+            "prefix": "glyphicon-leaf"
+        },
+        "glyphicon-fire": {
+            "body": "content: '\\\\e104';$0",
+            "description": "content",
+            "prefix": "glyphicon-fire"
+        },
+        "glyphicon-eye-open": {
+            "body": "content: '\\\\e105';$0",
+            "description": "content",
+            "prefix": "glyphicon-eye-open"
+        },
+        "glyphicon-eye-close": {
+            "body": "content: '\\\\e106';$0",
+            "description": "content",
+            "prefix": "glyphicon-eye-close"
+        },
+        "glyphicon-warning-sign": {
+            "body": "content: '\\\\e107';$0",
+            "description": "content",
+            "prefix": "glyphicon-warning-sign"
+        },
+        "glyphicon-plane": {
+            "body": "content: '\\\\e108';$0",
+            "description": "content",
+            "prefix": "glyphicon-plane"
+        },
+        "glyphicon-calendar": {
+            "body": "content: '\\\\e109';$0",
+            "description": "content",
+            "prefix": "glyphicon-calendar"
+        },
+        "glyphicon-random": {
+            "body": "content: '\\\\e110';$0",
+            "description": "content",
+            "prefix": "glyphicon-random"
+        },
+        "glyphicon-comment": {
+            "body": "content: '\\\\e111';$0",
+            "description": "content",
+            "prefix": "glyphicon-comment"
+        },
+        "glyphicon-magnet": {
+            "body": "content: '\\\\e112';$0",
+            "description": "content",
+            "prefix": "glyphicon-magnet"
+        },
+        "glyphicon-chevron-up": {
+            "body": "content: '\\\\e113';$0",
+            "description": "content",
+            "prefix": "glyphicon-chevron-up"
+        },
+        "glyphicon-chevron-down": {
+            "body": "content: '\\\\e114';$0",
+            "description": "content",
+            "prefix": "glyphicon-chevron-down"
+        },
+        "glyphicon-retweet": {
+            "body": "content: '\\\\e115';$0",
+            "description": "content",
+            "prefix": "glyphicon-retweet"
+        },
+        "glyphicon-shopping-cart": {
+            "body": "content: '\\\\e116';$0",
+            "description": "content",
+            "prefix": "glyphicon-shopping-cart"
+        },
+        "glyphicon-folder-close": {
+            "body": "content: '\\\\e117';$0",
+            "description": "content",
+            "prefix": "glyphicon-folder-close"
+        },
+        "glyphicon-folder-open": {
+            "body": "content: '\\\\e118';$0",
+            "description": "content",
+            "prefix": "glyphicon-folder-open"
+        },
+        "glyphicon-resize-vertical": {
+            "body": "content: '\\\\e119';$0",
+            "description": "content",
+            "prefix": "glyphicon-resize-vertical"
+        },
+        "glyphicon-resize-horizontal": {
+            "body": "content: '\\\\e120';$0",
+            "description": "content",
+            "prefix": "glyphicon-resize-horizontal"
+        },
+        "glyphicon-hdd": {
+            "body": "content: '\\\\e121';$0",
+            "description": "content",
+            "prefix": "glyphicon-hdd"
+        },
+        "glyphicon-bullhorn": {
+            "body": "content: '\\\\e122';$0",
+            "description": "content",
+            "prefix": "glyphicon-bullhorn"
+        },
+        "glyphicon-bell": {
+            "body": "content: '\\\\e123';$0",
+            "description": "content",
+            "prefix": "glyphicon-bell"
+        },
+        "glyphicon-certificate": {
+            "body": "content: '\\\\e124';$0",
+            "description": "content",
+            "prefix": "glyphicon-certificate"
+        },
+        "glyphicon-thumbs-up": {
+            "body": "content: '\\\\e125';$0",
+            "description": "content",
+            "prefix": "glyphicon-thumbs-up"
+        },
+        "glyphicon-thumbs-down": {
+            "body": "content: '\\\\e126';$0",
+            "description": "content",
+            "prefix": "glyphicon-thumbs-down"
+        },
+        "glyphicon-hand-right": {
+            "body": "content: '\\\\e127';$0",
+            "description": "content",
+            "prefix": "glyphicon-hand-right"
+        },
+        "glyphicon-hand-left": {
+            "body": "content: '\\\\e128';$0",
+            "description": "content",
+            "prefix": "glyphicon-hand-left"
+        },
+        "glyphicon-hand-up": {
+            "body": "content: '\\\\e129';$0",
+            "description": "content",
+            "prefix": "glyphicon-hand-up"
+        },
+        "glyphicon-hand-down": {
+            "body": "content: '\\\\e130';$0",
+            "description": "content",
+            "prefix": "glyphicon-hand-down"
+        },
+        "glyphicon-circle-arrow-right": {
+            "body": "content: '\\\\e131';$0",
+            "description": "content",
+            "prefix": "glyphicon-circle-arrow-right"
+        },
+        "glyphicon-circle-arrow-left": {
+            "body": "content: '\\\\e132';$0",
+            "description": "content",
+            "prefix": "glyphicon-circle-arrow-left"
+        },
+        "glyphicon-circle-arrow-up": {
+            "body": "content: '\\\\e133';$0",
+            "description": "content",
+            "prefix": "glyphicon-circle-arrow-up"
+        },
+        "glyphicon-circle-arrow-down": {
+            "body": "content: '\\\\e134';$0",
+            "description": "content",
+            "prefix": "glyphicon-circle-arrow-down"
+        },
+        "glyphicon-globe": {
+            "body": "content: '\\\\e135';$0",
+            "description": "content",
+            "prefix": "glyphicon-globe"
+        },
+        "glyphicon-wrench": {
+            "body": "content: '\\\\e136';$0",
+            "description": "content",
+            "prefix": "glyphicon-wrench"
+        },
+        "glyphicon-tasks": {
+            "body": "content: '\\\\e137';$0",
+            "description": "content",
+            "prefix": "glyphicon-tasks"
+        },
+        "glyphicon-filter": {
+            "body": "content: '\\\\e138';$0",
+            "description": "content",
+            "prefix": "glyphicon-filter"
+        },
+        "glyphicon-briefcase": {
+            "body": "content: '\\\\e139';$0",
+            "description": "content",
+            "prefix": "glyphicon-briefcase"
+        },
+        "glyphicon-fullscreen": {
+            "body": "content: '\\\\e140';$0",
+            "description": "content",
+            "prefix": "glyphicon-fullscreen"
+        },
+        "glyphicon-dashboard": {
+            "body": "content: '\\\\e141';$0",
+            "description": "content",
+            "prefix": "glyphicon-dashboard"
+        },
+        "glyphicon-paperclip": {
+            "body": "content: '\\\\e142';$0",
+            "description": "content",
+            "prefix": "glyphicon-paperclip"
+        },
+        "glyphicon-heart-empty": {
+            "body": "content: '\\\\e143';$0",
+            "description": "content",
+            "prefix": "glyphicon-heart-empty"
+        },
+        "glyphicon-link": {
+            "body": "content: '\\\\e144';$0",
+            "description": "content",
+            "prefix": "glyphicon-link"
+        },
+        "glyphicon-phone": {
+            "body": "content: '\\\\e145';$0",
+            "description": "content",
+            "prefix": "glyphicon-phone"
+        },
+        "glyphicon-pushpin": {
+            "body": "content: '\\\\e146';$0",
+            "description": "content",
+            "prefix": "glyphicon-pushpin"
+        },
+        "glyphicon-usd": {
+            "body": "content: '\\\\e148';$0",
+            "description": "content",
+            "prefix": "glyphicon-usd"
+        },
+        "glyphicon-gbp": {
+            "body": "content: '\\\\e149';$0",
+            "description": "content",
+            "prefix": "glyphicon-gbp"
+        },
+        "glyphicon-sort": {
+            "body": "content: '\\\\e150';$0",
+            "description": "content",
+            "prefix": "glyphicon-sort"
+        },
+        "glyphicon-sort-by-alphabet": {
+            "body": "content: '\\\\e151';$0",
+            "description": "content",
+            "prefix": "glyphicon-sort-by-alphabet"
+        },
+        "glyphicon-sort-by-alphabet-alt": {
+            "body": "content: '\\\\e152';$0",
+            "description": "content",
+            "prefix": "glyphicon-sort-by-alphabet-alt"
+        },
+        "glyphicon-sort-by-order": {
+            "body": "content: '\\\\e153';$0",
+            "description": "content",
+            "prefix": "glyphicon-sort-by-order"
+        },
+        "glyphicon-sort-by-order-alt": {
+            "body": "content: '\\\\e154';$0",
+            "description": "content",
+            "prefix": "glyphicon-sort-by-order-alt"
+        },
+        "glyphicon-sort-by-attributes": {
+            "body": "content: '\\\\e155';$0",
+            "description": "content",
+            "prefix": "glyphicon-sort-by-attributes"
+        },
+        "glyphicon-sort-by-attributes-alt": {
+            "body": "content: '\\\\e156';$0",
+            "description": "content",
+            "prefix": "glyphicon-sort-by-attributes-alt"
+        },
+        "glyphicon-unchecked": {
+            "body": "content: '\\\\e157';$0",
+            "description": "content",
+            "prefix": "glyphicon-unchecked"
+        },
+        "glyphicon-expand": {
+            "body": "content: '\\\\e158';$0",
+            "description": "content",
+            "prefix": "glyphicon-expand"
+        },
+        "glyphicon-collapse-down": {
+            "body": "content: '\\\\e159';$0",
+            "description": "content",
+            "prefix": "glyphicon-collapse-down"
+        },
+        "glyphicon-collapse-up": {
+            "body": "content: '\\\\e160';$0",
+            "description": "content",
+            "prefix": "glyphicon-collapse-up"
+        },
+        "glyphicon-log-in": {
+            "body": "content: '\\\\e161';$0",
+            "description": "content",
+            "prefix": "glyphicon-log-in"
+        },
+        "glyphicon-flash": {
+            "body": "content: '\\\\e162';$0",
+            "description": "content",
+            "prefix": "glyphicon-flash"
+        },
+        "glyphicon-log-out": {
+            "body": "content: '\\\\e163';$0",
+            "description": "content",
+            "prefix": "glyphicon-log-out"
+        },
+        "glyphicon-new-window": {
+            "body": "content: '\\\\e164';$0",
+            "description": "content",
+            "prefix": "glyphicon-new-window"
+        },
+        "glyphicon-record": {
+            "body": "content: '\\\\e165';$0",
+            "description": "content",
+            "prefix": "glyphicon-record"
+        },
+        "glyphicon-save": {
+            "body": "content: '\\\\e166';$0",
+            "description": "content",
+            "prefix": "glyphicon-save"
+        },
+        "glyphicon-open": {
+            "body": "content: '\\\\e167';$0",
+            "description": "content",
+            "prefix": "glyphicon-open"
+        },
+        "glyphicon-saved": {
+            "body": "content: '\\\\e168';$0",
+            "description": "content",
+            "prefix": "glyphicon-saved"
+        },
+        "glyphicon-import": {
+            "body": "content: '\\\\e169';$0",
+            "description": "content",
+            "prefix": "glyphicon-import"
+        },
+        "glyphicon-export": {
+            "body": "content: '\\\\e170';$0",
+            "description": "content",
+            "prefix": "glyphicon-export"
+        },
+        "glyphicon-send": {
+            "body": "content: '\\\\e171';$0",
+            "description": "content",
+            "prefix": "glyphicon-send"
+        },
+        "glyphicon-floppy-disk": {
+            "body": "content: '\\\\e172';$0",
+            "description": "content",
+            "prefix": "glyphicon-floppy-disk"
+        },
+        "glyphicon-floppy-saved": {
+            "body": "content: '\\\\e173';$0",
+            "description": "content",
+            "prefix": "glyphicon-floppy-saved"
+        },
+        "glyphicon-floppy-remove": {
+            "body": "content: '\\\\e174';$0",
+            "description": "content",
+            "prefix": "glyphicon-floppy-remove"
+        },
+        "glyphicon-floppy-save": {
+            "body": "content: '\\\\e175';$0",
+            "description": "content",
+            "prefix": "glyphicon-floppy-save"
+        },
+        "glyphicon-floppy-open": {
+            "body": "content: '\\\\e176';$0",
+            "description": "content",
+            "prefix": "glyphicon-floppy-open"
+        },
+        "glyphicon-credit-card": {
+            "body": "content: '\\\\e177';$0",
+            "description": "content",
+            "prefix": "glyphicon-credit-card"
+        },
+        "glyphicon-transfer": {
+            "body": "content: '\\\\e178';$0",
+            "description": "content",
+            "prefix": "glyphicon-transfer"
+        },
+        "glyphicon-cutlery": {
+            "body": "content: '\\\\e179';$0",
+            "description": "content",
+            "prefix": "glyphicon-cutlery"
+        },
+        "glyphicon-header": {
+            "body": "content: '\\\\e180';$0",
+            "description": "content",
+            "prefix": "glyphicon-header"
+        },
+        "glyphicon-compressed": {
+            "body": "content: '\\\\e181';$0",
+            "description": "content",
+            "prefix": "glyphicon-compressed"
+        },
+        "glyphicon-earphone": {
+            "body": "content: '\\\\e182';$0",
+            "description": "content",
+            "prefix": "glyphicon-earphone"
+        },
+        "glyphicon-phone-alt": {
+            "body": "content: '\\\\e183';$0",
+            "description": "content",
+            "prefix": "glyphicon-phone-alt"
+        },
+        "glyphicon-tower": {
+            "body": "content: '\\\\e184';$0",
+            "description": "content",
+            "prefix": "glyphicon-tower"
+        },
+        "glyphicon-stats": {
+            "body": "content: '\\\\e185';$0",
+            "description": "content",
+            "prefix": "glyphicon-stats"
+        },
+        "glyphicon-sd-video": {
+            "body": "content: '\\\\e186';$0",
+            "description": "content",
+            "prefix": "glyphicon-sd-video"
+        },
+        "glyphicon-hd-video": {
+            "body": "content: '\\\\e187';$0",
+            "description": "content",
+            "prefix": "glyphicon-hd-video"
+        },
+        "glyphicon-subtitles": {
+            "body": "content: '\\\\e188';$0",
+            "description": "content",
+            "prefix": "glyphicon-subtitles"
+        },
+        "glyphicon-sound-stereo": {
+            "body": "content: '\\\\e189';$0",
+            "description": "content",
+            "prefix": "glyphicon-sound-stereo"
+        },
+        "glyphicon-sound-dolby": {
+            "body": "content: '\\\\e190';$0",
+            "description": "content",
+            "prefix": "glyphicon-sound-dolby"
+        },
+        "glyphicon-sound-5-1": {
+            "body": "content: '\\\\e191';$0",
+            "description": "content",
+            "prefix": "glyphicon-sound-5-1"
+        },
+        "glyphicon-sound-6-1": {
+            "body": "content: '\\\\e192';$0",
+            "description": "content",
+            "prefix": "glyphicon-sound-6-1"
+        },
+        "glyphicon-sound-7-1": {
+            "body": "content: '\\\\e193';$0",
+            "description": "content",
+            "prefix": "glyphicon-sound-7-1"
+        },
+        "glyphicon-copyright-mark": {
+            "body": "content: '\\\\e194';$0",
+            "description": "content",
+            "prefix": "glyphicon-copyright-mark"
+        },
+        "glyphicon-registration-mark": {
+            "body": "content: '\\\\e195';$0",
+            "description": "content",
+            "prefix": "glyphicon-registration-mark"
+        },
+        "glyphicon-cloud-download": {
+            "body": "content: '\\\\e197';$0",
+            "description": "content",
+            "prefix": "glyphicon-cloud-download"
+        },
+        "glyphicon-cloud-upload": {
+            "body": "content: '\\\\e198';$0",
+            "description": "content",
+            "prefix": "glyphicon-cloud-upload"
+        },
+        "glyphicon-tree-conifer": {
+            "body": "content: '\\\\e199';$0",
+            "description": "content",
+            "prefix": "glyphicon-tree-conifer"
+        },
+        "glyphicon-tree-deciduous": {
+            "body": "content: '\\\\e200';$0",
+            "description": "content",
+            "prefix": "glyphicon-tree-deciduous"
+        },
+        "glyphicon-cd": {
+            "body": "content: '\\\\e201';$0",
+            "description": "content",
+            "prefix": "glyphicon-cd"
+        },
+        "glyphicon-save-file": {
+            "body": "content: '\\\\e202';$0",
+            "description": "content",
+            "prefix": "glyphicon-save-file"
+        },
+        "glyphicon-open-file": {
+            "body": "content: '\\\\e203';$0",
+            "description": "content",
+            "prefix": "glyphicon-open-file"
+        },
+        "glyphicon-level-up": {
+            "body": "content: '\\\\e204';$0",
+            "description": "content",
+            "prefix": "glyphicon-level-up"
+        },
+        "glyphicon-copy": {
+            "body": "content: '\\\\e205';$0",
+            "description": "content",
+            "prefix": "glyphicon-copy"
+        },
+        "glyphicon-paste": {
+            "body": "content: '\\\\e206';$0",
+            "description": "content",
+            "prefix": "glyphicon-paste"
+        },
+        "glyphicon-alert": {
+            "body": "content: '\\\\e209';$0",
+            "description": "content",
+            "prefix": "glyphicon-alert"
+        },
+        "glyphicon-equalizer": {
+            "body": "content: '\\\\e210';$0",
+            "description": "content",
+            "prefix": "glyphicon-equalizer"
+        },
+        "glyphicon-king": {
+            "body": "content: '\\\\e211';$0",
+            "description": "content",
+            "prefix": "glyphicon-king"
+        },
+        "glyphicon-queen": {
+            "body": "content: '\\\\e212';$0",
+            "description": "content",
+            "prefix": "glyphicon-queen"
+        },
+        "glyphicon-pawn": {
+            "body": "content: '\\\\e213';$0",
+            "description": "content",
+            "prefix": "glyphicon-pawn"
+        },
+        "glyphicon-bishop": {
+            "body": "content: '\\\\e214';$0",
+            "description": "content",
+            "prefix": "glyphicon-bishop"
+        },
+        "glyphicon-knight": {
+            "body": "content: '\\\\e215';$0",
+            "description": "content",
+            "prefix": "glyphicon-knight"
+        },
+        "glyphicon-baby-formula": {
+            "body": "content: '\\\\e216';$0",
+            "description": "content",
+            "prefix": "glyphicon-baby-formula"
+        },
+        "glyphicon-tent": {
+            "body": "content: '\\\\26fa';$0",
+            "description": "content",
+            "prefix": "glyphicon-tent"
+        },
+        "glyphicon-blackboard": {
+            "body": "content: '\\\\e218';$0",
+            "description": "content",
+            "prefix": "glyphicon-blackboard"
+        },
+        "glyphicon-bed": {
+            "body": "content: '\\\\e219';$0",
+            "description": "content",
+            "prefix": "glyphicon-bed"
+        },
+        "glyphicon-apple": {
+            "body": "content: '\\\\f8ff';$0",
+            "description": "content",
+            "prefix": "glyphicon-apple"
+        },
+        "glyphicon-erase": {
+            "body": "content: '\\\\e221';$0",
+            "description": "content",
+            "prefix": "glyphicon-erase"
+        },
+        "glyphicon-hourglass": {
+            "body": "content: '\\\\231b';$0",
+            "description": "content",
+            "prefix": "glyphicon-hourglass"
+        },
+        "glyphicon-lamp": {
+            "body": "content: '\\\\e223';$0",
+            "description": "content",
+            "prefix": "glyphicon-lamp"
+        },
+        "glyphicon-duplicate": {
+            "body": "content: '\\\\e224';$0",
+            "description": "content",
+            "prefix": "glyphicon-duplicate"
+        },
+        "glyphicon-piggy-bank": {
+            "body": "content: '\\\\e225';$0",
+            "description": "content",
+            "prefix": "glyphicon-piggy-bank"
+        },
+        "glyphicon-scissors": {
+            "body": "content: '\\\\e226';$0",
+            "description": "content",
+            "prefix": "glyphicon-scissors"
+        },
+        "glyphicon-bitcoin": {
+            "body": "content: '\\\\e227';$0",
+            "description": "content",
+            "prefix": "glyphicon-bitcoin"
+        },
+        "glyphicon-btc": {
+            "body": "content: '\\\\e227';$0",
+            "description": "content",
+            "prefix": "glyphicon-btc"
+        },
+        "glyphicon-xbt": {
+            "body": "content: '\\\\e227';$0",
+            "description": "content",
+            "prefix": "glyphicon-xbt"
+        },
+        "glyphicon-yen": {
+            "body": "content: '\\\\00a5';$0",
+            "description": "content",
+            "prefix": "glyphicon-yen"
+        },
+        "glyphicon-jpy": {
+            "body": "content: '\\\\00a5';$0",
+            "description": "content",
+            "prefix": "glyphicon-jpy"
+        },
+        "glyphicon-ruble": {
+            "body": "content: '\\\\20bd';$0",
+            "description": "content",
+            "prefix": "glyphicon-ruble"
+        },
+        "glyphicon-rub": {
+            "body": "content: '\\\\20bd';$0",
+            "description": "content",
+            "prefix": "glyphicon-rub"
+        },
+        "glyphicon-scale": {
+            "body": "content: '\\\\e230';$0",
+            "description": "content",
+            "prefix": "glyphicon-scale"
+        },
+        "glyphicon-ice-lolly": {
+            "body": "content: '\\\\e231';$0",
+            "description": "content",
+            "prefix": "glyphicon-ice-lolly"
+        },
+        "glyphicon-ice-lolly-tasted": {
+            "body": "content: '\\\\e232';$0",
+            "description": "content",
+            "prefix": "glyphicon-ice-lolly-tasted"
+        },
+        "glyphicon-education": {
+            "body": "content: '\\\\e233';$0",
+            "description": "content",
+            "prefix": "glyphicon-education"
+        },
+        "glyphicon-option-horizontal": {
+            "body": "content: '\\\\e234';$0",
+            "description": "content",
+            "prefix": "glyphicon-option-horizontal"
+        },
+        "glyphicon-option-vertical": {
+            "body": "content: '\\\\e235';$0",
+            "description": "content",
+            "prefix": "glyphicon-option-vertical"
+        },
+        "glyphicon-menu-hamburger": {
+            "body": "content: '\\\\e236';$0",
+            "description": "content",
+            "prefix": "glyphicon-menu-hamburger"
+        },
+        "glyphicon-modal-window": {
+            "body": "content: '\\\\e237';$0",
+            "description": "content",
+            "prefix": "glyphicon-modal-window"
+        },
+        "glyphicon-oil": {
+            "body": "content: '\\\\e238';$0",
+            "description": "content",
+            "prefix": "glyphicon-oil"
+        },
+        "glyphicon-grain": {
+            "body": "content: '\\\\e239';$0",
+            "description": "content",
+            "prefix": "glyphicon-grain"
+        },
+        "glyphicon-sunglasses": {
+            "body": "content: '\\\\e240';$0",
+            "description": "content",
+            "prefix": "glyphicon-sunglasses"
+        },
+        "glyphicon-text-size": {
+            "body": "content: '\\\\e241';$0",
+            "description": "content",
+            "prefix": "glyphicon-text-size"
+        },
+        "glyphicon-text-color": {
+            "body": "content: '\\\\e242';$0",
+            "description": "content",
+            "prefix": "glyphicon-text-color"
+        },
+        "glyphicon-text-background": {
+            "body": "content: '\\\\e243';$0",
+            "description": "content",
+            "prefix": "glyphicon-text-background"
+        },
+        "glyphicon-object-align-top": {
+            "body": "content: '\\\\e244';$0",
+            "description": "content",
+            "prefix": "glyphicon-object-align-top"
+        },
+        "glyphicon-object-align-bottom": {
+            "body": "content: '\\\\e245';$0",
+            "description": "content",
+            "prefix": "glyphicon-object-align-bottom"
+        },
+        "glyphicon-object-align-horizontal": {
+            "body": "content: '\\\\e246';$0",
+            "description": "content",
+            "prefix": "glyphicon-object-align-horizontal"
+        },
+        "glyphicon-object-align-left": {
+            "body": "content: '\\\\e247';$0",
+            "description": "content",
+            "prefix": "glyphicon-object-align-left"
+        },
+        "glyphicon-object-align-vertical": {
+            "body": "content: '\\\\e248';$0",
+            "description": "content",
+            "prefix": "glyphicon-object-align-vertical"
+        },
+        "glyphicon-object-align-right": {
+            "body": "content: '\\\\e249';$0",
+            "description": "content",
+            "prefix": "glyphicon-object-align-right"
+        },
+        "glyphicon-triangle-right": {
+            "body": "content: '\\\\e250';$0",
+            "description": "content",
+            "prefix": "glyphicon-triangle-right"
+        },
+        "glyphicon-triangle-left": {
+            "body": "content: '\\\\e251';$0",
+            "description": "content",
+            "prefix": "glyphicon-triangle-left"
+        },
+        "glyphicon-triangle-bottom": {
+            "body": "content: '\\\\e252';$0",
+            "description": "content",
+            "prefix": "glyphicon-triangle-bottom"
+        },
+        "glyphicon-triangle-top": {
+            "body": "content: '\\\\e253';$0",
+            "description": "content",
+            "prefix": "glyphicon-triangle-top"
+        },
+        "glyphicon-console": {
+            "body": "content: '\\\\e254';$0",
+            "description": "content",
+            "prefix": "glyphicon-console"
+        },
+        "glyphicon-superscript": {
+            "body": "content: '\\\\e255';$0",
+            "description": "content",
+            "prefix": "glyphicon-superscript"
+        },
+        "glyphicon-subscript": {
+            "body": "content: '\\\\e256';$0",
+            "description": "content",
+            "prefix": "glyphicon-subscript"
+        },
+        "glyphicon-menu-left": {
+            "body": "content: '\\\\e257';$0",
+            "description": "content",
+            "prefix": "glyphicon-menu-left"
+        },
+        "glyphicon-menu-right": {
+            "body": "content: '\\\\e258';$0",
+            "description": "content",
+            "prefix": "glyphicon-menu-right"
+        },
+        "glyphicon-menu-down": {
+            "body": "content: '\\\\e259';$0",
+            "description": "content",
+            "prefix": "glyphicon-menu-down"
+        },
+        "glyphicon-menu-up": {
+            "body": "content: '\\\\e260';$0",
+            "description": "content",
+            "prefix": "glyphicon-menu-up"
+        }
+    }
+}

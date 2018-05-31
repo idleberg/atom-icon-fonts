@@ -1,0 +1,689 @@
+{
+    ".source.js.jsx": {
+        "icon-3dprint": {
+            "body": "<${1:i} className=\"icon-3dprint\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-3dprint"
+        },
+        "icon-alpinelinux": {
+            "body": "<${1:i} className=\"icon-alpinelinux\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-alpinelinux"
+        },
+        "icon-angular": {
+            "body": "<${1:i} className=\"icon-angular\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-angular"
+        },
+        "icon-angular-alt": {
+            "body": "<${1:i} className=\"icon-angular-alt\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-angular-alt"
+        },
+        "icon-antenna": {
+            "body": "<${1:i} className=\"icon-antenna\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-antenna"
+        },
+        "icon-apache": {
+            "body": "<${1:i} className=\"icon-apache\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-apache"
+        },
+        "icon-archlinux": {
+            "body": "<${1:i} className=\"icon-archlinux\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-archlinux"
+        },
+        "icon-aws": {
+            "body": "<${1:i} className=\"icon-aws\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-aws"
+        },
+        "icon-azure": {
+            "body": "<${1:i} className=\"icon-azure\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-azure"
+        },
+        "icon-backbone": {
+            "body": "<${1:i} className=\"icon-backbone\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-backbone"
+        },
+        "icon-blackberry": {
+            "body": "<${1:i} className=\"icon-blackberry\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-blackberry"
+        },
+        "icon-bomb": {
+            "body": "<${1:i} className=\"icon-bomb\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-bomb"
+        },
+        "icon-bootstrap": {
+            "body": "<${1:i} className=\"icon-bootstrap\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-bootstrap"
+        },
+        "icon-c": {
+            "body": "<${1:i} className=\"icon-c\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-c"
+        },
+        "icon-cassandra": {
+            "body": "<${1:i} className=\"icon-cassandra\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-cassandra"
+        },
+        "icon-centos": {
+            "body": "<${1:i} className=\"icon-centos\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-centos"
+        },
+        "icon-clojure": {
+            "body": "<${1:i} className=\"icon-clojure\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-clojure"
+        },
+        "icon-codeigniter": {
+            "body": "<${1:i} className=\"icon-codeigniter\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-codeigniter"
+        },
+        "icon-codepen": {
+            "body": "<${1:i} className=\"icon-codepen\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-codepen"
+        },
+        "icon-coffee-bean": {
+            "body": "<${1:i} className=\"icon-coffee-bean\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-coffee-bean"
+        },
+        "icon-cplusplus": {
+            "body": "<${1:i} className=\"icon-cplusplus\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-cplusplus"
+        },
+        "icon-csharp": {
+            "body": "<${1:i} className=\"icon-csharp\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-csharp"
+        },
+        "icon-css": {
+            "body": "<${1:i} className=\"icon-css\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-css"
+        },
+        "icon-css3": {
+            "body": "<${1:i} className=\"icon-css3\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-css3"
+        },
+        "icon-css3-alt": {
+            "body": "<${1:i} className=\"icon-css3-alt\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-css3-alt"
+        },
+        "icon-d3": {
+            "body": "<${1:i} className=\"icon-d3\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-d3"
+        },
+        "icon-database": {
+            "body": "<${1:i} className=\"icon-database\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-database"
+        },
+        "icon-database-alt": {
+            "body": "<${1:i} className=\"icon-database-alt\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-database-alt"
+        },
+        "icon-database-alt2": {
+            "body": "<${1:i} className=\"icon-database-alt2\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-database-alt2"
+        },
+        "icon-debian": {
+            "body": "<${1:i} className=\"icon-debian\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-debian"
+        },
+        "icon-docker": {
+            "body": "<${1:i} className=\"icon-docker\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-docker"
+        },
+        "icon-dreamhost": {
+            "body": "<${1:i} className=\"icon-dreamhost\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-dreamhost"
+        },
+        "icon-elixir": {
+            "body": "<${1:i} className=\"icon-elixir\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-elixir"
+        },
+        "icon-elm": {
+            "body": "<${1:i} className=\"icon-elm\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-elm"
+        },
+        "icon-erlang": {
+            "body": "<${1:i} className=\"icon-erlang\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-erlang"
+        },
+        "icon-exherbo": {
+            "body": "<${1:i} className=\"icon-exherbo\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-exherbo"
+        },
+        "icon-fedora": {
+            "body": "<${1:i} className=\"icon-fedora\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-fedora"
+        },
+        "icon-fire-alt": {
+            "body": "<${1:i} className=\"icon-fire-alt\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-fire-alt"
+        },
+        "icon-freebsd": {
+            "body": "<${1:i} className=\"icon-freebsd\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-freebsd"
+        },
+        "icon-freecodecamp": {
+            "body": "<${1:i} className=\"icon-freecodecamp\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-freecodecamp"
+        },
+        "icon-gentoo": {
+            "body": "<${1:i} className=\"icon-gentoo\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-gentoo"
+        },
+        "icon-ghost": {
+            "body": "<${1:i} className=\"icon-ghost\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-ghost"
+        },
+        "icon-git": {
+            "body": "<${1:i} className=\"icon-git\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-git"
+        },
+        "icon-gnome": {
+            "body": "<${1:i} className=\"icon-gnome\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-gnome"
+        },
+        "icon-go": {
+            "body": "<${1:i} className=\"icon-go\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-go"
+        },
+        "icon-go-alt": {
+            "body": "<${1:i} className=\"icon-go-alt\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-go-alt"
+        },
+        "icon-google": {
+            "body": "<${1:i} className=\"icon-google\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-google"
+        },
+        "icon-google-alt": {
+            "body": "<${1:i} className=\"icon-google-alt\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-google-alt"
+        },
+        "icon-google-code": {
+            "body": "<${1:i} className=\"icon-google-code\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-google-code"
+        },
+        "icon-google-developers": {
+            "body": "<${1:i} className=\"icon-google-developers\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-google-developers"
+        },
+        "icon-gradle": {
+            "body": "<${1:i} className=\"icon-gradle\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-gradle"
+        },
+        "icon-grails": {
+            "body": "<${1:i} className=\"icon-grails\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-grails"
+        },
+        "icon-grails-alt": {
+            "body": "<${1:i} className=\"icon-grails-alt\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-grails-alt"
+        },
+        "icon-grunt": {
+            "body": "<${1:i} className=\"icon-grunt\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-grunt"
+        },
+        "icon-gulp": {
+            "body": "<${1:i} className=\"icon-gulp\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-gulp"
+        },
+        "icon-gulp-alt": {
+            "body": "<${1:i} className=\"icon-gulp-alt\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-gulp-alt"
+        },
+        "icon-hadoop": {
+            "body": "<${1:i} className=\"icon-hadoop\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-hadoop"
+        },
+        "icon-haskell": {
+            "body": "<${1:i} className=\"icon-haskell\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-haskell"
+        },
+        "icon-heroku": {
+            "body": "<${1:i} className=\"icon-heroku\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-heroku"
+        },
+        "icon-html": {
+            "body": "<${1:i} className=\"icon-html\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-html"
+        },
+        "icon-html5": {
+            "body": "<${1:i} className=\"icon-html5\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-html5"
+        },
+        "icon-html5-alt": {
+            "body": "<${1:i} className=\"icon-html5-alt\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-html5-alt"
+        },
+        "icon-iphone": {
+            "body": "<${1:i} className=\"icon-iphone\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-iphone"
+        },
+        "icon-java": {
+            "body": "<${1:i} className=\"icon-java\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-java"
+        },
+        "icon-java-bold": {
+            "body": "<${1:i} className=\"icon-java-bold\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-java-bold"
+        },
+        "icon-java-duke": {
+            "body": "<${1:i} className=\"icon-java-duke\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-java-duke"
+        },
+        "icon-javascript": {
+            "body": "<${1:i} className=\"icon-javascript\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-javascript"
+        },
+        "icon-javascript-alt": {
+            "body": "<${1:i} className=\"icon-javascript-alt\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-javascript-alt"
+        },
+        "icon-jetty": {
+            "body": "<${1:i} className=\"icon-jetty\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-jetty"
+        },
+        "icon-jquery": {
+            "body": "<${1:i} className=\"icon-jquery\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-jquery"
+        },
+        "icon-kde": {
+            "body": "<${1:i} className=\"icon-kde\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-kde"
+        },
+        "icon-laravel": {
+            "body": "<${1:i} className=\"icon-laravel\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-laravel"
+        },
+        "icon-line-graph": {
+            "body": "<${1:i} className=\"icon-line-graph\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-line-graph"
+        },
+        "icon-linux-mint": {
+            "body": "<${1:i} className=\"icon-linux-mint\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-linux-mint"
+        },
+        "icon-looking": {
+            "body": "<${1:i} className=\"icon-looking\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-looking"
+        },
+        "icon-magento": {
+            "body": "<${1:i} className=\"icon-magento\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-magento"
+        },
+        "icon-mariadb": {
+            "body": "<${1:i} className=\"icon-mariadb\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-mariadb"
+        },
+        "icon-maven": {
+            "body": "<${1:i} className=\"icon-maven\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-maven"
+        },
+        "icon-microscope": {
+            "body": "<${1:i} className=\"icon-microscope\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-microscope"
+        },
+        "icon-mobile-device": {
+            "body": "<${1:i} className=\"icon-mobile-device\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-mobile-device"
+        },
+        "icon-mobile-phone-alt": {
+            "body": "<${1:i} className=\"icon-mobile-phone-alt\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-mobile-phone-alt"
+        },
+        "icon-mobile-phone-broadcast": {
+            "body": "<${1:i} className=\"icon-mobile-phone-broadcast\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-mobile-phone-broadcast"
+        },
+        "icon-mongodb": {
+            "body": "<${1:i} className=\"icon-mongodb\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-mongodb"
+        },
+        "icon-mssql": {
+            "body": "<${1:i} className=\"icon-mssql\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-mssql"
+        },
+        "icon-mysql": {
+            "body": "<${1:i} className=\"icon-mysql\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-mysql"
+        },
+        "icon-mysql-alt": {
+            "body": "<${1:i} className=\"icon-mysql-alt\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-mysql-alt"
+        },
+        "icon-netbsd": {
+            "body": "<${1:i} className=\"icon-netbsd\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-netbsd"
+        },
+        "icon-nginx": {
+            "body": "<${1:i} className=\"icon-nginx\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-nginx"
+        },
+        "icon-nginx-alt": {
+            "body": "<${1:i} className=\"icon-nginx-alt\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-nginx-alt"
+        },
+        "icon-nginx-alt2": {
+            "body": "<${1:i} className=\"icon-nginx-alt2\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-nginx-alt2"
+        },
+        "icon-nodejs": {
+            "body": "<${1:i} className=\"icon-nodejs\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-nodejs"
+        },
+        "icon-npm": {
+            "body": "<${1:i} className=\"icon-npm\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-npm"
+        },
+        "icon-objc": {
+            "body": "<${1:i} className=\"icon-objc\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-objc"
+        },
+        "icon-openshift": {
+            "body": "<${1:i} className=\"icon-openshift\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-openshift"
+        },
+        "icon-oracle": {
+            "body": "<${1:i} className=\"icon-oracle\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-oracle"
+        },
+        "icon-oracle-alt": {
+            "body": "<${1:i} className=\"icon-oracle-alt\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-oracle-alt"
+        },
+        "icon-osx": {
+            "body": "<${1:i} className=\"icon-osx\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-osx"
+        },
+        "icon-perl": {
+            "body": "<${1:i} className=\"icon-perl\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-perl"
+        },
+        "icon-phone-alt": {
+            "body": "<${1:i} className=\"icon-phone-alt\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-phone-alt"
+        },
+        "icon-phone-gap": {
+            "body": "<${1:i} className=\"icon-phone-gap\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-phone-gap"
+        },
+        "icon-phone-retro": {
+            "body": "<${1:i} className=\"icon-phone-retro\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-phone-retro"
+        },
+        "icon-php": {
+            "body": "<${1:i} className=\"icon-php\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-php"
+        },
+        "icon-php-alt": {
+            "body": "<${1:i} className=\"icon-php-alt\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-php-alt"
+        },
+        "icon-playframework": {
+            "body": "<${1:i} className=\"icon-playframework\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-playframework"
+        },
+        "icon-playframework-alt": {
+            "body": "<${1:i} className=\"icon-playframework-alt\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-playframework-alt"
+        },
+        "icon-plone": {
+            "body": "<${1:i} className=\"icon-plone\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-plone"
+        },
+        "icon-postgres": {
+            "body": "<${1:i} className=\"icon-postgres\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-postgres"
+        },
+        "icon-postgres-alt": {
+            "body": "<${1:i} className=\"icon-postgres-alt\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-postgres-alt"
+        },
+        "icon-python": {
+            "body": "<${1:i} className=\"icon-python\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-python"
+        },
+        "icon-raspberrypi": {
+            "body": "<${1:i} className=\"icon-raspberrypi\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-raspberrypi"
+        },
+        "icon-reactjs": {
+            "body": "<${1:i} className=\"icon-reactjs\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-reactjs"
+        },
+        "icon-redhat": {
+            "body": "<${1:i} className=\"icon-redhat\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-redhat"
+        },
+        "icon-redis": {
+            "body": "<${1:i} className=\"icon-redis\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-redis"
+        },
+        "icon-ruby": {
+            "body": "<${1:i} className=\"icon-ruby\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-ruby"
+        },
+        "icon-ruby-on-rails": {
+            "body": "<${1:i} className=\"icon-ruby-on-rails\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-ruby-on-rails"
+        },
+        "icon-ruby-on-rails-alt": {
+            "body": "<${1:i} className=\"icon-ruby-on-rails-alt\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-ruby-on-rails-alt"
+        },
+        "icon-rust": {
+            "body": "<${1:i} className=\"icon-rust\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-rust"
+        },
+        "icon-sass": {
+            "body": "<${1:i} className=\"icon-sass\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-sass"
+        },
+        "icon-satellite": {
+            "body": "<${1:i} className=\"icon-satellite\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-satellite"
+        },
+        "icon-scala": {
+            "body": "<${1:i} className=\"icon-scala\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-scala"
+        },
+        "icon-scala-alt": {
+            "body": "<${1:i} className=\"icon-scala-alt\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-scala-alt"
+        },
+        "icon-script": {
+            "body": "<${1:i} className=\"icon-script\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-script"
+        },
+        "icon-script-alt": {
+            "body": "<${1:i} className=\"icon-script-alt\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-script-alt"
+        },
+        "icon-shell": {
+            "body": "<${1:i} className=\"icon-shell\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-shell"
+        },
+        "icon-sitefinity": {
+            "body": "<${1:i} className=\"icon-sitefinity\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-sitefinity"
+        },
+        "icon-solaris": {
+            "body": "<${1:i} className=\"icon-solaris\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-solaris"
+        },
+        "icon-splatter": {
+            "body": "<${1:i} className=\"icon-splatter\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-splatter"
+        },
+        "icon-spring": {
+            "body": "<${1:i} className=\"icon-spring\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-spring"
+        },
+        "icon-suse": {
+            "body": "<${1:i} className=\"icon-suse\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-suse"
+        },
+        "icon-svg": {
+            "body": "<${1:i} className=\"icon-svg\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-svg"
+        },
+        "icon-symfony": {
+            "body": "<${1:i} className=\"icon-symfony\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-symfony"
+        },
+        "icon-tomcat": {
+            "body": "<${1:i} className=\"icon-tomcat\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-tomcat"
+        },
+        "icon-ubuntu": {
+            "body": "<${1:i} className=\"icon-ubuntu\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-ubuntu"
+        },
+        "icon-unity": {
+            "body": "<${1:i} className=\"icon-unity\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-unity"
+        },
+        "icon-wireless": {
+            "body": "<${1:i} className=\"icon-wireless\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-wireless"
+        },
+        "icon-wordpress": {
+            "body": "<${1:i} className=\"icon-wordpress\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-wordpress"
+        },
+        "icon-x11": {
+            "body": "<${1:i} className=\"icon-x11\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "icon-x11"
+        }
+    }
+}

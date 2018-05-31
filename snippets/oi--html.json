@@ -1,0 +1,1119 @@
+{
+    ".text.html": {
+        "oi[data-glyph=account-login]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=account-login]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=account-login]"
+        },
+        "oi[data-glyph=account-logout]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=account-logout]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=account-logout]"
+        },
+        "oi[data-glyph=action-redo]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=action-redo]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=action-redo]"
+        },
+        "oi[data-glyph=action-undo]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=action-undo]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=action-undo]"
+        },
+        "oi[data-glyph=align-center]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=align-center]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=align-center]"
+        },
+        "oi[data-glyph=align-left]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=align-left]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=align-left]"
+        },
+        "oi[data-glyph=align-right]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=align-right]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=align-right]"
+        },
+        "oi[data-glyph=aperture]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=aperture]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=aperture]"
+        },
+        "oi[data-glyph=arrow-bottom]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=arrow-bottom]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=arrow-bottom]"
+        },
+        "oi[data-glyph=arrow-circle-bottom]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=arrow-circle-bottom]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=arrow-circle-bottom]"
+        },
+        "oi[data-glyph=arrow-circle-left]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=arrow-circle-left]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=arrow-circle-left]"
+        },
+        "oi[data-glyph=arrow-circle-right]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=arrow-circle-right]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=arrow-circle-right]"
+        },
+        "oi[data-glyph=arrow-circle-top]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=arrow-circle-top]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=arrow-circle-top]"
+        },
+        "oi[data-glyph=arrow-left]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=arrow-left]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=arrow-left]"
+        },
+        "oi[data-glyph=arrow-right]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=arrow-right]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=arrow-right]"
+        },
+        "oi[data-glyph=arrow-thick-bottom]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=arrow-thick-bottom]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=arrow-thick-bottom]"
+        },
+        "oi[data-glyph=arrow-thick-left]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=arrow-thick-left]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=arrow-thick-left]"
+        },
+        "oi[data-glyph=arrow-thick-right]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=arrow-thick-right]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=arrow-thick-right]"
+        },
+        "oi[data-glyph=arrow-thick-top]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=arrow-thick-top]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=arrow-thick-top]"
+        },
+        "oi[data-glyph=arrow-top]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=arrow-top]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=arrow-top]"
+        },
+        "oi[data-glyph=audio-spectrum]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=audio-spectrum]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=audio-spectrum]"
+        },
+        "oi[data-glyph=audio]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=audio]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=audio]"
+        },
+        "oi[data-glyph=badge]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=badge]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=badge]"
+        },
+        "oi[data-glyph=ban]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=ban]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=ban]"
+        },
+        "oi[data-glyph=bar-chart]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=bar-chart]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=bar-chart]"
+        },
+        "oi[data-glyph=basket]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=basket]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=basket]"
+        },
+        "oi[data-glyph=battery-empty]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=battery-empty]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=battery-empty]"
+        },
+        "oi[data-glyph=battery-full]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=battery-full]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=battery-full]"
+        },
+        "oi[data-glyph=beaker]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=beaker]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=beaker]"
+        },
+        "oi[data-glyph=bell]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=bell]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=bell]"
+        },
+        "oi[data-glyph=bluetooth]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=bluetooth]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=bluetooth]"
+        },
+        "oi[data-glyph=bold]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=bold]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=bold]"
+        },
+        "oi[data-glyph=bolt]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=bolt]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=bolt]"
+        },
+        "oi[data-glyph=book]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=book]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=book]"
+        },
+        "oi[data-glyph=bookmark]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=bookmark]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=bookmark]"
+        },
+        "oi[data-glyph=box]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=box]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=box]"
+        },
+        "oi[data-glyph=briefcase]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=briefcase]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=briefcase]"
+        },
+        "oi[data-glyph=british-pound]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=british-pound]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=british-pound]"
+        },
+        "oi[data-glyph=browser]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=browser]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=browser]"
+        },
+        "oi[data-glyph=brush]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=brush]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=brush]"
+        },
+        "oi[data-glyph=bug]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=bug]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=bug]"
+        },
+        "oi[data-glyph=bullhorn]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=bullhorn]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=bullhorn]"
+        },
+        "oi[data-glyph=calculator]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=calculator]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=calculator]"
+        },
+        "oi[data-glyph=calendar]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=calendar]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=calendar]"
+        },
+        "oi[data-glyph=camera-slr]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=camera-slr]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=camera-slr]"
+        },
+        "oi[data-glyph=caret-bottom]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=caret-bottom]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=caret-bottom]"
+        },
+        "oi[data-glyph=caret-left]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=caret-left]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=caret-left]"
+        },
+        "oi[data-glyph=caret-right]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=caret-right]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=caret-right]"
+        },
+        "oi[data-glyph=caret-top]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=caret-top]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=caret-top]"
+        },
+        "oi[data-glyph=cart]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=cart]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=cart]"
+        },
+        "oi[data-glyph=chat]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=chat]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=chat]"
+        },
+        "oi[data-glyph=check]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=check]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=check]"
+        },
+        "oi[data-glyph=chevron-bottom]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=chevron-bottom]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=chevron-bottom]"
+        },
+        "oi[data-glyph=chevron-left]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=chevron-left]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=chevron-left]"
+        },
+        "oi[data-glyph=chevron-right]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=chevron-right]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=chevron-right]"
+        },
+        "oi[data-glyph=chevron-top]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=chevron-top]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=chevron-top]"
+        },
+        "oi[data-glyph=circle-check]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=circle-check]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=circle-check]"
+        },
+        "oi[data-glyph=circle-x]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=circle-x]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=circle-x]"
+        },
+        "oi[data-glyph=clipboard]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=clipboard]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=clipboard]"
+        },
+        "oi[data-glyph=clock]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=clock]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=clock]"
+        },
+        "oi[data-glyph=cloud-download]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=cloud-download]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=cloud-download]"
+        },
+        "oi[data-glyph=cloud-upload]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=cloud-upload]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=cloud-upload]"
+        },
+        "oi[data-glyph=cloud]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=cloud]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=cloud]"
+        },
+        "oi[data-glyph=cloudy]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=cloudy]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=cloudy]"
+        },
+        "oi[data-glyph=code]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=code]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=code]"
+        },
+        "oi[data-glyph=cog]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=cog]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=cog]"
+        },
+        "oi[data-glyph=collapse-down]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=collapse-down]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=collapse-down]"
+        },
+        "oi[data-glyph=collapse-left]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=collapse-left]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=collapse-left]"
+        },
+        "oi[data-glyph=collapse-right]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=collapse-right]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=collapse-right]"
+        },
+        "oi[data-glyph=collapse-up]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=collapse-up]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=collapse-up]"
+        },
+        "oi[data-glyph=command]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=command]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=command]"
+        },
+        "oi[data-glyph=comment-square]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=comment-square]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=comment-square]"
+        },
+        "oi[data-glyph=compass]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=compass]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=compass]"
+        },
+        "oi[data-glyph=contrast]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=contrast]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=contrast]"
+        },
+        "oi[data-glyph=copywriting]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=copywriting]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=copywriting]"
+        },
+        "oi[data-glyph=credit-card]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=credit-card]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=credit-card]"
+        },
+        "oi[data-glyph=crop]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=crop]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=crop]"
+        },
+        "oi[data-glyph=dashboard]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=dashboard]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=dashboard]"
+        },
+        "oi[data-glyph=data-transfer-download]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=data-transfer-download]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=data-transfer-download]"
+        },
+        "oi[data-glyph=data-transfer-upload]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=data-transfer-upload]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=data-transfer-upload]"
+        },
+        "oi[data-glyph=delete]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=delete]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=delete]"
+        },
+        "oi[data-glyph=dial]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=dial]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=dial]"
+        },
+        "oi[data-glyph=document]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=document]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=document]"
+        },
+        "oi[data-glyph=dollar]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=dollar]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=dollar]"
+        },
+        "oi[data-glyph=double-quote-sans-left]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=double-quote-sans-left]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=double-quote-sans-left]"
+        },
+        "oi[data-glyph=double-quote-sans-right]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=double-quote-sans-right]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=double-quote-sans-right]"
+        },
+        "oi[data-glyph=double-quote-serif-left]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=double-quote-serif-left]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=double-quote-serif-left]"
+        },
+        "oi[data-glyph=double-quote-serif-right]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=double-quote-serif-right]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=double-quote-serif-right]"
+        },
+        "oi[data-glyph=droplet]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=droplet]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=droplet]"
+        },
+        "oi[data-glyph=eject]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=eject]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=eject]"
+        },
+        "oi[data-glyph=elevator]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=elevator]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=elevator]"
+        },
+        "oi[data-glyph=ellipses]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=ellipses]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=ellipses]"
+        },
+        "oi[data-glyph=envelope-closed]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=envelope-closed]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=envelope-closed]"
+        },
+        "oi[data-glyph=envelope-open]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=envelope-open]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=envelope-open]"
+        },
+        "oi[data-glyph=euro]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=euro]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=euro]"
+        },
+        "oi[data-glyph=excerpt]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=excerpt]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=excerpt]"
+        },
+        "oi[data-glyph=expand-down]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=expand-down]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=expand-down]"
+        },
+        "oi[data-glyph=expand-left]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=expand-left]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=expand-left]"
+        },
+        "oi[data-glyph=expand-right]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=expand-right]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=expand-right]"
+        },
+        "oi[data-glyph=expand-up]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=expand-up]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=expand-up]"
+        },
+        "oi[data-glyph=external-link]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=external-link]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=external-link]"
+        },
+        "oi[data-glyph=eye]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=eye]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=eye]"
+        },
+        "oi[data-glyph=eyedropper]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=eyedropper]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=eyedropper]"
+        },
+        "oi[data-glyph=file]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=file]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=file]"
+        },
+        "oi[data-glyph=fire]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=fire]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=fire]"
+        },
+        "oi[data-glyph=flag]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=flag]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=flag]"
+        },
+        "oi[data-glyph=flash]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=flash]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=flash]"
+        },
+        "oi[data-glyph=folder]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=folder]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=folder]"
+        },
+        "oi[data-glyph=fork]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=fork]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=fork]"
+        },
+        "oi[data-glyph=fullscreen-enter]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=fullscreen-enter]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=fullscreen-enter]"
+        },
+        "oi[data-glyph=fullscreen-exit]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=fullscreen-exit]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=fullscreen-exit]"
+        },
+        "oi[data-glyph=globe]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=globe]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=globe]"
+        },
+        "oi[data-glyph=graph]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=graph]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=graph]"
+        },
+        "oi[data-glyph=grid-four-up]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=grid-four-up]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=grid-four-up]"
+        },
+        "oi[data-glyph=grid-three-up]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=grid-three-up]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=grid-three-up]"
+        },
+        "oi[data-glyph=grid-two-up]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=grid-two-up]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=grid-two-up]"
+        },
+        "oi[data-glyph=hard-drive]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=hard-drive]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=hard-drive]"
+        },
+        "oi[data-glyph=header]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=header]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=header]"
+        },
+        "oi[data-glyph=headphones]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=headphones]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=headphones]"
+        },
+        "oi[data-glyph=heart]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=heart]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=heart]"
+        },
+        "oi[data-glyph=home]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=home]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=home]"
+        },
+        "oi[data-glyph=image]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=image]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=image]"
+        },
+        "oi[data-glyph=inbox]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=inbox]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=inbox]"
+        },
+        "oi[data-glyph=infinity]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=infinity]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=infinity]"
+        },
+        "oi[data-glyph=info]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=info]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=info]"
+        },
+        "oi[data-glyph=italic]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=italic]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=italic]"
+        },
+        "oi[data-glyph=justify-center]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=justify-center]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=justify-center]"
+        },
+        "oi[data-glyph=justify-left]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=justify-left]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=justify-left]"
+        },
+        "oi[data-glyph=justify-right]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=justify-right]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=justify-right]"
+        },
+        "oi[data-glyph=key]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=key]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=key]"
+        },
+        "oi[data-glyph=laptop]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=laptop]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=laptop]"
+        },
+        "oi[data-glyph=layers]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=layers]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=layers]"
+        },
+        "oi[data-glyph=lightbulb]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=lightbulb]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=lightbulb]"
+        },
+        "oi[data-glyph=link-broken]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=link-broken]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=link-broken]"
+        },
+        "oi[data-glyph=link-intact]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=link-intact]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=link-intact]"
+        },
+        "oi[data-glyph=list-rich]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=list-rich]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=list-rich]"
+        },
+        "oi[data-glyph=list]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=list]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=list]"
+        },
+        "oi[data-glyph=location]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=location]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=location]"
+        },
+        "oi[data-glyph=lock-locked]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=lock-locked]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=lock-locked]"
+        },
+        "oi[data-glyph=lock-unlocked]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=lock-unlocked]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=lock-unlocked]"
+        },
+        "oi[data-glyph=loop-circular]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=loop-circular]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=loop-circular]"
+        },
+        "oi[data-glyph=loop-square]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=loop-square]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=loop-square]"
+        },
+        "oi[data-glyph=loop]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=loop]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=loop]"
+        },
+        "oi[data-glyph=magnifying-glass]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=magnifying-glass]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=magnifying-glass]"
+        },
+        "oi[data-glyph=map-marker]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=map-marker]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=map-marker]"
+        },
+        "oi[data-glyph=map]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=map]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=map]"
+        },
+        "oi[data-glyph=media-pause]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=media-pause]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=media-pause]"
+        },
+        "oi[data-glyph=media-play]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=media-play]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=media-play]"
+        },
+        "oi[data-glyph=media-record]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=media-record]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=media-record]"
+        },
+        "oi[data-glyph=media-skip-backward]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=media-skip-backward]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=media-skip-backward]"
+        },
+        "oi[data-glyph=media-skip-forward]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=media-skip-forward]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=media-skip-forward]"
+        },
+        "oi[data-glyph=media-step-backward]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=media-step-backward]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=media-step-backward]"
+        },
+        "oi[data-glyph=media-step-forward]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=media-step-forward]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=media-step-forward]"
+        },
+        "oi[data-glyph=media-stop]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=media-stop]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=media-stop]"
+        },
+        "oi[data-glyph=medical-cross]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=medical-cross]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=medical-cross]"
+        },
+        "oi[data-glyph=menu]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=menu]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=menu]"
+        },
+        "oi[data-glyph=microphone]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=microphone]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=microphone]"
+        },
+        "oi[data-glyph=minus]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=minus]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=minus]"
+        },
+        "oi[data-glyph=monitor]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=monitor]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=monitor]"
+        },
+        "oi[data-glyph=moon]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=moon]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=moon]"
+        },
+        "oi[data-glyph=move]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=move]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=move]"
+        },
+        "oi[data-glyph=musical-note]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=musical-note]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=musical-note]"
+        },
+        "oi[data-glyph=paperclip]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=paperclip]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=paperclip]"
+        },
+        "oi[data-glyph=pencil]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=pencil]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=pencil]"
+        },
+        "oi[data-glyph=people]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=people]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=people]"
+        },
+        "oi[data-glyph=person]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=person]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=person]"
+        },
+        "oi[data-glyph=phone]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=phone]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=phone]"
+        },
+        "oi[data-glyph=pie-chart]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=pie-chart]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=pie-chart]"
+        },
+        "oi[data-glyph=pin]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=pin]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=pin]"
+        },
+        "oi[data-glyph=play-circle]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=play-circle]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=play-circle]"
+        },
+        "oi[data-glyph=plus]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=plus]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=plus]"
+        },
+        "oi[data-glyph=power-standby]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=power-standby]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=power-standby]"
+        },
+        "oi[data-glyph=print]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=print]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=print]"
+        },
+        "oi[data-glyph=project]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=project]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=project]"
+        },
+        "oi[data-glyph=pulse]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=pulse]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=pulse]"
+        },
+        "oi[data-glyph=puzzle-piece]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=puzzle-piece]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=puzzle-piece]"
+        },
+        "oi[data-glyph=question-mark]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=question-mark]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=question-mark]"
+        },
+        "oi[data-glyph=rain]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=rain]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=rain]"
+        },
+        "oi[data-glyph=random]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=random]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=random]"
+        },
+        "oi[data-glyph=reload]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=reload]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=reload]"
+        },
+        "oi[data-glyph=resize-both]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=resize-both]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=resize-both]"
+        },
+        "oi[data-glyph=resize-height]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=resize-height]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=resize-height]"
+        },
+        "oi[data-glyph=resize-width]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=resize-width]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=resize-width]"
+        },
+        "oi[data-glyph=rss-alt]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=rss-alt]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=rss-alt]"
+        },
+        "oi[data-glyph=rss]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=rss]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=rss]"
+        },
+        "oi[data-glyph=script]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=script]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=script]"
+        },
+        "oi[data-glyph=share-boxed]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=share-boxed]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=share-boxed]"
+        },
+        "oi[data-glyph=share]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=share]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=share]"
+        },
+        "oi[data-glyph=shield]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=shield]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=shield]"
+        },
+        "oi[data-glyph=signal]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=signal]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=signal]"
+        },
+        "oi[data-glyph=signpost]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=signpost]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=signpost]"
+        },
+        "oi[data-glyph=sort-ascending]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=sort-ascending]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=sort-ascending]"
+        },
+        "oi[data-glyph=sort-descending]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=sort-descending]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=sort-descending]"
+        },
+        "oi[data-glyph=spreadsheet]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=spreadsheet]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=spreadsheet]"
+        },
+        "oi[data-glyph=star]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=star]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=star]"
+        },
+        "oi[data-glyph=sun]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=sun]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=sun]"
+        },
+        "oi[data-glyph=tablet]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=tablet]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=tablet]"
+        },
+        "oi[data-glyph=tag]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=tag]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=tag]"
+        },
+        "oi[data-glyph=tags]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=tags]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=tags]"
+        },
+        "oi[data-glyph=target]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=target]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=target]"
+        },
+        "oi[data-glyph=task]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=task]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=task]"
+        },
+        "oi[data-glyph=terminal]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=terminal]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=terminal]"
+        },
+        "oi[data-glyph=text]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=text]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=text]"
+        },
+        "oi[data-glyph=thumb-down]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=thumb-down]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=thumb-down]"
+        },
+        "oi[data-glyph=thumb-up]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=thumb-up]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=thumb-up]"
+        },
+        "oi[data-glyph=timer]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=timer]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=timer]"
+        },
+        "oi[data-glyph=transfer]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=transfer]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=transfer]"
+        },
+        "oi[data-glyph=trash]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=trash]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=trash]"
+        },
+        "oi[data-glyph=underline]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=underline]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=underline]"
+        },
+        "oi[data-glyph=vertical-align-bottom]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=vertical-align-bottom]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=vertical-align-bottom]"
+        },
+        "oi[data-glyph=vertical-align-center]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=vertical-align-center]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=vertical-align-center]"
+        },
+        "oi[data-glyph=vertical-align-top]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=vertical-align-top]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=vertical-align-top]"
+        },
+        "oi[data-glyph=video]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=video]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=video]"
+        },
+        "oi[data-glyph=volume-high]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=volume-high]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=volume-high]"
+        },
+        "oi[data-glyph=volume-low]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=volume-low]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=volume-low]"
+        },
+        "oi[data-glyph=volume-off]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=volume-off]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=volume-off]"
+        },
+        "oi[data-glyph=warning]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=warning]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=warning]"
+        },
+        "oi[data-glyph=wifi]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=wifi]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=wifi]"
+        },
+        "oi[data-glyph=wrench]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=wrench]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=wrench]"
+        },
+        "oi[data-glyph=x]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=x]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=x]"
+        },
+        "oi[data-glyph=yen]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=yen]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=yen]"
+        },
+        "oi[data-glyph=zoom-in]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=zoom-in]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=zoom-in]"
+        },
+        "oi[data-glyph=zoom-out]": {
+            "body": "<${1:span} class=\"oi oi[data-glyph=zoom-out]\"></${1:span}>$0",
+            "description": "<span>",
+            "prefix": "oi[data-glyph=zoom-out]"
+        }
+    }
+}
