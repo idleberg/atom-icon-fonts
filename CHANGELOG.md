@@ -1,4 +1,4 @@
-# v2.20.0 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v2.20.0)
+# v3.0.0 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.0.0)
 
 - remove icon fonts (available in [legacy package](https://github.com/idleberg/atom-icon-fonts-legacy))
     - Semantic UI
