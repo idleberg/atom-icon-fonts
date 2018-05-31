@@ -33,12 +33,18 @@
   "fl-fedora-inverse":
     body: "content: '\\\\f114';$1"
     prefix: "fl-fedora-inverse"
+  "fl-flathub":
+    body: "content: '\\\\f11d';$1"
+    prefix: "fl-flathub"
   "fl-freebsd":
     body: "content: '\\\\f10f';$1"
     prefix: "fl-freebsd"
   "fl-gentoo":
     body: "content: '\\\\f111';$1"
     prefix: "fl-gentoo"
+  "fl-gnu-guix":
+    body: "content: '\\\\f11e';$1"
+    prefix: "fl-gnu-guix"
   "fl-linuxmint":
     body: "content: '\\\\f105';$1"
     prefix: "fl-linuxmint"
@@ -75,6 +81,9 @@
   "fl-slackware-inverse":
     body: "content: '\\\\f10c';$1"
     prefix: "fl-slackware-inverse"
+  "fl-snappy":
+    body: "content: '\\\\f11f';$1"
+    prefix: "fl-snappy"
   "fl-tux":
     body: "content: '\\\\f118';$1"
     prefix: "fl-tux"

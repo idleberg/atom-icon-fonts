@@ -4,6 +4,10 @@
     body: "content: '\\\\f100';"
     description: "content"
     prefix: "mfizz-3dprint"
+  "mfizz-alpinelinux":
+    body: "content: '\\\\f101';"
+    description: "content"
+    prefix: "mfizz-alpinelinux"
   "mfizz-amex":
     body: "content: '\\\\f326';"
     description: "content"
@@ -192,6 +196,14 @@
     body: "content: '\\\\f11f';"
     description: "content"
     prefix: "mfizz-gnome"
+  "mfizz-go":
+    body: "content: '\\\\f12c';"
+    description: "content"
+    prefix: "mfizz-go"
+  "mfizz-go-alt":
+    body: "content: '\\\\f12d';"
+    description: "content"
+    prefix: "mfizz-go-alt"
   "mfizz-google":
     body: "content: '\\\\f120';"
     description: "content"
@@ -492,6 +504,10 @@
     body: "content: '\\\\f15c';"
     description: "content"
     prefix: "mfizz-ruby-on-rails-alt"
+  "mfizz-rust":
+    body: "content: '\\\\f174';"
+    description: "content"
+    prefix: "mfizz-rust"
   "mfizz-satellite":
     body: "content: '\\\\f15d';"
     description: "content"
