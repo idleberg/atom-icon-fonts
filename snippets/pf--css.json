@@ -150,10 +150,10 @@
             "description": "content",
             "prefix": "pf-google-wallet-alt"
         },
-        "pf-gpb": {
+        "pf-gbp": {
             "body": "content: '\\\\f01e';$0",
             "description": "content",
-            "prefix": "pf-gpb"
+            "prefix": "pf-gbp"
         },
         "pf-gratipay": {
             "body": "content: '\\\\f01f';$0",
