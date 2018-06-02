@@ -1,3 +1,8 @@
+# v3.0.1 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.0.1)
+
+- re-add missing Icono font
+- fix typo in Payment Font snippet
+
 # v3.0.0 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.0.0)
 
 - remove icon fonts (available in [legacy package](https://github.com/idleberg/atom-icon-fonts-legacy))
