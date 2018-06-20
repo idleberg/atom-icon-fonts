@@ -1,3 +1,7 @@
+# v3.0.2 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.0.2)
+
+- bump Font Awesome Pro to v5.1.0
+
 # v3.0.1 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.0.1)
 
 - re-add missing Icono font
