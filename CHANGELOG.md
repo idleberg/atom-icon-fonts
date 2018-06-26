@@ -1,3 +1,7 @@
+# v3.1.0 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.1.0)
+
+- add BoxIcons
+
 # v3.0.2 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.0.2)
 
 - bump Font Awesome Pro to v5.1.0

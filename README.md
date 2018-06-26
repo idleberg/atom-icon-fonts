@@ -33,7 +33,7 @@ Prefix            | Icon Font                               | Version | cdnjs | 
 ------------------|-----------------------------------------|---------|-------|---------
 `ai`              | [Android Icons][ai]                     | 1.0.0   | 🚫    | 🚫
 `cc`              | [Creative Commons Icon Font][cc]        | 1.2.1   | ✅    | ✅
-`bx`              | [Boxicons][bx]                          | -       | 🚫    | 🚫
+`bx`              | [BoxIcons][bx]                          | -       | 🚫    | 🚫
 `dashicons`       | [WordPress Dashicons][dashicons]        | –       | 🚫    | 🚫
 `devicons`        | [Devicons][devicons]                    | 1.8.0   | ✅    | ✅
 `el`              | [Elusive Icons][el]                     | 2.0.0   | 🚫    | 🚫
