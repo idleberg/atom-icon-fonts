@@ -33,10 +33,11 @@ Prefix            | Icon Font                               | Version | cdnjs | 
 ------------------|-----------------------------------------|---------|-------|---------
 `ai`              | [Android Icons][ai]                     | 1.0.0   | 🚫    | 🚫
 `cc`              | [Creative Commons Icon Font][cc]        | 1.2.1   | ✅    | ✅
+`bx`              | [Boxicons][bx]                          | -       | 🚫    | 🚫
 `dashicons`       | [WordPress Dashicons][dashicons]        | –       | 🚫    | 🚫
 `devicons`        | [Devicons][devicons]                    | 1.8.0   | ✅    | ✅
 `el`              | [Elusive Icons][el]                     | 2.0.0   | 🚫    | 🚫
-`fas`,`far`,`fab` | [Font Awesome Pro][fa]                  | 5.1.0  | ✅    | ✅
+`fas`,`far`,`fab` | [Font Awesome Pro][fa]                  | 5.1.0   | ✅    | ✅
 `fi`              | [Foundation Icons][fi]                  | 3.0     | ✅    | ✅
 `fl`              | [Font Logos][fl]                        | 0.11    | 🚫    | 🚫
 `geomicon`        | [Geomicons Open][geomicon]              | 2.0.0   | 🚫    | ✅
@@ -84,6 +85,7 @@ This work is licensed under the [The MIT License](LICENSE.md).
 You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/atom-icon-fonts) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
 
 [ai]: https://github.com/opoloo/androidicons
+[bx]: https://github.com/atisawd/boxicons
 [cc]: https://github.com/cc-icons/cc-icons
 [dashicons]: https://github.com/WordPress/dashicons
 [devicons]: https://github.com/vorillaz/devicons
