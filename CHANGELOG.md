@@ -1,3 +1,9 @@
+# v3.1.2 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.1.1)
+
+- bump Font Awesome Pro to v5.3.1
+- bump MaterialDesign-Webfont to v2.6.95
+- bump OpenWebIcons v1.5.0
+
 # v3.1.1 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.1.1)
 
 - bump Font Awesome Pro to v5.2.0
