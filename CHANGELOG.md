@@ -1,3 +1,7 @@
+# v3.1.4 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.1.4)
+
+- fix Font Awesome class names in JSX snippets
+
 # v3.1.3 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.1.3)
 
 - bump Font Awesome Pro to v5.5.0
