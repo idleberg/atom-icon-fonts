@@ -65,7 +65,7 @@ const writeCSS = (font, data) => {
     const output = {};
 
     data.forEach( element => {
-        const prefix = (typeof font.replace !== 'undefined' && font.replace.to) ? element.selector.replace(/^fa-/, font.replace.to) : element.selector;
+        const prefix = (typeof font.replace !== 'undefined') ? element.selector.replace(new RegExp(font.replace.from), font.replace.to) : element.selector;
 
         output[prefix] = {
             body: `content: '\\\\${element.code}';$0`,
@@ -100,12 +100,12 @@ const write = (font, data, type = 'html') => {
         const classes = [classesBefore, element.selector, classesAfter].join(' ').trim();
         const options = (font.options === true) ? '$2' : '';
 
-        if (typeof font.replace !== 'undefined' && font.replace.to) element.selector = element.selector.replace(/^fa-/, font.replace.to);
+        const prefix = (typeof font.replace !== 'undefined') ? element.selector.replace(new RegExp(font.replace.from), font.replace.to): element.selector;
 
-        output[element.selector] = {
+        output[prefix] = {
             body: `<$\{1:${font.tag}\} ${classProp}="${classes}${options}"></$\{1:${font.tag}\}>$0`,
             description: `<${font.tag}>`,
-            prefix: element.selector
+            prefix: prefix
         }
     });
 
