@@ -55,6 +55,11 @@
             "description": "content",
             "prefix": "far-adn"
         },
+        "far-adobe": {
+            "body": "content: '\\\\f778';$0",
+            "description": "content",
+            "prefix": "far-adobe"
+        },
         "far-adversal": {
             "body": "content: '\\\\f36a';$0",
             "description": "content",
@@ -154,6 +159,11 @@
             "body": "content: '\\\\f17b';$0",
             "description": "content",
             "prefix": "far-android"
+        },
+        "far-angel": {
+            "body": "content: '\\\\f779';$0",
+            "description": "content",
+            "prefix": "far-angel"
         },
         "far-angellist": {
             "body": "content: '\\\\f209';$0",
@@ -495,6 +505,11 @@
             "description": "content",
             "prefix": "far-arrows-v"
         },
+        "far-artstation": {
+            "body": "content: '\\\\f77a';$0",
+            "description": "content",
+            "prefix": "far-artstation"
+        },
         "far-assistive-listening-systems": {
             "body": "content: '\\\\f2a2';$0",
             "description": "content",
@@ -519,6 +534,11 @@
             "body": "content: '\\\\f558';$0",
             "description": "content",
             "prefix": "far-atlas"
+        },
+        "far-atlassian": {
+            "body": "content: '\\\\f77b';$0",
+            "description": "content",
+            "prefix": "far-atlassian"
         },
         "far-atom": {
             "body": "content: '\\\\f5d2';$0",
@@ -575,6 +595,16 @@
             "description": "content",
             "prefix": "far-axe-battle"
         },
+        "far-baby": {
+            "body": "content: '\\\\f77c';$0",
+            "description": "content",
+            "prefix": "far-baby"
+        },
+        "far-baby-carriage": {
+            "body": "content: '\\\\f77d';$0",
+            "description": "content",
+            "prefix": "far-baby-carriage"
+        },
         "far-backpack": {
             "body": "content: '\\\\f5d4';$0",
             "description": "content",
@@ -589,6 +619,11 @@
             "body": "content: '\\\\f04a';$0",
             "description": "content",
             "prefix": "far-backward"
+        },
+        "far-bacon": {
+            "body": "content: '\\\\f7e5';$0",
+            "description": "content",
+            "prefix": "far-bacon"
         },
         "far-badge": {
             "body": "content: '\\\\f335';$0",
@@ -629,6 +664,11 @@
             "body": "content: '\\\\f516';$0",
             "description": "content",
             "prefix": "far-balance-scale-right"
+        },
+        "far-ball-pile": {
+            "body": "content: '\\\\f77e';$0",
+            "description": "content",
+            "prefix": "far-ball-pile"
         },
         "far-ballot": {
             "body": "content: '\\\\f732';$0",
@@ -785,6 +825,11 @@
             "description": "content",
             "prefix": "far-bell-slash"
         },
+        "far-bells": {
+            "body": "content: '\\\\f77f';$0",
+            "description": "content",
+            "prefix": "far-bells"
+        },
         "far-bezier-curve": {
             "body": "content: '\\\\f55b';$0",
             "description": "content",
@@ -809,6 +854,11 @@
             "body": "content: '\\\\f1e5';$0",
             "description": "content",
             "prefix": "far-binoculars"
+        },
+        "far-biohazard": {
+            "body": "content: '\\\\f780';$0",
+            "description": "content",
+            "prefix": "far-biohazard"
         },
         "far-birthday-cake": {
             "body": "content: '\\\\f1fd';$0",
@@ -859,6 +909,11 @@
             "body": "content: '\\\\f29d';$0",
             "description": "content",
             "prefix": "far-blind"
+        },
+        "far-blog": {
+            "body": "content: '\\\\f781';$0",
+            "description": "content",
+            "prefix": "far-blog"
         },
         "far-blogger": {
             "body": "content: '\\\\f37c';$0",
@@ -930,6 +985,11 @@
             "description": "content",
             "prefix": "far-book-heart"
         },
+        "far-book-medical": {
+            "body": "content: '\\\\f7e6';$0",
+            "description": "content",
+            "prefix": "far-book-medical"
+        },
         "far-book-open": {
             "body": "content: '\\\\f518';$0",
             "description": "content",
@@ -945,6 +1005,11 @@
             "description": "content",
             "prefix": "far-book-spells"
         },
+        "far-book-user": {
+            "body": "content: '\\\\f7e7';$0",
+            "description": "content",
+            "prefix": "far-book-user"
+        },
         "far-bookmark": {
             "body": "content: '\\\\f02e';$0",
             "description": "content",
@@ -954,6 +1019,16 @@
             "body": "content: '\\\\f5db';$0",
             "description": "content",
             "prefix": "far-books"
+        },
+        "far-books-medical": {
+            "body": "content: '\\\\f7e8';$0",
+            "description": "content",
+            "prefix": "far-books-medical"
+        },
+        "far-boot": {
+            "body": "content: '\\\\f782';$0",
+            "description": "content",
+            "prefix": "far-boot"
         },
         "far-booth-curtain": {
             "body": "content: '\\\\f734';$0",
@@ -1040,6 +1115,16 @@
             "description": "content",
             "prefix": "far-boxing-glove"
         },
+        "far-brackets": {
+            "body": "content: '\\\\f7e9';$0",
+            "description": "content",
+            "prefix": "far-brackets"
+        },
+        "far-brackets-curly": {
+            "body": "content: '\\\\f7ea';$0",
+            "description": "content",
+            "prefix": "far-brackets-curly"
+        },
         "far-braille": {
             "body": "content: '\\\\f2a1';$0",
             "description": "content",
@@ -1049,6 +1134,16 @@
             "body": "content: '\\\\f5dc';$0",
             "description": "content",
             "prefix": "far-brain"
+        },
+        "far-bread-loaf": {
+            "body": "content: '\\\\f7eb';$0",
+            "description": "content",
+            "prefix": "far-bread-loaf"
+        },
+        "far-bread-slice": {
+            "body": "content: '\\\\f7ec';$0",
+            "description": "content",
+            "prefix": "far-bread-slice"
         },
         "far-briefcase": {
             "body": "content: '\\\\f0b1';$0",
@@ -1125,6 +1220,11 @@
             "description": "content",
             "prefix": "far-buromobelexperte"
         },
+        "far-burrito": {
+            "body": "content: '\\\\f7ed';$0",
+            "description": "content",
+            "prefix": "far-burrito"
+        },
         "far-bus": {
             "body": "content: '\\\\f207';$0",
             "description": "content",
@@ -1180,6 +1280,11 @@
             "description": "content",
             "prefix": "far-calendar-check"
         },
+        "far-calendar-day": {
+            "body": "content: '\\\\f783';$0",
+            "description": "content",
+            "prefix": "far-calendar-day"
+        },
         "far-calendar-edit": {
             "body": "content: '\\\\f333';$0",
             "description": "content",
@@ -1210,6 +1315,11 @@
             "description": "content",
             "prefix": "far-calendar-times"
         },
+        "far-calendar-week": {
+            "body": "content: '\\\\f784';$0",
+            "description": "content",
+            "prefix": "far-calendar-week"
+        },
         "far-camera": {
             "body": "content: '\\\\f030';$0",
             "description": "content",
@@ -1235,10 +1345,20 @@
             "description": "content",
             "prefix": "far-campground"
         },
+        "far-canadian-maple-leaf": {
+            "body": "content: '\\\\f785';$0",
+            "description": "content",
+            "prefix": "far-canadian-maple-leaf"
+        },
         "far-candle-holder": {
             "body": "content: '\\\\f6bc';$0",
             "description": "content",
             "prefix": "far-candle-holder"
+        },
+        "far-candy-cane": {
+            "body": "content: '\\\\f786';$0",
+            "description": "content",
+            "prefix": "far-candy-cane"
         },
         "far-candy-corn": {
             "body": "content: '\\\\f6bd';$0",
@@ -1365,6 +1485,11 @@
             "description": "content",
             "prefix": "far-caret-up"
         },
+        "far-carrot": {
+            "body": "content: '\\\\f787';$0",
+            "description": "content",
+            "prefix": "far-carrot"
+        },
         "far-cart-arrow-down": {
             "body": "content: '\\\\f218';$0",
             "description": "content",
@@ -1374,6 +1499,11 @@
             "body": "content: '\\\\f217';$0",
             "description": "content",
             "prefix": "far-cart-plus"
+        },
+        "far-cash-register": {
+            "body": "content: '\\\\f788';$0",
+            "description": "content",
+            "prefix": "far-cash-register"
         },
         "far-cat": {
             "body": "content: '\\\\f6be';$0",
@@ -1440,6 +1570,11 @@
             "description": "content",
             "prefix": "far-centercode"
         },
+        "far-centos": {
+            "body": "content: '\\\\f789';$0",
+            "description": "content",
+            "prefix": "far-centos"
+        },
         "far-certificate": {
             "body": "content: '\\\\f0a3';$0",
             "description": "content",
@@ -1490,6 +1625,11 @@
             "description": "content",
             "prefix": "far-chart-line-down"
         },
+        "far-chart-network": {
+            "body": "content: '\\\\f78a';$0",
+            "description": "content",
+            "prefix": "far-chart-network"
+        },
         "far-chart-pie": {
             "body": "content: '\\\\f200';$0",
             "description": "content",
@@ -1499,6 +1639,11 @@
             "body": "content: '\\\\f64e';$0",
             "description": "content",
             "prefix": "far-chart-pie-alt"
+        },
+        "far-chart-scatter": {
+            "body": "content: '\\\\f7ee';$0",
+            "description": "content",
+            "prefix": "far-chart-scatter"
         },
         "far-check": {
             "body": "content: '\\\\f00c';$0",
@@ -1519,6 +1664,21 @@
             "body": "content: '\\\\f14a';$0",
             "description": "content",
             "prefix": "far-check-square"
+        },
+        "far-cheese": {
+            "body": "content: '\\\\f7ef';$0",
+            "description": "content",
+            "prefix": "far-cheese"
+        },
+        "far-cheese-swiss": {
+            "body": "content: '\\\\f7f0';$0",
+            "description": "content",
+            "prefix": "far-cheese-swiss"
+        },
+        "far-cheeseburger": {
+            "body": "content: '\\\\f7f1';$0",
+            "description": "content",
+            "prefix": "far-cheeseburger"
         },
         "far-chess": {
             "body": "content: '\\\\f439';$0",
@@ -1685,6 +1845,11 @@
             "description": "content",
             "prefix": "far-child"
         },
+        "far-chimney": {
+            "body": "content: '\\\\f78b';$0",
+            "description": "content",
+            "prefix": "far-chimney"
+        },
         "far-chrome": {
             "body": "content: '\\\\f268';$0",
             "description": "content",
@@ -1715,6 +1880,11 @@
             "description": "content",
             "prefix": "far-claw-marks"
         },
+        "far-clinic-medical": {
+            "body": "content: '\\\\f7f2';$0",
+            "description": "content",
+            "prefix": "far-clinic-medical"
+        },
         "far-clipboard": {
             "body": "content: '\\\\f328';$0",
             "description": "content",
@@ -1739,6 +1909,11 @@
             "body": "content: '\\\\f5e8';$0",
             "description": "content",
             "prefix": "far-clipboard-prescription"
+        },
+        "far-clipboard-user": {
+            "body": "content: '\\\\f7f3';$0",
+            "description": "content",
+            "prefix": "far-clipboard-user"
         },
         "far-clock": {
             "body": "content: '\\\\f017';$0",
@@ -1995,6 +2170,11 @@
             "description": "content",
             "prefix": "far-comment-alt-lines"
         },
+        "far-comment-alt-medical": {
+            "body": "content: '\\\\f7f4';$0",
+            "description": "content",
+            "prefix": "far-comment-alt-medical"
+        },
         "far-comment-alt-minus": {
             "body": "content: '\\\\f4a7';$0",
             "description": "content",
@@ -2049,6 +2229,11 @@
             "body": "content: '\\\\f4b0';$0",
             "description": "content",
             "prefix": "far-comment-lines"
+        },
+        "far-comment-medical": {
+            "body": "content: '\\\\f7f5';$0",
+            "description": "content",
+            "prefix": "far-comment-medical"
         },
         "far-comment-minus": {
             "body": "content: '\\\\f4b1';$0",
@@ -2120,6 +2305,11 @@
             "description": "content",
             "prefix": "far-compress-alt"
         },
+        "far-compress-arrows-alt": {
+            "body": "content: '\\\\f78c';$0",
+            "description": "content",
+            "prefix": "far-compress-arrows-alt"
+        },
         "far-compress-wide": {
             "body": "content: '\\\\f326';$0",
             "description": "content",
@@ -2129,6 +2319,11 @@
             "body": "content: '\\\\f562';$0",
             "description": "content",
             "prefix": "far-concierge-bell"
+        },
+        "far-confluence": {
+            "body": "content: '\\\\f78d';$0",
+            "description": "content",
+            "prefix": "far-confluence"
         },
         "far-connectdevelop": {
             "body": "content: '\\\\f20e';$0",
@@ -2290,6 +2485,11 @@
             "description": "content",
             "prefix": "far-critical-role"
         },
+        "far-croissant": {
+            "body": "content: '\\\\f7f6';$0",
+            "description": "content",
+            "prefix": "far-croissant"
+        },
         "far-crop": {
             "body": "content: '\\\\f125';$0",
             "description": "content",
@@ -2319,6 +2519,16 @@
             "body": "content: '\\\\f521';$0",
             "description": "content",
             "prefix": "far-crown"
+        },
+        "far-crutch": {
+            "body": "content: '\\\\f7f7';$0",
+            "description": "content",
+            "prefix": "far-crutch"
+        },
+        "far-crutches": {
+            "body": "content: '\\\\f7f8';$0",
+            "description": "content",
+            "prefix": "far-crutches"
         },
         "far-css3": {
             "body": "content: '\\\\f13c';$0",
@@ -2385,6 +2595,21 @@
             "description": "content",
             "prefix": "far-deaf"
         },
+        "far-debug": {
+            "body": "content: '\\\\f7f9';$0",
+            "description": "content",
+            "prefix": "far-debug"
+        },
+        "far-deer": {
+            "body": "content: '\\\\f78e';$0",
+            "description": "content",
+            "prefix": "far-deer"
+        },
+        "far-deer-rudolph": {
+            "body": "content: '\\\\f78f';$0",
+            "description": "content",
+            "prefix": "far-deer-rudolph"
+        },
         "far-delicious": {
             "body": "content: '\\\\f1a5';$0",
             "description": "content",
@@ -2435,6 +2660,11 @@
             "description": "content",
             "prefix": "far-dharmachakra"
         },
+        "far-dhl": {
+            "body": "content: '\\\\f790';$0",
+            "description": "content",
+            "prefix": "far-dhl"
+        },
         "far-diagnoses": {
             "body": "content: '\\\\f470';$0",
             "description": "content",
@@ -2444,6 +2674,11 @@
             "body": "content: '\\\\f219';$0",
             "description": "content",
             "prefix": "far-diamond"
+        },
+        "far-diaspora": {
+            "body": "content: '\\\\f791';$0",
+            "description": "content",
+            "prefix": "far-diaspora"
         },
         "far-dice": {
             "body": "content: '\\\\f522';$0",
@@ -2544,6 +2779,11 @@
             "body": "content: '\\\\f393';$0",
             "description": "content",
             "prefix": "far-discourse"
+        },
+        "far-disease": {
+            "body": "content: '\\\\f7fa';$0",
+            "description": "content",
+            "prefix": "far-disease"
         },
         "far-divide": {
             "body": "content: '\\\\f529';$0",
@@ -2675,6 +2915,11 @@
             "description": "content",
             "prefix": "far-draw-square"
         },
+        "far-dreidel": {
+            "body": "content: '\\\\f792';$0",
+            "description": "content",
+            "prefix": "far-dreidel"
+        },
         "far-dribbble": {
             "body": "content: '\\\\f17d';$0",
             "description": "content",
@@ -2725,6 +2970,16 @@
             "description": "content",
             "prefix": "far-dumbbell"
         },
+        "far-dumpster": {
+            "body": "content: '\\\\f793';$0",
+            "description": "content",
+            "prefix": "far-dumpster"
+        },
+        "far-dumpster-fire": {
+            "body": "content: '\\\\f794';$0",
+            "description": "content",
+            "prefix": "far-dumpster-fire"
+        },
         "far-dungeon": {
             "body": "content: '\\\\f6d9';$0",
             "description": "content",
@@ -2739,6 +2994,11 @@
             "body": "content: '\\\\f5f0';$0",
             "description": "content",
             "prefix": "far-ear"
+        },
+        "far-ear-muffs": {
+            "body": "content: '\\\\f795';$0",
+            "description": "content",
+            "prefix": "far-ear-muffs"
         },
         "far-earlybirds": {
             "body": "content: '\\\\f39a';$0",
@@ -2769,6 +3029,16 @@
             "body": "content: '\\\\f044';$0",
             "description": "content",
             "prefix": "far-edit"
+        },
+        "far-egg": {
+            "body": "content: '\\\\f7fb';$0",
+            "description": "content",
+            "prefix": "far-egg"
+        },
+        "far-egg-fried": {
+            "body": "content: '\\\\f7fc';$0",
+            "description": "content",
+            "prefix": "far-egg-fried"
         },
         "far-eject": {
             "body": "content: '\\\\f052';$0",
@@ -2879,6 +3149,11 @@
             "body": "content: '\\\\f42e';$0",
             "description": "content",
             "prefix": "far-ethereum"
+        },
+        "far-ethernet": {
+            "body": "content: '\\\\f796';$0",
+            "description": "content",
+            "prefix": "far-ethernet"
         },
         "far-etsy": {
             "body": "content: '\\\\f2d7';$0",
@@ -3040,6 +3315,16 @@
             "description": "content",
             "prefix": "far-feather-alt"
         },
+        "far-fedex": {
+            "body": "content: '\\\\f797';$0",
+            "description": "content",
+            "prefix": "far-fedex"
+        },
+        "far-fedora": {
+            "body": "content: '\\\\f798';$0",
+            "description": "content",
+            "prefix": "far-fedora"
+        },
         "far-female": {
             "body": "content: '\\\\f182';$0",
             "description": "content",
@@ -3054,6 +3339,11 @@
             "body": "content: '\\\\f0fb';$0",
             "description": "content",
             "prefix": "far-fighter-jet"
+        },
+        "far-figma": {
+            "body": "content: '\\\\f799';$0",
+            "description": "content",
+            "prefix": "far-figma"
         },
         "far-file": {
             "body": "content: '\\\\f15b';$0",
@@ -3225,6 +3515,11 @@
             "description": "content",
             "prefix": "far-file-word"
         },
+        "far-files-medical": {
+            "body": "content: '\\\\f7fd';$0",
+            "description": "content",
+            "prefix": "far-files-medical"
+        },
         "far-fill": {
             "body": "content: '\\\\f575';$0",
             "description": "content",
@@ -3260,6 +3555,11 @@
             "description": "content",
             "prefix": "far-fire"
         },
+        "far-fire-alt": {
+            "body": "content: '\\\\f7e4';$0",
+            "description": "content",
+            "prefix": "far-fire-alt"
+        },
         "far-fire-extinguisher": {
             "body": "content: '\\\\f134';$0",
             "description": "content",
@@ -3274,6 +3574,11 @@
             "body": "content: '\\\\f269';$0",
             "description": "content",
             "prefix": "far-firefox"
+        },
+        "far-fireplace": {
+            "body": "content: '\\\\f79a';$0",
+            "description": "content",
+            "prefix": "far-fireplace"
         },
         "far-first-aid": {
             "body": "content: '\\\\f479';$0",
@@ -3299,6 +3604,11 @@
             "body": "content: '\\\\f578';$0",
             "description": "content",
             "prefix": "far-fish"
+        },
+        "far-fish-cooked": {
+            "body": "content: '\\\\f7fe';$0",
+            "description": "content",
+            "prefix": "far-fish-cooked"
         },
         "far-fist-raised": {
             "body": "content: '\\\\f6de';$0",
@@ -3355,6 +3665,21 @@
             "description": "content",
             "prefix": "far-flipboard"
         },
+        "far-flower": {
+            "body": "content: '\\\\f7ff';$0",
+            "description": "content",
+            "prefix": "far-flower"
+        },
+        "far-flower-daffodil": {
+            "body": "content: '\\\\f800';$0",
+            "description": "content",
+            "prefix": "far-flower-daffodil"
+        },
+        "far-flower-tulip": {
+            "body": "content: '\\\\f801';$0",
+            "description": "content",
+            "prefix": "far-flower-tulip"
+        },
         "far-flushed": {
             "body": "content: '\\\\f579';$0",
             "description": "content",
@@ -3394,6 +3719,11 @@
             "body": "content: '\\\\f65f';$0",
             "description": "content",
             "prefix": "far-folder-times"
+        },
+        "far-folder-tree": {
+            "body": "content: '\\\\f802';$0",
+            "description": "content",
+            "prefix": "far-folder-tree"
         },
         "far-folders": {
             "body": "content: '\\\\f660';$0",
@@ -3490,10 +3820,20 @@
             "description": "content",
             "prefix": "far-freebsd"
         },
+        "far-french-fries": {
+            "body": "content: '\\\\f803';$0",
+            "description": "content",
+            "prefix": "far-french-fries"
+        },
         "far-frog": {
             "body": "content: '\\\\f52e';$0",
             "description": "content",
             "prefix": "far-frog"
+        },
+        "far-frosty-head": {
+            "body": "content: '\\\\f79b';$0",
+            "description": "content",
+            "prefix": "far-frosty-head"
         },
         "far-frown": {
             "body": "content: '\\\\f119';$0",
@@ -3595,6 +3935,16 @@
             "description": "content",
             "prefix": "far-gift-card"
         },
+        "far-gifts": {
+            "body": "content: '\\\\f79c';$0",
+            "description": "content",
+            "prefix": "far-gifts"
+        },
+        "far-gingerbread-man": {
+            "body": "content: '\\\\f79d';$0",
+            "description": "content",
+            "prefix": "far-gingerbread-man"
+        },
         "far-git": {
             "body": "content: '\\\\f1d3';$0",
             "description": "content",
@@ -3635,6 +3985,21 @@
             "description": "content",
             "prefix": "far-gitter"
         },
+        "far-glass": {
+            "body": "content: '\\\\f804';$0",
+            "description": "content",
+            "prefix": "far-glass"
+        },
+        "far-glass-champagne": {
+            "body": "content: '\\\\f79e';$0",
+            "description": "content",
+            "prefix": "far-glass-champagne"
+        },
+        "far-glass-cheers": {
+            "body": "content: '\\\\f79f';$0",
+            "description": "content",
+            "prefix": "far-glass-cheers"
+        },
         "far-glass-martini": {
             "body": "content: '\\\\f000';$0",
             "description": "content",
@@ -3644,6 +4009,16 @@
             "body": "content: '\\\\f57b';$0",
             "description": "content",
             "prefix": "far-glass-martini-alt"
+        },
+        "far-glass-whiskey": {
+            "body": "content: '\\\\f7a0';$0",
+            "description": "content",
+            "prefix": "far-glass-whiskey"
+        },
+        "far-glass-whiskey-rocks": {
+            "body": "content: '\\\\f7a1';$0",
+            "description": "content",
+            "prefix": "far-glass-whiskey-rocks"
         },
         "far-glasses": {
             "body": "content: '\\\\f530';$0",
@@ -3684,6 +4059,16 @@
             "body": "content: '\\\\f57e';$0",
             "description": "content",
             "prefix": "far-globe-asia"
+        },
+        "far-globe-europe": {
+            "body": "content: '\\\\f7a2';$0",
+            "description": "content",
+            "prefix": "far-globe-europe"
+        },
+        "far-globe-snow": {
+            "body": "content: '\\\\f7a3';$0",
+            "description": "content",
+            "prefix": "far-globe-snow"
         },
         "far-globe-stand": {
             "body": "content: '\\\\f5f6';$0",
@@ -3855,6 +4240,16 @@
             "description": "content",
             "prefix": "far-grip-horizontal"
         },
+        "far-grip-lines": {
+            "body": "content: '\\\\f7a4';$0",
+            "description": "content",
+            "prefix": "far-grip-lines"
+        },
+        "far-grip-lines-vertical": {
+            "body": "content: '\\\\f7a5';$0",
+            "description": "content",
+            "prefix": "far-grip-lines-vertical"
+        },
         "far-grip-vertical": {
             "body": "content: '\\\\f58e';$0",
             "description": "content",
@@ -3869,6 +4264,11 @@
             "body": "content: '\\\\f3ad';$0",
             "description": "content",
             "prefix": "far-grunt"
+        },
+        "far-guitar": {
+            "body": "content: '\\\\f7a6';$0",
+            "description": "content",
+            "prefix": "far-guitar"
         },
         "far-gulp": {
             "body": "content: '\\\\f3ae';$0",
@@ -3909,6 +4309,11 @@
             "body": "content: '\\\\f5f7';$0",
             "description": "content",
             "prefix": "far-hackerrank"
+        },
+        "far-hamburger": {
+            "body": "content: '\\\\f805';$0",
+            "description": "content",
+            "prefix": "far-hamburger"
         },
         "far-hammer": {
             "body": "content: '\\\\f6e3';$0",
@@ -3969,6 +4374,11 @@
             "body": "content: '\\\\f258';$0",
             "description": "content",
             "prefix": "far-hand-lizard"
+        },
+        "far-hand-middle-finger": {
+            "body": "content: '\\\\f806';$0",
+            "description": "content",
+            "prefix": "far-hand-middle-finger"
         },
         "far-hand-paper": {
             "body": "content: '\\\\f256';$0",
@@ -4060,10 +4470,25 @@
             "description": "content",
             "prefix": "far-hanukiah"
         },
+        "far-hard-hat": {
+            "body": "content: '\\\\f807';$0",
+            "description": "content",
+            "prefix": "far-hard-hat"
+        },
         "far-hashtag": {
             "body": "content: '\\\\f292';$0",
             "description": "content",
             "prefix": "far-hashtag"
+        },
+        "far-hat-santa": {
+            "body": "content: '\\\\f7a7';$0",
+            "description": "content",
+            "prefix": "far-hat-santa"
+        },
+        "far-hat-winter": {
+            "body": "content: '\\\\f7a8';$0",
+            "description": "content",
+            "prefix": "far-hat-winter"
         },
         "far-hat-witch": {
             "body": "content: '\\\\f6e7';$0",
@@ -4089,6 +4514,16 @@
             "body": "content: '\\\\f6e9';$0",
             "description": "content",
             "prefix": "far-head-side"
+        },
+        "far-head-side-brain": {
+            "body": "content: '\\\\f808';$0",
+            "description": "content",
+            "prefix": "far-head-side-brain"
+        },
+        "far-head-side-medical": {
+            "body": "content: '\\\\f809';$0",
+            "description": "content",
+            "prefix": "far-head-side-medical"
         },
         "far-head-vr": {
             "body": "content: '\\\\f6ea';$0",
@@ -4119,6 +4554,11 @@
             "body": "content: '\\\\f004';$0",
             "description": "content",
             "prefix": "far-heart"
+        },
+        "far-heart-broken": {
+            "body": "content: '\\\\f7a9';$0",
+            "description": "content",
+            "prefix": "far-heart-broken"
         },
         "far-heart-circle": {
             "body": "content: '\\\\f4c7';$0",
@@ -4200,15 +4640,35 @@
             "description": "content",
             "prefix": "far-hockey-sticks"
         },
+        "far-holly-berry": {
+            "body": "content: '\\\\f7aa';$0",
+            "description": "content",
+            "prefix": "far-holly-berry"
+        },
         "far-home": {
             "body": "content: '\\\\f015';$0",
             "description": "content",
             "prefix": "far-home"
         },
+        "far-home-alt": {
+            "body": "content: '\\\\f80a';$0",
+            "description": "content",
+            "prefix": "far-home-alt"
+        },
         "far-home-heart": {
             "body": "content: '\\\\f4c9';$0",
             "description": "content",
             "prefix": "far-home-heart"
+        },
+        "far-home-lg": {
+            "body": "content: '\\\\f80b';$0",
+            "description": "content",
+            "prefix": "far-home-lg"
+        },
+        "far-home-lg-alt": {
+            "body": "content: '\\\\f80c';$0",
+            "description": "content",
+            "prefix": "far-home-lg-alt"
         },
         "far-hood-cloak": {
             "body": "content: '\\\\f6ef';$0",
@@ -4230,6 +4690,11 @@
             "description": "content",
             "prefix": "far-horse"
         },
+        "far-horse-head": {
+            "body": "content: '\\\\f7ab';$0",
+            "description": "content",
+            "prefix": "far-horse-head"
+        },
         "far-hospital": {
             "body": "content: '\\\\f0f8';$0",
             "description": "content",
@@ -4245,10 +4710,25 @@
             "description": "content",
             "prefix": "far-hospital-symbol"
         },
+        "far-hospital-user": {
+            "body": "content: '\\\\f80d';$0",
+            "description": "content",
+            "prefix": "far-hospital-user"
+        },
+        "far-hospitals": {
+            "body": "content: '\\\\f80e';$0",
+            "description": "content",
+            "prefix": "far-hospitals"
+        },
         "far-hot-tub": {
             "body": "content: '\\\\f593';$0",
             "description": "content",
             "prefix": "far-hot-tub"
+        },
+        "far-hotdog": {
+            "body": "content: '\\\\f80f';$0",
+            "description": "content",
+            "prefix": "far-hotdog"
         },
         "far-hotel": {
             "body": "content: '\\\\f594';$0",
@@ -4325,6 +4805,21 @@
             "description": "content",
             "prefix": "far-i-cursor"
         },
+        "far-ice-cream": {
+            "body": "content: '\\\\f810';$0",
+            "description": "content",
+            "prefix": "far-ice-cream"
+        },
+        "far-ice-skate": {
+            "body": "content: '\\\\f7ac';$0",
+            "description": "content",
+            "prefix": "far-ice-skate"
+        },
+        "far-icicles": {
+            "body": "content: '\\\\f7ad';$0",
+            "description": "content",
+            "prefix": "far-icicles"
+        },
         "far-id-badge": {
             "body": "content: '\\\\f2c1';$0",
             "description": "content",
@@ -4339,6 +4834,11 @@
             "body": "content: '\\\\f47f';$0",
             "description": "content",
             "prefix": "far-id-card-alt"
+        },
+        "far-igloo": {
+            "body": "content: '\\\\f7ae';$0",
+            "description": "content",
+            "prefix": "far-igloo"
         },
         "far-image": {
             "body": "content: '\\\\f03e';$0",
@@ -4420,6 +4920,11 @@
             "description": "content",
             "prefix": "far-integral"
         },
+        "far-intercom": {
+            "body": "content: '\\\\f7af';$0",
+            "description": "content",
+            "prefix": "far-intercom"
+        },
         "far-internet-explorer": {
             "body": "content: '\\\\f26b';$0",
             "description": "content",
@@ -4435,10 +4940,20 @@
             "description": "content",
             "prefix": "far-inventory"
         },
+        "far-invision": {
+            "body": "content: '\\\\f7b0';$0",
+            "description": "content",
+            "prefix": "far-invision"
+        },
         "far-ioxhost": {
             "body": "content: '\\\\f208';$0",
             "description": "content",
             "prefix": "far-ioxhost"
+        },
+        "far-island-tropical": {
+            "body": "content: '\\\\f811';$0",
+            "description": "content",
+            "prefix": "far-island-tropical"
         },
         "far-italic": {
             "body": "content: '\\\\f033';$0",
@@ -4479,6 +4994,11 @@
             "body": "content: '\\\\f3b6';$0",
             "description": "content",
             "prefix": "far-jenkins"
+        },
+        "far-jira": {
+            "body": "content: '\\\\f7b1';$0",
+            "description": "content",
+            "prefix": "far-jira"
         },
         "far-joget": {
             "body": "content: '\\\\f3b7';$0",
@@ -4645,6 +5165,11 @@
             "description": "content",
             "prefix": "far-laptop-code"
         },
+        "far-laptop-medical": {
+            "body": "content: '\\\\f812';$0",
+            "description": "content",
+            "prefix": "far-laptop-medical"
+        },
         "far-laravel": {
             "body": "content: '\\\\f3bd';$0",
             "description": "content",
@@ -4789,6 +5314,11 @@
             "body": "content: '\\\\f673';$0",
             "description": "content",
             "prefix": "far-lightbulb-slash"
+        },
+        "far-lights-holiday": {
+            "body": "content: '\\\\f7b2';$0",
+            "description": "content",
+            "prefix": "far-lights-holiday"
         },
         "far-line": {
             "body": "content: '\\\\f3c0';$0",
@@ -4985,6 +5515,11 @@
             "description": "content",
             "prefix": "far-mail-bulk"
         },
+        "far-mailbox": {
+            "body": "content: '\\\\f813';$0",
+            "description": "content",
+            "prefix": "far-mailbox"
+        },
         "far-mailchimp": {
             "body": "content: '\\\\f59e';$0",
             "description": "content",
@@ -5140,6 +5675,11 @@
             "description": "content",
             "prefix": "far-maxcdn"
         },
+        "far-meat": {
+            "body": "content: '\\\\f814';$0",
+            "description": "content",
+            "prefix": "far-meat"
+        },
         "far-medal": {
             "body": "content: '\\\\f5a2';$0",
             "description": "content",
@@ -5204,6 +5744,11 @@
             "body": "content: '\\\\f538';$0",
             "description": "content",
             "prefix": "far-memory"
+        },
+        "far-mendeley": {
+            "body": "content: '\\\\f7b3';$0",
+            "description": "content",
+            "prefix": "far-mendeley"
         },
         "far-menorah": {
             "body": "content: '\\\\f676';$0",
@@ -5284,6 +5829,16 @@
             "body": "content: '\\\\f146';$0",
             "description": "content",
             "prefix": "far-minus-square"
+        },
+        "far-mistletoe": {
+            "body": "content: '\\\\f7b4';$0",
+            "description": "content",
+            "prefix": "far-mistletoe"
+        },
+        "far-mitten": {
+            "body": "content: '\\\\f7b5';$0",
+            "description": "content",
+            "prefix": "far-mitten"
         },
         "far-mix": {
             "body": "content: '\\\\f3cb';$0",
@@ -5419,6 +5974,16 @@
             "body": "content: '\\\\f245';$0",
             "description": "content",
             "prefix": "far-mouse-pointer"
+        },
+        "far-mug-hot": {
+            "body": "content: '\\\\f7b6';$0",
+            "description": "content",
+            "prefix": "far-mug-hot"
+        },
+        "far-mug-marshmallows": {
+            "body": "content: '\\\\f7b7';$0",
+            "description": "content",
+            "prefix": "far-mug-marshmallows"
         },
         "far-music": {
             "body": "content: '\\\\f001';$0",
@@ -5570,6 +6135,11 @@
             "description": "content",
             "prefix": "far-optin-monster"
         },
+        "far-ornament": {
+            "body": "content: '\\\\f7b8';$0",
+            "description": "content",
+            "prefix": "far-ornament"
+        },
         "far-osi": {
             "body": "content: '\\\\f41a';$0",
             "description": "content",
@@ -5594,6 +6164,11 @@
             "body": "content: '\\\\f18c';$0",
             "description": "content",
             "prefix": "far-pagelines"
+        },
+        "far-pager": {
+            "body": "content: '\\\\f815';$0",
+            "description": "content",
+            "prefix": "far-pager"
         },
         "far-paint-brush": {
             "body": "content: '\\\\f1fc';$0",
@@ -5790,6 +6365,11 @@
             "description": "content",
             "prefix": "far-people-carry"
         },
+        "far-pepper-hot": {
+            "body": "content: '\\\\f816';$0",
+            "description": "content",
+            "prefix": "far-pepper-hot"
+        },
         "far-percent": {
             "body": "content: '\\\\f295';$0",
             "description": "content",
@@ -5940,6 +6520,16 @@
             "description": "content",
             "prefix": "far-pinterest-square"
         },
+        "far-pizza": {
+            "body": "content: '\\\\f817';$0",
+            "description": "content",
+            "prefix": "far-pizza"
+        },
+        "far-pizza-slice": {
+            "body": "content: '\\\\f818';$0",
+            "description": "content",
+            "prefix": "far-pizza-slice"
+        },
         "far-place-of-worship": {
             "body": "content: '\\\\f67f';$0",
             "description": "content",
@@ -6055,6 +6645,11 @@
             "description": "content",
             "prefix": "far-poop"
         },
+        "far-popcorn": {
+            "body": "content: '\\\\f819';$0",
+            "description": "content",
+            "prefix": "far-popcorn"
+        },
         "far-portrait": {
             "body": "content: '\\\\f3e0';$0",
             "description": "content",
@@ -6104,6 +6699,11 @@
             "body": "content: '\\\\f02f';$0",
             "description": "content",
             "prefix": "far-print"
+        },
+        "far-print-search": {
+            "body": "content: '\\\\f81a';$0",
+            "description": "content",
+            "prefix": "far-print-search"
         },
         "far-print-slash": {
             "body": "content: '\\\\f686';$0",
@@ -6220,6 +6820,16 @@
             "description": "content",
             "prefix": "far-racquet"
         },
+        "far-radiation": {
+            "body": "content: '\\\\f7b9';$0",
+            "description": "content",
+            "prefix": "far-radiation"
+        },
+        "far-radiation-alt": {
+            "body": "content: '\\\\f7ba';$0",
+            "description": "content",
+            "prefix": "far-radiation-alt"
+        },
         "far-rainbow": {
             "body": "content: '\\\\f75b';$0",
             "description": "content",
@@ -6244,6 +6854,11 @@
             "body": "content: '\\\\f074';$0",
             "description": "content",
             "prefix": "far-random"
+        },
+        "far-raspberry-pi": {
+            "body": "content: '\\\\f7bb';$0",
+            "description": "content",
+            "prefix": "far-raspberry-pi"
         },
         "far-ravelry": {
             "body": "content: '\\\\f2d9';$0",
@@ -6315,6 +6930,11 @@
             "description": "content",
             "prefix": "far-reddit-square"
         },
+        "far-redhat": {
+            "body": "content: '\\\\f7bc';$0",
+            "description": "content",
+            "prefix": "far-redhat"
+        },
         "far-redo": {
             "body": "content: '\\\\f01e';$0",
             "description": "content",
@@ -6385,6 +7005,11 @@
             "description": "content",
             "prefix": "far-resolving"
         },
+        "far-restroom": {
+            "body": "content: '\\\\f7bd';$0",
+            "description": "content",
+            "prefix": "far-restroom"
+        },
         "far-retweet": {
             "body": "content: '\\\\f079';$0",
             "description": "content",
@@ -6409,6 +7034,11 @@
             "body": "content: '\\\\f70b';$0",
             "description": "content",
             "prefix": "far-ring"
+        },
+        "far-rings-wedding": {
+            "body": "content: '\\\\f81b';$0",
+            "description": "content",
+            "prefix": "far-rings-wedding"
         },
         "far-road": {
             "body": "content: '\\\\f018';$0",
@@ -6500,6 +7130,21 @@
             "description": "content",
             "prefix": "far-rupee-sign"
         },
+        "far-rv": {
+            "body": "content: '\\\\f7be';$0",
+            "description": "content",
+            "prefix": "far-rv"
+        },
+        "far-sack": {
+            "body": "content: '\\\\f81c';$0",
+            "description": "content",
+            "prefix": "far-sack"
+        },
+        "far-sack-dollar": {
+            "body": "content: '\\\\f81d';$0",
+            "description": "content",
+            "prefix": "far-sack-dollar"
+        },
         "far-sad-cry": {
             "body": "content: '\\\\f5b3';$0",
             "description": "content",
@@ -6515,10 +7160,35 @@
             "description": "content",
             "prefix": "far-safari"
         },
+        "far-salad": {
+            "body": "content: '\\\\f81e';$0",
+            "description": "content",
+            "prefix": "far-salad"
+        },
+        "far-sandwich": {
+            "body": "content: '\\\\f81f';$0",
+            "description": "content",
+            "prefix": "far-sandwich"
+        },
         "far-sass": {
             "body": "content: '\\\\f41e';$0",
             "description": "content",
             "prefix": "far-sass"
+        },
+        "far-satellite": {
+            "body": "content: '\\\\f7bf';$0",
+            "description": "content",
+            "prefix": "far-satellite"
+        },
+        "far-satellite-dish": {
+            "body": "content: '\\\\f7c0';$0",
+            "description": "content",
+            "prefix": "far-satellite-dish"
+        },
+        "far-sausage": {
+            "body": "content: '\\\\f820';$0",
+            "description": "content",
+            "prefix": "far-sausage"
         },
         "far-save": {
             "body": "content: '\\\\f0c7';$0",
@@ -6554,6 +7224,11 @@
             "body": "content: '\\\\f70d';$0",
             "description": "content",
             "prefix": "far-scarecrow"
+        },
+        "far-scarf": {
+            "body": "content: '\\\\f7c1';$0",
+            "description": "content",
+            "prefix": "far-scarf"
         },
         "far-schlix": {
             "body": "content: '\\\\f3ea';$0",
@@ -6594,6 +7269,11 @@
             "body": "content: '\\\\f710';$0",
             "description": "content",
             "prefix": "far-scythe"
+        },
+        "far-sd-card": {
+            "body": "content: '\\\\f7c2';$0",
+            "description": "content",
+            "prefix": "far-sd-card"
         },
         "far-search": {
             "body": "content: '\\\\f002';$0",
@@ -6730,6 +7410,11 @@
             "description": "content",
             "prefix": "far-shirtsinbulk"
         },
+        "far-shish-kebab": {
+            "body": "content: '\\\\f821';$0",
+            "description": "content",
+            "prefix": "far-shish-kebab"
+        },
         "far-shoe-prints": {
             "body": "content: '\\\\f54b';$0",
             "description": "content",
@@ -6760,6 +7445,11 @@
             "description": "content",
             "prefix": "far-shovel"
         },
+        "far-shovel-snow": {
+            "body": "content: '\\\\f7c3';$0",
+            "description": "content",
+            "prefix": "far-shovel-snow"
+        },
         "far-shower": {
             "body": "content: '\\\\f2cc';$0",
             "description": "content",
@@ -6779,6 +7469,11 @@
             "body": "content: '\\\\f45b';$0",
             "description": "content",
             "prefix": "far-shuttlecock"
+        },
+        "far-sickle": {
+            "body": "content: '\\\\f822';$0",
+            "description": "content",
+            "prefix": "far-sickle"
         },
         "far-sigma": {
             "body": "content: '\\\\f68b';$0",
@@ -6875,6 +7570,11 @@
             "description": "content",
             "prefix": "far-signature"
         },
+        "far-sim-card": {
+            "body": "content: '\\\\f7c4';$0",
+            "description": "content",
+            "prefix": "far-sim-card"
+        },
         "far-simplybuilt": {
             "body": "content: '\\\\f215';$0",
             "description": "content",
@@ -6895,10 +7595,40 @@
             "description": "content",
             "prefix": "far-sith"
         },
+        "far-skating": {
+            "body": "content: '\\\\f7c5';$0",
+            "description": "content",
+            "prefix": "far-skating"
+        },
         "far-skeleton": {
             "body": "content: '\\\\f620';$0",
             "description": "content",
             "prefix": "far-skeleton"
+        },
+        "far-sketch": {
+            "body": "content: '\\\\f7c6';$0",
+            "description": "content",
+            "prefix": "far-sketch"
+        },
+        "far-ski-jump": {
+            "body": "content: '\\\\f7c7';$0",
+            "description": "content",
+            "prefix": "far-ski-jump"
+        },
+        "far-ski-lift": {
+            "body": "content: '\\\\f7c8';$0",
+            "description": "content",
+            "prefix": "far-ski-lift"
+        },
+        "far-skiing": {
+            "body": "content: '\\\\f7c9';$0",
+            "description": "content",
+            "prefix": "far-skiing"
+        },
+        "far-skiing-nordic": {
+            "body": "content: '\\\\f7ca';$0",
+            "description": "content",
+            "prefix": "far-skiing-nordic"
         },
         "far-skull": {
             "body": "content: '\\\\f54c';$0",
@@ -6934,6 +7664,16 @@
             "body": "content: '\\\\f715';$0",
             "description": "content",
             "prefix": "far-slash"
+        },
+        "far-sledding": {
+            "body": "content: '\\\\f7cb';$0",
+            "description": "content",
+            "prefix": "far-sledding"
+        },
+        "far-sleigh": {
+            "body": "content: '\\\\f7cc';$0",
+            "description": "content",
+            "prefix": "far-sleigh"
         },
         "far-sliders-h": {
             "body": "content: '\\\\f1de';$0",
@@ -7000,6 +7740,11 @@
             "description": "content",
             "prefix": "far-smoking-ban"
         },
+        "far-sms": {
+            "body": "content: '\\\\f7cd';$0",
+            "description": "content",
+            "prefix": "far-sms"
+        },
         "far-snake": {
             "body": "content: '\\\\f716';$0",
             "description": "content",
@@ -7025,10 +7770,35 @@
             "description": "content",
             "prefix": "far-snow-blowing"
         },
+        "far-snowboarding": {
+            "body": "content: '\\\\f7ce';$0",
+            "description": "content",
+            "prefix": "far-snowboarding"
+        },
         "far-snowflake": {
             "body": "content: '\\\\f2dc';$0",
             "description": "content",
             "prefix": "far-snowflake"
+        },
+        "far-snowflakes": {
+            "body": "content: '\\\\f7cf';$0",
+            "description": "content",
+            "prefix": "far-snowflakes"
+        },
+        "far-snowman": {
+            "body": "content: '\\\\f7d0';$0",
+            "description": "content",
+            "prefix": "far-snowman"
+        },
+        "far-snowmobile": {
+            "body": "content: '\\\\f7d1';$0",
+            "description": "content",
+            "prefix": "far-snowmobile"
+        },
+        "far-snowplow": {
+            "body": "content: '\\\\f7d2';$0",
+            "description": "content",
+            "prefix": "far-snowplow"
         },
         "far-socks": {
             "body": "content: '\\\\f696';$0",
@@ -7089,6 +7859,16 @@
             "body": "content: '\\\\f1be';$0",
             "description": "content",
             "prefix": "far-soundcloud"
+        },
+        "far-soup": {
+            "body": "content: '\\\\f823';$0",
+            "description": "content",
+            "prefix": "far-soup"
+        },
+        "far-sourcetree": {
+            "body": "content: '\\\\f7d3';$0",
+            "description": "content",
+            "prefix": "far-sourcetree"
         },
         "far-spa": {
             "body": "content: '\\\\f5bb';$0",
@@ -7210,6 +7990,11 @@
             "description": "content",
             "prefix": "far-star-and-crescent"
         },
+        "far-star-christmas": {
+            "body": "content: '\\\\f7d4';$0",
+            "description": "content",
+            "prefix": "far-star-christmas"
+        },
         "far-star-exclamation": {
             "body": "content: '\\\\f2f3';$0",
             "description": "content",
@@ -7244,6 +8029,11 @@
             "body": "content: '\\\\f3f5';$0",
             "description": "content",
             "prefix": "far-staylinked"
+        },
+        "far-steak": {
+            "body": "content: '\\\\f824';$0",
+            "description": "content",
+            "prefix": "far-steak"
         },
         "far-steam": {
             "body": "content: '\\\\f1b6';$0",
@@ -7290,6 +8080,11 @@
             "description": "content",
             "prefix": "far-sticky-note"
         },
+        "far-stocking": {
+            "body": "content: '\\\\f7d5';$0",
+            "description": "content",
+            "prefix": "far-stocking"
+        },
         "far-stomach": {
             "body": "content: '\\\\f623';$0",
             "description": "content",
@@ -7334,6 +8129,11 @@
             "body": "content: '\\\\f21d';$0",
             "description": "content",
             "prefix": "far-street-view"
+        },
+        "far-stretcher": {
+            "body": "content: '\\\\f825';$0",
+            "description": "content",
+            "prefix": "far-stretcher"
         },
         "far-strikethrough": {
             "body": "content: '\\\\f0cc';$0",
@@ -7439,6 +8239,11 @@
             "body": "content: '\\\\f5c2';$0",
             "description": "content",
             "prefix": "far-surprise"
+        },
+        "far-suse": {
+            "body": "content: '\\\\f7d6';$0",
+            "description": "content",
+            "prefix": "far-suse"
         },
         "far-swatchbook": {
             "body": "content: '\\\\f5c3';$0",
@@ -7585,6 +8390,11 @@
             "description": "content",
             "prefix": "far-tachometer-slowest"
         },
+        "far-taco": {
+            "body": "content: '\\\\f826';$0",
+            "description": "content",
+            "prefix": "far-taco"
+        },
         "far-tag": {
             "body": "content: '\\\\f02b';$0",
             "description": "content",
@@ -7600,6 +8410,11 @@
             "description": "content",
             "prefix": "far-tally"
         },
+        "far-tanakh": {
+            "body": "content: '\\\\f827';$0",
+            "description": "content",
+            "prefix": "far-tanakh"
+        },
         "far-tape": {
             "body": "content: '\\\\f4db';$0",
             "description": "content",
@@ -7609,6 +8424,11 @@
             "body": "content: '\\\\f0ae';$0",
             "description": "content",
             "prefix": "far-tasks"
+        },
+        "far-tasks-alt": {
+            "body": "content: '\\\\f828';$0",
+            "description": "content",
+            "prefix": "far-tasks-alt"
         },
         "far-taxi": {
             "body": "content: '\\\\f1ba';$0",
@@ -7664,6 +8484,11 @@
             "body": "content: '\\\\f1d5';$0",
             "description": "content",
             "prefix": "far-tencent-weibo"
+        },
+        "far-tenge": {
+            "body": "content: '\\\\f7d7';$0",
+            "description": "content",
+            "prefix": "far-tenge"
         },
         "far-tennis-ball": {
             "body": "content: '\\\\f45e';$0",
@@ -7875,6 +8700,11 @@
             "description": "content",
             "prefix": "far-toggle-on"
         },
+        "far-toilet": {
+            "body": "content: '\\\\f7d8';$0",
+            "description": "content",
+            "prefix": "far-toilet"
+        },
         "far-toilet-paper": {
             "body": "content: '\\\\f71e';$0",
             "description": "content",
@@ -7899,6 +8729,11 @@
             "body": "content: '\\\\f552';$0",
             "description": "content",
             "prefix": "far-toolbox"
+        },
+        "far-tools": {
+            "body": "content: '\\\\f7d9';$0",
+            "description": "content",
+            "prefix": "far-tools"
         },
         "far-tooth": {
             "body": "content: '\\\\f5c9';$0",
@@ -7970,6 +8805,11 @@
             "description": "content",
             "prefix": "far-train"
         },
+        "far-tram": {
+            "body": "content: '\\\\f7da';$0",
+            "description": "content",
+            "prefix": "far-tram"
+        },
         "far-transgender": {
             "body": "content: '\\\\f224';$0",
             "description": "content",
@@ -7990,6 +8830,16 @@
             "description": "content",
             "prefix": "far-trash-alt"
         },
+        "far-trash-restore": {
+            "body": "content: '\\\\f829';$0",
+            "description": "content",
+            "prefix": "far-trash-restore"
+        },
+        "far-trash-restore-alt": {
+            "body": "content: '\\\\f82a';$0",
+            "description": "content",
+            "prefix": "far-trash-restore-alt"
+        },
         "far-treasure-chest": {
             "body": "content: '\\\\f723';$0",
             "description": "content",
@@ -8004,6 +8854,26 @@
             "body": "content: '\\\\f400';$0",
             "description": "content",
             "prefix": "far-tree-alt"
+        },
+        "far-tree-christmas": {
+            "body": "content: '\\\\f7db';$0",
+            "description": "content",
+            "prefix": "far-tree-christmas"
+        },
+        "far-tree-decorated": {
+            "body": "content: '\\\\f7dc';$0",
+            "description": "content",
+            "prefix": "far-tree-decorated"
+        },
+        "far-tree-large": {
+            "body": "content: '\\\\f7dd';$0",
+            "description": "content",
+            "prefix": "far-tree-large"
+        },
+        "far-tree-palm": {
+            "body": "content: '\\\\f82b';$0",
+            "description": "content",
+            "prefix": "far-tree-palm"
         },
         "far-trees": {
             "body": "content: '\\\\f724';$0",
@@ -8069,6 +8939,11 @@
             "body": "content: '\\\\f63c';$0",
             "description": "content",
             "prefix": "far-truck-pickup"
+        },
+        "far-truck-plow": {
+            "body": "content: '\\\\f7de';$0",
+            "description": "content",
+            "prefix": "far-truck-plow"
         },
         "far-truck-ramp": {
             "body": "content: '\\\\f4e0';$0",
@@ -8139,6 +9014,11 @@
             "body": "content: '\\\\f402';$0",
             "description": "content",
             "prefix": "far-uber"
+        },
+        "far-ubuntu": {
+            "body": "content: '\\\\f7df';$0",
+            "description": "content",
+            "prefix": "far-ubuntu"
         },
         "far-uikit": {
             "body": "content: '\\\\f403';$0",
@@ -8220,6 +9100,11 @@
             "description": "content",
             "prefix": "far-upload"
         },
+        "far-ups": {
+            "body": "content: '\\\\f7e0';$0",
+            "description": "content",
+            "prefix": "far-ups"
+        },
         "far-usb": {
             "body": "content: '\\\\f287';$0",
             "description": "content",
@@ -8300,6 +9185,16 @@
             "description": "content",
             "prefix": "far-user-graduate"
         },
+        "far-user-hard-hat": {
+            "body": "content: '\\\\f82c';$0",
+            "description": "content",
+            "prefix": "far-user-hard-hat"
+        },
+        "far-user-headset": {
+            "body": "content: '\\\\f82d';$0",
+            "description": "content",
+            "prefix": "far-user-headset"
+        },
         "far-user-injured": {
             "body": "content: '\\\\f728';$0",
             "description": "content",
@@ -8315,6 +9210,11 @@
             "description": "content",
             "prefix": "far-user-md"
         },
+        "far-user-md-chat": {
+            "body": "content: '\\\\f82e';$0",
+            "description": "content",
+            "prefix": "far-user-md-chat"
+        },
         "far-user-minus": {
             "body": "content: '\\\\f503';$0",
             "description": "content",
@@ -8324,6 +9224,11 @@
             "body": "content: '\\\\f504';$0",
             "description": "content",
             "prefix": "far-user-ninja"
+        },
+        "far-user-nurse": {
+            "body": "content: '\\\\f82f';$0",
+            "description": "content",
+            "prefix": "far-user-nurse"
         },
         "far-user-plus": {
             "body": "content: '\\\\f234';$0",
@@ -8379,6 +9284,16 @@
             "body": "content: '\\\\f6a5';$0",
             "description": "content",
             "prefix": "far-users-crown"
+        },
+        "far-users-medical": {
+            "body": "content: '\\\\f830';$0",
+            "description": "content",
+            "prefix": "far-users-medical"
+        },
+        "far-usps": {
+            "body": "content: '\\\\f7e1';$0",
+            "description": "content",
+            "prefix": "far-usps"
         },
         "far-ussunnah": {
             "body": "content: '\\\\f407';$0",
@@ -8580,6 +9495,11 @@
             "description": "content",
             "prefix": "far-vuejs"
         },
+        "far-walker": {
+            "body": "content: '\\\\f831';$0",
+            "description": "content",
+            "prefix": "far-walker"
+        },
         "far-walking": {
             "body": "content: '\\\\f554';$0",
             "description": "content",
@@ -8634,6 +9554,16 @@
             "body": "content: '\\\\f775';$0",
             "description": "content",
             "prefix": "far-water-rise"
+        },
+        "far-webcam": {
+            "body": "content: '\\\\f832';$0",
+            "description": "content",
+            "prefix": "far-webcam"
+        },
+        "far-webcam-slash": {
+            "body": "content: '\\\\f833';$0",
+            "description": "content",
+            "prefix": "far-webcam-slash"
         },
         "far-weebly": {
             "body": "content: '\\\\f5cc';$0",
@@ -8835,6 +9765,11 @@
             "description": "content",
             "prefix": "far-wpressr"
         },
+        "far-wreath": {
+            "body": "content: '\\\\f7e2';$0",
+            "description": "content",
+            "prefix": "far-wreath"
+        },
         "far-wrench": {
             "body": "content: '\\\\f0ad';$0",
             "description": "content",
@@ -8879,6 +9814,11 @@
             "body": "content: '\\\\f414';$0",
             "description": "content",
             "prefix": "far-yandex-international"
+        },
+        "far-yarn": {
+            "body": "content: '\\\\f7e3';$0",
+            "description": "content",
+            "prefix": "far-yarn"
         },
         "far-yelp": {
             "body": "content: '\\\\f1e9';$0",
