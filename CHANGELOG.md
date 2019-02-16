@@ -4,6 +4,7 @@
 - bump Material Design Icons to v3.4.93
 - bump OpenWeb Icons to v1.6.0
 - remove CDN snippets
+- update dependencies
 
 # v3.1.4 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.1.4)
 
