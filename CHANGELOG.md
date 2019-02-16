@@ -1,3 +1,10 @@
+# v3.1.5 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.1.5)
+
+- bump Font Awesome Pro to v5.7.2
+- bump Material Design Icons to v3.4.93
+- bump OpenWeb Icons to v1.6.0
+- remove CDN snippets
+
 # v3.1.4 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.1.4)
 
 - fix Font Awesome class names in JSX snippets
