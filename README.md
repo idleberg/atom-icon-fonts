@@ -3,8 +3,7 @@
 [![apm](https://img.shields.io/apm/l/icon-fonts.svg?style=flat-square)](https://atom.io/packages/icon-fonts)
 [![apm](https://img.shields.io/apm/v/icon-fonts.svg?style=flat-square)](https://atom.io/packages/icon-fonts)
 [![apm](https://img.shields.io/apm/dm/icon-fonts.svg?style=flat-square)](https://atom.io/packages/icon-fonts)
-[![Travis](https://img.shields.io/travis/idleberg/atom-icon-fonts.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-icon-fonts)
-[![David](https://img.shields.io/david/dev/idleberg/atom-icon-fonts.svg?style=flat-square)](https://david-dm.org/idleberg/atom-icon-fonts?type=dev)
+[![CircleCI](https://flat.badgen.net/circleci/github/idleberg/atom-icon-fonts)](https://circleci.com/gh/idleberg/atom-icon-fonts)
 
 **Note:** *As of v2.17, this package supports all __Font Awesome v5__ icons. If you need to continue the old __Font Awesome v4__ icons, please install the* [`icon-fonts-legacy`](https://github.com/idleberg/atom-icon-fonts-legacy) *package via `apm`!*
 
@@ -52,7 +51,6 @@ Prefix            | Icon Font                               | Version
 `oi`              | [Open Iconic][oi]                       | 1.1.0
 `openwebicons`    | [OpenWeb Icons][openwebicons]           | 1.6.0
 `pf`              | [PaymentFont][pf]                       | 1.2.5
-`ratchicon`       | [Ratchicons][ratchicon]                 | 2.0.2
 `st`              | [Stack Icons][st]                       | 1.0.0
 `typcn`           | [Typicons][typcn]                       | 2.0.7
 `wi`              | [Weather Icons][wi]                     | 2.0.10
