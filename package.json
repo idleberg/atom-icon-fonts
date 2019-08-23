@@ -33,5 +33,10 @@
     "build": "cd tools && yarn",
     "prepush": "npm test",
     "test": "gulp lint"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run test"
+    }
   }
 }
