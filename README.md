@@ -44,7 +44,6 @@ Prefix            | Icon Font                               | Version
 `icono`           | [Icono][icono]                          | 1.3.0
 `ion`             | [Ionicons][ion]                         | 2.0.1
 `mdi`             | [Material Design Icons][mdi]            | 3.9.96
->>>>>>> b391cf7ec34a00abd13c273d358281fc0fc01873
 `mfg`             | [MFG Labs Iconset][mfg]                 | –
 `mfizz`           | [Font Mfizz][mfizz]                     | 2.4.1
 `mio`             | [Material Design Icons (Official)][mio] | 3.0.1
