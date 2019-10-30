@@ -1,3 +1,8 @@
+# v3.2.1 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.2.1)
+
+- fix: add missing Elusive Icon class prefix
+- bump Font Awesome Pro to v5.11.2
+
 # v3.2.0 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.2.0)
 
 - remove Ratchicons
