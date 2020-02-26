@@ -1,5 +1,13 @@
 # v3.2.1 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.2.1)
 
+- bump Font Awesome Pro to v5.12.1
+- bump Font Logos to v0.12
+- bump Material Design Icons to v4.9.95
+- bump OpenWeb Icons to v1.6.2
+- update dependencies
+
+# v3.2.1 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.2.1)
+
 - fix: add missing Elusive Icon class prefix
 - bump Font Awesome Pro to v5.11.2
 

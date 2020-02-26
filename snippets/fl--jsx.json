@@ -159,6 +159,11 @@
             "body": "<${1:i} className=\"fl-ubuntu-inverse\"></${1:i}>$0",
             "description": "<i>",
             "prefix": "fl-ubuntu-inverse"
+        },
+        "fl-void": {
+            "body": "<${1:i} className=\"fl-void\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "fl-void"
         }
     }
 }
