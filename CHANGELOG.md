@@ -1,4 +1,4 @@
-# v3.2.1 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.2.1)
+# v3.2.2 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.2.2)
 
 - bump Font Awesome Pro to v5.12.1
 - bump Font Logos to v0.12
