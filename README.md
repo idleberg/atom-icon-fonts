@@ -5,8 +5,6 @@
 [![apm](https://img.shields.io/apm/dm/icon-fonts.svg?style=flat-square)](https://atom.io/packages/icon-fonts)
 [![CircleCI](https://flat.badgen.net/circleci/github/idleberg/atom-icon-fonts)](https://circleci.com/gh/idleberg/atom-icon-fonts)
 
-**Note:** *As of v2.17, this package supports all __Font Awesome v5__ icons. If you need to continue the old __Font Awesome v4__ icons, please install the* [`icon-fonts-legacy`](https://github.com/idleberg/atom-icon-fonts-legacy) *package via `apm`!*
-
 Atom snippets for a variety of icon fonts ([see details](https://github.com/idleberg/atom-icon-fonts#prefixes)).
 
 This package is also available for [Sublime Text](https://github.com/idleberg/sublime-icon-fonts) and [Visual Studio Code](https://github.com/idleberg/vscode-icon-fonts).
