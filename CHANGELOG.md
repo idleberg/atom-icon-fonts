@@ -1,3 +1,9 @@
+# v3.2.3 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.2.3)
+
+- bump Font Awesome Pro to v5.13.0
+- bump Material Design Icons to v5.0.45
+- update dependencies
+
 # v3.2.2 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.2.2)
 
 - bump Font Awesome Pro to v5.12.1
