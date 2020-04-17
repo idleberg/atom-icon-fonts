@@ -1,5 +1,5 @@
 {
-  ".text.html": {
+  ".source.svelte, .text.html": {
     "3d_rotation": {
       "body": "<${1:i} className=\"${2:baseline}-3d_rotation$3\"></${1:i}>$0",
       "description": "<i>",

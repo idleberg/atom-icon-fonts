@@ -1,5 +1,5 @@
 {
-    ".text.html": {
+    ".source.svelte, .text.html": {
         "dashicons-admin-appearance": {
             "body": "<${1:span} class=\"dashicons dashicons-admin-appearance\"></${1:span}>$0",
             "description": "<span>",

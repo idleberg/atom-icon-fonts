@@ -1,5 +1,5 @@
 {
-    ".text.html": {
+    ".source.svelte, .text.html": {
         "ai-dialer": {
             "body": "<${1:span} class=\"ai-dialer\"></${1:span}>$0",
             "description": "<span>",

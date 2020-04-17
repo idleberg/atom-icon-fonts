@@ -1,5 +1,5 @@
 {
-    ".text.html": {
+    ".source.svelte, .text.html": {
         "st-icon-addthis": {
             "body": "<${1:span} class=\"st-icon-addthis\"></${1:span}>$0",
             "description": "<span>",

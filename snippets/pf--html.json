@@ -1,5 +1,5 @@
 {
-    ".text.html": {
+    ".source.svelte, .text.html": {
         "pf-amazon": {
             "body": "<${1:span} class=\"pf pf-amazon\"></${1:span}>$0",
             "description": "<span>",

@@ -1,5 +1,5 @@
 {
-    ".text.html": {
+    ".source.svelte, .text.html": {
         "oi[data-glyph=account-login]": {
             "body": "<${1:span} class=\"oi oi[data-glyph=account-login]\"></${1:span}>$0",
             "description": "<span>",

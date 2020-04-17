@@ -1,5 +1,5 @@
 {
-    ".text.html": {
+    ".source.svelte, .text.html": {
         "el-address-book-alt": {
             "body": "<${1:i} class=\"el el-address-book-alt$2\"></${1:i}>$0",
             "description": "<i>",

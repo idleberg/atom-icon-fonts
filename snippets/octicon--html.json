@@ -1,5 +1,5 @@
 {
-    ".text.html": {
+    ".source.svelte, .text.html": {
         "octicon-alert": {
             "body": "<${1:span} class=\"octicon octicon-alert\"></${1:span}>$0",
             "description": "<span>",

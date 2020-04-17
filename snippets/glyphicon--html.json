@@ -1,5 +1,5 @@
 {
-    ".text.html": {
+    ".source.svelte, .text.html": {
         "glyphicon-asterisk": {
             "body": "<${1:span} class=\"glyphicon glyphicon-asterisk\"></${1:span}>$0",
             "description": "<span>",

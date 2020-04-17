@@ -1,5 +1,5 @@
 {
-  ".text.html": {
+  ".source.svelte, .text.html": {
     "fa-layers": {
       "body": "<${1:span} class=\"fa-layers$2\">\n\t$3\n</${1:span>$0",
       "description": "<span>",

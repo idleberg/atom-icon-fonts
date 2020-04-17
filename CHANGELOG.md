@@ -1,3 +1,7 @@
+# v3.3.0 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.3.0)
+
+- add Svelte support
+
 # v3.2.3 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.2.3)
 
 - bump Font Awesome Pro to v5.13.0

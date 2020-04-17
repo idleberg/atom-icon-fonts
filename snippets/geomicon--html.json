@@ -1,5 +1,5 @@
 {
-    ".text.html": {
+    ".source.svelte, .text.html": {
         "geomicon-bookmark:": {
             "body": "<${1:span} class=\"geomicon geomicon-bookmark:\"></${1:span}>$0",
             "description": "<span>",
