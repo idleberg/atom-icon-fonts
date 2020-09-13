@@ -681,12 +681,12 @@
             "prefix": "fas-bacon"
         },
         "fas-bacteria": {
-            "body": "content: '\\\\f959';$0",
+            "body": "content: '\\\\e059';$0",
             "description": "content",
             "prefix": "fas-bacteria"
         },
         "fas-bacterium": {
-            "body": "content: '\\\\f95a';$0",
+            "body": "content: '\\\\e05a';$0",
             "description": "content",
             "prefix": "fas-bacterium"
         },
@@ -1311,7 +1311,7 @@
             "prefix": "fas-box-open"
         },
         "fas-box-tissue": {
-            "body": "content: '\\\\f95b';$0",
+            "body": "content: '\\\\e05b';$0",
             "description": "content",
             "prefix": "fas-box-tissue"
         },
@@ -1716,7 +1716,7 @@
             "prefix": "fas-caravan"
         },
         "fas-caravan-alt": {
-            "body": "content: '\\\\f900';$0",
+            "body": "content: '\\\\e000';$0",
             "description": "content",
             "prefix": "fas-caravan-alt"
         },
@@ -1816,7 +1816,7 @@
             "prefix": "fas-cat"
         },
         "fas-cat-space": {
-            "body": "content: '\\\\f901';$0",
+            "body": "content: '\\\\e001';$0",
             "description": "content",
             "prefix": "fas-cat-space"
         },
@@ -2431,7 +2431,7 @@
             "prefix": "fas-coffee"
         },
         "fas-coffee-pot": {
-            "body": "content: '\\\\f902';$0",
+            "body": "content: '\\\\e002';$0",
             "description": "content",
             "prefix": "fas-coffee-pot"
         },
@@ -2446,7 +2446,7 @@
             "prefix": "fas-coffin"
         },
         "fas-coffin-cross": {
-            "body": "content: '\\\\f951';$0",
+            "body": "content: '\\\\e051';$0",
             "description": "content",
             "prefix": "fas-coffin-cross"
         },
@@ -2476,7 +2476,7 @@
             "prefix": "fas-columns"
         },
         "fas-comet": {
-            "body": "content: '\\\\f903';$0",
+            "body": "content: '\\\\e003';$0",
             "description": "content",
             "prefix": "fas-comet"
         },
@@ -2971,7 +2971,7 @@
             "prefix": "fas-dagger"
         },
         "fas-dailymotion": {
-            "body": "content: '\\\\f952';$0",
+            "body": "content: '\\\\e052';$0",
             "description": "content",
             "prefix": "fas-dailymotion"
         },
@@ -3004,6 +3004,11 @@
             "body": "content: '\\\\f78f';$0",
             "description": "content",
             "prefix": "fas-deer-rudolph"
+        },
+        "fas-deezer": {
+            "body": "content: '\\\\e077';$0",
+            "description": "content",
+            "prefix": "fas-deezer"
         },
         "fas-delicious": {
             "body": "content: '\\\\f1a5';$0",
@@ -3450,6 +3455,11 @@
             "description": "content",
             "prefix": "fas-edge"
         },
+        "fas-edge-legacy": {
+            "body": "content: '\\\\e078';$0",
+            "description": "content",
+            "prefix": "fas-edge-legacy"
+        },
         "fas-edit": {
             "body": "content: '\\\\f044';$0",
             "description": "content",
@@ -3721,7 +3731,7 @@
             "prefix": "fas-fan"
         },
         "fas-fan-table": {
-            "body": "content: '\\\\f904';$0",
+            "body": "content: '\\\\e004';$0",
             "description": "content",
             "prefix": "fas-fan-table"
         },
@@ -3746,12 +3756,12 @@
             "prefix": "fas-fast-forward"
         },
         "fas-faucet": {
-            "body": "content: '\\\\f905';$0",
+            "body": "content: '\\\\e005';$0",
             "description": "content",
             "prefix": "fas-faucet"
         },
         "fas-faucet-drip": {
-            "body": "content: '\\\\f906';$0",
+            "body": "content: '\\\\e006';$0",
             "description": "content",
             "prefix": "fas-faucet-drip"
         },
@@ -4046,7 +4056,7 @@
             "prefix": "fas-firefox"
         },
         "fas-firefox-browser": {
-            "body": "content: '\\\\f907';$0",
+            "body": "content: '\\\\e007';$0",
             "description": "content",
             "prefix": "fas-firefox-browser"
         },
@@ -4191,7 +4201,7 @@
             "prefix": "fas-folder"
         },
         "fas-folder-download": {
-            "body": "content: '\\\\f953';$0",
+            "body": "content: '\\\\e053';$0",
             "description": "content",
             "prefix": "fas-folder-download"
         },
@@ -4221,7 +4231,7 @@
             "prefix": "fas-folder-tree"
         },
         "fas-folder-upload": {
-            "body": "content: '\\\\f954';$0",
+            "body": "content: '\\\\e054';$0",
             "description": "content",
             "prefix": "fas-folder-upload"
         },
@@ -4381,7 +4391,7 @@
             "prefix": "fas-galactic-senate"
         },
         "fas-galaxy": {
-            "body": "content: '\\\\f908';$0",
+            "body": "content: '\\\\e008';$0",
             "description": "content",
             "prefix": "fas-galaxy"
         },
@@ -4411,17 +4421,17 @@
             "prefix": "fas-gamepad-alt"
         },
         "fas-garage": {
-            "body": "content: '\\\\f909';$0",
+            "body": "content: '\\\\e009';$0",
             "description": "content",
             "prefix": "fas-garage"
         },
         "fas-garage-car": {
-            "body": "content: '\\\\f90a';$0",
+            "body": "content: '\\\\e00a';$0",
             "description": "content",
             "prefix": "fas-garage-car"
         },
         "fas-garage-open": {
-            "body": "content: '\\\\f90b';$0",
+            "body": "content: '\\\\e00b';$0",
             "description": "content",
             "prefix": "fas-garage-open"
         },
@@ -4664,6 +4674,11 @@
             "body": "content: '\\\\f3aa';$0",
             "description": "content",
             "prefix": "fas-google-drive"
+        },
+        "fas-google-pay": {
+            "body": "content: '\\\\e079';$0",
+            "description": "content",
+            "prefix": "fas-google-pay"
         },
         "fas-google-play": {
             "body": "content: '\\\\f3ab';$0",
@@ -4931,7 +4946,7 @@
             "prefix": "fas-hand-holding-magic"
         },
         "fas-hand-holding-medical": {
-            "body": "content: '\\\\f95c';$0",
+            "body": "content: '\\\\e05c';$0",
             "description": "content",
             "prefix": "fas-hand-holding-medical"
         },
@@ -5011,7 +5026,7 @@
             "prefix": "fas-hand-scissors"
         },
         "fas-hand-sparkles": {
-            "body": "content: '\\\\f95d';$0",
+            "body": "content: '\\\\e05d';$0",
             "description": "content",
             "prefix": "fas-hand-sparkles"
         },
@@ -5041,7 +5056,7 @@
             "prefix": "fas-hands-usd"
         },
         "fas-hands-wash": {
-            "body": "content: '\\\\f95e';$0",
+            "body": "content: '\\\\e05e';$0",
             "description": "content",
             "prefix": "fas-hands-wash"
         },
@@ -5056,12 +5071,12 @@
             "prefix": "fas-handshake-alt"
         },
         "fas-handshake-alt-slash": {
-            "body": "content: '\\\\f95f';$0",
+            "body": "content: '\\\\e05f';$0",
             "description": "content",
             "prefix": "fas-handshake-alt-slash"
         },
         "fas-handshake-slash": {
-            "body": "content: '\\\\f960';$0",
+            "body": "content: '\\\\e060';$0",
             "description": "content",
             "prefix": "fas-handshake-slash"
         },
@@ -5131,12 +5146,12 @@
             "prefix": "fas-head-side-brain"
         },
         "fas-head-side-cough": {
-            "body": "content: '\\\\f961';$0",
+            "body": "content: '\\\\e061';$0",
             "description": "content",
             "prefix": "fas-head-side-cough"
         },
         "fas-head-side-cough-slash": {
-            "body": "content: '\\\\f962';$0",
+            "body": "content: '\\\\e062';$0",
             "description": "content",
             "prefix": "fas-head-side-cough-slash"
         },
@@ -5146,7 +5161,7 @@
             "prefix": "fas-head-side-headphones"
         },
         "fas-head-side-mask": {
-            "body": "content: '\\\\f963';$0",
+            "body": "content: '\\\\e063';$0",
             "description": "content",
             "prefix": "fas-head-side-mask"
         },
@@ -5156,7 +5171,7 @@
             "prefix": "fas-head-side-medical"
         },
         "fas-head-side-virus": {
-            "body": "content: '\\\\f964';$0",
+            "body": "content: '\\\\e064';$0",
             "description": "content",
             "prefix": "fas-head-side-virus"
         },
@@ -5216,7 +5231,7 @@
             "prefix": "fas-heartbeat"
         },
         "fas-heat": {
-            "body": "content: '\\\\f90c';$0",
+            "body": "content: '\\\\e00c';$0",
             "description": "content",
             "prefix": "fas-heat"
         },
@@ -5411,7 +5426,7 @@
             "prefix": "fas-hourglass-start"
         },
         "fas-house": {
-            "body": "content: '\\\\f90d';$0",
+            "body": "content: '\\\\e00d';$0",
             "description": "content",
             "prefix": "fas-house"
         },
@@ -5421,7 +5436,7 @@
             "prefix": "fas-house-damage"
         },
         "fas-house-day": {
-            "body": "content: '\\\\f90e';$0",
+            "body": "content: '\\\\e00e';$0",
             "description": "content",
             "prefix": "fas-house-day"
         },
@@ -5431,27 +5446,27 @@
             "prefix": "fas-house-flood"
         },
         "fas-house-leave": {
-            "body": "content: '\\\\f90f';$0",
+            "body": "content: '\\\\e00f';$0",
             "description": "content",
             "prefix": "fas-house-leave"
         },
         "fas-house-night": {
-            "body": "content: '\\\\f910';$0",
+            "body": "content: '\\\\e010';$0",
             "description": "content",
             "prefix": "fas-house-night"
         },
         "fas-house-return": {
-            "body": "content: '\\\\f911';$0",
+            "body": "content: '\\\\e011';$0",
             "description": "content",
             "prefix": "fas-house-return"
         },
         "fas-house-signal": {
-            "body": "content: '\\\\f912';$0",
+            "body": "content: '\\\\e012';$0",
             "description": "content",
             "prefix": "fas-house-signal"
         },
         "fas-house-user": {
-            "body": "content: '\\\\f965';$0",
+            "body": "content: '\\\\e065';$0",
             "description": "content",
             "prefix": "fas-house-user"
         },
@@ -5531,7 +5546,7 @@
             "prefix": "fas-id-card-alt"
         },
         "fas-ideal": {
-            "body": "content: '\\\\f913';$0",
+            "body": "content: '\\\\e013';$0",
             "description": "content",
             "prefix": "fas-ideal"
         },
@@ -5621,7 +5636,7 @@
             "prefix": "fas-instagram"
         },
         "fas-instagram-square": {
-            "body": "content: '\\\\f955';$0",
+            "body": "content: '\\\\e055';$0",
             "description": "content",
             "prefix": "fas-instagram-square"
         },
@@ -5876,12 +5891,12 @@
             "prefix": "fas-lamp"
         },
         "fas-lamp-desk": {
-            "body": "content: '\\\\f914';$0",
+            "body": "content: '\\\\e014';$0",
             "description": "content",
             "prefix": "fas-lamp-desk"
         },
         "fas-lamp-floor": {
-            "body": "content: '\\\\f915';$0",
+            "body": "content: '\\\\e015';$0",
             "description": "content",
             "prefix": "fas-lamp-floor"
         },
@@ -5911,7 +5926,7 @@
             "prefix": "fas-laptop-code"
         },
         "fas-laptop-house": {
-            "body": "content: '\\\\f966';$0",
+            "body": "content: '\\\\e066';$0",
             "description": "content",
             "prefix": "fas-laptop-house"
         },
@@ -6046,22 +6061,22 @@
             "prefix": "fas-life-ring"
         },
         "fas-light-ceiling": {
-            "body": "content: '\\\\f916';$0",
+            "body": "content: '\\\\e016';$0",
             "description": "content",
             "prefix": "fas-light-ceiling"
         },
         "fas-light-switch": {
-            "body": "content: '\\\\f917';$0",
+            "body": "content: '\\\\e017';$0",
             "description": "content",
             "prefix": "fas-light-switch"
         },
         "fas-light-switch-off": {
-            "body": "content: '\\\\f918';$0",
+            "body": "content: '\\\\e018';$0",
             "description": "content",
             "prefix": "fas-light-switch-off"
         },
         "fas-light-switch-on": {
-            "body": "content: '\\\\f919';$0",
+            "body": "content: '\\\\e019';$0",
             "description": "content",
             "prefix": "fas-light-switch-on"
         },
@@ -6276,7 +6291,7 @@
             "prefix": "fas-lungs"
         },
         "fas-lungs-virus": {
-            "body": "content: '\\\\f967';$0",
+            "body": "content: '\\\\e067';$0",
             "description": "content",
             "prefix": "fas-lungs-virus"
         },
@@ -6566,7 +6581,7 @@
             "prefix": "fas-meteor"
         },
         "fas-microblog": {
-            "body": "content: '\\\\f91a';$0",
+            "body": "content: '\\\\e01a';$0",
             "description": "content",
             "prefix": "fas-microblog"
         },
@@ -6611,7 +6626,7 @@
             "prefix": "fas-microsoft"
         },
         "fas-microwave": {
-            "body": "content: '\\\\f91b';$0",
+            "body": "content: '\\\\e01b';$0",
             "description": "content",
             "prefix": "fas-microwave"
         },
@@ -6666,7 +6681,7 @@
             "prefix": "fas-mixcloud"
         },
         "fas-mixer": {
-            "body": "content: '\\\\f956';$0",
+            "body": "content: '\\\\e056';$0",
             "description": "content",
             "prefix": "fas-mixer"
         },
@@ -7026,12 +7041,12 @@
             "prefix": "fas-outdent"
         },
         "fas-outlet": {
-            "body": "content: '\\\\f91c';$0",
+            "body": "content: '\\\\e01c';$0",
             "description": "content",
             "prefix": "fas-outlet"
         },
         "fas-oven": {
-            "body": "content: '\\\\f91d';$0",
+            "body": "content: '\\\\e01d';$0",
             "description": "content",
             "prefix": "fas-oven"
         },
@@ -7256,7 +7271,7 @@
             "prefix": "fas-penny-arcade"
         },
         "fas-people-arrows": {
-            "body": "content: '\\\\f968';$0",
+            "body": "content: '\\\\e068';$0",
             "description": "content",
             "prefix": "fas-people-arrows"
         },
@@ -7426,7 +7441,7 @@
             "prefix": "fas-pied-piper-pp"
         },
         "fas-pied-piper-square": {
-            "body": "content: '\\\\f91e';$0",
+            "body": "content: '\\\\e01e';$0",
             "description": "content",
             "prefix": "fas-pied-piper-square"
         },
@@ -7496,17 +7511,17 @@
             "prefix": "fas-plane-departure"
         },
         "fas-plane-slash": {
-            "body": "content: '\\\\f969';$0",
+            "body": "content: '\\\\e069';$0",
             "description": "content",
             "prefix": "fas-plane-slash"
         },
         "fas-planet-moon": {
-            "body": "content: '\\\\f91f';$0",
+            "body": "content: '\\\\e01f';$0",
             "description": "content",
             "prefix": "fas-planet-moon"
         },
         "fas-planet-ringed": {
-            "body": "content: '\\\\f920';$0",
+            "body": "content: '\\\\e020';$0",
             "description": "content",
             "prefix": "fas-planet-ringed"
         },
@@ -7571,7 +7586,7 @@
             "prefix": "fas-podium-star"
         },
         "fas-police-box": {
-            "body": "content: '\\\\f921';$0",
+            "body": "content: '\\\\e021';$0",
             "description": "content",
             "prefix": "fas-police-box"
         },
@@ -7611,12 +7626,12 @@
             "prefix": "fas-popcorn"
         },
         "fas-portal-enter": {
-            "body": "content: '\\\\f922';$0",
+            "body": "content: '\\\\e022';$0",
             "description": "content",
             "prefix": "fas-portal-enter"
         },
         "fas-portal-exit": {
-            "body": "content: '\\\\f923';$0",
+            "body": "content: '\\\\e023';$0",
             "description": "content",
             "prefix": "fas-portal-exit"
         },
@@ -7701,12 +7716,12 @@
             "prefix": "fas-projector"
         },
         "fas-pump-medical": {
-            "body": "content: '\\\\f96a';$0",
+            "body": "content: '\\\\e06a';$0",
             "description": "content",
             "prefix": "fas-pump-medical"
         },
         "fas-pump-soap": {
-            "body": "content: '\\\\f96b';$0",
+            "body": "content: '\\\\e06b';$0",
             "description": "content",
             "prefix": "fas-pump-soap"
         },
@@ -7806,7 +7821,7 @@
             "prefix": "fas-racquet"
         },
         "fas-radar": {
-            "body": "content: '\\\\f924';$0",
+            "body": "content: '\\\\e024';$0",
             "description": "content",
             "prefix": "fas-radar"
         },
@@ -7866,7 +7881,7 @@
             "prefix": "fas-ravelry"
         },
         "fas-raygun": {
-            "body": "content: '\\\\f925';$0",
+            "body": "content: '\\\\e025';$0",
             "description": "content",
             "prefix": "fas-raygun"
         },
@@ -7956,7 +7971,7 @@
             "prefix": "fas-redo-alt"
         },
         "fas-refrigerator": {
-            "body": "content: '\\\\f926';$0",
+            "body": "content: '\\\\e026';$0",
             "description": "content",
             "prefix": "fas-refrigerator"
         },
@@ -8076,7 +8091,7 @@
             "prefix": "fas-rocket"
         },
         "fas-rocket-launch": {
-            "body": "content: '\\\\f927';$0",
+            "body": "content: '\\\\e027';$0",
             "description": "content",
             "prefix": "fas-rocket-launch"
         },
@@ -8159,6 +8174,11 @@
             "body": "content: '\\\\f156';$0",
             "description": "content",
             "prefix": "fas-rupee-sign"
+        },
+        "fas-rust": {
+            "body": "content: '\\\\e07a';$0",
+            "description": "content",
+            "prefix": "fas-rust"
         },
         "fas-rv": {
             "body": "content: '\\\\f7be';$0",
@@ -8381,27 +8401,27 @@
             "prefix": "fas-send-backward"
         },
         "fas-sensor": {
-            "body": "content: '\\\\f928';$0",
+            "body": "content: '\\\\e028';$0",
             "description": "content",
             "prefix": "fas-sensor"
         },
         "fas-sensor-alert": {
-            "body": "content: '\\\\f929';$0",
+            "body": "content: '\\\\e029';$0",
             "description": "content",
             "prefix": "fas-sensor-alert"
         },
         "fas-sensor-fire": {
-            "body": "content: '\\\\f92a';$0",
+            "body": "content: '\\\\e02a';$0",
             "description": "content",
             "prefix": "fas-sensor-fire"
         },
         "fas-sensor-on": {
-            "body": "content: '\\\\f92b';$0",
+            "body": "content: '\\\\e02b';$0",
             "description": "content",
             "prefix": "fas-sensor-on"
         },
         "fas-sensor-smoke": {
-            "body": "content: '\\\\f92c';$0",
+            "body": "content: '\\\\e02c';$0",
             "description": "content",
             "prefix": "fas-sensor-smoke"
         },
@@ -8476,7 +8496,7 @@
             "prefix": "fas-shield-cross"
         },
         "fas-shield-virus": {
-            "body": "content: '\\\\f96c';$0",
+            "body": "content: '\\\\e06c';$0",
             "description": "content",
             "prefix": "fas-shield-virus"
         },
@@ -8511,7 +8531,7 @@
             "prefix": "fas-shoe-prints"
         },
         "fas-shopify": {
-            "body": "content: '\\\\f957';$0",
+            "body": "content: '\\\\e057';$0",
             "description": "content",
             "prefix": "fas-shopify"
         },
@@ -8681,17 +8701,17 @@
             "prefix": "fas-simplybuilt"
         },
         "fas-sink": {
-            "body": "content: '\\\\f96d';$0",
+            "body": "content: '\\\\e06d';$0",
             "description": "content",
             "prefix": "fas-sink"
         },
         "fas-siren": {
-            "body": "content: '\\\\f92d';$0",
+            "body": "content: '\\\\e02d';$0",
             "description": "content",
             "prefix": "fas-siren"
         },
         "fas-siren-on": {
-            "body": "content: '\\\\f92e';$0",
+            "body": "content: '\\\\e02e';$0",
             "description": "content",
             "prefix": "fas-siren-on"
         },
@@ -8926,7 +8946,7 @@
             "prefix": "fas-snowplow"
         },
         "fas-soap": {
-            "body": "content: '\\\\f96e';$0",
+            "body": "content: '\\\\e06e';$0",
             "description": "content",
             "prefix": "fas-soap"
         },
@@ -8941,7 +8961,7 @@
             "prefix": "fas-solar-panel"
         },
         "fas-solar-system": {
-            "body": "content: '\\\\f92f';$0",
+            "body": "content: '\\\\e02f';$0",
             "description": "content",
             "prefix": "fas-solar-system"
         },
@@ -8996,17 +9016,17 @@
             "prefix": "fas-sort-amount-up-alt"
         },
         "fas-sort-circle": {
-            "body": "content: '\\\\f930';$0",
+            "body": "content: '\\\\e030';$0",
             "description": "content",
             "prefix": "fas-sort-circle"
         },
         "fas-sort-circle-down": {
-            "body": "content: '\\\\f931';$0",
+            "body": "content: '\\\\e031';$0",
             "description": "content",
             "prefix": "fas-sort-circle-down"
         },
         "fas-sort-circle-up": {
-            "body": "content: '\\\\f932';$0",
+            "body": "content: '\\\\e032';$0",
             "description": "content",
             "prefix": "fas-sort-circle-up"
         },
@@ -9106,12 +9126,12 @@
             "prefix": "fas-space-shuttle"
         },
         "fas-space-station-moon": {
-            "body": "content: '\\\\f933';$0",
+            "body": "content: '\\\\e033';$0",
             "description": "content",
             "prefix": "fas-space-station-moon"
         },
         "fas-space-station-moon-alt": {
-            "body": "content: '\\\\f934';$0",
+            "body": "content: '\\\\e034';$0",
             "description": "content",
             "prefix": "fas-space-station-moon-alt"
         },
@@ -9191,7 +9211,7 @@
             "prefix": "fas-spray-can"
         },
         "fas-sprinkler": {
-            "body": "content: '\\\\f935';$0",
+            "body": "content: '\\\\e035';$0",
             "description": "content",
             "prefix": "fas-sprinkler"
         },
@@ -9291,17 +9311,17 @@
             "prefix": "fas-star-of-life"
         },
         "fas-star-shooting": {
-            "body": "content: '\\\\f936';$0",
+            "body": "content: '\\\\e036';$0",
             "description": "content",
             "prefix": "fas-star-shooting"
         },
         "fas-starfighter": {
-            "body": "content: '\\\\f937';$0",
+            "body": "content: '\\\\e037';$0",
             "description": "content",
             "prefix": "fas-starfighter"
         },
         "fas-starfighter-alt": {
-            "body": "content: '\\\\f938';$0",
+            "body": "content: '\\\\e038';$0",
             "description": "content",
             "prefix": "fas-starfighter-alt"
         },
@@ -9311,12 +9331,12 @@
             "prefix": "fas-stars"
         },
         "fas-starship": {
-            "body": "content: '\\\\f939';$0",
+            "body": "content: '\\\\e039';$0",
             "description": "content",
             "prefix": "fas-starship"
         },
         "fas-starship-freighter": {
-            "body": "content: '\\\\f93a';$0",
+            "body": "content: '\\\\e03a';$0",
             "description": "content",
             "prefix": "fas-starship-freighter"
         },
@@ -9401,7 +9421,7 @@
             "prefix": "fas-stopwatch"
         },
         "fas-stopwatch-20": {
-            "body": "content: '\\\\f96f';$0",
+            "body": "content: '\\\\e06f';$0",
             "description": "content",
             "prefix": "fas-stopwatch-20"
         },
@@ -9416,12 +9436,12 @@
             "prefix": "fas-store-alt"
         },
         "fas-store-alt-slash": {
-            "body": "content: '\\\\f970';$0",
+            "body": "content: '\\\\e070';$0",
             "description": "content",
             "prefix": "fas-store-alt-slash"
         },
         "fas-store-slash": {
-            "body": "content: '\\\\f971';$0",
+            "body": "content: '\\\\e071';$0",
             "description": "content",
             "prefix": "fas-store-slash"
         },
@@ -9586,12 +9606,12 @@
             "prefix": "fas-sword"
         },
         "fas-sword-laser": {
-            "body": "content: '\\\\f93b';$0",
+            "body": "content: '\\\\e03b';$0",
             "description": "content",
             "prefix": "fas-sword-laser"
         },
         "fas-sword-laser-alt": {
-            "body": "content: '\\\\f93c';$0",
+            "body": "content: '\\\\e03c';$0",
             "description": "content",
             "prefix": "fas-sword-laser-alt"
         },
@@ -9601,7 +9621,7 @@
             "prefix": "fas-swords"
         },
         "fas-swords-laser": {
-            "body": "content: '\\\\f93d';$0",
+            "body": "content: '\\\\e03d';$0",
             "description": "content",
             "prefix": "fas-swords-laser"
         },
@@ -9801,12 +9821,12 @@
             "prefix": "fas-telegram-plane"
         },
         "fas-telescope": {
-            "body": "content: '\\\\f93e';$0",
+            "body": "content: '\\\\e03e';$0",
             "description": "content",
             "prefix": "fas-telescope"
         },
         "fas-temperature-down": {
-            "body": "content: '\\\\f93f';$0",
+            "body": "content: '\\\\e03f';$0",
             "description": "content",
             "prefix": "fas-temperature-down"
         },
@@ -9831,7 +9851,7 @@
             "prefix": "fas-temperature-low"
         },
         "fas-temperature-up": {
-            "body": "content: '\\\\f940';$0",
+            "body": "content: '\\\\e040';$0",
             "description": "content",
             "prefix": "fas-temperature-up"
         },
@@ -9990,6 +10010,11 @@
             "description": "content",
             "prefix": "fas-ticket-alt"
         },
+        "fas-tiktok": {
+            "body": "content: '\\\\e07b';$0",
+            "description": "content",
+            "prefix": "fas-tiktok"
+        },
         "fas-tilde": {
             "body": "content: '\\\\f69f';$0",
             "description": "content",
@@ -10081,7 +10106,7 @@
             "prefix": "fas-toilet-paper-alt"
         },
         "fas-toilet-paper-slash": {
-            "body": "content: '\\\\f972';$0",
+            "body": "content: '\\\\e072';$0",
             "description": "content",
             "prefix": "fas-toilet-paper-slash"
         },
@@ -10171,7 +10196,7 @@
             "prefix": "fas-traffic-light-stop"
         },
         "fas-trailer": {
-            "body": "content: '\\\\f941';$0",
+            "body": "content: '\\\\e041';$0",
             "description": "content",
             "prefix": "fas-trailer"
         },
@@ -10196,27 +10221,27 @@
             "prefix": "fas-transgender-alt"
         },
         "fas-transporter": {
-            "body": "content: '\\\\f942';$0",
+            "body": "content: '\\\\e042';$0",
             "description": "content",
             "prefix": "fas-transporter"
         },
         "fas-transporter-1": {
-            "body": "content: '\\\\f943';$0",
+            "body": "content: '\\\\e043';$0",
             "description": "content",
             "prefix": "fas-transporter-1"
         },
         "fas-transporter-2": {
-            "body": "content: '\\\\f944';$0",
+            "body": "content: '\\\\e044';$0",
             "description": "content",
             "prefix": "fas-transporter-2"
         },
         "fas-transporter-3": {
-            "body": "content: '\\\\f945';$0",
+            "body": "content: '\\\\e045';$0",
             "description": "content",
             "prefix": "fas-transporter-3"
         },
         "fas-transporter-empty": {
-            "body": "content: '\\\\f946';$0",
+            "body": "content: '\\\\e046';$0",
             "description": "content",
             "prefix": "fas-transporter-empty"
         },
@@ -10461,12 +10486,12 @@
             "prefix": "fas-ubuntu"
         },
         "fas-ufo": {
-            "body": "content: '\\\\f947';$0",
+            "body": "content: '\\\\e047';$0",
             "description": "content",
             "prefix": "fas-ufo"
         },
         "fas-ufo-beam": {
-            "body": "content: '\\\\f948';$0",
+            "body": "content: '\\\\e048';$0",
             "description": "content",
             "prefix": "fas-ufo-beam"
         },
@@ -10521,7 +10546,7 @@
             "prefix": "fas-uniregistry"
         },
         "fas-unity": {
-            "body": "content: '\\\\f949';$0",
+            "body": "content: '\\\\e049';$0",
             "description": "content",
             "prefix": "fas-unity"
         },
@@ -10549,6 +10574,11 @@
             "body": "content: '\\\\f13e';$0",
             "description": "content",
             "prefix": "fas-unlock-alt"
+        },
+        "fas-unsplash": {
+            "body": "content: '\\\\e07c';$0",
+            "description": "content",
+            "prefix": "fas-unsplash"
         },
         "fas-untappd": {
             "body": "content: '\\\\f405';$0",
@@ -10591,7 +10621,7 @@
             "prefix": "fas-user"
         },
         "fas-user-alien": {
-            "body": "content: '\\\\f94a';$0",
+            "body": "content: '\\\\e04a';$0",
             "description": "content",
             "prefix": "fas-user-alien"
         },
@@ -10716,7 +10746,7 @@
             "prefix": "fas-user-plus"
         },
         "fas-user-robot": {
-            "body": "content: '\\\\f94b';$0",
+            "body": "content: '\\\\e04b';$0",
             "description": "content",
             "prefix": "fas-user-robot"
         },
@@ -10751,12 +10781,12 @@
             "prefix": "fas-user-times"
         },
         "fas-user-unlock": {
-            "body": "content: '\\\\f958';$0",
+            "body": "content: '\\\\e058';$0",
             "description": "content",
             "prefix": "fas-user-unlock"
         },
         "fas-user-visor": {
-            "body": "content: '\\\\f94c';$0",
+            "body": "content: '\\\\e04c';$0",
             "description": "content",
             "prefix": "fas-user-visor"
         },
@@ -10786,7 +10816,7 @@
             "prefix": "fas-users-medical"
         },
         "fas-users-slash": {
-            "body": "content: '\\\\f973';$0",
+            "body": "content: '\\\\e073';$0",
             "description": "content",
             "prefix": "fas-users-slash"
         },
@@ -10831,12 +10861,12 @@
             "prefix": "fas-vaadin"
         },
         "fas-vacuum": {
-            "body": "content: '\\\\f94d';$0",
+            "body": "content: '\\\\e04d';$0",
             "description": "content",
             "prefix": "fas-vacuum"
         },
         "fas-vacuum-robot": {
-            "body": "content: '\\\\f94e';$0",
+            "body": "content: '\\\\e04e';$0",
             "description": "content",
             "prefix": "fas-vacuum-robot"
         },
@@ -10946,17 +10976,17 @@
             "prefix": "fas-violin"
         },
         "fas-virus": {
-            "body": "content: '\\\\f974';$0",
+            "body": "content: '\\\\e074';$0",
             "description": "content",
             "prefix": "fas-virus"
         },
         "fas-virus-slash": {
-            "body": "content: '\\\\f975';$0",
+            "body": "content: '\\\\e075';$0",
             "description": "content",
             "prefix": "fas-virus-slash"
         },
         "fas-viruses": {
-            "body": "content: '\\\\f976';$0",
+            "body": "content: '\\\\e076';$0",
             "description": "content",
             "prefix": "fas-viruses"
         },
@@ -11271,12 +11301,12 @@
             "prefix": "fas-window-close"
         },
         "fas-window-frame": {
-            "body": "content: '\\\\f94f';$0",
+            "body": "content: '\\\\e04f';$0",
             "description": "content",
             "prefix": "fas-window-frame"
         },
         "fas-window-frame-open": {
-            "body": "content: '\\\\f950';$0",
+            "body": "content: '\\\\e050';$0",
             "description": "content",
             "prefix": "fas-window-frame-open"
         },

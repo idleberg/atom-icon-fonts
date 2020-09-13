@@ -1,3 +1,9 @@
+# v3.3.1 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.3.1)
+
+- bump Font Awesome to v5.14.0
+- bump Material Design Icons to v5.5.55
+- update dependencies
+
 # v3.3.0 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.3.0)
 
 - add Svelte support
