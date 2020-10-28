@@ -1,3 +1,7 @@
+# v3.4.0 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.4.0)
+
+- add RemixIcon support
+
 # v3.3.1 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.3.1)
 
 - bump Font Awesome to v5.14.0
