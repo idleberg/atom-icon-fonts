@@ -1,4 +1,4 @@
-# v3.5.0 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.4.0)
+# v3.5.0 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.5.0)
 
 - move Foundation Icons to [legacy package](https://github.com/idleberg/atom-icon-fonts-legacy)
 - move Geomicons to [legacy package](https://github.com/idleberg/atom-icon-fonts-legacy)
