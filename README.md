@@ -72,9 +72,7 @@ This work is licensed under the [The MIT License](LICENSE.md).
 [devicons]: https://github.com/vorillaz/devicons
 [el]: https://github.com/reduxframework/Elusive-Icons
 [fa]: https://github.com/FortAwesome/Font-Awesome-Pro
-[fi]: https://github.com/zurb/foundation-icons
 [fl]: https://github.com/Lukas-W/font-linux
-[geomicon]: https://github.com/jxnblk/geomicons-open
 [glyphicon]: https://github.com/twbs/bootstrap/tree/v3.3.7
 [icono]: https://github.com/saeedalipoor/icono
 [ion]: https://github.com/driftyco/ionicons
