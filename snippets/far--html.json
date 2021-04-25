@@ -55,11 +55,6 @@
             "description": "<i>",
             "prefix": "far-adn"
         },
-        "far-adobe": {
-            "body": "<${1:i} class=\"far fa-adobe$2\"></${1:i}>$0",
-            "description": "<i>",
-            "prefix": "far-adobe"
-        },
         "far-adversal": {
             "body": "<${1:i} class=\"far fa-adversal$2\"></${1:i}>$0",
             "description": "<i>",
@@ -2354,6 +2349,11 @@
             "body": "<${1:i} class=\"far fa-cloud-upload-alt$2\"></${1:i}>$0",
             "description": "<i>",
             "prefix": "far-cloud-upload-alt"
+        },
+        "far-cloudflare": {
+            "body": "<${1:i} class=\"far fa-cloudflare$2\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "far-cloudflare"
         },
         "far-clouds": {
             "body": "<${1:i} class=\"far fa-clouds$2\"></${1:i}>$0",
@@ -4840,6 +4840,11 @@
             "description": "<i>",
             "prefix": "far-grunt"
         },
+        "far-guilded": {
+            "body": "<${1:i} class=\"far fa-guilded$2\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "far-guilded"
+        },
         "far-guitar": {
             "body": "<${1:i} class=\"far fa-guitar$2\"></${1:i}>$0",
             "description": "<i>",
@@ -5280,6 +5285,11 @@
             "description": "<i>",
             "prefix": "far-history"
         },
+        "far-hive": {
+            "body": "<${1:i} class=\"far fa-hive$2\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "far-hive"
+        },
         "far-hockey-mask": {
             "body": "<${1:i} class=\"far fa-hockey-mask$2\"></${1:i}>$0",
             "description": "<i>",
@@ -5630,6 +5640,11 @@
             "description": "<i>",
             "prefix": "far-inhaler"
         },
+        "far-innosoft": {
+            "body": "<${1:i} class=\"far fa-innosoft$2\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "far-innosoft"
+        },
         "far-instagram": {
             "body": "<${1:i} class=\"far fa-instagram$2\"></${1:i}>$0",
             "description": "<i>",
@@ -5639,6 +5654,11 @@
             "body": "<${1:i} class=\"far fa-instagram-square$2\"></${1:i}>$0",
             "description": "<i>",
             "prefix": "far-instagram-square"
+        },
+        "far-instalod": {
+            "body": "<${1:i} class=\"far fa-instalod$2\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "far-instalod"
         },
         "far-integral": {
             "body": "<${1:i} class=\"far fa-integral$2\"></${1:i}>$0",
@@ -6960,6 +6980,11 @@
             "description": "<i>",
             "prefix": "far-octagon"
         },
+        "far-octopus-deploy": {
+            "body": "<${1:i} class=\"far fa-octopus-deploy$2\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "far-octopus-deploy"
+        },
         "far-odnoklassniki": {
             "body": "<${1:i} class=\"far fa-odnoklassniki$2\"></${1:i}>$0",
             "description": "<i>",
@@ -7284,6 +7309,11 @@
             "body": "<${1:i} class=\"far fa-pepper-hot$2\"></${1:i}>$0",
             "description": "<i>",
             "prefix": "far-pepper-hot"
+        },
+        "far-perbyte": {
+            "body": "<${1:i} class=\"far fa-perbyte$2\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "far-perbyte"
         },
         "far-percent": {
             "body": "<${1:i} class=\"far fa-percent$2\"></${1:i}>$0",
@@ -10515,6 +10545,11 @@
             "description": "<i>",
             "prefix": "far-umbrella-beach"
         },
+        "far-uncharted": {
+            "body": "<${1:i} class=\"far fa-uncharted$2\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "far-uncharted"
+        },
         "far-underline": {
             "body": "<${1:i} class=\"far fa-underline$2\"></${1:i}>$0",
             "description": "<i>",
@@ -10895,6 +10930,16 @@
             "description": "<i>",
             "prefix": "far-venus-mars"
         },
+        "far-vest": {
+            "body": "<${1:i} class=\"far fa-vest$2\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "far-vest"
+        },
+        "far-vest-patches": {
+            "body": "<${1:i} class=\"far fa-vest-patches$2\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "far-vest-patches"
+        },
         "far-vhs": {
             "body": "<${1:i} class=\"far fa-vhs$2\"></${1:i}>$0",
             "description": "<i>",
@@ -11130,6 +11175,11 @@
             "description": "<i>",
             "prefix": "far-watch-fitness"
         },
+        "far-watchman-monitoring": {
+            "body": "<${1:i} class=\"far fa-watchman-monitoring$2\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "far-watchman-monitoring"
+        },
         "far-water": {
             "body": "<${1:i} class=\"far fa-water$2\"></${1:i}>$0",
             "description": "<i>",
@@ -11359,6 +11409,11 @@
             "body": "<${1:i} class=\"far fa-wizards-of-the-coast$2\"></${1:i}>$0",
             "description": "<i>",
             "prefix": "far-wizards-of-the-coast"
+        },
+        "far-wodu": {
+            "body": "<${1:i} class=\"far fa-wodu$2\"></${1:i}>$0",
+            "description": "<i>",
+            "prefix": "far-wodu"
         },
         "far-wolf-pack-battalion": {
             "body": "<${1:i} class=\"far fa-wolf-pack-battalion$2\"></${1:i}>$0",

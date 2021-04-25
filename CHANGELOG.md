@@ -1,3 +1,12 @@
+# v3.5.0 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.4.0)
+
+- move Foundation Icons to [legacy package](https://github.com/idleberg/atom-icon-fonts)
+- move Geomicons to [legacy package](https://github.com/idleberg/atom-icon-fonts)
+- bump Font Awesome to v5.15.3
+- bump Material Design Icons to 5.9.55
+- bump Typicons to 2.1.1
+- bump Weather Icons to 2.0.12 
+
 # v3.4.0 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.4.0)
 
 - add RemixIcon support

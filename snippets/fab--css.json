@@ -55,11 +55,6 @@
             "description": "content",
             "prefix": "fab-adn"
         },
-        "fab-adobe": {
-            "body": "content: '\\\\f778';$0",
-            "description": "content",
-            "prefix": "fab-adobe"
-        },
         "fab-adversal": {
             "body": "content: '\\\\f36a';$0",
             "description": "content",
@@ -2354,6 +2349,11 @@
             "body": "content: '\\\\f382';$0",
             "description": "content",
             "prefix": "fab-cloud-upload-alt"
+        },
+        "fab-cloudflare": {
+            "body": "content: '\\\\e07d';$0",
+            "description": "content",
+            "prefix": "fab-cloudflare"
         },
         "fab-clouds": {
             "body": "content: '\\\\f744';$0",
@@ -4840,6 +4840,11 @@
             "description": "content",
             "prefix": "fab-grunt"
         },
+        "fab-guilded": {
+            "body": "content: '\\\\e07e';$0",
+            "description": "content",
+            "prefix": "fab-guilded"
+        },
         "fab-guitar": {
             "body": "content: '\\\\f7a6';$0",
             "description": "content",
@@ -5280,6 +5285,11 @@
             "description": "content",
             "prefix": "fab-history"
         },
+        "fab-hive": {
+            "body": "content: '\\\\e07f';$0",
+            "description": "content",
+            "prefix": "fab-hive"
+        },
         "fab-hockey-mask": {
             "body": "content: '\\\\f6ee';$0",
             "description": "content",
@@ -5630,6 +5640,11 @@
             "description": "content",
             "prefix": "fab-inhaler"
         },
+        "fab-innosoft": {
+            "body": "content: '\\\\e080';$0",
+            "description": "content",
+            "prefix": "fab-innosoft"
+        },
         "fab-instagram": {
             "body": "content: '\\\\f16d';$0",
             "description": "content",
@@ -5639,6 +5654,11 @@
             "body": "content: '\\\\e055';$0",
             "description": "content",
             "prefix": "fab-instagram-square"
+        },
+        "fab-instalod": {
+            "body": "content: '\\\\e081';$0",
+            "description": "content",
+            "prefix": "fab-instalod"
         },
         "fab-integral": {
             "body": "content: '\\\\f667';$0",
@@ -6960,6 +6980,11 @@
             "description": "content",
             "prefix": "fab-octagon"
         },
+        "fab-octopus-deploy": {
+            "body": "content: '\\\\e082';$0",
+            "description": "content",
+            "prefix": "fab-octopus-deploy"
+        },
         "fab-odnoklassniki": {
             "body": "content: '\\\\f263';$0",
             "description": "content",
@@ -7284,6 +7309,11 @@
             "body": "content: '\\\\f816';$0",
             "description": "content",
             "prefix": "fab-pepper-hot"
+        },
+        "fab-perbyte": {
+            "body": "content: '\\\\e083';$0",
+            "description": "content",
+            "prefix": "fab-perbyte"
         },
         "fab-percent": {
             "body": "content: '\\\\f295';$0",
@@ -10515,6 +10545,11 @@
             "description": "content",
             "prefix": "fab-umbrella-beach"
         },
+        "fab-uncharted": {
+            "body": "content: '\\\\e084';$0",
+            "description": "content",
+            "prefix": "fab-uncharted"
+        },
         "fab-underline": {
             "body": "content: '\\\\f0cd';$0",
             "description": "content",
@@ -10895,6 +10930,16 @@
             "description": "content",
             "prefix": "fab-venus-mars"
         },
+        "fab-vest": {
+            "body": "content: '\\\\e085';$0",
+            "description": "content",
+            "prefix": "fab-vest"
+        },
+        "fab-vest-patches": {
+            "body": "content: '\\\\e086';$0",
+            "description": "content",
+            "prefix": "fab-vest-patches"
+        },
         "fab-vhs": {
             "body": "content: '\\\\f8ec';$0",
             "description": "content",
@@ -11130,6 +11175,11 @@
             "description": "content",
             "prefix": "fab-watch-fitness"
         },
+        "fab-watchman-monitoring": {
+            "body": "content: '\\\\e087';$0",
+            "description": "content",
+            "prefix": "fab-watchman-monitoring"
+        },
         "fab-water": {
             "body": "content: '\\\\f773';$0",
             "description": "content",
@@ -11359,6 +11409,11 @@
             "body": "content: '\\\\f730';$0",
             "description": "content",
             "prefix": "fab-wizards-of-the-coast"
+        },
+        "fab-wodu": {
+            "body": "content: '\\\\e088';$0",
+            "description": "content",
+            "prefix": "fab-wodu"
         },
         "fab-wolf-pack-battalion": {
             "body": "content: '\\\\f514';$0",

@@ -34,14 +34,12 @@ Snippets are limited to the `.text.html`, `source.(css|less|sass|scss|stylus)` a
 | `dashicons`       | [WordPress Dashicons][dashicons]        | –       |
 | `devicons`        | [Devicons][devicons]                    | 1.8.0   |
 | `el`              | [Elusive Icons][el]                     | 2.0.0   |
-| `fas`,`far`,`fab` | [Font Awesome Pro][fa]                  | 5.14.0  |
-| `fi`              | [Foundation Icons][fi]                  | 3.0     |
+| `fas`,`far`,`fab` | [Font Awesome Pro][fa]                  | 5.15.3  |
 | `fl`              | [Font Logos][fl]                        | 0.12    |
-| `geomicon`        | [Geomicons Open][geomicon]              | 2.0.0   |
 | `glyphicon`       | [Bootstrap Glyphicons][glyphicon]       | 3.3.7   |
 | `icono`           | [Icono][icono]                          | 1.3.0   |
 | `ion`             | [Ionicons][ion]                         | 2.0.1   |
-| `mdi`             | [Material Design Icons][mdi]            | 5.5.55  |
+| `mdi`             | [Material Design Icons][mdi]            | 5.9.55  |
 | `mfg`             | [MFG Labs Iconset][mfg]                 | –       |
 | `mfizz`           | [Font Mfizz][mfizz]                     | 2.4.1   |
 | `mio`             | [Material Design Icons (Official)][mio] | 3.0.1   |
@@ -51,8 +49,8 @@ Snippets are limited to the `.text.html`, `source.(css|less|sass|scss|stylus)` a
 | `pf`              | [PaymentFont][pf]                       | 1.2.5   |
 | `ri`              | [RemixIcon][ri]                         | 2.5.0   |
 | `st`              | [Stack Icons][st]                       | 1.0.0   |
-| `typcn`           | [Typicons][typcn]                       | 2.0.7   |
-| `wi`              | [Weather Icons][wi]                     | 2.0.10  |
+| `typcn`           | [Typicons][typcn]                       | 2.1.1   |
+| `wi`              | [Weather Icons][wi]                     | 2.0.12  |
 | `zmdi`            | [Material Design Iconic Font][zmdi]     | 2.2.0   |
 
 ⚠️ Several previously supported fonts have been removed and are now available in the [SVG icons](https://github.com/idleberg/atom-svg-icons) package or the icon fonts [legacy package](https://github.com/idleberg/atom-icon-fonts-legacy).
