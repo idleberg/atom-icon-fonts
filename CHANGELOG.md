@@ -6,7 +6,7 @@
 - bump Material Design Icons to 5.9.55
 - bump Typicons to 2.1.1
 - bump Weather Icons to 2.0.12
-- updatel linting scripts
+- update linting scripts
 
 # v3.4.0 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.4.0)
 
