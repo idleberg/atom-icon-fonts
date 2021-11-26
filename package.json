@@ -32,11 +32,6 @@
     "test": "npm run lint",
     "prepare": "husky install"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
   "lint-staged": {
     "*.json": "jsonlint --quiet"
   },
