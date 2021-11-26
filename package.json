@@ -22,14 +22,15 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "devDependencies": {
-    "husky": ">=4 <5",
+    "husky": "^7.0.0",
     "jsonlint": "^1.6.3",
     "lint-staged": "^10.5.4"
   },
   "scripts": {
     "build": "cd tools && yarn",
     "lint": "jsonlint snippets/*.json --quiet",
-    "test": "npm run lint"
+    "test": "npm run lint",
+    "prepare": "husky install"
   },
   "husky": {
     "hooks": {

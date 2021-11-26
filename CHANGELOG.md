@@ -1,3 +1,8 @@
+# v3.5.1 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.5.1)
+
+- bump Font Icons to v0.18
+- upgrade husky
+
 # v3.5.0 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.5.0)
 
 - move Foundation Icons to [legacy package](https://github.com/idleberg/atom-icon-fonts-legacy)
