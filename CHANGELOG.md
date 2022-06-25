@@ -2,6 +2,7 @@
 
 - bump Material Design Icons to v6.7.96
 - replace JSON linter
+- update dependencies
 
 # v3.5.1 [#](https://github.com/idleberg/atom-icon-fonts/releases/tag/v3.5.1)
 
